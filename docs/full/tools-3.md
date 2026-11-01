@@ -1,7 +1,61 @@
-# Tools & Integrations — 2311 entries (part 3/3)
+# Tools & Integrations — 2365 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Kindlylol/dsh-tray-launcher](https://github.com/Kindlylol/dsh-tray-launcher) — A lightweight Windows tray launcher for DeepSeek Harness running on native Windows Node.js. · ⭐0
+- [kkhsu/dsh-conversation-icons](https://github.com/kkhsu/dsh-conversation-icons) — dsh-conversation-icons · ⭐0
+- [kkomia/dsh-code-team](https://github.com/kkomia/dsh-code-team) — (no description) · ⭐0
+- [KouzakiUmi/dsh-prompt-zh](https://github.com/KouzakiUmi/dsh-prompt-zh) — DeepSeek Harness 插件：将系统提示词本地化为简体中文，并按会话当前可见工具裁剪相关指引；保留英文工具 schema。 · ⭐0
+- [Kseleven/dsh-pomodoro-timer](https://github.com/Kseleven/dsh-pomodoro-timer) — a pomodoro timer plugin in deepseek-harness · ⭐0
+- [kw12121212/strict-spec-driven](https://github.com/kw12121212/strict-spec-driven) — strict spec driven AI coding · ⭐0
+- [kw12121212/writing-anything](https://github.com/kw12121212/writing-anything) — wa-cli + DSH/ZCode 写作工作区插件 — DeepSeek Harness (DSH) 与 ZCode plugin、面向 Agent 的 AI 写作 CLI · ⭐0
+- [L050110/dsh-vx-workbench](https://github.com/L050110/dsh-vx-workbench) — Visual X-Space workbench for DeepSeek Harness: signature-based CAD import repair, parameterised factory layouts, self-maintaining skill ledg · ⭐0
+- [laa1991/dsh-health](https://github.com/laa1991/dsh-health) — Declarative health readout for DSH: declare where to read, what counts as healthy, and which verdict each reading maps to. Read-only. · ⭐0
+- [Latrell233/dsh-cetacea-preset](https://github.com/Latrell233/dsh-cetacea-preset) — DSH-IM 陪伴聊天 Agent 预设：鲸鱼娘 · 小汐。短句、活泼、傲娇甜；私聊黏人、群聊收着点；fail-closed 只认主人，名字/称呼/甜度/长度可配置。 · ⭐0
+- [Lawrence7y/dsh-harness-pilot](https://github.com/Lawrence7y/dsh-harness-pilot) — 把其他 agent harness（opencode / Antigravity / claude / codex / ZCode / MiMo / Cursor / Qoder …）接入 DeepSeek Harness：作为 DSH 子代理派发任务、指定各家模型，并在设置页查 · ⭐0
+- [lctfwyt/dsh-liuyao](https://github.com/lctfwyt/dsh-liuyao) — Six-Line Divination (liuyao) for DeepSeek Harness — one-click casting, eight-palace najia chart, AI interpretation, chart card and case arch · ⭐0
+- [Ledas-as/-deep-seek-harness](https://github.com/Ledas-as/-deep-seek-harness) — deep seek harness · ⭐0
+- [lediemquynh/dsh-ai-question-chime](https://github.com/lediemquynh/dsh-ai-question-chime) 💤 — (no description) · ⭐0
+- [leetom314/dsh-delivery-ledger](https://github.com/leetom314/dsh-delivery-ledger) — (no description) · ⭐0
+- [leetom314/dsh-risk-gate](https://github.com/leetom314/dsh-risk-gate) — (no description) · ⭐0
+- [leexiaode4/dsh-launch-buttons](https://github.com/leexiaode4/dsh-launch-buttons) — Multiple named launch targets in the DSH composer: left-click starts the default target, right-click opens the list. · ⭐0
+- [L-eleven-1/dsh-wallpapers](https://github.com/L-eleven-1/dsh-wallpapers) — (no description) · ⭐0
+- [leogottadothebest/dsh-settings-beautify](https://github.com/leogottadothebest/dsh-settings-beautify) — One design language for the DSH settings surface: unified typography, cards, controls, focus and motion across every settings page, includin · ⭐0
+- [leolee9086/dsh-better-retry](https://github.com/leolee9086/dsh-better-retry) — Smarter exponential retry rules for DeepSeek Harness · ⭐0
+- [leoyoul/dsh-onekey-update](https://github.com/leoyoul/dsh-onekey-update) — DSH plugin: check enabled plugins for new versions at startup and upgrade them all with one click. Cross-platform. · ⭐0
+- [lernicks0/dsh-tacz-duel](https://github.com/lernicks0/dsh-tacz-duel) — Experimental DeepSeek Harness skill and native Forge client bridge for TACZ gun learning and Minecraft 1.20.1 duels. · ⭐0
+- [lerwa2025-a11y/dsh-plugin-groups](https://github.com/lerwa2025-a11y/dsh-plugin-groups) — DSH plugin groups view: group / tag / note / lock tab on the Installed plugins page · ⭐0
+- [Lessthinker66/dsh-open-native](https://github.com/Lessthinker66/dsh-open-native) — Open delivered-file cards with the system default app · ⭐0
+- [let-mi-think/agent-manager](https://github.com/let-mi-think/agent-manager) — (no description) · ⭐0
+- [liggest/dsh-alt-enter-newline](https://github.com/liggest/dsh-alt-enter-newline) — 在 dsh 中拯救 Alt+Enter 换行选手 · ⭐0
+- [Lightmaze/dsh-tick-loop](https://github.com/Lightmaze/dsh-tick-loop) 💤 — Give an agent another step without giving it another task — a bounded, auditable time-step primitive for DeepSeek Harness. · ⭐0
+- [lihaiyang616/dsh-local-song-studio](https://github.com/lihaiyang616/dsh-local-song-studio) — 本地、免百度网盘、可复现的 AI 翻唱/歌声合成/整曲生成环境：MSST + DDSP-SVC 6.2（Windows fairseq-free 补丁）+ DiffSinger + ACE-Step 1.5 · ⭐0
+- [lihuu/dsh-plugins](https://github.com/lihuu/dsh-plugins) 💤 — Personal DeepSeek Harness plugins monorepo: dsh-file-ref (@file workspace reference) + dsh-lazy-skill (submodule). · ⭐0
+- [linandadada-pixel/dsh-screenshot](https://github.com/linandadada-pixel/dsh-screenshot) — Fast native region-screenshot button for DeepSeek Harness (DSH) - WeChat-style overlay, instant capture, inserts into the conversation. 由 de · ⭐0
+- [LingYingNX/dsh-codex-parity](https://github.com/LingYingNX/dsh-codex-parity) — (no description) · ⭐0
+- [lion231226/dsh-verified-progress](https://github.com/lion231226/dsh-verified-progress) — Verified-progress ledger for long-running DSH work: an independent verifier certifies each claimed step, and a fingerprint check voids any v · ⭐0
+- [Lionad-Morotar/dsh-plugins](https://github.com/Lionad-Morotar/dsh-plugins) — Lionad's DeepSeek Harness plugin monorepo · ⭐0
+- [litefuse/dsh-litefuse-plugin](https://github.com/litefuse/dsh-litefuse-plugin) 💤 — DeepSeek Harness Litefuse Plugin for Agent Observability and Evals · ⭐0
+- [little3tar/dsh-backup](https://github.com/little3tar/dsh-backup) — 由于 dsh 的自定义范围太大，很难通过一个插件或者程序来完美备份自己的配置，所以我觉得可以通过 ai 来分析哪些配置需要备份、可以备份，以及在新的环境中如何恢复。有了这个 skills 导出的配置文件，任意 agent 都可以帮助恢复 dsh 的配置。 · ⭐0
+- [LittleBlackTong/dsh-plugin-superpowers](https://github.com/LittleBlackTong/dsh-plugin-superpowers) — (no description) · ⭐0
+- [Little-Star888/dsh-pelican](https://github.com/Little-Star888/dsh-pelican) 💤 — dsh-pelican插件 · ⭐0
+- [LIU118117/dsh-love](https://github.com/LIU118117/dsh-love) — 把每天的聊天过程蒸馏成可更新的角色卡与跨会话感情模块，持续训练角色卡（保留说话习惯与关键记忆）。DeepSeek Harness 插件。 · ⭐0
+- [liu19666/dsh-screenshot](https://github.com/liu19666/dsh-screenshot) — DSH 截图插件：窗口/屏幕/任务栏自动识别 + 标注 + 马赛克，截图直接进会话输入区（Windows 原生 C# + Cordis 插件，v2.1.4） · ⭐0
+- [LiuJiaCheng11/dsh-postman](https://github.com/LiuJiaCheng11/dsh-postman) — DeepSeekHarness插件，允许你的AI直接操作你的Postman（网页版）的COLLECTIONS · ⭐0
+- [liujianqiao701/dsh-compat-vet](https://github.com/liujianqiao701/dsh-compat-vet) — DSH（DeepSeek Harness）插件兼容性体检：预警下次启动会被拒绝加载的插件，并在页面上按键一键隔离/卸载修掉它（改前自动备份、失败自动回滚）。Plugin compatibility vet for DeepSeek Harness. · ⭐0
+- [liupengprivate-blip/dsh-baidu](https://github.com/liupengprivate-blip/dsh-baidu) — 搜索引擎模拟器 — DSH 侧栏搜索面板插件：调用本地搜索接口，列出前 10 条结果 · ⭐0
+- [liushQAQ/dsh-prompt-optimizer](https://github.com/liushQAQ/dsh-prompt-optimizer) — DeepSeek Harness 提示词智能优化与思考强度动态自适应插件 · ⭐0
+- [liuyize-CHE/dsh-spanish-tutor](https://github.com/liuyize-CHE/dsh-spanish-tutor) — 西语练习插件 for DeepSeek Harness：六类本地判分的练习 + 情景造句（模型批改）。 Spanish practice drills with local grading. · ⭐0
+- [liuyun847/dsh-host-restart](https://github.com/liuyun847/dsh-host-restart) — DSH 宿主插件:给模型一个 restart_dsh 工具,重启 dsh 后自动恢复原会话续跑 (DeepSeek Harness) · ⭐0
+- [liweidong1722/dsh-work-list](https://github.com/liweidong1722/dsh-work-list) — deepseek harness工作台 · ⭐0
+- [ljh257110/dsh-local-installer](https://github.com/ljh257110/dsh-local-installer) — (no description) · ⭐0
+- [LJH-snow/dsh-tool-linear](https://github.com/LJH-snow/dsh-tool-linear) — (no description) · ⭐0
+- [LJH-snow/dsh-tool-pagerduty](https://github.com/LJH-snow/dsh-tool-pagerduty) — (no description) · ⭐0
+- [LJH-snow/dsh-tool-sql](https://github.com/LJH-snow/dsh-tool-sql) — (no description) · ⭐0
+- [LJH-snow/dsh-tool-zendesk](https://github.com/LJH-snow/dsh-tool-zendesk) — (no description) · ⭐0
+- [ljsysfurryACE/dsh-plugin-story](https://github.com/ljsysfurryACE/dsh-plugin-story) — 入选 DeepSeek Harness 官方精选列表的三个插件：记忆/压缩/主动调度 完整技术文章 · ⭐0
+- [ljxdsg12/dsh-composer-polish](https://github.com/ljxdsg12/dsh-composer-polish) — Polish button for the DeepSeek Harness composer: rewrite your draft prompt, then cancel back to the original text. · ⭐0
+- [LJXDSG12/dsh-liuyao](https://github.com/LJXDSG12/dsh-liuyao) — 六爻 · ⭐0
 - [lkdx0220/dsh-ai-code-quality](https://github.com/lkdx0220/dsh-ai-code-quality) — (no description) · ⭐0
 - [LLL-lyh0/dsh-accelerator](https://github.com/LLL-lyh0/dsh-accelerator) — (no description) · ⭐0
 - [LLL-lyh0/dsh-autostart](https://github.com/LLL-lyh0/dsh-autostart) — Windows boot autostart bundle plugin for DeepSeek Harness (dsh): registers the app into HKCU Run on enable, removes it on disable. · ⭐0

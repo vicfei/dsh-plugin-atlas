@@ -1,7 +1,18 @@
-# Session & Context — 1483 entries (part 2/2)
+# Session & Context — 1494 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [zhifengjiang/dsh-hover-archive](https://github.com/zhifengjiang/dsh-hover-archive) 💤 — Codex-style hover archive for DeepSeek Harness Web: hovering a sidebar session row reveals an Archive icon at the far right; one click archi · ⭐1
+- [ZHOUcourier/dsh-theme-whalegirl](https://github.com/ZHOUcourier/dsh-theme-whalegirl) — DeepSeek-鲸鱼娘 (Whale Girl) theme for the DeepSeek Harness Web UI — ported from DreamSkin ver_cb557ececaa5de3f3dbe: full --dsw-* token remap + · ⭐1
+- [Zhuchen00123/dsh-compaction-cacheaware](https://github.com/Zhuchen00123/dsh-compaction-cacheaware) — Reasonix-style cache-aware compaction backend for DeepSeek Harness (DSH). Modular compact plugin with auto-sync from esengine/DeepSeek-Reaso · ⭐1
+- [zhujunzhujunzhu/ai-token-report](https://github.com/zhujunzhujunzhu/ai-token-report) — (no description) · ⭐1
+- [zhuto666/dsh-compact-agents](https://github.com/zhuto666/dsh-compact-agents) — (no description) · ⭐1
+- [ZiOstudio/dsh-budget-handoff](https://github.com/ZiOstudio/dsh-budget-handoff) — Session budget brake for DeepSeek Harness — meters every call against the official price table, halts the run when the budget runs out, and  · ⭐1
+- [zxj0306/DSH-javadev-enhance](https://github.com/zxj0306/DSH-javadev-enhance) — 这是一个提供java开发增强并节省token的dsh插件，包含规则自动fix错误、java工具链地址查询、以及意图直接生成preset代码模板（包含2种风格的数十个模板）功能，持续优化中 · ⭐1
+- [ZYAONS/dsh-plugin-mascot](https://github.com/ZYAONS/dsh-plugin-mascot) — DeepSeek Harness mascot plugin - a clickable character sprite (Arknights' Closure / BanG Dream!'s Sengoku Yuno) showing token cache hits, co · ⭐1
+- [ZZZjf13960/dsh-onfail](https://github.com/ZZZjf13960/dsh-onfail) 💤 — DSH plugin: poll GitHub Actions, surface failed checks as cards, open a fix session with log context. · ⭐1
+- [ZZZZZZZ-ZZZZZ/dsh-session-trash](https://github.com/ZZZZZZZ-ZZZZZ/dsh-session-trash) — Session trash for DeepSeek Harness: move conversations to a trash, restore them, or delete them permanently after a second confirmation. · ⭐1
+- [11111353535/dsh-reaper](https://github.com/11111353535/dsh-reaper) — Find and reclaim the orphan dev servers and watchers an agent session left behind. · ⭐0
 - [16512354554/dsh-chat-navigator](https://github.com/16512354554/dsh-chat-navigator) — Right-edge chat-history navigator plugin for DeepSeek Harness Web. · ⭐0
 - [1731988818/dsh-lan-remote](https://github.com/1731988818/dsh-lan-remote) — Expose the running DeepSeek Harness desktop web GUI to a phone - the same session through a loopback reverse proxy, with LAN and Tailscale t · ⭐0
 - [1834395550/dsh-session-tabs](https://github.com/1834395550/dsh-session-tabs) — 浏览器式顶部标签栏：一个标签 = 一个会话，按项目折叠分组。Browser-style Session tabs for the DeepSeek Harness (DSH) Web GUI. · ⭐0

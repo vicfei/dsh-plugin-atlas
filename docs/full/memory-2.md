@@ -1,7 +1,35 @@
-# Memory & Knowledge — 914 entries (part 2/2)
+# Memory & Knowledge — 942 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [wycto/dsh-evolution](https://github.com/wycto/dsh-evolution) — Local-first self-evolution plugin for DSH: records your coding-agent sessions to a local ledger, reviews them across sessions with the model · ⭐0
+- [WYR-233/dsh-memory-lite](https://github.com/WYR-233/dsh-memory-lite) — Read-only enhancer for a file-based (markdown + git) long-term memory library in DeepSeek Harness: built-in zero-dependency search, one-clic · ⭐0
+- [xccpddym/dsh-bubble-nav](https://github.com/xccpddym/dsh-bubble-nav) 💤 — Bubble navigation for DSH (DeepSeek Harness): a draggable accelerator ball listing all of your questions (numbered + timed), plus a full con · ⭐0
+- [XEsx630/dsh-personal-settings](https://github.com/XEsx630/dsh-personal-settings) — One settings page for DeepSeek Harness: global instructions (~/.dsh/AGENTS.md) and long-term memory. · ⭐0
+- [XEsx630/dsh-screenshot](https://github.com/XEsx630/dsh-screenshot) — WeChat-style screenshot for the DeepSeek Harness composer: capture the screen (optionally hiding the DSH window), drag-select a region, and  · ⭐0
+- [XHszDHM/dsh-memory-tide](https://github.com/XHszDHM/dsh-memory-tide) — Tide memory for DeepSeek Harness - a lightweight long-term memory: a hot tier always in context, a cold tier that sinks, rebalanced automati · ⭐0
+- [Xian-JL/dsh-Xiao-theme](https://github.com/Xian-JL/dsh-Xiao-theme) — Xiao theme for DeepSeek Harness Web and Desktop with selectable artwork, a draggable companion, and optional official DeepSeek balance displ · ⭐0
+- [xiazhenxin314-cpu/dsh-soul-memory](https://github.com/xiazhenxin314-cpu/dsh-soul-memory) — SOUL/MEMORY 三层跨会话记忆插件 for DeepSeek Harness (DSH)：L1 MEMORY.md + L2/L3 logfile、memory 五件套工具、soulMemory cordis 服务。纯 ESM 无构建。 · ⭐0
+- [Xieddenv/dsh-memory-kit](https://github.com/Xieddenv/dsh-memory-kit) — 给 DSH 机器人装五层记忆：人设/规矩/日记/会话存档/未了结的约定 —— 重置不失忆，装完就灵。 · ⭐0
+- [xingyingyuzhui/dsh-agent-memory](https://github.com/xingyingyuzhui/dsh-agent-memory) — Claw persistent memory for DeepSeek Harness. 金库、日记、回顾、压缩前冲洗。 · ⭐0
+- [xingyueDanYang/dsh-puppet-memory](https://github.com/xingyueDanYang/dsh-puppet-memory) — Cross-session memory for DeepSeek Harness: layered notes, a 600-char always-injected core card, social/multi-person records, session-scoped  · ⭐0
+- [xmwengxing/dsh-client-ui-sidebar-perfmon](https://github.com/xmwengxing/dsh-client-ui-sidebar-perfmon) — Real-time host performance monitoring for the DeepSeek Harness right Sidebar: CPU / memory / swap gauges plus a sortable process table. · DS · ⭐0
+- [Xplore-LAB/dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory) 💤 — Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness · ⭐0
+- [xujiping/dsh-plugins](https://github.com/xujiping/dsh-plugins) — DeepSeek Harness 自研插件全家桶（monorepo）：dsh-memory 全局记忆等 · ⭐0
+- [yachiyoCN/DSH-Launcher](https://github.com/yachiyoCN/DSH-Launcher) — 把 dsh web 变成 Windows 托盘常驻后台服务：无黑窗、托盘菜单、开机自启、崩溃自愈、日志落盘；单个 60 KB exe，用系统自带 .NET Framework 编译，无需 .NET SDK · ⭐0
+- [yangfei222666-9/dsh-paper-trade](https://github.com/yangfei222666-9/dsh-paper-trade) — Zero-dependency paper-trading CLI for the DeepSeek Harness ecosystem: virtual 100k, hash-chained tamper-evident trade ledger — paper only, n · ⭐0
+- [yangfei222666-9/memory-auditor](https://github.com/yangfei222666-9/memory-auditor) — Zero-dependency AI memory auditor: flags overclaims, evidence-free completion claims, and duplicate rules. Candidates, not verdicts. · ⭐0
+- [yanghongqiang3/dsh-plugin-market-selfhosted](https://github.com/yanghongqiang3/dsh-plugin-market-selfhosted) — A self-hosted, internal DSH plugin marketplace supporting plugin publishing, discovery, distribution, access control, and plugin recall/retr · ⭐0
+- [yangsong608/dsh-session-handoff](https://github.com/yangsong608/dsh-session-handoff) — DSH 会话接力插件：提交按钮旁一键总结会话、固化记忆、生成交接文档并在新会话继续 | DeepSeek Harness session-handoff plugin · ⭐0
+- [yangzhenyu0817/dsh-settings-drag](https://github.com/yangzhenyu0817/dsh-settings-drag) — (no description) · ⭐0
+- [yaqiangsun/dsh-plugin-search](https://github.com/yaqiangsun/dsh-plugin-search) — Search DSH plugins on the npm registry by a name fragment and install them from the Plugins page. · ⭐0
+- [yayuqianhuang/dsh-video-to-knowledge](https://github.com/yayuqianhuang/dsh-video-to-knowledge) — (no description) · ⭐0
+- [yesterday06/dsh-brain](https://github.com/yesterday06/dsh-brain) — DeepSeek Harness 记忆插件：四层记忆、按需检索注入、自动接续与任务封存；目录和卡片格式兼容 sage-mem，可直接接管现有记忆库。 · ⭐0
+- [yihefeikong-rgb/dsh-cc-haha-dream](https://github.com/yihefeikong-rgb/dsh-cc-haha-dream) — DSH 自动做梦插件：后台定期回顾会话与记忆整合去重（复刻 CC-HAHA autoDream）· Auto memory consolidation (dream) plugin for DeepSeek Harness, inspired by CC-HAHA · ⭐0
+- [YiRan0/dsh-mobile-glass](https://github.com/YiRan0/dsh-mobile-glass) 💤 — DSH Web mobile adaptation plugin: liquid glass UI, reveal drawer, drag gestures, mobile composer/header fixes. Desktop untouched. · ⭐0
+- [yoyococo1234/dsh-drag-graft](https://github.com/yoyococo1234/dsh-drag-graft) — (no description) · ⭐0
+- [Yuedalao/dsh-connect-minimax](https://github.com/Yuedalao/dsh-connect-minimax) — Connect a locally signed-in MiniMax Code account to DeepSeek Harness through a loopback reverse proxy. No API key storage and no sign-out. · ⭐0
+- [yulianjie/dsh-brain](https://github.com/yulianjie/dsh-brain) — Local long-term memory and user-controlled communication style for DeepSeek Harness Desktop | 本地长期记忆与可控交流风格 · ⭐0
 - [YunpengDon/dsh-knowledge-tree](https://github.com/YunpengDon/dsh-knowledge-tree) — 一个「把散落知识捋成自己的教程」的个人知识管理系统。在与AI的对话中收集零散知识（树叶），AI 自动归类到知识树，长期积累最终形成个人独有的知识体系。 · ⭐0
 - [yutaosheng004-bit/dsh-qq-persona](https://github.com/yutaosheng004-bit/dsh-qq-persona) — QQ 通道的人物记忆与画像：滚动聊天总结、人物画像、好感度（主人恒定天花板）、情绪层 · ⭐0
 - [yuyu520fish/dsh-fishtank](https://github.com/yuyu520fish/dsh-fishtank) — A small fish with memory, mood and quiet thoughts, for DeepSeek Harness. · ⭐0

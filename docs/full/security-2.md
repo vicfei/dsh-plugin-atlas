@@ -103,7 +103,7 @@
 - [MyRemme/dsh-loop-guard](https://github.com/MyRemme/dsh-loop-guard) — 多智能体监工：一个独立模型实时审阅推理文本与工具调用，检测死循环 / 空转 / 偷懒，并按 WARN / BLOCK / STOP 三档落地。DSH 宿主插件 + 浏览器设置界面。 · ⭐0
 - [nanshang328/dsh-desk-card](https://github.com/nanshang328/dsh-desk-card) — Bottom-right native Windows cards for DeepSeek Harness: approve a permission request, know a question is waiting, and get a summary when a t · ⭐0
 - [nicecx/dsh-auto-approver](https://github.com/nicecx/dsh-auto-approver) 💤 — Configurable auto-approval for DeepSeek Harness: intercepts approval/request and answers allowed-once/rejected by policy (allow-all/allowlis · ⭐0
-- [nicecx/dsh-task-queue](https://github.com/nicecx/dsh-task-queue) — Tiered task queue for DSH↔Hermes: queue.json single source of truth, lease/claim model, concurrency-1; Hermes-side cron consumes, DSH-side e · ⭐0
+- [nicecx/dsh-task-queue](https://github.com/nicecx/dsh-task-queue) 💤 — Tiered task queue for DSH↔Hermes: queue.json single source of truth, lease/claim model, concurrency-1; Hermes-side cron consumes, DSH-side e · ⭐0
 - [nickhelion/dsh-plugins](https://github.com/nickhelion/dsh-plugins) — Secure DeepSeek Harness plugin monorepo: Qwen Token Plan Responses provider and ServerChan notifications · ⭐0
 - [NingYuanLee/dsh-gui-auth-url](https://github.com/NingYuanLee/dsh-gui-auth-url) — Expose the running DeepSeek Harness Web GUI's authenticated URL as an agent tool (gui_auth_url), so browser automation can open the GUI inst · ⭐0
 - [niushuanan/dsh-pure-chat](https://github.com/niushuanan/dsh-pure-chat) 💤 — Start a chat immediately without a workspace, work mode, or execution permissions while keeping image and text-file uploads. · ⭐0
@@ -246,7 +246,7 @@
 - [xt765/dsh-milestone-guard](https://github.com/xt765/dsh-milestone-guard) — Milestone progress soft-enforcement guard plugin for DeepSeek Harness (阶段性结论软强制守卫插件) · ⭐0
 - [xtt-xt/dsh-custom-tool-studio](https://github.com/xtt-xt/dsh-custom-tool-studio) — DSH bundle plugin: author Python tools in the Web UI or through agent tools, register them as first-class DSH tools, gate dangerous runs thr · ⭐0
 - [XucroYuri/dsh-llm-oauth-ui](https://github.com/XucroYuri/dsh-llm-oauth-ui) 💤 — OAuth login status and future Web UI support for DeepSeek Harness. · ⭐0
-- [xychendave/dsh-hardware-guard](https://github.com/xychendave/dsh-hardware-guard) — Safety and audit guard for physical hardware tools in DeepSeek Harness · ⭐0
+- [xychendave/dsh-hardware-guard](https://github.com/xychendave/dsh-hardware-guard) 💤 — Safety and audit guard for physical hardware tools in DeepSeek Harness · ⭐0
 - [yangbobo2021/relay-dsh-plugin-monitor-author](https://github.com/yangbobo2021/relay-dsh-plugin-monitor-author) — DSH Skill for discovering and safely authoring Relay Monitor Bundles. · ⭐0
 - [yangdongzhen590/dsh-knj-session-management](https://github.com/yangdongzhen590/dsh-knj-session-management) — Session management for DeepSeek Harness: archive/restore/delete persisted sessions, per-workspace retention policy and a size governance pan · ⭐0
 - [Yangxingyu789/dsh-doubt](https://github.com/Yangxingyu789/dsh-doubt) — dsh-doubt — evidence-first completion guard for DeepSeek Harness (DSH): pre-execution live-mutation gate, tool-evidence final-answer review, · ⭐0

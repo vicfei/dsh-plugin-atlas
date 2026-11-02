@@ -530,7 +530,7 @@
 - [xain/ui-beep](https://github.com/xain/ui-beep) — **dsh-beep** — an agent-heartbeat sonification plugin for the DeepSeek Harness Web surface. · ⭐0
 - [xccElephant/deepseek-harness-desktop](https://github.com/xccElephant/deepseek-harness-desktop) — Unofficial desktop app for DeepSeek Harness (dsh): bundled Node runtime, supervised backend, native window. Zero prerequisites. · ⭐0
 - [xchannel1987/dsh-reverse-proxy-xc](https://github.com/xchannel1987/dsh-reverse-proxy-xc) — DSH LAN reverse proxy plugin for accessing Web GUI from mobile devices · ⭐0
-- [xdongHo/dsh-wechat-mobile-skin](https://github.com/xdongHo/dsh-wechat-mobile-skin) — WeChat-style mobile skin for the DeepSeek Harness Web GUI: mobile browsers get a WeChat chat list and chat page, desktop stays untouched. · ⭐0
+- [xdongHo/dsh-wechat-mobile-skin](https://github.com/xdongHo/dsh-wechat-mobile-skin) 💤 — WeChat-style mobile skin for the DeepSeek Harness Web GUI: mobile browsers get a WeChat chat list and chat page, desktop stays untouched. · ⭐0
 - [xiaheng1/dsh-turn-nav](https://github.com/xiaheng1/dsh-turn-nav) 💤 — DeepSeek Harness Web 对话轮次导航轨 · ⭐0
 - [XIANGDEEN/dsh-sidebar-video-player](https://github.com/XIANGDEEN/dsh-sidebar-video-player) — A right-Sidebar video player for DeepSeek Harness with live playback telemetry and deep MP4/MOV container inspection. · ⭐0
 - [xiaokang6/dsh-admin](https://github.com/xiaokang6/dsh-admin) 💤 — DeepSeek Harness Web GUI admin plugin: manual restart + auto version check (header button + settings page) · ⭐0

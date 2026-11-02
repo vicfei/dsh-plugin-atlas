@@ -443,7 +443,7 @@
 - [lovejavacore/dsh-minecraft-pet](https://github.com/lovejavacore/dsh-minecraft-pet) 💤 — DeepSeek Harness（DSH）网页界面的桌面宠物——Steve、Creeper 和 Ultraman 会根据代理的工作状态做出反应。A desktop pet for the DeepSeek Harness (DSH) Web GUI — Steve, Creepe · ⭐1
 - [LQing2018/dsh-desktop-client](https://github.com/LQing2018/dsh-desktop-client) 💤 — DeepSeek Harness for Windows: self-contained desktop client (no Node.js needed) + companion plugin | DeepSeek Harness 的 Windows 桌面版 · ⭐1
 - [l-s-c/dsh-workspace-labels](https://github.com/l-s-c/dsh-workspace-labels) 💤 — Open DeepSeek Harness workspaces from the existing sidebar three-dot menu · ⭐1
-- [lsqace-del/dsh-progress](https://github.com/lsqace-del/dsh-progress) — (no description) · ⭐1
+- [lsqace-del/dsh-progress](https://github.com/lsqace-del/dsh-progress) 💤 — (no description) · ⭐1
 - [ltao0829/dsh-launcher](https://github.com/ltao0829/dsh-launcher) — One-click DeepSeek Harness Web launcher for Windows — part of a suite of tooling for AI coding-agent workflows · ⭐1
 - [Lucasli2018/totoro-pet](https://github.com/Lucasli2018/totoro-pet) 💤 — DSH Web GUI 桌宠插件（悬浮 Q 版龙猫 · 喂食/抚摸/玩耍/睡觉互动养成） · ⭐1
 - [lucky01222/dsh-workbench-theme](https://github.com/lucky01222/dsh-workbench-theme) — Light/dark theme with APTX logo and optional artwork panels for official DeepSeek Harness Web · ⭐1
@@ -552,7 +552,7 @@
 - [secyborg/dsh-find-bar](https://github.com/secyborg/dsh-find-bar) — DSH web plugin: a Cmd/Ctrl+F find bar (like the browser's built-in find) for the desktop Electron shell, which has none · ⭐1
 - [SHAN5246992ZHUI/dsh-select-translate](https://github.com/SHAN5246992ZHUI/dsh-select-translate) — Select text in any Windows app and get a translation-only always-on-top card. DSH plugin (Windows only, zero deps, no build). · ⭐1
 - [SharpWord/dsh-wallpaper-engine](https://github.com/SharpWord/dsh-wallpaper-engine) — Wallpaper Engine (Steam) wallpapers behind DeepSeek Harness: follow the active wallpaper or pin one from the Workshop library, with transluc · ⭐1
-- [shendeguize/Remote_DSH_Center](https://github.com/shendeguize/Remote_DSH_Center) — One-page local manager and CLI for local and remote dsh web instances, with SSH tunnels for remote hosts. · ⭐1
+- [shendeguize/Remote_DSH_Center](https://github.com/shendeguize/Remote_DSH_Center) 💤 — One-page local manager and CLI for local and remote dsh web instances, with SSH tunnels for remote hosts. · ⭐1
 - [shisuiqingqian/dsh-video-kit](https://github.com/shisuiqingqian/dsh-video-kit) — DeepSeek Harness 插件：读取本地视频或网页链接，返回带时间轴的逐字稿与关键帧图片，供模型逐帧查看。 · ⭐1
 - [shuaihaoV/dsh-TheWanderingEarthII](https://github.com/shuaihaoV/dsh-TheWanderingEarthII) 💤 — The Wandering Earth II · 流浪地球2 — DSH Web GUI 电影风格主题：发动机点火联动、MOSS 化发送按钮、星场 HUD · ⭐1
 - [shuigege2025-dev/cloud-smoke-widget](https://github.com/shuigege2025-dev/cloud-smoke-widget) 💤 — An interactive virtual-smoking fidget widget for DeepSeek Harness (DSH) — a Cordis client plugin built and open-sourced by an AI agent. 等 AI · ⭐1

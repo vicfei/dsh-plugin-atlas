@@ -202,7 +202,7 @@
 - [prgrmrwy/dsh-cockpit](https://github.com/prgrmrwy/dsh-cockpit) — 多设备 DeepSeek Harness 驾驶舱：一个页面管理多台机器上的 DSH，选中设备直接用它原生的工作台（SSH 回环隧道 + 只读状态聚合，远端零改造） · ⭐1
 - [raktim-mondol/academic-harness](https://github.com/raktim-mondol/academic-harness) — Academic Harness as a DeepSeek Harness (DSH) profile plugin: research persona, scientific skills catalogue, living lab notebook, and special · ⭐1
 - [raktim-mondol/dsh-researchcraft](https://github.com/raktim-mondol/dsh-researchcraft) — Academic Harness as a DeepSeek Harness (DSH) profile plugin: research persona, scientific skills catalogue, living lab notebook, and special · ⭐1
-- [Samge0/dsh-plugin-qcc](https://github.com/Samge0/dsh-plugin-qcc) — Qichacha (企查查) company-data plugin for DeepSeek Harness — 5 agent tools + settings-page QR login. Unofficial, for personal study. · ⭐1
+- [Samge0/dsh-plugin-qcc](https://github.com/Samge0/dsh-plugin-qcc) 💤 — Qichacha (企查查) company-data plugin for DeepSeek Harness — 5 agent tools + settings-page QR login. Unofficial, for personal study. · ⭐1
 - [ShanHaiFish/Shimmering-dsh-plugins](https://github.com/ShanHaiFish/Shimmering-dsh-plugins) — 闪烁的 DSH 插件库 (Shimmering-dsh-plugins)：收录 @ShanHaiFish 个人开发的全部 DSH 第三方插件，提供功能简介与一键安装命令；各插件独立仓库、独立更新与发布。A personal collection of DSH plugins de · ⭐1
 - [SparkElf/dsh-plugins-plus](https://github.com/SparkElf/dsh-plugins-plus) — SparkElf-maintained independent plugins for DeepSeek Harness (dsh), installable on upstream dsh via profile composition bundles. · ⭐1
 - [sredevopsorg/dsh-plugins](https://github.com/sredevopsorg/dsh-plugins) — Our Deepseek Harness custom plugins, skills and tools · ⭐1

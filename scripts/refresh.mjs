@@ -3,7 +3,8 @@
 // Usage: GITHUB_TOKEN=… node scripts/refresh.mjs [--discovery]
 // --discovery additionally pulls the GitHub `dsh-plugin` topic (first 1000) into the seeds.
 
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync, rmSync } from "node:fs";
+import { gzipSync, gunzipSync } from "node:zlib";
 
 const TOKEN = process.env.GITHUB_TOKEN ?? "";
 if (!TOKEN) { console.error("GITHUB_TOKEN required"); process.exit(1); }
@@ -124,6 +125,37 @@ for (let i = 0; !SKIP_FETCH && i < slugs.length; i += 100) {
 console.log(`entries: ${Object.keys(entries).length}/${slugs.length}`);
 if (!SKIP_FETCH) writeFileSync(entriesPath, JSON.stringify(entries, null, 0));
 
+// ── history snapshots & weekly delta (leaderboard fuel) ────────────────────
+const histDir = new URL("../data/history/", import.meta.url);
+mkdirSync(histDir, { recursive: true });
+const today = new Date().toISOString().slice(0, 10);
+const snapPath = new URL(`stars-${today}.json.gz`, histDir);
+if (!existsSync(snapPath)) {
+  const compact = {};
+  for (const e of Object.values(entries)) compact[e.slug] = e.stars;
+  writeFileSync(snapPath, gzipSync(Buffer.from(JSON.stringify(compact))));
+}
+const HIST_RE = /stars-(\d{4}-\d{2}-\d{2})\.json\.gz/;
+for (const f of readdirSync(histDir)) {
+  const m = HIST_RE.exec(f);
+  if (m && Date.now() - Date.parse(m[1]) > 16 * 86400000) rmSync(new URL(f, histDir)); // keep 2 weeks
+}
+let weekAgo = null;
+for (const f of readdirSync(histDir)) {
+  const m = HIST_RE.exec(f);
+  if (!m) continue;
+  const ageDays = (Date.now() - Date.parse(m[1])) / 86400000;
+  if (ageDays >= 5.5 && ageDays <= 9) {
+    const data = JSON.parse(gunzipSync(readFileSync(new URL(f, histDir))).toString());
+    if (!weekAgo || ageDays < weekAgo.ageDays) weekAgo = { ageDays, data };
+  }
+}
+const delta = weekAgo ? {} : null; // null ⇒ weekly board not ripe yet (first snapshot < 7 days old)
+if (weekAgo) for (const e of Object.values(entries)) {
+  const past = weekAgo.data[e.slug];
+  if (past !== undefined) delta[e.slug] = e.stars - past;
+}
+
 // ── generate READMEs ───────────────────────────────────────────────────────
 function categoryOf(e) {
   const hay = `${e.slug} ${e.desc} ${e.topics.join(" ")}`;
@@ -151,6 +183,28 @@ const CAT_LABEL_ZH = {
   usage: "成本与用量", fun: "纯玩",
 };
 const generatedAt = new Date().toISOString().slice(0, 16).replace("T", " ");
+const shortDesc = (e) => (e.desc.replace(/\s+/g, " ").trim().slice(0, 60)) || "—";
+const fmtNum = (n) => (n >= 10000 ? (n / 1000).toFixed(1).replace(/\.0$/, "") + "k" : String(n));
+const all = Object.values(entries).filter((e) => !e.archived);
+const byTotal = [...all].sort((a, b) => b.stars - a.stars).slice(0, 200);
+const byWeek = delta ? all.filter((e) => (delta[e.slug] ?? 0) > 0).sort((a, b) => delta[b.slug] - delta[a.slug]).slice(0, 200) : [];
+
+const board = (title, note, rows, week) =>
+  `## ${title}\n\n${note}\n\n| # | plugin | ${week ? "Δ stars (7d)" : "stars"} | what it is |\n|---|---|---|---|\n` +
+  rows.map((e, i) => `| ${i + 1} | [${e.slug}](https://github.com/${e.slug})${featured.has(e.slug) ? " ★" : ""} | ${week ? "+" + fmtNum(delta[e.slug]) : fmtNum(e.stars)} | ${shortDesc(e).replace(/\|/g, "/")} |`).join("\n") + "\n";
+
+for (const [file, zh] of [["docs/leaderboard.md", false], ["docs/leaderboard.zh-CN.md", true]]) {
+  let out = zh ? `# 排行榜 · DSH 插件生态\n\n> [English](leaderboard.md) · [返回地图](../README.zh-CN.md)\n\n数据每日自动刷新(UTC):**${generatedAt}**\n\n`
+             : `# Leaderboard · the DSH plugin ecosystem\n\n> [中文](leaderboard.zh-CN.md) · [back to the atlas](../README.md)\n\nRefreshed daily, automatically (UTC): **${generatedAt}**\n\n`;
+  out += board(zh ? "总星榜 · Top 200" : "All-time stars · Top 200",
+    zh ? "按当前总 star 数。" : "By current total stars.", byTotal, false);
+  out += "\n" + (delta
+    ? board(zh ? "周增榜 · Top 200" : "Weekly movers · Top 200",
+        zh ? "按最近 7 天 star 增量(对比 ${weekAgo.ageDays.toFixed(1)} 天前的快照)。".replace("${weekAgo.ageDays.toFixed(1)}", weekAgo.ageDays.toFixed(1)) : `Gained stars in the last 7 days (vs a snapshot ${weekAgo.ageDays.toFixed(1)} days old).`, byWeek, true)
+    : (zh ? `## 周增榜\n\n首张快照诞生于 ${today},周增榜将在 7 天后开始排名(需要两个快照点作差)。\n` : `## Weekly movers\n\nThe first snapshot was taken on ${today}; the weekly board starts ranking in 7 days (it needs two snapshot points to diff).\n`));
+  writeFileSync(new URL("../" + file, import.meta.url), out);
+  console.log("wrote", file);
+}
 const line = (e) => {
   const stale = (now - Date.parse(e.pushedAt)) / 86400000 > STALE_DAYS ? " 💤" : "";
   const feat = featured.has(e.slug) ? " **★**" : "";
@@ -183,8 +237,16 @@ A **daily-refreshed** map of the [DeepSeek Harness](https://github.com/deepseek-
 `;
 
 mkdirSync(new URL("../docs/full/", import.meta.url), { recursive: true });
+const preview = (zh) =>
+  (zh ? "## 排行榜速览\n\n" : "## Leaderboard at a glance\n\n") +
+  board(zh ? "总星 Top 20" : "All-time · Top 20", "", byTotal.slice(0, 20), false) + "\n" +
+  (delta
+    ? board(zh ? "周增 Top 20" : "Weekly movers · Top 20", "", byWeek.slice(0, 20), true)
+    : (zh ? `## 周增榜\n\n首张快照:${today},7 天后开榜。完整榜单 → [docs/leaderboard.zh-CN.md](docs/leaderboard.zh-CN.md)\n` : `## Weekly movers\n\nFirst snapshot: ${today}; ranking starts in 7 days. Full boards → [docs/leaderboard.md](docs/leaderboard.md)\n`)) +
+  (zh ? "完整榜单(Top 200 × 双榜)→ [docs/leaderboard.zh-CN.md](docs/leaderboard.zh-CN.md)\n" : "Full boards (Top 200 × both) → [docs/leaderboard.md](docs/leaderboard.md)\n");
+
 for (const [file, zh] of [["README.md", false], ["README.zh-CN.md", true]]) {
-  let out = header(zh) + "\n";
+  let out = header(zh) + "\n" + preview(zh) + "\n";
   out += (zh ? "## 目录\n" : "## Contents\n") + ORDER.filter((c) => byCat[c]?.length).map((c) => `- [${zh ? CAT_LABEL_ZH[c] : CAT_LABEL[c]}](#${c})`).join("\n") + "\n";
   const fullParts = [];
   for (const c of ORDER) {

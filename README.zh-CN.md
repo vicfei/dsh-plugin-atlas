@@ -4,10 +4,44 @@
 
 一张**每天自动刷新**的 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 插件生态地图:星数实时、60 天未更新自动标记 💤、已归档仓库自动除名。不是又一本静态精选——是数据本身在呼吸。
 
-- 刷新时间(UTC):**2026-11-01 19:16** · 条目:**13031**
+- 刷新时间(UTC):**2026-11-02 05:52** · 条目:**12748**
 - ★ = 本仓库维护者亲自背书的条目;💤 = 60 天未推送
 - 收录:加一行 `data/seed-slugs.txt` 提 PR 即可;分类由关键词自动推断,欢迎纠偏
 - 数据来源:GitHub API 实时元数据;种子链接集自 [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) 与 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 两个公开清单(致谢),条目描述取自各仓库自己的 GitHub description
+
+## 排行榜速览
+
+## 总星 Top 20
+
+
+
+| # | plugin | stars | what it is |
+|---|---|---|---|
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 418k | Reverse engineer anything with agents, from app behavior dow |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 268.2k | DeepSeek Harness: Everything is a Plugin. |
+| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 92.3k | Turn any idea, plan, or codebase into a beautiful interactiv |
+| 4 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 57.6k | Hindsight: Agent Memory That Learns |
+| 5 | [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 55.7k | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash |
+| 6 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 55.6k | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash |
+| 7 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 41.3k | Self-evolving Context Database for AI Agents. Unify Agent Me |
+| 8 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | 39.7k | Integrate the DeepSeek API into popular software |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36.2k | Open-source LLM knowledge platform: turn raw documents into  |
+| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 36k | A reliable coding agent for complex software engineering tas |
+| 11 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 34.4k | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 |
+| 12 | [titanwings/distilly](https://github.com/titanwings/distilly) | 26.3k | Distilly — Distill how they think into reusable Skills for a |
+| 13 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 21.9k | A curated list of plugins for DeepSeek Harness (dsh) · DeepS |
+| 14 | [voyager-crew/voyager](https://github.com/voyager-crew/voyager) | 20.5k | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & D |
+| 15 | [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) | 20.5k | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & D |
+| 16 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 17k | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 17 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 12.2k | Self-evolving memory OS for LLM & AI Agents: ultra-persisten |
+| 18 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | 10.1k | The plugin market inside DeepSeek Harness — browse, search,  |
+| 19 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 9918 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek |
+| 20 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 9877 | Let AI agents use your real, logged-in browser without inter |
+
+## 周增榜
+
+首张快照:2026-11-02,7 天后开榜。完整榜单 → [docs/leaderboard.zh-CN.md](docs/leaderboard.zh-CN.md)
+完整榜单(Top 200 × 双榜)→ [docs/leaderboard.zh-CN.md](docs/leaderboard.zh-CN.md)
 
 ## 目录
 - [官方](#official)
@@ -1757,7 +1791,7 @@
 - [JularDepick/dsh-system-monitor-plugin](https://github.com/JularDepick/dsh-system-monitor-plugin) — A plugin for dsh: monitor the resource utilization of dsh system processes and report the results to the user in the form of charts. · ⭐1
 - [ownduck/dsh-custom-env](https://github.com/ownduck/dsh-custom-env) — Manage $DSH_HOME/.env from Settings; sync Host and Windows/macOS user env · ⭐1
 - [RyensX/dsh-message-navigation](https://github.com/RyensX/dsh-message-navigation) 💤 — 为DeepSeek Harness提供Codex风格用户消息导航栏。/ Provides a Codex-style user message navigation bar for DeepSeek Harness · ⭐1
-- [sumomok/dsh-plugins](https://github.com/sumomok/dsh-plugins) — DeepSeek Harness plugins by sumomok: quote earlier messages, edit & rerun a prompt, account balance & spend · ⭐1
+- [sumomok/dsh-plugins](https://github.com/sumomok/dsh-plugins) 💤 — DeepSeek Harness plugins by sumomok: quote earlier messages, edit & rerun a prompt, account balance & spend · ⭐1
 - [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐1
 - [wbushihenshuai-design/dsh-error-improvement](https://github.com/wbushihenshuai-design/dsh-error-improvement) — Standalone DSH plugin: user-confirmed anti-regression lessons for DeepSeek Harness · ⭐1
 - [AndyYang12345/dsh-dictation-hotkey](https://github.com/AndyYang12345/dsh-dictation-hotkey) — A hotkey binder plugin for dsh, allows user to bind specific keys to trigger dictation. · ⭐0
@@ -1786,7 +1820,7 @@
 - [Minokun/dsh-quota](https://github.com/Minokun/dsh-quota) — (no description) · ⭐7
 - [Yinxe/deepseek-harness-plugins](https://github.com/Yinxe/deepseek-harness-plugins) — DeepSeek Harness (DSH) plugins monorepo (pnpm + TypeScript) · ⭐7
 - [JasperPengC/agent-blackbox](https://github.com/JasperPengC/agent-blackbox) — AI 编程 agent 的飞行记录仪：本地优先，回放、归因与对比 DSH / Claude Code / Codex / ACP 会话。零运行时依赖，无遥测。 · ⭐6
-- [TencentCloud/cloudq-for-dsh](https://github.com/TencentCloud/cloudq-for-dsh) — CloudQ integration for DeepSeek Harness, providing multi-cloud architecture governance, AIOps, risk inspection, usage, artifacts, and archit · ⭐6
+- [TencentCloud/cloudq-for-dsh](https://github.com/TencentCloud/cloudq-for-dsh) 💤 — CloudQ integration for DeepSeek Harness, providing multi-cloud architecture governance, AIOps, risk inspection, usage, artifacts, and archit · ⭐6
 - [baiye1997/MEB-DSH](https://github.com/baiye1997/MEB-DSH) — 工程造价人的 DSH 工作台：台账、计算、图纸与项目助手。 · ⭐5
 - [fancr-code/dsh-plugin-usage-meter](https://github.com/fancr-code/dsh-plugin-usage-meter) — DeepSeek Harness 网页插件：API 用量/费用/余额仪表 — 当日/近7天按模型堆叠柱状图、预算提醒、跨会话账本。 · ⭐5
 - [mike-lee0120/dsh-cost-dashboard](https://github.com/mike-lee0120/dsh-cost-dashboard) — (no description) · ⭐5

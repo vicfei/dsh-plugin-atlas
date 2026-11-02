@@ -386,7 +386,7 @@
 - [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) — 跨工作区独立人格、自适应风格与陪伴预设：为项目和对话分别维护人格与确认后的通用偏好，支持任意 DSH 已注册模型的子代理路由（含通过其他插件接入的 Codex、Claude Code）。 · ⭐7
 - [Aegink/dsh-channel-qq](https://github.com/Aegink/dsh-channel-qq) — DeepSeek Harness 的 QQ 渠道插件（OneBot v11 / SnowLuma）：工具面、长期记忆、知识库、主动行为与管理后台 · ⭐6
 - [AngelosZou/dsh-pdf-reader](https://github.com/AngelosZou/dsh-pdf-reader) 💤 — DeepSeek Harness plugin for content-aware PDF reading by vision models · ⭐6
-- [ankesu/dsh-live2d-pet](https://github.com/ankesu/dsh-live2d-pet) — Live2D companion for DeepSeek Harness: render a Cubism model in the Web UI with state-driven expressions and mouse tracking. · DSH 桌宠的 Live2 · ⭐6
+- [ankesu/dsh-live2d-pet](https://github.com/ankesu/dsh-live2d-pet) 💤 — Live2D companion for DeepSeek Harness: render a Cubism model in the Web UI with state-driven expressions and mouse tracking. · DSH 桌宠的 Live2 · ⭐6
 - [BruceLanLan/dsh-tier-router](https://github.com/BruceLanLan/dsh-tier-router) — (no description) · ⭐6
 - [btsd321/dsh-remote-explorer](https://github.com/btsd321/dsh-remote-explorer) — Remote development launcher: install dsh on a remote host and use it from your local browser. LLM credentials never leave your machine. · ⭐6
 - [Cavan-Ou/hermes-dsh-collab](https://github.com/Cavan-Ou/hermes-dsh-collab) — Battle-tested multi-agent collaboration playbook for DeepSeek Harness: model-tier routing, spec discipline, git single-writer rule — as an i · ⭐6

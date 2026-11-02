@@ -263,7 +263,7 @@
 - [ryukeilee/dsh-evolution](https://github.com/ryukeilee/dsh-evolution) — DeepSeek DSH 的独立 Evolution bundle 预发布；promotion 的 host 代码不是安全沙箱。 · ⭐0
 - [S2P2/dsh-lab](https://github.com/S2P2/dsh-lab) — Personal DeepSeek Harness extension lab — plugins, Agent presets, and supporting research. · ⭐0
 - [sakka6868/dsh-prompt-optimize-plugin](https://github.com/sakka6868/dsh-prompt-optimize-plugin) 💤 — (no description) · ⭐0
-- [Samge0/dsh-plugin-nexterm](https://github.com/Samge0/dsh-plugin-nexterm) — 使用Nexterm进行批量运维的DeepSeek Harness插件 · ⭐0
+- [Samge0/dsh-plugin-nexterm](https://github.com/Samge0/dsh-plugin-nexterm) 💤 — 使用Nexterm进行批量运维的DeepSeek Harness插件 · ⭐0
 - [samsam560/chat-share-card](https://github.com/samsam560/chat-share-card) — 对话截图美化器（分享卡片）：一键把 AI 对话生成精美的分享卡片，支持自定义背景/字体/配色/圆角，导出 PNG · ⭐0
 - [samsam560/dog-kjdh](https://github.com/samsam560/dog-kjdh) — DeepSeek Harness 开场 / 退场动画插件：5 套纯代码自绘样式，也可以换成你自己的视频或动图；设置页可调速度、粒子、主色、文案。退场动画需要可选地打一次桌面壳补丁。 · ⭐0
 - [sandyyst/dsh-plugin-mermaid-gb-svg](https://github.com/sandyyst/dsh-plugin-mermaid-gb-svg) — DSH 插件：Mermaid 流程图 → GB/T 1526-1989（ISO 5807）国标流程图 SVG，符号合规、正交走线、超 A4/A3 自动分页 · ⭐0
@@ -502,7 +502,7 @@
 - [youchen-yc/dsh-heartprint](https://github.com/youchen-yc/dsh-heartprint) — 心印：AI 性格、情感 · ⭐0
 - [yq1930/dsh-skin-asuka-p01](https://github.com/yq1930/dsh-skin-asuka-p01) — (no description) · ⭐0
 - [YQing0123/dsh-artifact-center](https://github.com/YQing0123/dsh-artifact-center) — (no description) · ⭐0
-- [ystyle/dsh-tool-terminal-search](https://github.com/ystyle/dsh-tool-terminal-search) — A terminal_search tool plugin for DeepSeek Harness (dsh) · ⭐0
+- [ystyle/dsh-tool-terminal-search](https://github.com/ystyle/dsh-tool-terminal-search) 💤 — A terminal_search tool plugin for DeepSeek Harness (dsh) · ⭐0
 - [Yuanlang3/dsh-netease-music-plugin](https://github.com/Yuanlang3/dsh-netease-music-plugin) 💤 — dsh-netease-music-plugin · ⭐0
 - [YUAN-OVO66/dsh-plugin-persona](https://github.com/YUAN-OVO66/dsh-plugin-persona) — (no description) · ⭐0
 - [YUCONG-28/dsh-skills-plugins](https://github.com/YUCONG-28/dsh-skills-plugins) — (no description) · ⭐0

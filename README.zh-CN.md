@@ -4,7 +4,7 @@
 
 一张**每天自动刷新**的 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 插件生态地图:星数实时、60 天未更新自动标记 💤、已归档仓库自动除名。不是又一本静态精选——是数据本身在呼吸。
 
-- 刷新时间(UTC):**2026-11-02 05:52** · 条目:**12748**
+- 刷新时间(UTC):**2026-11-02 05:53** · 条目:**13031**
 - ★ = 本仓库维护者亲自背书的条目;💤 = 60 天未推送
 - 收录:加一行 `data/seed-slugs.txt` 提 PR 即可;分类由关键词自动推断,欢迎纠偏
 - 数据来源:GitHub API 实时元数据;种子链接集自 [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) 与 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 两个公开清单(致谢),条目描述取自各仓库自己的 GitHub description
@@ -17,26 +17,26 @@
 
 | # | plugin | stars | what it is |
 |---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 418k | Reverse engineer anything with agents, from app behavior dow |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 418.1k | Reverse engineer anything with agents, from app behavior dow |
 | 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 268.2k | DeepSeek Harness: Everything is a Plugin. |
-| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 92.3k | Turn any idea, plan, or codebase into a beautiful interactiv |
-| 4 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 57.6k | Hindsight: Agent Memory That Learns |
-| 5 | [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 55.7k | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash |
-| 6 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 55.6k | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash |
-| 7 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 41.3k | Self-evolving Context Database for AI Agents. Unify Agent Me |
-| 8 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | 39.7k | Integrate the DeepSeek API into popular software |
-| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36.2k | Open-source LLM knowledge platform: turn raw documents into  |
-| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 36k | A reliable coding agent for complex software engineering tas |
-| 11 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 34.4k | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 |
-| 12 | [titanwings/distilly](https://github.com/titanwings/distilly) | 26.3k | Distilly — Distill how they think into reusable Skills for a |
-| 13 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 21.9k | A curated list of plugins for DeepSeek Harness (dsh) · DeepS |
-| 14 | [voyager-crew/voyager](https://github.com/voyager-crew/voyager) | 20.5k | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & D |
-| 15 | [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) | 20.5k | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & D |
-| 16 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 17k | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
-| 17 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 12.2k | Self-evolving memory OS for LLM & AI Agents: ultra-persisten |
-| 18 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | 10.1k | The plugin market inside DeepSeek Harness — browse, search,  |
-| 19 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 9918 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek |
-| 20 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 9877 | Let AI agents use your real, logged-in browser without inter |
+| 3 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 105.3k | The 1st Collaborative AI Design Agent Workspace. Local-first |
+| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 92.3k | Turn any idea, plan, or codebase into a beautiful interactiv |
+| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 80.5k | 🌊 The original agent harness. Deploy intelligent multi-play |
+| 6 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 57.6k | Hindsight: Agent Memory That Learns |
+| 7 | [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 55.7k | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash |
+| 8 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 55.7k | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash |
+| 9 | [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | 45.2k | A one-of-a-kind resume builder that keeps your privacy in mi |
+| 10 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 41.3k | Self-evolving Context Database for AI Agents. Unify Agent Me |
+| 11 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | 39.7k | Integrate the DeepSeek API into popular software |
+| 12 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 36.5k | Draw and edit draw.io diagrams by chatting with an AI. Web a |
+| 13 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36.2k | Open-source LLM knowledge platform: turn raw documents into  |
+| 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 36k | A reliable coding agent for complex software engineering tas |
+| 15 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 35.3k | Prompt as Code / GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级 |
+| 16 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 34.4k | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 |
+| 17 | [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | 27.5k | :rocket: The Ultimate Image Uploader for Efficient Creators. |
+| 18 | [titanwings/distilly](https://github.com/titanwings/distilly) | 26.3k | Distilly — Distill how they think into reusable Skills for a |
+| 19 | [nocobase/nocobase](https://github.com/nocobase/nocobase) | 24.8k | NocoBase is an open-source AI + no-code platform for buildin |
+| 20 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 22.8k | Harness engineering beginner tutorial, from 0 to 1 |
 
 ## 周增榜
 

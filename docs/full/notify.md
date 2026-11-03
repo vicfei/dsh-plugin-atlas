@@ -2,9 +2,9 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐532
-- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐237
-- [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) — DeepSeek Harness 原生风格提示音插件 · ⭐33
+- [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐533
+- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐240
+- [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) — DeepSeek Harness 原生风格提示音插件 · ⭐34
 - [temotee2103/dsh-overdrive](https://github.com/temotee2103/dsh-overdrive) — The OpenClaw of DeepSeek Harness — turn DSH into a multi-platform chat agent with in-chat trajectory tracing, subagents & cron, and one-comm · ⭐23
 - [S3K926/dsh-selfwake](https://github.com/S3K926/dsh-selfwake) — DSH（DeepSeek Harness）插件：到点主动开口 —— 五道闸（间隔／安静／未回话上限／静默时段）过了就挑一条开口，优先投进活跃会话，投不进发系统通知 ＋ 写日志。MIT。 · ⭐21
 - [610la/dsh-notification-center](https://github.com/610la/dsh-notification-center) 💤 — DSH 通知中心插件：对话/任务完成、报错、等待批准等事件触发浏览器通知 + 21 种匹配音效 · ⭐15
@@ -18,13 +18,13 @@
 - [534119219/chicheng-push](https://github.com/534119219/chicheng-push) 💤 — DSH(DeepSeek Harness) Web 消息推送插件：多渠道推送(Server酱/PushPlus/Bark/钉钉/企微/Telegram/飞书/Webhook等)，设置界面提供「推送插件」入口，可被其他插件调用(pushNotifier 服务 / /push/api · ⭐7
 - [LoserFox/telegram](https://github.com/LoserFox/telegram) 💤 — Telegram Bot API 桥接插件：长轮询、per-chat 会话、HTML 格式化 · ⭐7
 - [MichengAI/dsh-codex-pet](https://github.com/MichengAI/dsh-codex-pet) — DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-b · ⭐6
+- [SciF-Lin/dsh-notify-sound-plus](https://github.com/SciF-Lin/dsh-notify-sound-plus) — DSH 提示音插件：任务完成/需要回答/需要授权/出错四类事件的 Web Audio 实时合成提示音，可在通用设置里逐事件选音、上传自定义音频，对话左下角有临时静音喇叭；兼容桌面端与网页端 · ⭐6
 - [534119219/chicheng-peak](https://github.com/534119219/chicheng-peak) 💤 — DSH 峰谷提醒插件：DeepSeek 官方峰谷时段感知——高峰橙/低峰蓝贴边呼吸边框、流光效果、服务端消息推送提醒（自定义标题内容）。Peak/valley breathing border + push reminder for DSH. · ⭐5
 - [AbcdefgXW/dsh-msg-hub](https://github.com/AbcdefgXW/dsh-msg-hub) — dsh IM 渠道桥：微信/QQ/飞书接入 + 主动推送 | IM channel bridge for dsh: WeChat/QQ/Feishu with proactive push · ⭐5
 - [gameswu/dsh-notifacation-frame](https://github.com/gameswu/dsh-notifacation-frame) — dsh通知消息统一管理框架 · ⭐5
 - [Laplace-bit/dsh-bell-notify](https://github.com/Laplace-bit/dsh-bell-notify) — Configurable, unobtrusive Web Audio lifecycle notifications for DeepSeek Harness (dsh): 10 events, custom sounds, offline playback. · ⭐5
 - [LitoMore/agent-discord-presence](https://github.com/LitoMore/agent-discord-presence) — Discord Rich Presence for Codex, Claude Code, OpenCode, Pi, and DeepSeek Harness, powered by one local service that keeps your active work v · ⭐5
 - [Pasumao/dsh-plugin-notify](https://github.com/Pasumao/dsh-plugin-notify) — dsh 生态唯一带系统托盘的 Windows 通知插件：agent 停止运行（完成/出错/等你选择等）自动弹原生 Toast，正文标注「工作区 · 会话」。Windows native toast + system tray for DeepSeek Harness (dsh). · ⭐5
-- [SciF-Lin/dsh-notify-sound-plus](https://github.com/SciF-Lin/dsh-notify-sound-plus) — DSH 提示音插件：任务完成/需要回答/需要授权/出错四类事件的 Web Audio 实时合成提示音，可在通用设置里逐事件选音、上传自定义音频，对话左下角有临时静音喇叭；兼容桌面端与网页端 · ⭐5
 - [YiMlT/dsh-notify-yimit](https://github.com/YiMlT/dsh-notify-yimit) — DeepSeek Harness 通知插件:在 **任务完成 / 任务出错 / 运行中 / 等待审批 / 等待回答** 时提醒用户。 通知标题为对话标题;系统通知与自定义通知均支持**点击跳转到对应会话**。 · ⭐5
 - [congchuanling-dot/DSH-Telegram-Relay](https://github.com/congchuanling-dot/DSH-Telegram-Relay) 💤 — DSH Relay 让你可以通过 Telegram 远程与 DeepSeek Harness 对话，并接收通知。DSH Relay turns Telegram into a remote conversation and notification channel for Dee · ⭐4
 - [Edge-Echo/dsh-win-toolkit](https://github.com/Edge-Echo/dsh-win-toolkit) — Windows-native capability pack for DeepSeek Harness (dsh): clipboard, notifications, hosts file, network diagnostics and more — safe PowerSh · ⭐4

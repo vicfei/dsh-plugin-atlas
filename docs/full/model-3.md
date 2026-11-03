@@ -1,7 +1,9 @@
-# Models & Providers — 1817 entries (part 3/3)
+# Models & Providers — 1819 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
+- [zirscard/dsh-office-audit](https://github.com/zirscard/dsh-office-audit) — Financial-model and workbook auditor for DeepSeek Harness: one office_audit tool that recalculates formulas with the bundled LibreOffice Kit · ⭐0
 - [zirscard/dsh-wind-finance](https://github.com/zirscard/dsh-wind-finance) — Wind financial-analysis capability as one standalone bundle: one wind_finance tool that routes a question to the right Wind data domain, exe · ⭐0
 - [zlwzk/dsh-friends](https://github.com/zlwzk/dsh-friends) — DSH whale friends: see whether your fellow DeepSeek Harness users are online and whether their model is running a task. Signatures, mood, po · ⭐0
 - [Zn-Dk/dsh-zhipu-toolkit](https://github.com/Zn-Dk/dsh-zhipu-toolkit) — Zhipu BigModel/GLM provider toolkit for DeepSeek Harness: dual-endpoint model catalog (Coding Plan + ordinary API), verified thinking-level  · ⭐0

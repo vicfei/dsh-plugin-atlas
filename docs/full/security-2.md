@@ -1,8 +1,7 @@
-# Security & Permissions — 1182 entries (part 2/2)
+# Security & Permissions — 1179 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [GoshawkGGGG/dsh-safe-tool](https://github.com/GoshawkGGGG/dsh-safe-tool) — DeepSeek Harness 的 AI 工具审批插件，使用AI审核AGENT调用工具的合规性并决定是否执行，审核标准可定制。 · ⭐0
 - [GreenLv/dsh-completion-guard](https://github.com/GreenLv/dsh-completion-guard) — Task-contract and completion-certification layer for DeepSeek Harness · ⭐0
 - [guanosine-diphosphate/dsh-retry-policy-settings](https://github.com/guanosine-diphosphate/dsh-retry-policy-settings) 💤 — (no description) · ⭐0
 - [guokecloud/dsh-session-janitor](https://github.com/guokecloud/dsh-session-janitor) — DSH session cleaner: a sidebar page listing session records and archive caches, with a restorable recycle bin and an in-use guard. · ⭐0
@@ -15,17 +14,15 @@
 - [having5548/dsh-notify](https://github.com/having5548/dsh-notify) — Universal notification plugin for DeepSeek Harness: in-app toasts, native Windows toasts, one-click approval from the action center · ⭐0
 - [havoc-rao/dsh-git-commit-agent](https://github.com/havoc-rao/dsh-git-commit-agent) — DSH plugin: a dedicated agent that plans exact Git commits from real repo state, binds approval to an immutable plan revision, and commits v · ⭐0
 - [hifengzy/dsh-sound-notify](https://github.com/hifengzy/dsh-sound-notify) — Sound notifications for DeepSeek Harness (DSH): play a sound when a task completes, fails, or waits for approval — with per-category switche · ⭐0
-- [hongbaiqi/dsh-model-account-login](https://github.com/hongbaiqi/dsh-model-account-login) — Persistent DSH model-account authorization UI for ChatGPT, Claude, and other llm-pi-ai login flows · ⭐0
+- [hongbaiqi/dsh-model-account-login](https://github.com/hongbaiqi/dsh-model-account-login) 💤 — Persistent DSH model-account authorization UI for ChatGPT, Claude, and other llm-pi-ai login flows · ⭐0
 - [hsiu1214/dsh-a2a-notify](https://github.com/hsiu1214/dsh-a2a-notify) — Windows balloon notifications for DSH session lifecycle events across all workspaces - headless/A2A aware, sandbox-piercing dispatch. DeepSe · ⭐0
 - [hulibuld/dsh-gitdeck](https://github.com/hulibuld/dsh-gitdeck) — 在 DSH 里连接 GitHub 账号：建仓库、传文件、改代码、读 PR / Actions。OAuth 设备流与 Token 两种接法，只读模式与调用留痕。 · ⭐0
 - [huohua-dev/dsh-compaction-policy](https://github.com/huohua-dev/dsh-compaction-policy) — A lightweight compaction policy plugin for DeepSeek Harness: capped output reservation, useful-range selection, and no-progress retry guards · ⭐0
-- [IamNewHands/dsh-approval-gate](https://github.com/IamNewHands/dsh-approval-gate) — DeepSeek Harness 自动审批门控：Flash 预判不可回补操作，安全自动批准、危险转人工（fail-safe） · ⭐0
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) 💤 — Post-compaction premise-drift guard plugin for DeepSeek Harness: after a compaction summary drops a critical literal anchor it injects a one · ⭐0
 - [ice5kysl/dsh-plugin-health](https://github.com/ice5kysl/dsh-plugin-health) — Zero-dependency health-check CLI for DeepSeek Harness (dsh) plugins: manifest/npm/repo/docs checks + read-only-surface security scan. 零依赖的 d · ⭐0
 - [IDKURLOVE/dsh-reset-button](https://github.com/IDKURLOVE/dsh-reset-button) — One-click Restart button for DSH (DeepSeek Harness): relaunch from the composer toolbar, right beside the permission control - no more closi · ⭐0
 - [IFIAnder/dsh-loose-review](https://github.com/IFIAnder/dsh-loose-review) — DSH 插件：「自动审查（宽松）」权限预设 —— 破坏性命令执行前做窄模型审查，执行中检测到大量删除会熔断 · ⭐0
 - [intsig-textin/dsh-plugin-xparse](https://github.com/intsig-textin/dsh-plugin-xparse) — TextIn xParse document parsing tool and skill for DeepSeek Harness, with multi-document tasks, OAuth/AppKey authentication, and paid-operati · ⭐0
-- [irisblackwood/focus-guard](https://github.com/irisblackwood/focus-guard) — Hook-level guardrails for DSH: blocks unverified edits, high-risk commands, and context-burning reads, with an auditable trail for every blo · ⭐0
 - [iStarryDust/dsh-skill-suite](https://github.com/iStarryDust/dsh-skill-suite) — Skill management for the DeepSeek Harness: the Skills page (browse, toggle, edit, create, delete) over the user skill root, the save_skill a · ⭐0
 - [JackAIStudio/dsh-grok-oauth](https://github.com/JackAIStudio/dsh-grok-oauth) — Grok (xAI) subscription provider for DeepSeek Harness: PKCE login, chat, usage chip, optional Imagine · ⭐0
 - [Jacobinwwey/dsh-NotEMD](https://github.com/Jacobinwwey/dsh-NotEMD) — Portable NoteMD workflow bundle for DeepSeek Harness: approval-gated markdown automation, knowledge indexing, diagrams, SVG previews, and Sl · ⭐0
@@ -118,7 +115,6 @@
 - [PangYiMing/dsh-port-guard](https://github.com/PangYiMing/dsh-port-guard) 💤 — DSH plugin: triage port conflicts (reuse / switch / precise kill) — 端口占用处置 · ⭐0
 - [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) — [FROZEN 2026-10-31] Read-only MCP server over the dsh-plugin-certification registry: get_certification, list_certified, certification_spec. · ⭐0
 - [PerryLink/dsh-guard-plan-qc](https://github.com/PerryLink/dsh-guard-plan-qc) — DeepSeek Harness 插件 — 保卫方案核对：依据《个体防护装备配备规范》。仅提示差异，不作出定性结论。 · ⭐0
-- [PerryLink/dsh-plugin-certification](https://github.com/PerryLink/dsh-plugin-certification) — Community certification spec and registry for DeepSeek Harness plugins: five machine-checkable dimensions, A-D grades, and a security veto. · ⭐0
 - [PerryLink/dsh-policy-brief-draft](https://github.com/PerryLink/dsh-policy-brief-draft) — DeepSeek Harness 插件 — 政策简报核对：依据《党政机关公文处理工作条例》。仅提示差异，不作出定性结论。 · ⭐0
 - [Phocinae/dsh-phocinae](https://github.com/Phocinae/dsh-phocinae) — Phocinae decision plugin bundle for DeepSeek Harness (dsh): phocinae_ask tool + approval gate · ⭐0
 - [Physicolor/dsh-design-resources](https://github.com/Physicolor/dsh-design-resources) — DeepSeek Design Resources — the interface spec, the reusable-source knowledge base and a live component gallery for DeepSeek Harness plugin  · ⭐0
@@ -268,6 +264,7 @@
 - [zhangmiao03/cloakpack](https://github.com/zhangmiao03/cloakpack) — Safety-pack your secrets before they leave the machine: a git pre-push guard that blocks credential leaks, plus one-command pack/unpack. Bui · ⭐0
 - [zhangnan/dsh-chatgpt-oauth](https://github.com/zhangnan/dsh-chatgpt-oauth) — ChatGPT OAuth login and Codex usage for DeepSeek Harness · ⭐0
 - [zhangxiubo/dsh-llm-chatgpt-oauth](https://github.com/zhangxiubo/dsh-llm-chatgpt-oauth) 💤 — ChatGPT Plus/Pro OAuth model provider for DeepSeek Harness using pi-ai openai-codex. · ⭐0
+- [zhangyuzhangyu233/dsh-windows-notification](https://github.com/zhangyuzhangyu233/dsh-windows-notification) — Native Windows toast notifications for DeepSeek Harness (DSH): smart turn summaries, actionable approvals and agent-question options under t · ⭐0
 - [zhao-wuyan/dsh-maestro-runtime](https://github.com/zhao-wuyan/dsh-maestro-runtime) 💤 — DSH host plugin for maestro-flow: guard, context, KG sync, delegate/team/coordinator runtime · ⭐0
 - [zhaoxuejie/dsh-plugin-tool-guard](https://github.com/zhaoxuejie/dsh-plugin-tool-guard) — DeepSeek Harness 工具调用安全守卫（防火墙）插件：危险命令拦截、路径白名单、敏感文件黑名单、人工审批与审计 · ⭐0
 - [zhchxiao123/dsh-devflow-plugins](https://github.com/zhchxiao123/dsh-devflow-plugins) — File-backed development workflow for DeepSeek Harness: durable cards, artifact and agent checks, human approvals, and a read-only web board. · ⭐0

@@ -2,7 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — Одиннадцать маркетплейсов и недвижимость Циан как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мег · ⭐170
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — Одиннадцать маркетплейсов и недвижимость Циан как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мег · ⭐171
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — 一个能帮你省钱的插件！缓存其实比你想象的贵！换窗口可以省缓存钱，但换窗口有顾虑，或许你懒得重新描述项目和规则，或者你还需要那个上下文。所以这个插件，就是为了告诉你，当前轮，纯粹上下文缓存的部分，到底花了你多少钱。这样你才心里有个底，判断什么时候该换窗口。 在dsh-plugin标 · ⭐49
 - [Cassius0924/dsh-usage-dashboard](https://github.com/Cassius0924/dsh-usage-dashboard) — DeepSeek 额度与用量仪表盘 — DSH (DeepSeek Harness) 动态 Cordis 插件 · ⭐11
 - [Xenia0922/dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) 💤 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) · ⭐11
@@ -43,6 +43,7 @@
 - [ddtcorex/dsh-maestro-dashboard](https://github.com/ddtcorex/dsh-maestro-dashboard) — Maestro Dashboard — unified Control Center (Overview/Plugins/Usage) DSH-native · ⭐1
 - [gao-gao-zai/http-request-dsh-plugin](https://github.com/gao-gao-zai/http-request-dsh-plugin) 💤 — Native DSH HTTP request plugin with configurable credential whitelist and usage skill · ⭐1
 - [guojinpeng/dsh-cost-meter](https://github.com/guojinpeng/dsh-cost-meter) — 极简匹配DSH官方风格的计费卡片. 会话与轮次费用估算插件，支持多价格源、模型独立币种和 DeepSeek 峰谷计费。 · ⭐1
+- [hojas/dsh-price-tip](https://github.com/hojas/dsh-price-tip) — DeepSeek Harness 侧栏的 API 价格时段提醒：当前处于空闲时段还是高峰时段、距离切换还有多久，以及当前生效的价目表。 · ⭐1
 - [hoyyang/dsh-agent-billing](https://github.com/hoyyang/dsh-agent-billing) — Agent billing & usage observability for DeepSeek Harness — 会话日志直扫记账 / per-window 实时徽标 / 多账号费率档案 / 预算告警 · ⭐1
 - [kobenfang/BigFocus](https://github.com/kobenfang/BigFocus) 💤 — 🎯 BigFocus 追踪管家 - 商品价格/明星动态/行业追踪 | Price tracking, monitoring, alerts · ⭐1
 - [Lateautumns/ds-balance](https://github.com/Lateautumns/ds-balance) 💤 — (no description) · ⭐1
@@ -67,7 +68,6 @@
 - [davidgereb/dsh-plugin-cost-lens](https://github.com/davidgereb/dsh-plugin-cost-lens) 💤 — Cost overview, peak/off-peak hours indicator, balance on dashboard, off-peak scheduling for DeepSeek Harness. · ⭐0
 - [ErrorLst/dsh-deepseek-quota](https://github.com/ErrorLst/dsh-deepseek-quota) — (no description) · ⭐0
 - [Hann428/dsh-hann-usage-dashboard](https://github.com/Hann428/dsh-hann-usage-dashboard) — DeepSeek Harness Usage tab for balance, official peak/off-peak pricing, live countdown, and platform usage link. · ⭐0
-- [hojas/dsh-price-tip](https://github.com/hojas/dsh-price-tip) — DeepSeek Harness 侧栏的 API 价格时段提醒：当前处于空闲时段还是高峰时段、距离切换还有多久，以及当前生效的价目表。 · ⭐0
 - [Hongcheng-LI/dsh-magpie](https://github.com/Hongcheng-LI/dsh-magpie) — DSH plugin: Magpie gateway quotas in your composer — subscription windows, prepaid balances, relay stations. 输入框里看 Magpie 全部账号额度与用量 · ⭐0
 - [hsthanb4/dsh-magpie-usage](https://github.com/hsthanb4/dsh-magpie-usage) — DeepSeek Harness (DSH) 插件：将 Magpie 本地网关的用量与配额进度圆环嵌入 DSH 输入框底部状态栏（与上下文比例并列） · ⭐0
 - [i1537725423-dotcom/dsh-plugin-task-budget](https://github.com/i1537725423-dotcom/dsh-plugin-task-budget) — 任务预算：给 DeepSeek Harness 每一轮对话设人民币花费上限，默认 5 元，到线即停。 · ⭐0

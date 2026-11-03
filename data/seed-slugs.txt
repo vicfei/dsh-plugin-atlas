@@ -1913,6 +1913,7 @@ GodD6366/dsh-sub2api
 Godners-Code/dao-zang-skill
 GoldVelen/DuraSH
 Golden-Pigeon/dsh-remote
+GoldenLoaf24h/browserpaw
 GoldenLoaf24h/dsh-prompt-suggestion
 GoldenZqqq/dsh-model-collapse
 GooDAnDReaDY/dsh-agent-loop-guard
@@ -4093,6 +4094,7 @@ RockingSisyphus/dsh-focus-supervisor
 RoderickWilliams/dsh-local-3d-studio
 RoderickWilliams/dsh-picture-text-reader
 RogueServitor-495/dsh-desktop
+Roland0511/dsh-marktext
 Romebody/dsh-docx-format
 Ronnie-Young/dsh-scnet-plan
 Root-7-KHX/companion-memory
@@ -5720,6 +5722,7 @@ alaxrpg/dsh-llm-approve-for-me
 alaxrpg/dsh-vision-bridge
 albertgranados/dsh-run-environment
 alccs/dsh-visual-intelligence-engine
+alchaincyf/nuwa-skill
 alcheme-labs/dsh-experience-map
 alchemistwu/dsh-tool-call-guard
 alcohol-101/dsh-gif-background
@@ -9331,6 +9334,7 @@ lordraiden/dsh-9router-web-search
 lornwolf/dsh-claude-subscription
 lory69060/cn-intel-board
 lory69060/cn-intel-mcp-dsh
+losebird/dsh-plugin-market
 loshanvren/dsh-codex-reset-tracker
 loudMore/dsh-drop-to-path
 loudMore/dsh-launcher
@@ -10412,6 +10416,7 @@ po-et/dsh-session-guard
 po-et/dsh-session-rescue
 po-et/dsh-session-snapshot
 po-et/dsh-sheet-diff
+poco-ai/Agentero
 pointer-a/dsh-server-login
 poiuyjie/dsh-md-preview
 poiuyjie/dsh-vision-opencode
@@ -12876,6 +12881,7 @@ yjh051108/dsh-router-standard
 yjh051108/dsh-routing-suite
 yjh051108/dsh-super-injector
 yjh051108/fengcha-2.0
+yjl9903/AnimeGarden
 yjrqz777/dsh-qqbot-lite
 yk1288/dsh-opencode-go-usage
 ylw-ux/dsh-pins-fixtool

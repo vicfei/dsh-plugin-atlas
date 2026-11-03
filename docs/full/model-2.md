@@ -1,7 +1,12 @@
-# Models & Providers — 1817 entries (part 2/3)
+# Models & Providers — 1819 entries (part 2/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [agent-mobile/dsh-speech](https://github.com/agent-mobile/dsh-speech) — Speech plugin for the DeepSeek Harness (dsh) web host: ASR, TTS and realtime transcription over pluggable providers · ⭐1
+- [ai-v5/LLMAgentChatRoom](https://github.com/ai-v5/LLMAgentChatRoom) — Local multi-agent chat room · ⭐1
+- [ai-v5/LLMDSHPlugin_token-usage](https://github.com/ai-v5/LLMDSHPlugin_token-usage) — 仅本地、只读、不上传的 DSH Token 面板；按 provider 实际 usage 统计，所有后端统一汇总，含历史总量、365 天热力图、输入+输出/缓存明细、轮次/步骤、tok/s，归档不丢。 · ⭐1
+- [alloevil/dsh-xray](https://github.com/alloevil/dsh-xray) — X-ray for your DeepSeek Harness: context-tax attribution, entry inspection, dependency cascades · ⭐1
+- [ankye/dsh-client-vision](https://github.com/ankye/dsh-client-vision) — Give your DeepSeek Harness agent eyes. dsh-client-vision is a screen-capture + external image-recognition plugin for DeepSeek Harness: the a · ⭐1
 - [anonRTtty/dsh-api-balance-displayer-plugin](https://github.com/anonRTtty/dsh-api-balance-displayer-plugin) 💤 — DeepSeek API 余额显示插件 / DeepSeek API balance display for DeepSeek Harness · ⭐1
 - [aooyoo/dsh-web-search-ddg](https://github.com/aooyoo/dsh-web-search-ddg) — Zero-token DuckDuckGo search provider for the DeepSeek Harness (DSH) web seam — local headless browser, no API key, no model billing · ⭐1
 - [aorucshiea/dsh-safe-tui](https://github.com/aorucshiea/dsh-safe-tui) — DeepSeek Harness safe-mode recovery console: minimal TUI, history, repair, model/provider management · ⭐1
@@ -26,7 +31,7 @@
 - [ChanceFlow/deepseek-harness-app](https://github.com/ChanceFlow/deepseek-harness-app) — Flutter client for DeepSeek Harness (dsh): chat, workspaces, models, goals and subagents on Android — talks to an unmodified dsh web backend · ⭐1
 - [chang416/deepsee](https://github.com/chang416/deepsee) — Vision + smart model routing for DeepSeek Harness. Gemini sees. DeepSeek codes. · ⭐1
 - [chaochaokongbai/dsh-beginner-hub](https://github.com/chaochaokongbai/dsh-beginner-hub) — 🧭 DSH新手台：大白话输入需求 → 路由成可直接用的方案（话术/技能/进阶玩法），一键填入新会话 · ⭐1
-- [chenjie1129/deepseek-harness-reliability-governor](https://github.com/chenjie1129/deepseek-harness-reliability-governor) — Evidence-gated completion and trusted code verification for DeepSeek Harness agents · ⭐1
+- [chenjie1129/deepseek-harness-reliability-governor](https://github.com/chenjie1129/deepseek-harness-reliability-governor) 💤 — Evidence-gated completion and trusted code verification for DeepSeek Harness agents · ⭐1
 - [chenyinrusi/dsh-llm-cost](https://github.com/chenyinrusi/dsh-llm-cost) 💤 — Per-turn, per-step LLM cost metering for DeepSeek Harness - costUsage projection, per-message cost line, and an LLM+web price auto-maintenan · ⭐1
 - [chimneyQ/dsh-model-rotator](https://github.com/chimneyQ/dsh-model-rotator) — Model auto-ranking and transparent failover for DeepSeek Harness: ranks discovered models by measured connectivity and speed, switches to th · ⭐1
 - [Chlyz621/dsh-unstuck](https://github.com/Chlyz621/dsh-unstuck) — Auto-recovery for DeepSeek Harness: continues turns that ended abnormally or were swallowed into plain text, and revives stalled model reque · ⭐1
@@ -44,6 +49,7 @@
 - [dat-lequoc/dsh-subagent-model](https://github.com/dat-lequoc/dsh-subagent-model) — A minimal, opinionated subagent for DeepSeek Harness: you choose which models a child may run on and at which reasoning effort, and a correc · ⭐1
 - [Dclef/dsh-cursor-dev](https://github.com/Dclef/dsh-cursor-dev) — Run the Cursor CLI as a DSH child coding agent: per-task model choice, conversation continuity across restarts, live progress and real diffs · ⭐1
 - [DDDFXYqiming/pi-pseudo-vision](https://github.com/DDDFXYqiming/pi-pseudo-vision) — Local OCR + color-statistics + pixel-scan + metadata bridge for text-only Pi Coding Agent models. Pi port of dsh-pseudo-vision, no external  · ⭐1
+- [DDL095/dsh-moa-native](https://github.com/DDL095/dsh-moa-native) — Many models draft, one executes for DeepSeek Harness. · ⭐1
 - [ddtcorex/dsh-maestro-notifier](https://github.com/ddtcorex/dsh-maestro-notifier) — Maestro Notifier — pluggable notifier service for DeepSeek Harness (Telegram first; registry open to further providers) · ⭐1
 - [DenAbr/dsh-compact-selected-model](https://github.com/DenAbr/dsh-compact-selected-model) — DeepSeek Harness plugin: /compact uses the currently selected model, not the one that finished the last turn · ⭐1
 - [DeZhou123/dsh-model-orchestrator](https://github.com/DeZhou123/dsh-model-orchestrator) — DSH 插件：两级模型调度（先选模型、再选渠道；失败先换渠道再换模型），带偏好模式与实时渠道健康面板。与 dsh-our-free-model 配合使用（单向适配、非官方）：只读它写在本机的渠道账本作旁证，不改它、也不要求它为本插件做任何改动；两者零代码依赖，不装 OFM 也能完 · ⭐1
@@ -95,11 +101,11 @@
 - [iceBear662/dsh-vision-edge-doubao](https://github.com/iceBear662/dsh-vision-edge-doubao) 💤 — DeepSeek Harness（DSH）视觉插件：Edge+豆包网页版识图，零成本免 API Key。通用识图 + 数学建模图专项（几何/流程图/图表/表格/公式）+ 不确定项澄清闭环。Vision plugin for DeepSeek Harness: image unde · ⭐1
 - [igormel81/dsh-chat-cost](https://github.com/igormel81/dsh-chat-cost) — DeepSeek Harness (dsh) plugin: live token cost of every chat, its subagents and the whole session tree — DeepSeek, OpenAI, Anthropic, Gemini · ⭐1
 - [imchangchang/dsh-llm-provider](https://github.com/imchangchang/dsh-llm-provider) — dsh LLM provider plugin: self-maintained pi-ai bridge, model selector, provider quota/billing and settings UI for DeepSeek Harness · ⭐1
-- [irerc/dsh-deepseek-web](https://github.com/irerc/dsh-deepseek-web) — DSH 插件：把 chat.deepseek.com 网页版包成 OpenAI 兼容接口（无浏览器直连、多账号、自带设置界面） · ⭐1
 - [ishuowang/dsh-sideband](https://github.com/ishuowang/dsh-sideband) 💤 — Async LLM context relay between DeepSeek Harness sessions and Agent Team Rooms · ⭐1
 - [ising-tech/isingq-toolkit](https://github.com/ising-tech/isingq-toolkit) — IsingQ toolkit for MCP and DeepSeek Harness: guided QUBO modeling, local validation, and user-confirmed solving. 面向 MCP 与原生 Agent 的 QUBO 建模与 · ⭐1
 - [itchenshi/dsh-gateway-models](https://github.com/itchenshi/dsh-gateway-models) — DeepSeek Harness plugin for gateway routes: declares the OpenCode Go and Command Code route protocol + endpoint (so the API address never ha · ⭐1
 - [itr-del/dsh-feishu](https://github.com/itr-del/dsh-feishu) — Feishu (Lark) IM bridge for DeepSeek Harness (dsh) — a cordis plugin · ⭐1
+- [iwinoid/fakeip-compat](https://github.com/iwinoid/fakeip-compat) — Fake-IP-aware web.fetch provider for TUN (Mihomo/Clash) DNS environments plus pinned LAN CIDR access · ⭐1
 - [jacjackai/dsh-control](https://github.com/jacjackai/dsh-control) — Let AI agents operate DeepSeek Harness (DSH) — workspace/session control, task cards, multi-model fanout review. Community skill, not offici · ⭐1
 - [jacujay/dsh-model-balance](https://github.com/jacujay/dsh-model-balance) 💤 — DSH plugin: auto-detect current model vendor and show balance/quota in the composer input row (DeepSeek/Moonshot/MiniMax/StepFun/Zhipu/Silic · ⭐1
 - [janpauldahlke/dsh-gpu-monitor-nvml](https://github.com/janpauldahlke/dsh-gpu-monitor-nvml) — DeepSeek Harness (dsh) plugin: live NVIDIA GPU monitor in the web rightbar. NVML-first on Linux (nvidia-smi fallback). NVIDIA only! Not AMD/ · ⭐1
@@ -178,7 +184,6 @@
 - [MYCF711/dsh-GOkifu-compact](https://github.com/MYCF711/dsh-GOkifu-compact) — DSH 的棋谱式上下文压缩后端：增量 fold + 失败记忆 + 置换检测，每步只注入约 323 tokens 的热清单 · ⭐1
 - [my-dsh/dsh-web-search-tavily](https://github.com/my-dsh/dsh-web-search-tavily) 💤 — Tavily web-search provider plugin for DeepSeek Harness (dsh) — registers into ctx.web so the model-facing web_search tool uses Tavily · ⭐1
 - [NagasakiSoyo-ui/dsh-llm-deepseek-vision](https://github.com/NagasakiSoyo-ui/dsh-llm-deepseek-vision) 💤 — Vision-augmented DeepSeek adapter plugin for DeepSeek Harness: a vision-capable model describes image input, then a text-only DeepSeek model · ⭐1
-- [NekoDD-wow/dsh-prefill-plugin](https://github.com/NekoDD-wow/dsh-prefill-plugin) — DSH（DeepSeek Harness）Web 端预填装插件：系统提示改写、开场对话、每轮注入自动收放、角色卡、预设整体保存/套用 · ⭐1
 - [NewSpringWei/dsh-subagent-acp-ui](https://github.com/NewSpringWei/dsh-subagent-acp-ui) — 基于官方 ACP provider 接入任意 ACP agent，提供配置页、握手测试与路由 skill。 · ⭐1
 - [nineknineTK/dsh-plugin-geo3d-modeling](https://github.com/nineknineTK/dsh-plugin-geo3d-modeling) — (no description) · ⭐1
 - [Noemm/dsh-web-search-glm](https://github.com/Noemm/dsh-web-search-glm) 💤 — Zhipu GLM search provider for the DeepSeek Harness (dsh) web seam — native web_search via the Anthropic-compatible API · ⭐1
@@ -194,6 +199,7 @@
 - [orfeomorello/dsh-websearch-stack](https://github.com/orfeomorello/dsh-websearch-stack) — Keyless-default web search for DeepSeek Harness (dsh): one provider on the ctx.web seam running an ordered fallback chain over Tavily (keyle · ⭐1
 - [ovdoesw/dsh-xiangqi](https://github.com/ovdoesw/dsh-xiangqi) — DSH 中国象棋消遣插件：卡通小宠物邀请你在 AI 思考间隙下棋，内置引擎 + 中文记谱 + LLM 点评 · ⭐1
 - [OwenZhao9/inside-deepseek-harness](https://github.com/OwenZhao9/inside-deepseek-harness) 💤 — 《深入浅出 DeepSeek Harness》／ Inside DeepSeek Harness —— 21 篇，7.7 万字，截图与数字均来自真实运行 · ⭐1
+- [oxlyn/dsh-model-health](https://github.com/oxlyn/dsh-model-health) — dsh model health status check · ⭐1
 - [Pappet/dsh-tool-imagegen](https://github.com/Pappet/dsh-tool-imagegen) 💤 — Text-to-image and image-to-image generation for DeepSeek Harness via OpenRouter's unified Image API, with capability-gated parameters · ⭐1
 - [PartinGQAQ/dsh-web-search-zhipu](https://github.com/PartinGQAQ/dsh-web-search-zhipu) 💤 — GLM (Zhipu bigmodel) web search provider for DeepSeek Harness: native web_search via the Anthropic-compatible Messages API · ⭐1
 - [pc439527/dsh-model-provider](https://github.com/pc439527/dsh-model-provider) 💤 — DeepSeek Harness Model Selector UX Enhancement Plugin: show each model's provider (providerId:modelId identity, provider-grouped catalog, sh · ⭐1
@@ -253,6 +259,7 @@
 - [swyc520/dsh-plugin-model-whitelist](https://github.com/swyc520/dsh-plugin-model-whitelist) — DeepSeek Harness (dsh) 插件：在「设置 → 模型」里逐个勾选要显示的模型，未勾选的从模型选择器菜单中隐藏。 · ⭐1
 - [sybolization/agent-jit](https://github.com/sybolization/agent-jit) 💤 — DeepSeek Harness (dsh) 插件：把 LLM agent loop 中确定性的执行路径编译成 DSL 程序并直接执行，显著降低 token、往返轮次与上下文暴露。A DeepSeek Harness plugin that compiles determinis · ⭐1
 - [SYXliuliuliu/dsh-apply-model-all](https://github.com/SYXliuliuliu/dsh-apply-model-all) — Apply the current session's model to every other session in one click, from a control beside the composer's model picker. · ⭐1
+- [takboo/dsh-usage-state](https://github.com/takboo/dsh-usage-state) — DSH plugin: show account balance (API mode) or coding-plan quota usage (5h/7d) for the model in use · ⭐1
 - [tang-bugu/dsh-connect-qwenwork](https://github.com/tang-bugu/dsh-connect-qwenwork) — 把千问办公（QwenWork）接入 DeepSeek Harness：读取本机已登录的会话，在 127.0.0.1 起一个 OpenAI 兼容回环桥，把 DSH 的模型请求翻译成千问办公的 ACP 会话协议。 · ⭐1
 - [tbxy09/dsh-replay-lab](https://github.com/tbxy09/dsh-replay-lab) 💤 — Controlled request-surface replay and regression workbench for DeepSeek Harness · ⭐1
 - [tchivs/agentsw](https://github.com/tchivs/agentsw) — CLI provider switcher for coding agents: manage OpenAI/Anthropic-protocol providers in one place and sync them, with models.dev metadata, in · ⭐1
@@ -262,6 +269,7 @@
 - [thedeveloper256/dsh-model-router](https://github.com/thedeveloper256/dsh-model-router) — DeepSeek Harness plugin: role-based model routing — planner (root agent) on deepseek-v4-pro, delegated executor subagents on deepseek-v4-fla · ⭐1
 - [TheFool-TAROT/dsh-brain-hands](https://github.com/TheFool-TAROT/dsh-brain-hands) — Brain + Hands for DeepSeek Harness: one orchestrator model plans, named hands run on their own (often free) models. Auto-injects shared proj · ⭐1
 - [Timmononon/dsh-model-usage](https://github.com/Timmononon/dsh-model-usage) 💤 — DeepSeek Harness 本地模型用量统计与成本仪表盘 · ⭐1
+- [tkliuxing/dsh-video-forge](https://github.com/tkliuxing/dsh-video-forge) — Online-model video generation for DeepSeek Harness: three model tools, a durable provider-task ledger that survives restarts, live chat card · ⭐1
 - [toddpan/dsh-xiaozhi](https://github.com/toddpan/dsh-xiaozhi) — 把小智（Xiaozhi.me）语音助手接入 DSH Web：DSH 作为 MCP 工具提供方，把 35 个 DSH Web 接口封装成 16 个语音友好工具，自带 DSH Web 设置页。 · Connect the Xiaozhi voice assistant to DSH  · ⭐1
 - [Travizm/dsh-openai-live](https://github.com/Travizm/dsh-openai-live) — Full-duplex voice for DeepSeek Harness: a realtime capability seam, a GPT-Live-1 adapter, and a keyless replay backend. · ⭐1
 - [TT-Wang/dsh-eval-infra](https://github.com/TT-Wang/dsh-eval-infra) — Paired A/B evaluation infrastructure for DeepSeek Harness (dsh) components: interleaved repeated runs through the real runtime, verifier sel · ⭐1
@@ -299,6 +307,7 @@
 - [xiaokaizhou/dsh-llm-multimodal](https://github.com/xiaokaizhou/dsh-llm-multimodal) — DSH 插件：在聊天中提供图像/视频生成工具，基于 OpenAI 兼容 API · ⭐1
 - [xie129716/computer-user-vision](https://github.com/xie129716/computer-user-vision) — Unofficial fork of computer-user: fixes the silent load failure on DSH >= 0.1.2, and returns screenshots as real images to vision models wit · ⭐1
 - [xinghe-1018/dsh-token-plan-quota](https://github.com/xinghe-1018/dsh-token-plan-quota) — 跟随当前模型供应商的额度徽标：DeepSeek、千问 Token Plan、阿里云费用中心取官方真值，Moonshot / OpenRouter 已接官方端点但字段未用真 Key 核对；其余只报本实例实测。不折算 Credits、不估算余量。 · ⭐1
+- [xkjxziochu/dsh-input-optimizer](https://github.com/xkjxziochu/dsh-input-optimizer) — Standalone dsh plugin: rewrite the composer draft into a better prompt through the harness's own LLM routes, with an original/optimized comp · ⭐1
 - [yijiezhong/dsh-output-setting](https://github.com/yijiezhong/dsh-output-setting) — DSH output settings plugin: auto-expand reasoning/tool nodes, code block font size & line height, model output language (auto/Chinese/Englis · ⭐1
 - [yinsang0910-star/dsh-feishu](https://github.com/yinsang0910-star/dsh-feishu) — 把飞书变成 DeepSeek Harness 的操作界面：36 个工具的 MCP server + 长连接机器人 + 卡片网关。真发文件、读会话上下文、停下来等人拍板、进度卡片原地刷新，不需要公网 IP。 · ⭐1
 - [YiShan-X/dsh-control-panel](https://github.com/YiShan-X/dsh-control-panel) — DSH desktop control panel: toggle the skills and MCP servers that cost tokens on every model request. Live soft-routes your existing cc-swit · ⭐1
@@ -323,7 +332,6 @@
 - [zdt3476/dsh-metrics](https://github.com/zdt3476/dsh-metrics) — DeepSeek Harness 的 Token 用量与成本看板：按模型/供应商/项目/会话统计调用与缓存命中，接入 OpenRouter 单价估算成本 · ⭐1
 - [ZelotsNullzwei/whale-pod](https://github.com/ZelotsNullzwei/whale-pod) — DSH 插件：给 QQ 群加个会看场合的聊天机器人（NapCat 协议端 + OneBot v11 + LLM 网关） · ⭐1
 - [Zeno2019/dsh-flightdeck](https://github.com/Zeno2019/dsh-flightdeck) 💤 — Electron desktop launcher for DeepSeek Harness, bundling a pinned DSH runtime and curated plugins for Windows and macOS. · ⭐1
-- [zenVibeCoding/dsh-ai-gateway-provider](https://github.com/zenVibeCoding/dsh-ai-gateway-provider) — Any OpenAI-compatible gateway for DeepSeek Harness: probe, save, manage models; known backends report quota. · ⭐1
 - [zenVibeCoding/dsh-newapi-provider](https://github.com/zenVibeCoding/dsh-newapi-provider) — New API gateway for DeepSeek Harness: multi-channel models, quota, image and video generation · ⭐1
 - [zer0zio-stack/dsh-opencode-go-quota](https://github.com/zer0zio-stack/dsh-opencode-go-quota) 💤 — DeepSeek Harness web plugin: on-expand quota badge for the active model provider (OpenCode Go plan limits, DeepSeek balance) with pricing-ba · ⭐1
 - [ZeroingIn/dsh-provider-billing](https://github.com/ZeroingIn/dsh-provider-billing) 💤 — DeepSeek Harness plugin: provider account balance inside each Models settings row, queried through a loopback-pinned RPC channel with the st · ⭐1
@@ -457,7 +465,6 @@
 - [dariorapisardi/parlor-mcp](https://github.com/dariorapisardi/parlor-mcp) — Remote MCP server for parlor.sh rooms, for web chats that cannot make HTTP requests · ⭐0
 - [Dax233/dsh-provider-aliases](https://github.com/Dax233/dsh-provider-aliases) — DeepSeek Harness pi-ai route aliases: multiple credential routes over one installed catalog (e.g. several OpenCode Go plans) plus a Model al · ⭐0
 - [Dclef/dsh-agent-foreman](https://github.com/Dclef/dsh-agent-foreman) — DSH plugin: the parent agent splits work into orders, hands each to a contractor you picked (own provider/model/effort), and reviews the res · ⭐0
-- [DDL095/dsh-moa-native](https://github.com/DDL095/dsh-moa-native) — Many models draft, one executes for DeepSeek Harness. · ⭐0
 - [Decodo/dsh-web-fetch](https://github.com/Decodo/dsh-web-fetch) — DeepSeek Harness (dsh) plugin: Decodo as the provider behind the built-in web_fetch tool · ⭐0
 - [DeepseekDays/dsh-ofm-model-manager](https://github.com/DeepseekDays/dsh-ofm-model-manager) — Per-model enable/disable and renaming for every provider in DeepSeek Harness — disabled models leave the model picker, custom names replace  · ⭐0
 - [DeepseekDays/dsh-provider-toggle](https://github.com/DeepseekDays/dsh-provider-toggle) — One-click enable/disable switch for every model provider in DeepSeek Harness - disabled providers leave the model picker. DSH 模型提供商一键开关：在「设置 · ⭐0
@@ -576,7 +583,6 @@
 - [itchenshi/dsh-model-surplus](https://github.com/itchenshi/dsh-model-surplus) — DeepSeek Harness plugin: model usage, plan quota and account balance in the session header — OpenCode Go plan usage (rolling/weekly/monthly) · ⭐0
 - [itsbuyru-bit/dsh-model-price](https://github.com/itsbuyru-bit/dsh-model-price) — Per-model API prices in USD or CNY, wallet balance and live session spend for DeepSeek Harness. · ⭐0
 - [Ivan369987/agent-html](https://github.com/Ivan369987/agent-html) — Zero-dependency single-file HTML design system and agent skill for LLMs, optimized for offline use with Claude, Codex, and Cursor. · ⭐0
-- [iwinoid/fakeip-compat](https://github.com/iwinoid/fakeip-compat) — Fake-IP-aware web.fetch provider for TUN (Mihomo/Clash) DNS environments plus pinned LAN CIDR access · ⭐0
 - [JackieJam/dsh-iridescent-model-selector](https://github.com/JackieJam/dsh-iridescent-model-selector) — DeepSeek Harness plugin: direct model picker with favorites and an aurora reasoning-effort slider · ⭐0
 - [janpauldahlke/dsh-slot-health](https://github.com/janpauldahlke/dsh-slot-health) — DeepSeek Harness (dsh) plugin: live local LLM endpoint health in the web rightbar. llama.cpp slots (busy/TTFT/wedged, /metrics) + Ollama MOD · ⭐0
 - [Jason25417/dsh-session-auto-rename](https://github.com/Jason25417/dsh-session-auto-rename) — DeepSeek Harness plugin: LLM auto-rename in the session menu (recency-weighted) plus a right-click session menu. · 侧栏会话菜单自动重命名 + 右键呼出菜单 · ⭐0
@@ -624,7 +630,7 @@
 - [LightingHa/dsh-cc-switch](https://github.com/LightingHa/dsh-cc-switch) — 把 cc-switch 配置的模型供应商接入 DSH（转成 llm-pi-ai 路由，附连通性体检） · ⭐0
 - [Lightupdown/de-ai-flavor](https://github.com/Lightupdown/de-ai-flavor) — 对味（duiwei）：先看文体再改的中文写作规范。作文、公众号、通知、口播、朋友圈、文案、报告各按各的写法；不编数字、不代写、不帮过检测。 · ⭐0
 - [lijiajia96/dsh-tool-adb](https://github.com/lijiajia96/dsh-tool-adb) 💤 — DeepSeek Harness (DSH) plugin exposing Android Debug Bridge (adb) operations as model-facing tools: devices, shell, install, uninstall, scre · ⭐0
-- [likaileave/dsh-model-billing](https://github.com/likaileave/dsh-model-billing) — Model ordering, three-tier token prices, and per-turn/session cost estimates for the DeepSeek Harness Web GUI. · ⭐0
+- [likaileave/dsh-model-billing](https://github.com/likaileave/dsh-model-billing) — Reorder models in the DSH composer picker, store three per-million-token prices, and estimate per-turn/session cost with built-in DeepSeek p · ⭐0
 - [Liman-cmd/dsh-plugin-tool-prefetch](https://github.com/Liman-cmd/dsh-plugin-tool-prefetch) — DeepSeek Harness 插件：工具调用预测与预取。以 Python 边车方式拉起 CT-GNN 预测网关，把其工具原生注册到 ctx.tools——预测下一个工具调用、分层预热（L0-L3）、在线命中率遥测、训练数据自动采集。 · ⭐0
 - [LinJohn8/dsh-model-group-collapse](https://github.com/LinJohn8/dsh-model-group-collapse) — (no description) · ⭐0
 - [littleblakew/msds-chain-mcp](https://github.com/littleblakew/msds-chain-mcp) — (no description) · ⭐0
@@ -648,7 +654,7 @@
 - [lyq3/dsh-plugin-model-quota](https://github.com/lyq3/dsh-plugin-model-quota) 💤 — Display CLIProxyAPI subscription quotas in DeepSeek Harness. · ⭐0
 - [M1012-w0917/dsh-ocgo-sync](https://github.com/M1012-w0917/dsh-ocgo-sync) — 让 DeepSeek Harness（网页版 / 桌面版）用上最新的 OpenCode Go 模型清单 · ⭐0
 - [MacilyDots/dsh-session-inherit](https://github.com/MacilyDots/dsh-session-inherit) — DSH 插件：会话菜单多一行「继承」。把跑久了的会话机械提取成一份交接单（任务、最近的指令、改过的文件、失败、命令、待办），在干净的新会话里接着干——不调模型、不带旧历史，预设默认一并继承。 | DSH plugin: an "Inherit" row in the sessio · ⭐0
-- [MajidAsghariTabrizi/universal-engineering-agent](https://github.com/MajidAsghariTabrizi/universal-engineering-agent) — Reference implementation of the Universal Engineering Agent operating-kernel contract — profile-agnostic, runnable, MIT-licensed. Sibling to · ⭐0
+- [MajidAsghariTabrizi/universal-engineering-agent](https://github.com/MajidAsghariTabrizi/universal-engineering-agent) 💤 — Reference implementation of the Universal Engineering Agent operating-kernel contract — profile-agnostic, runnable, MIT-licensed. Sibling to · ⭐0
 - [manny333/dsh-checklists](https://github.com/manny333/dsh-checklists) — Session-scoped checklists for DeepSeek Harness — the agent tracks work as a tree, the model always sees a compact digest, and a read-only si · ⭐0
 - [Maopk/dsh-vision-kit](https://github.com/Maopk/dsh-vision-kit) — Windows PC automation for AI agents: a resident PC Actor (UIA structure + SendInput hands + pixel fallback) plus a zero-model vision toolkit · ⭐0
 - [marsma-101/dsh-trae-connect](https://github.com/marsma-101/dsh-trae-connect) — Bring Trae CN desktop-app models into DeepSeek Harness: decrypt the local sign-in, translate the remote-session protocol behind a loopback O · ⭐0
@@ -715,7 +721,6 @@
 - [orphiczhou/dsh-region-probe](https://github.com/orphiczhou/dsh-region-probe) — Read-only Cordis Inspect provider for DeepSeek Harness: which UI regions the running shell actually rendered, their occupancy and geometry,  · ⭐0
 - [orzgithub/dsh-ollama](https://github.com/orzgithub/dsh-ollama) — A plugin to use ollama in Deepseek Harness. · ⭐0
 - [OuYangxin12/dsh-status-bar](https://github.com/OuYangxin12/dsh-status-bar) — Live execution status bar for the DeepSeek Harness web GUI: real-time activity + event-driven LLM achievement summaries with expandable deta · ⭐0
-- [oxlyn/dsh-model-health](https://github.com/oxlyn/dsh-model-health) — dsh model health status check · ⭐0
 - [ozjxnxh/dsh-prompt-enhance-keyless](https://github.com/ozjxnxh/dsh-prompt-enhance-keyless) — Prompt enhancement for DeepSeek Harness (dsh): a composer button rewrites your draft into a well-structured prompt, with a keyless Pollinati · ⭐0
 - [pakgrou-porg/yardmaster](https://github.com/pakgrou-porg/yardmaster) — Two-stage LLM router: Switchyard model selection + PAIR node placement, one local endpoint · ⭐0
 - [Paprikas/dsh-openrouter-voice](https://github.com/Paprikas/dsh-openrouter-voice) — (no description) · ⭐0
@@ -792,7 +797,6 @@
 - [suyunxing/dsh-welcome-greeting](https://github.com/suyunxing/dsh-welcome-greeting) — Rewrites the DSH New Session headline into a short affectionate greeting written by the selected model from the local time, city and weather · ⭐0
 - [svgop/dsh-rich-indexing](https://github.com/svgop/dsh-rich-indexing) 💤 — Tiered compaction hub for DeepSeek Harness: progressive thresholds, keyword-indexed consolidation, model fallback chain. · ⭐0
 - [syncended/deepseek-harness-usage](https://github.com/syncended/deepseek-harness-usage) — Token usage, model cost analytics, trends, and activity heatmaps for DeepSeek Harness · ⭐0
-- [takboo/dsh-usage-state](https://github.com/takboo/dsh-usage-state) — DSH plugin: show account balance (API mode) or coding-plan quota usage (5h/7d) for the model in use · ⭐0
 - [tako-dev/dsh-tako](https://github.com/tako-dev/dsh-tako) — Tako models for the official DeepSeek Harness (dsh) · ⭐0
 - [tangivis/quant-trade-agent-tools](https://github.com/tangivis/quant-trade-agent-tools) — Provider-neutral intelligence plane with REST, MCP, CLI, pi and experimental dsh adapters for quantitative trading analysis. · ⭐0
 - [taxueseek/dsh-router-flash](https://github.com/taxueseek/dsh-router-flash) — 探索模式 · DeepSeek V4 Flash 专用 agent preset — 渠道无关命中、首轮工具面收窄、声明行交付 · ⭐0
@@ -803,7 +807,6 @@
 - [TheStreamCode/dsh-muse-code](https://github.com/TheStreamCode/dsh-muse-code) — Muse Code subscription provider and device-code login for DeepSeek Harness · ⭐0
 - [ThinkofRain1213/deepseek-harness-wallet-patched](https://github.com/ThinkofRain1213/deepseek-harness-wallet-patched) — Patched fork of the DeepSeek Harness wallet/control center: peak-clock and billing for the renamed deepseek-flash model, model-pool-driven p · ⭐0
 - [Tim-ReJet/dsh-plugin-durable-subagent](https://github.com/Tim-ReJet/dsh-plugin-durable-subagent) — Durable subagent execution for DeepSeek Harness: a `durable` provider and a model-facing tool that drive pi-durable-subagents, so a crashed  · ⭐0
-- [tkliuxing/dsh-video-forge](https://github.com/tkliuxing/dsh-video-forge) — Online-model video generation for DeepSeek Harness: three model tools, a durable provider-task ledger that survives restarts, live chat card · ⭐0
 - [TnzGit/dsh-live-perf-gauges](https://github.com/TnzGit/dsh-live-perf-gauges) — Real-time Decode tok/s, TTFT and Prefill throughput dashboard for DeepSeek Harness. · ⭐0
 - [TOBYCAI/dsh-patch-reasoning](https://github.com/TOBYCAI/dsh-patch-reasoning) 💤 — DSH 升级后幂等重打的模型调优补丁：DeepSeek 推理拓宽为 7 档、workflow/ralph 默认模型 deepseek-v4-flash。Idempotent DSH model-tuning patch. | Platforms: macOS/Linux (Bas · ⭐0
 - [Townrain/dsh-fetch-models-unselect-all](https://github.com/Townrain/dsh-fetch-models-unselect-all) 💤 — Deselect-all button for the DSH Settings > Models 'fetch available models' dialog (client-only plugin) · ⭐0
@@ -840,7 +843,7 @@
 - [winniesi/dsh-tokens-ci](https://github.com/winniesi/dsh-tokens-ci) — tokens.ci usage dashboard as a DeepSeek Harness (dsh) settings page: daily tokens, cost, token mix, model shares and leaderboard standing. · ⭐0
 - [wld12314/dsh-subagent-switch](https://github.com/wld12314/dsh-subagent-switch) — DSH plugin: routes each subagent to the best local model — free-first, quota-aware, capability-matched — with a control panel. · ⭐0
 - [wmk66ds/dsh-vision-unlock](https://github.com/wmk66ds/dsh-vision-unlock) — 去掉 DeepSeek Harness（DSH）「当前模型不支持图片」的拒绝限制：不改 app.asar，用运行时接缝放行未声明多模态能力的模型 · ⭐0
-- [WODE25500/dsh-token-rtk](https://github.com/WODE25500/dsh-token-rtk) — Input redundancy pruning — drop repeated/redundant tokens before they reach the model. A DeepSeek Harness skill. · ⭐0
+- [WODE25500/dsh-token-rtk](https://github.com/WODE25500/dsh-token-rtk) 💤 — Input redundancy pruning — drop repeated/redundant tokens before they reach the model. A DeepSeek Harness skill. · ⭐0
 - [wosledon/dsh-plugins](https://github.com/wosledon/dsh-plugins) — Third-party plugins for DeepSeek Harness (DSH): reasoning effort, scheduled tasks, token usage. Self-contained bundles, no build step. | DSH · ⭐0
 - [WoyouWoyou/dsh-office-32k](https://github.com/WoyouWoyou/dsh-office-32k) 💤 — DSH (DeepSeek Harness) 办公文档·32K 模式 Agent Preset：32K 上下文管理 + 离线依赖 + Excel/Word/PPT 技能 · ⭐0
 - [wpeng77/dsh-llm-trace](https://github.com/wpeng77/dsh-llm-trace) — Wire-level LLM inspector for DeepSeek Harness: capture the raw HTTP request and response bodies of every model provider call, attributed per · ⭐0
@@ -860,7 +863,6 @@
 - [xingzhen199186/dsh-subagent-custom](https://github.com/xingzhen199186/dsh-subagent-custom) — DeepSeek Harness 子代理模型管控与 Jev 智能分流插件（合并自 vitas/dsh-jev-subagent-dispatch 与 ringoage/dsh-subagent-model-picker） · ⭐0
 - [xingzoudefengye/dsh-web-search-failover](https://github.com/xingzoudefengye/dsh-web-search-failover) — Ordered web-search failover provider for DeepSeek Harness: try backends in priority order, fall back automatically. · ⭐0
 - [xiyiyiru/dsh-mode](https://github.com/xiyiyiru/dsh-mode) — dsh plugin: switch_mode — five working modes, methodology injected at the moment of the switch (npm: @xiyiyiru/dsh-mode) · ⭐0
-- [xkjxziochu/dsh-input-optimizer](https://github.com/xkjxziochu/dsh-input-optimizer) — Standalone dsh plugin: rewrite the composer draft into a better prompt through the harness's own LLM routes, with an original/optimized comp · ⭐0
 - [XMeowchan/dsh-agent-team-model](https://github.com/XMeowchan/dsh-agent-team-model) — Visual provider, model and reasoning-effort defaults for DeepSeek Harness Agent Teams. · ⭐0
 - [xobexo/dsh-smart-scenario-router](https://github.com/xobexo/dsh-smart-scenario-router) 💤 — 国产模型优先，按任务类型自动切换模型，支持可视化配置面板 · ⭐0
 - [xuan666-lab/dsh-openrouter-provider-advisor](https://github.com/xuan666-lab/dsh-openrouter-provider-advisor) — DSH plugin that ranks OpenRouter providers by cost, speed, context, and reliability, then switches the active route. · ⭐0
@@ -900,5 +902,3 @@
 - [zhonglike/dsh-bot](https://github.com/zhonglike/dsh-bot) — Multi-zone professional model routing plugin for DeepSeek Harness (Cordis) · ⭐0
 - [ZhouXuan-Yu/dsh-model-rotation](https://github.com/ZhouXuan-Yu/dsh-model-rotation) — Multi-source model rotation plugin for DeepSeek Harness — group models by source, order them (manual/auto), preset model + reasoning effort, · ⭐0
 - [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
-- [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
-- [zirscard/dsh-office-audit](https://github.com/zirscard/dsh-office-audit) — Financial-model and workbook auditor for DeepSeek Harness: one office_audit tool that recalculates formulas with the bundled LibreOffice Kit · ⭐0

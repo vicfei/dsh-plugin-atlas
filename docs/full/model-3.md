@@ -1,7 +1,9 @@
-# Models & Providers — 1819 entries (part 3/3)
+# Models & Providers — 1821 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [ZhouXuan-Yu/dsh-model-rotation](https://github.com/ZhouXuan-Yu/dsh-model-rotation) — Multi-source model rotation plugin for DeepSeek Harness — group models by source, order them (manual/auto), preset model + reasoning effort, · ⭐0
+- [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
 - [zirscard/dsh-office-audit](https://github.com/zirscard/dsh-office-audit) — Financial-model and workbook auditor for DeepSeek Harness: one office_audit tool that recalculates formulas with the bundled LibreOffice Kit · ⭐0
 - [zirscard/dsh-wind-finance](https://github.com/zirscard/dsh-wind-finance) — Wind financial-analysis capability as one standalone bundle: one wind_finance tool that routes a question to the right Wind data domain, exe · ⭐0

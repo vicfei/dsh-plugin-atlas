@@ -2197,6 +2197,7 @@ HuiHuangDDFS/dsh-codex-mini-pet
 HuiHuitie-zhu/dsh-check-update
 HuiHuitie-zhu/dsh-incognito
 HumXC/dsh-nestquay
+HunYiSage/dsh-purge
 Huo-yang/dsh-session-trash
 Hushverse/dsh-web-autostart
 HuskkyQ/dsh-doki
@@ -2238,6 +2239,7 @@ Ianzhyh/qoder-to-dsh
 Ianzhyh/workbuddy-to-dsh
 Icather/dsh-clean-desktop-shell
 IceApriler/dsh-remote-mobile
+IceWhaleTech/filens
 IcedWatermelonJuice/dsh-provider-veark
 Icestab/dsh-image-vision-bridge
 Icstick/dsh-adaptive-context
@@ -3176,6 +3178,7 @@ MentonLiu/dsh-any-icon
 Meow1s/DeepSeek-Harness-For-Android
 Meredith2328/dsh-sticky-note
 MerkurevSergei/dsh-notion-oauth-ui
+MerkyorLynn/dsh-live-compact
 MerlinShieh/AgentMemHub
 MeshTok/dsh-plugin-yuantoutao
 Meteor-system/dsh-codegraph
@@ -5722,6 +5725,8 @@ alaxrpg/dsh-llm-approve-for-me
 alaxrpg/dsh-vision-bridge
 albertgranados/dsh-run-environment
 alccs/dsh-visual-intelligence-engine
+alchaincyf/huashu-design
+alchaincyf/huashu-excel
 alchaincyf/nuwa-skill
 alcheme-labs/dsh-experience-map
 alchemistwu/dsh-tool-call-guard
@@ -9044,6 +9049,7 @@ lijiajia96/dsh-tool-adb
 lijian-ui/dsh-im-gateway
 lijian-ui/dsh-session-cleaner
 lijian-ui/dsh-vision-toggle
+lijiaqi-AI-Product-Manager/dsh-agent-compare
 lijiaqimun-coder/skill-healthcheck
 lijiawei255/dsh-status-chime
 lijinhao315/dsh-question-index

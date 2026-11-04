@@ -1,7 +1,8 @@
-# Memory & Knowledge — 941 entries (part 2/2)
+# Memory & Knowledge — 943 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) — Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run steering, and citatio · ⭐0
 - [wycto/dsh-evolution](https://github.com/wycto/dsh-evolution) — Local-first self-evolution plugin for DSH: records your coding-agent sessions to a local ledger, reviews them across sessions with the model · ⭐0
 - [WYR-233/dsh-memory-lite](https://github.com/WYR-233/dsh-memory-lite) — Read-only enhancer for a file-based (markdown + git) long-term memory library in DeepSeek Harness: built-in zero-dependency search, one-clic · ⭐0
 - [xccpddym/dsh-bubble-nav](https://github.com/xccpddym/dsh-bubble-nav) 💤 — Bubble navigation for DSH (DeepSeek Harness): a draggable accelerator ball listing all of your questions (numbered + timed), plus a full con · ⭐0
@@ -43,3 +44,4 @@
 - [zsagi1368/deepseek-harness-DSH](https://github.com/zsagi1368/deepseek-harness-DSH) — zDSH - deepseek-harness independent enhancement distro: plugin governance, omnivision vision pipeline, cross-session memory, mobile-ready we · ⭐0
 - [zsagi1368/deepseek-harness-zDSH](https://github.com/zsagi1368/deepseek-harness-zDSH) — zDSH - deepseek-harness independent enhancement distro: plugin governance, omnivision vision pipeline, cross-session memory, mobile-ready we · ⭐0
 - [ZyxQl-Ala/dsh-decay-memory](https://github.com/ZyxQl-Ala/dsh-decay-memory) — Decay-based agent memory for DeepSeek Harness: entries gain weight when mentioned, fade and shrink when forgotten, pinned entries never deca · ⭐0
+- [mjtwt/dsh-memory-refine](https://github.com/mjtwt/dsh-memory-refine) — DSH 记忆插件：把对话提炼成记忆条目、每轮自动召回一条、记忆海可视化 · ⭐0

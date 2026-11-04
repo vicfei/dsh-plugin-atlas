@@ -1,8 +1,7 @@
-# Security & Permissions — 1179 entries (part 2/2)
+# Security & Permissions — 1175 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [GreenLv/dsh-completion-guard](https://github.com/GreenLv/dsh-completion-guard) — Task-contract and completion-certification layer for DeepSeek Harness · ⭐0
 - [guanosine-diphosphate/dsh-retry-policy-settings](https://github.com/guanosine-diphosphate/dsh-retry-policy-settings) 💤 — (no description) · ⭐0
 - [guokecloud/dsh-session-janitor](https://github.com/guokecloud/dsh-session-janitor) — DSH session cleaner: a sidebar page listing session records and archive caches, with a restorable recycle bin and an in-use guard. · ⭐0
 - [gyyxs88/dsh-session-control](https://github.com/gyyxs88/dsh-session-control) — Authorized, durable cross-session control for DeepSeek Harness · ⭐0
@@ -109,7 +108,7 @@
 - [NOOBnoob163/dsh-open-obsidian](https://github.com/NOOBnoob163/dsh-open-obsidian) — DSH 插件：会话在 Obsidian 库里工作时自动把库打开——这样你装的同步插件（坚果云同步等）就会开始跑，AI 改的东西才能真正同步出去。已开着的库跳过，新窗口不抢焦点。（是 DSH 插件，不是 Obsidian 插件） · ⭐0
 - [oh-summy/dsh-remote-control](https://github.com/oh-summy/dsh-remote-control) — Secure remote access for DeepSeek Harness (DSH): Cloudflare Tunnel + password gate + Feishu notifications. macOS first, Linux first-class. · ⭐0
 - [oksure/dsh-mobile-comfort](https://github.com/oksure/dsh-mobile-comfort) — Touch-device comfort fixes for the DeepSeek Harness web client: ghost tooltip suppression + touch-action policy · ⭐0
-- [Olympianz/dsh-xiaomili](https://github.com/Olympianz/dsh-xiaomili) — 小米粒（dsh-xiaomili）—— 常驻 chatbox 右侧的金毛秘书插件：实时旁听对话、识别意图、提取关键词/概念、自动生成秘书简报，记忆可持久化。 · ⭐0
+- [Olympianz/dsh-xiaomili](https://github.com/Olympianz/dsh-xiaomili) 💤 — 小米粒（dsh-xiaomili）—— 常驻 chatbox 右侧的金毛秘书插件：实时旁听对话、识别意图、提取关键词/概念、自动生成秘书简报，记忆可持久化。 · ⭐0
 - [OZONGO/dsh-agents-inits](https://github.com/OZONGO/dsh-agents-inits) — Run the AGENTS.md authoring workflow inside a subagent, so no instruction body enters the main conversation. · ⭐0
 - [OZONGO/dsh-keyboard-shortcut](https://github.com/OZONGO/dsh-keyboard-shortcut) — A Keyboard Shortcuts settings page for DeepSeek Harness (DSH), with permission-mode cycling, reasoning-effort stepping, prompt navigation, a · ⭐0
 - [PangYiMing/dsh-port-guard](https://github.com/PangYiMing/dsh-port-guard) 💤 — DSH plugin: triage port conflicts (reuse / switch / precise kill) — 端口占用处置 · ⭐0
@@ -139,7 +138,7 @@
 - [ROBOHAPPYIY/dsh-zh-review-guard](https://github.com/ROBOHAPPYIY/dsh-zh-review-guard) — DSH bundle plugin: make internal reasoning user-reviewable and keep every user-facing explanation in Simplified Chinese. Injected into every · ⭐0
 - [RoyDevCh/roycode-dsh-pack](https://github.com/RoyDevCh/roycode-dsh-pack) 💤 — One-click plugin pack: RoyCode Studio features ported to DSH (DeepSeek Harness) - LSP/secret-scan/browser MCP servers, programmable event ho · ⭐0
 - [rpegorov/agent-pet](https://github.com/rpegorov/agent-pet) — A desktop pet that shows what your coding agents (Claude Code, Codex, DeepSeek Harness) are doing — and lets you answer their permission pro · ⭐0
-- [ruanhaodong-tt/dsh-security-guard](https://github.com/ruanhaodong-tt/dsh-security-guard) — DSH runtime security guard plugin - loader import confinement, HTTP Host header validation (QVD-2026-52631/57410). AI-assisted. · ⭐0
+- [ruanhaodong-tt/dsh-security-guard](https://github.com/ruanhaodong-tt/dsh-security-guard) 💤 — DSH runtime security guard plugin - loader import confinement, HTTP Host header validation (QVD-2026-52631/57410). AI-assisted. · ⭐0
 - [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) — Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting. · ⭐0
 - [RUI-debug769/dsh-dotclaude](https://github.com/RUI-debug769/dsh-dotclaude) — Run a Claude Code project's .claude/ assets inside DeepSeek Harness: project slash commands with argument expansion, and permissions.deny en · ⭐0
 - [running-grass/dsh-nix-dev-shell](https://github.com/running-grass/dsh-nix-dev-shell) — DeepSeek Harness plugin: runs bash commands inside the workspace's Nix dev shell when a flake.nix is present · ⭐0
@@ -150,7 +149,7 @@
 - [saichao/dsh-clickhouse](https://github.com/saichao/dsh-clickhouse) — ClickHouse query tools for DSH / DeepSeek Harness: schema exploration plus guarded read-only SQL. 带只读护栏的 ClickHouse 数据问答插件，零运行时依赖。 · ⭐0
 - [sanshanya/dsh-dot-mcp](https://github.com/sanshanya/dsh-dot-mcp) — MCP bridge that exposes DeepSeek Harness (DSH) sessions, native goals, approvals and results to an MCP client over the official protocol: 21 · ⭐0
 - [sashankh/dsh-taintguard](https://github.com/sashankh/dsh-taintguard) 💤 — Indirect prompt-injection guard for DeepSeek Harness: taints tool output by origin, gates privileged calls that follow untrusted content, an · ⭐0
-- [scientificmaniac/dsh-ssh-vault](https://github.com/scientificmaniac/dsh-ssh-vault) — SSH for DeepSeek Harness agents: host address, port, account, password and private key live in an encrypted vault, and the conversation only · ⭐0
+- [SeasonTemple/dsh-decision-gate](https://github.com/SeasonTemple/dsh-decision-gate) — A decision gate for DSH — ask five questions before every shell command, then allow, ask, or deny. · ⭐0
 - [secretLjp/dsh-weave](https://github.com/secretLjp/dsh-weave) 💤 — Harness-native conversation branches and explicit semantic harvests for DeepSeek Harness · ⭐0
 - [secretxuan/oh-my-dsh](https://github.com/secretxuan/oh-my-dsh) 💤 — Agent Teams for DeepSeek Harness with native-vision Windows computer-use · ⭐0
 - [shaomingbo/dsh-subscription-search](https://github.com/shaomingbo/dsh-subscription-search) — ChatGPT/Grok subscription OAuth, model routes, and ChatGPT to Grok to Exa to DeepSeek web-search fallback for DeepSeek Harness · ⭐0
@@ -185,7 +184,6 @@
 - [tianhengzhibei/dsh-approval-ding](https://github.com/tianhengzhibei/dsh-approval-ding) — Play a short ding whenever DeepSeek Harness asks for tool approval. · ⭐0
 - [TINGOD2006/dsh-scratch-vault](https://github.com/TINGOD2006/dsh-scratch-vault) — Codex-style scratch execution for DeepSeek Harness: operation scripts run from a session scratch root and are collected into a plugin-owned  · ⭐0
 - [Tisitan/dsh-tool-guard](https://github.com/Tisitan/dsh-tool-guard) — Preset-agnostic global tool masking for DeepSeek Harness — presentation-layer filtering, execution-layer guard veto, self-protection gate an · ⭐0
-- [TobiichiOrigamii/dsh-crosssession](https://github.com/TobiichiOrigamii/dsh-crosssession) — Cross-session messaging, persistent session team, approval gates and a per-session task board for DeepSeek Harness (DSH). · ⭐0
 - [tonylee2022/dsh-xai-oauth](https://github.com/tonylee2022/dsh-xai-oauth) — xAI (Grok/X subscription) OAuth login plugin for DeepSeek Harness — device-code auth, token refresh, no API key needed · ⭐0
 - [Top-Celestial-Company-Ltd/dsh-dros-vajraclaw](https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw) — ⚡ DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin · ⭐0
 - [ttxs69/hermes-continue-hook](https://github.com/ttxs69/hermes-continue-hook) — Stop the agent from asking permission for things it should just do — conditional continuation for Claude Code, Codex, Qwen Code, Cursor, Cop · ⭐0
@@ -222,7 +220,6 @@
 - [wodongx123/dsh-desktop-tray](https://github.com/wodongx123/dsh-desktop-tray) 💤 — System tray support for DSH Desktop: tray icon plus settings to hide the main window on minimize or close, with self-healing boot-time injec · ⭐0
 - [wowayou/mydsh](https://github.com/wowayou/mydsh) 💤 — Personal Agent System on DeepSeek Harness — everything is a plugin: completion notifications, vision for text models, reply annotations, mul · ⭐0
 - [wufengwind/dsh-plugin-dm-ops](https://github.com/wufengwind/dsh-plugin-dm-ops) — Dameng inspection, security and recovery-condition assessment for DeepSeek Harness · ⭐0
-- [wufufu770/d2d](https://github.com/wufufu770/d2d) — 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资产）。 · ⭐0
 - [wxyzh/dsh-auth-proxy](https://github.com/wxyzh/dsh-auth-proxy) — (no description) · ⭐0
 - [WYR-233/dsh-whale-guard](https://github.com/WYR-233/dsh-whale-guard) — DSH 防呆插件：safe_kill 工具（自动排除自身与祖先进程链）+ bash 命令预检 + 可扩展规则库。Zero-dependency safety guard for DeepSeek Harness. · ⭐0
 - [x102201/dsh-helper-plugin-command-ask](https://github.com/x102201/dsh-helper-plugin-command-ask) — dsh-helper plugin: a Cursor-style /ask mode for DeepSeek Harness — /ask <question> answers read-only for one turn (cited, no edits, enforced · ⭐0
@@ -275,7 +272,6 @@
 - [zhengqiuyang/dsh-egress-gate](https://github.com/zhengqiuyang/dsh-egress-gate) — Deterministic network egress gate for DeepSeek Harness — web fetches checked against a destination allowlist before they run · ⭐0
 - [zhengqiuyang/dsh-pr-gate](https://github.com/zhengqiuyang/dsh-pr-gate) — Deterministic write gate for DeepSeek Harness — scope policy + residue scan at the moment of the write; the CI gate moved into the session · ⭐0
 - [zhengqiuyang/dsh-read-guard](https://github.com/zhengqiuyang/dsh-read-guard) — Deterministic prompt-injection interception for DeepSeek Harness — scans what the agent READS before it enters model context; obfuscation-re · ⭐0
-- [zjbc2000/attention-plugins](https://github.com/zjbc2000/attention-plugins) — 🔔 Task-priority session notifications for DeepSeek Harness (DSH): main-line tasks alert immediately, side-line completions can be batched,  · ⭐0
 - [zoushangkun-dev/dsh-startup-auth-cn](https://github.com/zoushangkun-dev/dsh-startup-auth-cn) — 给 DeepSeek Harness 手搓的开机门：六幕冷启动动画 + PIN / Windows Hello / 验证器动态码，纯本地、零依赖 · ⭐0
 - [ZSeven-W/dsh-computer](https://github.com/ZSeven-W/dsh-computer) — DeepSeek Harness plugin for macOS desktop automation. Observes the accessibility tree, gates risky actions behind one-time approval, permane · ⭐0
 - [zshqzcn/dsh-plugin-agent-bridge](https://github.com/zshqzcn/dsh-plugin-agent-bridge) — Two-way agent-to-agent bridge for DeepSeek Harness (DSH): two hosts talk over a PSK-authenticated TCP link, read-only tool posture by defaul · ⭐0

@@ -13,6 +13,9 @@ const GEN_ONLY = process.argv.includes("--generate-only");
 
 const CATEGORIES = [
   ["official", /deepseek-ai\//],
+  // Finance vertical: STRONG signals only — "market" (plugin marketplaces) and
+  // bare "trading/投资/金融" are deliberately excluded to avoid false captures.
+  ["finance", /stock|quant\b|quant-|\btrad(?:e|ing|er)s?\b|fund\b|funds\b|financ\b|financial|portfolio|kline|broker|forex|\bbond\b|\byield\b|期权|证券|股票|基金|行情|量化|期货|美股|港股|A股|持仓|自选股/i],
   ["security", /secur|permission|guard|auth|secret|vault|sandbox|injection|approv|policy/i],
   ["memory", /memor|knowledge|rag|retriev|embedd|vector|kb\b/i],
   ["model", /model|provider|llm|api-key|router|ollama|\bgpt\b|\bgemini\b|vllm|litellm/i],
@@ -169,15 +172,15 @@ for (const e of Object.values(entries)) {
   const cat = categoryOf(e);
   (byCat[cat] ??= []).push(e);
 }
-const ORDER = ["official", "security", "workflow", "memory", "model", "session", "git", "ui", "tools", "dev", "docs", "notify", "browser", "remote", "mcp", "vision", "voice", "identity", "usage", "fun"];
+const ORDER = ["official", "finance", "security", "workflow", "memory", "model", "session", "git", "ui", "tools", "dev", "docs", "notify", "browser", "remote", "mcp", "vision", "voice", "identity", "usage", "fun"];
 const CAT_LABEL = {
-  official: "Official / official", security: "Security & Permissions", workflow: "Workflow & Multi-Agent", memory: "Memory & Knowledge",
+  official: "Official / official", finance: "Finance & Markets", security: "Security & Permissions", workflow: "Workflow & Multi-Agent", memory: "Memory & Knowledge",
   model: "Models & Providers", session: "Session & Context", git: "Git & Review", ui: "UI & Themes", tools: "Tools & Integrations",
   dev: "Developer Tooling", docs: "Docs & Rendering", notify: "Notifications & Bridges", browser: "Browser & Web", remote: "Remote & Mobile",
   mcp: "MCP Servers", vision: "Vision & Multimodal", voice: "Voice & Audio", identity: "Identity", usage: "Cost & Usage", fun: "Just for Fun",
 };
 const CAT_LABEL_ZH = {
-  official: "官方", security: "安全与权限", workflow: "工作流与多智能体", memory: "记忆与知识库", model: "模型与提供者",
+  official: "官方", finance: "金融与行情", security: "安全与权限", workflow: "工作流与多智能体", memory: "记忆与知识库", model: "模型与提供者",
   session: "会话与上下文", git: "Git 与评审", ui: "界面与主题", tools: "工具与集成", dev: "开发者工具", docs: "文档与渲染",
   notify: "通知与桥接", browser: "浏览器", remote: "远程与移动", mcp: "MCP 服务", vision: "视觉", voice: "语音", identity: "身份",
   usage: "成本与用量", fun: "纯玩",
@@ -223,6 +226,7 @@ const header = (zh) => zh
 - ★ = 本仓库维护者亲自背书的条目;💤 = 60 天未推送
 - 收录:加一行 \`data/seed-slugs.txt\` 提 PR 即可;分类由关键词自动推断,欢迎纠偏
 - 数据来源:GitHub API 实时元数据;种子链接集自 [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) 与 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 两个公开清单(致谢),条目描述取自各仓库自己的 GitHub description
+- 姊妹仓:[awesome-ai-quant](https://github.com/vicfei/awesome-ai-quant)——AI 工程师进量化金融的任务导向注释清单(跨 harness 的学习路径,不是插件地图);本仓是插件活地图,二者互补
 `
 : `# dsh-plugin-atlas — a live map of the DSH plugin ecosystem
 
@@ -234,6 +238,7 @@ A **daily-refreshed** map of the [DeepSeek Harness](https://github.com/deepseek-
 - ★ = endorsed by this repo's maintainer · 💤 = no push in 60 days
 - Add an entry: PR one line to \`data/seed-slugs.txt\`; categories are keyword-inferred and corrections welcome
 - Metadata: live from the GitHub API. Seed link set taken from the public lists [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) and [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) (with thanks); every entry's description is that repo's own GitHub description
+- Sister repo: [awesome-ai-quant](https://github.com/vicfei/awesome-ai-quant) — a task-oriented, human-annotated map from AI engineering into quant finance (cross-harness learning paths, not a plugin list). This atlas is the live plugin map; the two complement each other.
 `;
 
 mkdirSync(new URL("../docs/full/", import.meta.url), { recursive: true });

@@ -1,9 +1,7 @@
-# Session & Context — 1496 entries (part 2/2)
+# Session & Context — 1490 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [yangzhenyu0817/dsh-session-color](https://github.com/yangzhenyu0817/dsh-session-color) — Right-click any session row in the DeepSeek Harness sidebar to color-tag it (default red, ten palette colors, custom picker). / 给 DSH 侧栏会话行加 · ⭐1
-- [Ycet/dsh-archive-manager](https://github.com/Ycet/dsh-archive-manager) — DSH 设置新增「归档」页：按工作区分组查看已归档会话，支持筛选/排序、取消归档、二次确认彻底删除。Add an Archive page to DSH Settings: view archived sessions grouped by workspace, filter/s · ⭐1
 - [yellpoliovirusvaccine37/dsh-launcher](https://github.com/yellpoliovirusvaccine37/dsh-launcher) — Launch DeepSeek Harness on Windows with one double-click, featuring startup autostart and a compact standalone window—no command line requir · ⭐1
 - [ysr666/dsh-computer-history](https://github.com/ysr666/dsh-computer-history) — Privacy-first computer history and work continuity for DeepSeek Harness — local-first, metadata-only. · ⭐1
 - [yumingtao/narwhal](https://github.com/yumingtao/narwhal) — A local-first, privacy-first AI agent. Your conversations, projects, and work context stay on your machine. · ⭐1
@@ -158,7 +156,6 @@
 - [ForceMind/dsh-atelier](https://github.com/ForceMind/dsh-atelier) — Local-first DeepSeek Harness workbench: compact usage and cost metrics, prompt library, activity text, and opt-in request auditing. · ⭐0
 - [fpm0312/dsh-auto-compact](https://github.com/fpm0312/dsh-auto-compact) — DeepSeek Harness 插件：上下文超过 45% 且静默 3 分钟时自动压缩会话历史 · ⭐0
 - [Francesco502/dsh-quota](https://github.com/Francesco502/dsh-quota) — AI Quota and Token Usage Monitor for DeepSeek Harness (Codex, Cursor, Antigravity, OpenCode-Go) · ⭐0
-- [Gaines-cz/dsh-a-share-screener](https://github.com/Gaines-cz/dsh-a-share-screener) — A-share stock screening plugin for DeepSeek Harness (dsh): pluggable strategies, Tushare token via credentials ref, free Eastmoney/Tencent f · ⭐0
 - [GaoHu1997/dsh-token-total](https://github.com/GaoHu1997/dsh-token-total) — DSH token 用量统计看板与会话树用量分析插件 · ⭐0
 - [gaolin89898/remote-session-plugin](https://github.com/gaolin89898/remote-session-plugin) — (no description) · ⭐0
 - [Gaudi-XIX/dsbot-session-create](https://github.com/Gaudi-XIX/dsbot-session-create) — 会话编排层：Chief 能把活派给别的 Bot，却派不进「某个项目的那个会话」；宿主已有开会话的原语，但没开成工具。这个插件把原语开成四个工具（建会话、插话、读回话、列派单），派单只追加自己的台账，不另造调度器。 · ⭐0
@@ -239,7 +236,6 @@
 - [kanoonak/dsh-whale-catcher](https://github.com/kanoonak/dsh-whale-catcher) — DSH Web 小游戏：左下角会有一枚按钮，点开就可以玩捞 小鲸鱼抓token 的小游戏（非官方粉丝作品） · ⭐0
 - [keepview/dsh-lark](https://github.com/keepview/dsh-lark) 💤 — Minimal Lark/Feishu gateway plugin for DeepSeek Harness (dsh) — chat with your agent from Feishu, one topic = one session. 极简 DeepSeek Harne · ⭐0
 - [kermars39-web/dsh-conversation-import](https://github.com/kermars39-web/dsh-conversation-import) — Import a local Codex conversation thread into a DeepSeek Harness Session, filed under its original working directory, with optional auto-syn · ⭐0
-- [Kevoyuan/dsh-trading212](https://github.com/Kevoyuan/dsh-trading212) — Read-only Trading 212 portfolio dashboard and dsh tools for holdings, history, risk, and trade markers. · ⭐0
 - [KILLEDx/dsh-token-stats](https://github.com/KILLEDx/dsh-token-stats) — DSH设置页 Token 统计分区：跨会话用量指标、热力图与常驻悬浮小窗（读本地日志，零模型消耗） · ⭐0
 - [kipozannaki/DSH-Headroom-Plugin](https://github.com/kipozannaki/DSH-Headroom-Plugin) — Bring Headroom to your DeepSeek Harness as a native plugin. · ⭐0
 - [kirkchinese/DSH-Session-Move](https://github.com/kirkchinese/DSH-Session-Move) 💤 — (no description) · ⭐0
@@ -467,7 +463,6 @@
 - [This-is-XiaoDeng/dsh-plugin-notify](https://github.com/This-is-XiaoDeng/dsh-plugin-notify) — WxPusher + real browser notifications (sound, requireInteraction) for DeepSeek Harness session state changes — session stopped, exited with  · ⭐0
 - [Timebro9999/dsh-session-deck](https://github.com/Timebro9999/dsh-session-deck) — Manage your whole workspace in the DeepSeek Harness sidebar: a pinned band for projects and conversations, a bell activity view with answer  · ⭐0
 - [TimRad1/dsh-plugin-branchpoint](https://github.com/TimRad1/dsh-plugin-branchpoint) — Branchpoint for DeepSeek Harness: fork the current chat into a fresh branch with a compact digest. · ⭐0
-- [tntcannon5000/dsh-chat-fold](https://github.com/tntcannon5000/dsh-chat-fold) — Compact turn folding for DeepSeek Harness Web: restores collapsed completed turns in long sessions where stock folding stays disabled. · ⭐0
 - [TonyZiYuan/dsh-session-delete](https://github.com/TonyZiYuan/dsh-session-delete) — 在 DSH Web 界面里删除会话。 · ⭐0
 - [ttmouse/dsh-recent](https://github.com/ttmouse/dsh-recent) — The dsh web GUI sidebar gains a Codex-style 最近 (Recent) section — every workspace's newest sessions in one jump list — and the workspace lis · ⭐0
 - [Tuiltex-0216/dsh-wechat-share](https://github.com/Tuiltex-0216/dsh-wechat-share) — Forward WeChat chat records into DSH sessions — share target + inbox watcher + GUI delivery overlay · ⭐0
@@ -590,7 +585,6 @@
 - [ZilongYang/dsh-session-mng](https://github.com/ZilongYang/dsh-session-mng) — Session management for DeepSeek Harness: unified list, titles, archive/restore, cross-workspace move, permanent delete. · ⭐0
 - [ZilongYang/dsh-session-titler](https://github.com/ZilongYang/dsh-session-titler) — Generate a title for a whole DSH session on demand, then confirm before it is applied. · ⭐0
 - [ZinChl/dsh-colorize](https://github.com/ZinChl/dsh-colorize) — 界面调色插件 for DeepSeek Harness：快捷键进入拾色模式，点选界面上任意元素就地改色 —— 元素级改动存成 CSS 规则、语义色走主题 token 层，空闲零轮询。 · ⭐0
-- [zirscard/dsh-context-extract](https://github.com/zirscard/dsh-context-extract) — Context extraction and compression for DeepSeek Harness: one context_extract tool that turns long raw documents (financial reports, contract · ⭐0
 - [zjbc2000/attention-plugins](https://github.com/zjbc2000/attention-plugins) — DSH 任务完成分级通知：主线完成即响，支线汇总提示；主线/均衡/静音三档，自定义音频、按会话静音、点击直达会话。/ Task-tiered notifications for DSH — three modes, custom audio, per-session mute,  · ⭐0
 - [zyfgood/dsh-mobile](https://github.com/zyfgood/dsh-mobile) — DSH mobile web UI: browse all sessions and continue conversations from a phone on the same LAN. ??? Web UI ??? · ⭐0
 - [zys2026/dsh-theme-tide](https://github.com/zys2026/dsh-theme-tide) — Tide & Timber (潮汐木色) — a coastal light/dark theme for the DeepSeek Harness Web GUI, built on the official ThemeRuntime alias-token layer. · ⭐0

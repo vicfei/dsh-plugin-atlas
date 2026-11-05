@@ -1,4 +1,4 @@
-# MCP Servers — 156 entries (part 1/1)
+# MCP Servers — 152 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -56,7 +56,6 @@
 - [Xiamu-ssr/dsh-wind-aifin](https://github.com/Xiamu-ssr/dsh-wind-aifin) 💤 — Credential-safe Wind AIFin MCP and Alice integration for DeepSeek Harness. · ⭐3
 - [y0urday/dsh-arcgis-pro-bridge](https://github.com/y0urday/dsh-arcgis-pro-bridge) — ArcGIS Pro bridge plugin for DeepSeek Harness — tools exposed as mcp__arcgis__* · ⭐3
 - [cckyros/goal-acceptance](https://github.com/cckyros/goal-acceptance) — Acceptance-criteria-driven goal completion for autonomous agents — core library, MCP server, and Cordis plugin · ⭐2
-- [codingDuan/dsh-plugin-xquant](https://github.com/codingDuan/dsh-plugin-xquant) 💤 — One-command xquant MCP integration for DeepSeek Harness · ⭐2
 - [huangrx6/dsh-plugin](https://github.com/huangrx6/dsh-plugin) — DeepSeek Harness (DSH) 插件合集：Skill 管理（导入/详情/多格式文件预览）、MCP 服务器管理（补丁层读写/测试连接/工具明细）、布局设置 · ⭐2
 - [JasperPengC/dsh-mcp-skills-board](https://github.com/JasperPengC/dsh-mcp-skills-board) — DeepSeek Harness 的 MCP 服务器与技能管理面板。 · ⭐2
 - [Kaalia0912/dsh-data-analysis-mode](https://github.com/Kaalia0912/dsh-data-analysis-mode) — DeepSeek Harness「数据分析模式」：资深数据分析师 agent 预设 + 13 个开源技能（DuckDB 官方/OpenAI/deer-flow/自研）+ DuckDB MCP 服务器接入 · ⭐2
@@ -87,7 +86,6 @@
 - [MayBeTheWorld/dsh-inherit](https://github.com/MayBeTheWorld/dsh-inherit) — Import MCP servers & Skills from Claude Code / Cursor / Codex / cc-switch into DeepSeek Harness (Settings → General → 导入智能体设置) · ⭐1
 - [micln/dsh-mcp-autoload](https://github.com/micln/dsh-mcp-autoload) — (no description) · ⭐1
 - [Mrxieyong/dsh-mcp-market](https://github.com/Mrxieyong/dsh-mcp-market) 💤 — (no description) · ⭐1
-- [Niceck/dsh-hhxg-market](https://github.com/Niceck/dsh-hhxg-market) — 恢恢量化 hhxg.top A股量化数据插件 for DeepSeek Harness (dsh)：6 个免费工具 + 5 个 VIP 工具（MCP 桥接）· A-share quant data plugin · ⭐1
 - [shiliu153/dsh-mcp-manager](https://github.com/shiliu153/dsh-mcp-manager) — DeepSeek Harness bundle: manage MCP servers — list, probe, add from pasted project references, toggle, remove, rotate credentials. Official  · ⭐1
 - [TheFold060629/dsh-task-assist](https://github.com/TheFold060629/dsh-task-assist) — DSH 任务辅助启动器：在对话框发送键旁放置一个常驻按钮，点击后自动扫描本会话已安装的、对当前任务有帮助的技能与 MCP 工具，弹候选清单（默认勾选匹配项），一键确认后把选中技能注入当前对话交给 Agent 自动执行。 · ⭐1
 - [T-Markus-Liang/dsh-webmcp](https://github.com/T-Markus-Liang/dsh-webmcp) — WebMCP bridge for DeepSeek Harness: let your agent discover & call tools that websites expose via the W3C WebMCP protocol. · ⭐1
@@ -142,8 +140,6 @@
 - [wangbodbs/dsh-plugins](https://github.com/wangbodbs/dsh-plugins) — DeepSeek Harness plugins: a Feishu (Lark) chat channel and two MCP server bundles (DaVinci Resolve, FilmLight FLAPI). · ⭐0
 - [Wanyi424/dsh-performance](https://github.com/Wanyi424/dsh-performance) — 小而美？看清 DSH 的 CPU、内存与卡顿：按插件、终端、MCP 拆分占用，对照卡顿时刻，复制诊断报告。仅限 Windows x64。 · ⭐0
 - [xby-skill/xby-ai-persona](https://github.com/xby-skill/xby-ai-persona) 💤 — 一个支持多AI人格召唤与协作的MCP协议服务器，可用于代码分析、产品设计等多场景智能协作。 · ⭐0
-- [xby-skill/xby-akshare](https://github.com/xby-skill/xby-akshare) 💤 — AKShare MCP Server 是一个通过AKShare提供中国股票市场数据的模型上下文协议服务器，支持实时行情、历史数据、基本面分析等功能。 · ⭐0
-- [xby-skill/xby-akshare-one](https://github.com/xby-skill/xby-akshare-one) 💤 — 基于akshare-one的MCP服务器，提供中国股票市场数据的全面接口，包括历史数据、实时数据、新闻数据和财务报表等金融信息。 · ⭐0
 - [xby-skill/xby-anndata](https://github.com/xby-skill/xby-anndata) 💤 — AnnData MCP是一个通过MCP协议检索AnnData对象信息的工具，适用于生物医学数据分析场景。 · ⭐0
 - [xby-skill/xby-article](https://github.com/xby-skill/xby-article) 💤 — 基于FastMCP框架开发的专业文献搜索工具，支持多源文献搜索、文献详情获取、参考文献管理、文献关系分析、期刊质量评估和批量结果导出等功能，适用于学术研究和AI助手集成。 · ⭐0
 - [xiake-1/dsh-unity-mcp-bridge](https://github.com/xiake-1/dsh-unity-mcp-bridge) — 连接unitymcp（第三方unitymcp工具，实测速度和质量兼具）和dsh的插件，同时加入了技能工具，精简了unitymcp的输入和输出量，加快使用agent协助unity开发速度 · ⭐0

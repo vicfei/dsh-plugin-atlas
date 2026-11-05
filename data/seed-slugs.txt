@@ -337,6 +337,7 @@
 379385796-sys/dsh-environment-packer
 379385796-sys/dsh-prompt-inject
 382quaii/dsh-Layers-Hippocampus
+3930a/dsh-stock-watch
 398894496-arch/DSH-KRouter
 398894496-arch/KRouter
 398894496-arch/TDHarness-coding
@@ -698,6 +699,7 @@ Aliww2468/dsh-client-ui-aqua-patched
 All3nCN/dsh-better-sidebar-N23
 All3nCN/dsh-qa-suite-N23
 AllDurham/foreman-dsh
+AllenCX/dsh-quant-workspace
 AllenLogo/dsh-restart-button
 AllenWES365/dsh-local-memory
 Allenllii/dsh-profile-doctor
@@ -2134,6 +2136,7 @@ HerTa-st/dsh-balance-card
 HerTa-st/dsh-theme-herta
 Hercules-debug/dsh-flock
 Hercules-debug/huixuan-assistant
+Hermit503/dsh-trading-terminal
 HewangLan0511/dsh-ui
 HiAi-gg/docsmint
 HiQ-AI/dingtalk-dsh-assistant
@@ -6938,6 +6941,7 @@ dll61/remote-coding-workstation-template
 dmscode/dsh-cloudflare-media
 dmscode/dsh-peak-valley
 dmscode/dsh-rightbar-tab-gestures
+dmsobtl/dsh-quant-workbench
 dmz2922990/dsh-ssh
 dmz2922990/dsh-thinkmeter
 do-nothing/media-suite
@@ -7122,6 +7126,7 @@ dwkejiPeng/dsh-skill-badge-contrast
 dxsdyhm/dsh-adb-logcat
 dxxCaO/dsh-self-improvement
 dxxCaO/wincu
+dyc-code/fundpilot-dsh
 dygin/dsh-recover-context
 dyguests/dsh-compact-panel-nav
 dylan121322/dsh-session-unarchive
@@ -7140,6 +7145,7 @@ easysir10/easy-git
 eatone9254/dsh-balance-badge
 ebluffy/dsh-model-router
 ecbob/dsh-window-size-keeper
+eclipti/dsh-invest-research
 edabchann/dsh-neotui
 edfrey0044/dsh-unarchive
 edge-sky/dsh-oauth-adapter
@@ -11527,6 +11533,7 @@ text2future/flowix
 thanderming/dsh-auto-vision
 thanhdz235123-commits/nyx-dsh-plugins
 thawline/dsh-memewiki
+the-beating-light-of-the-nail/awesome-dsh-plugin-stock
 the-beating-light-of-the-nail/dsh-meme-hub
 theBigGavin/marketingdashboard
 thedeveloper256/dsh-model-router
@@ -11809,6 +11816,7 @@ vic276344-dotcom/dsh-plugins
 vicTop-cw/FIST-Mbt
 vicfei/dsh-super-agent
 vicfei/dsh-weknora-ops
+vicfei/trustquant
 victor10035445/dsh-v-explorer
 victormshan/dsh-web-relay
 victorwads/dsh-live-voice

@@ -1,4 +1,4 @@
-# Vision & Multimodal — 146 entries (part 1/1)
+# Vision & Multimodal — 145 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -147,4 +147,3 @@
 - [ygunoil/dsh-va-studio](https://github.com/ygunoil/dsh-va-studio) — DeepSeek Harness plugin for VA Studio: generate short dramas, images, videos, novels and screenplays, and reverse-engineer prompts. · ⭐0
 - [yzhclcl/dsh-omni-modal](https://github.com/yzhclcl/dsh-omni-modal) — Adds an Omni-modal settings section to DeepSeek Harness: configure OpenAI-compatible image/video generation endpoints with switchable config · ⭐0
 - [zirscard/dsh-macos-signfix](https://github.com/zirscard/dsh-macos-signfix) — macOS code-signing repair for DeepSeek Harness: one doc_ocr_sign_fix tool that diagnoses and fixes the condition where the bundled Python ca · ⭐0
-- [zirscard/dsh-ocr](https://github.com/zirscard/dsh-ocr) — OCR document recognition plugin for DeepSeek Harness: one doc_ocr tool for scanned PDFs/images — text, financial-table tie-out, contract cla · ⭐0

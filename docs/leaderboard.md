@@ -2,7 +2,7 @@
 
 > [中文](leaderboard.zh-CN.md) · [back to the atlas](../README.md)
 
-Refreshed daily, automatically (UTC): **2026-11-05 11:55**
+Refreshed daily, automatically (UTC): **2026-11-05 14:25**
 
 ## All-time stars · Top 200
 

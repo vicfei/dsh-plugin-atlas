@@ -1,4 +1,4 @@
-# Cost & Usage — 89 entries (part 1/1)
+# Cost & Usage — 87 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -18,7 +18,6 @@
 - [wawo77/dsh-opencode-go-usage](https://github.com/wawo77/dsh-opencode-go-usage) — dsh的桌宠插件，爱吃白饭的可爱大肥鱼 · ⭐5
 - [AppliedYuu/dsh-WallpaperAndCost](https://github.com/AppliedYuu/dsh-WallpaperAndCost) — a plugin for dsh to check cost and change backgroud · ⭐4
 - [bobcat848/dsh-calculator](https://github.com/bobcat848/dsh-calculator) — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. · ⭐4
-- [c-ling/dsh-plugin-goldboard](https://github.com/c-ling/dsh-plugin-goldboard) — DeepSeek Harness 黄金实时看板与策略诊断插件：Au99.99/XAU/CMB 行情、独立交易日历、招行双边历史、持仓建议与探索性回放。 · ⭐4
 - [ZnonEn/dsh-volcark-quota](https://github.com/ZnonEn/dsh-volcark-quota) 💤 — 火山方舟 Coding Plan / Agent Plan 额度实时查看的 DeepSeek Harness (DSH) 插件：AK/SK 直连官方 API，悬浮小球 + Donut 环形图展示各窗口已用/剩余/重置倒计时（两位小数） · ⭐4
 - [oxgbl/dsh-deepseek-price](https://github.com/oxgbl/dsh-deepseek-price) 💤 — ⏱️ DeepSeek 价格区间计时工具 | DeepSeek Harness 插件：侧边栏高峰/空闲定价徽标 + 距半价倒计时 + 点击详情面板 + /price 命令 · ⭐3
 - [rayadesune/DeepSeek-Harness-chat-billing](https://github.com/rayadesune/DeepSeek-Harness-chat-billing) — 类原生计费插件 · ⭐3
@@ -82,7 +81,6 @@
 - [MoyunLee/deepseek-ai-dsh-api-cost](https://github.com/MoyunLee/deepseek-ai-dsh-api-cost) 💤 — DSH生态的DeepSeek API费用监控插件 · ⭐0
 - [Nixz0824/dsh-usage-stats-plus](https://github.com/Nixz0824/dsh-usage-stats-plus) 💤 — DSH 用量与余额面板增强版：官方余额实时拉取、逐事件精确计价、全渠道消耗估算、Codex 风格活动时间轴（Fork of dsh-usage-stats, MIT） · ⭐0
 - [nzz0991999-ai/dsh-usage-dashboard](https://github.com/nzz0991999-ai/dsh-usage-dashboard) — DeepSeek 平台用量仪表盘插件 | DeepSeek usage dashboard plugin for DeepSeek Harness · ⭐0
-- [potoior/dsh-bull-bear](https://github.com/potoior/dsh-bull-bear) 💤 — Real-time stock market pet for DeepSeek Harness: the faster price rises the higher the bull raises its head, the faster it falls the deeper  · ⭐0
 - [pythoner1984/dsh-plugin-openai-quota](https://github.com/pythoner1984/dsh-plugin-openai-quota) — A one-line quota notice for DeepSeek Harness: DeepSeek balance, ChatGPT/Codex rate-limit windows and reset cards. · ⭐0
 - [qomob/dsh-madrank](https://github.com/qomob/dsh-madrank) — AI usage dashboard + optional global ranking for DeepSeek Harness (DSH). · ⭐0
 - [upcyan/dsh-mimo-extension](https://github.com/upcyan/dsh-mimo-extension) — MiMo (Xiaomi) quota ring and usage detail tab for DeepSeek Harness · ⭐0

@@ -1,4 +1,4 @@
-# Docs & Rendering — 247 entries (part 1/1)
+# Docs & Rendering — 244 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -46,7 +46,6 @@
 - [jorinyang/dsh-doctor](https://github.com/jorinyang/dsh-doctor) 💤 — DeepSeek Harness environment diagnostic tool: dsh_doctor checks env, profile, config, bundles, mount, port, health, and disk · ⭐7
 - [maike-china/rejection-check](https://github.com/maike-china/rejection-check) 💤 — 标书废标项检查工具（DeepSeek Harness 插件）｜Tender/bid rejection-check skill plugin for DSH：解析招标/投标文件，提取无效投标与废标项，三轮风险检查 + 错别字/逻辑谬误检查，生成 PDF 报告。无需 API Key · ⭐7
 - [SAXEM1997/dsh-ppt-master-wrapper](https://github.com/SAXEM1997/dsh-ppt-master-wrapper) — DeepSeek Harness plugin wrapping the upstream ppt-master skill set: byte-for-byte vendored skills, three lifecycle tools, optional venv inte · ⭐7
-- [shine-233/dsh-waimao](https://github.com/shine-233/dsh-waimao) — 外贸获客插件 for DeepSeek Harness (dsh): Google 三层搜客 + WhatsApp 客服审核台 + 邮件触达闭环 (ICP 评分/跟进序列/CRM/报价PDF), 零依赖 · ⭐7
 - [zh851233/docs-mode](https://github.com/zh851233/docs-mode) — You can use this plugin to complete the writing of technical documents, including development briefs, user manuals, reports/summary material · ⭐7
 - [coppynight/dsh-doctor](https://github.com/coppynight/dsh-doctor) 💤 — DSH 插件：flutter-doctor 风格诊断与修复（安装级 + harness 内检查，安全自动修复）。官方 repository-plugin（.dsh-plugin 格式） · ⭐6
 - [didclawapp-ai/DSH-Office](https://github.com/didclawapp-ai/DSH-Office) 💤 — DeepSeek Harness plugin for PPTX / DOCX / XLSX / PDF read/write/edit · ⭐6
@@ -150,7 +149,6 @@
 - [WH-kt/dsh-codexstyle-slide](https://github.com/WH-kt/dsh-codexstyle-slide) — Codex-style glowing reasoning-effort slider for the DeepSeek Harness composer · DSH 推理强度滑块（Codex 风格） · ⭐1
 - [WLV-ZEDD/dsh-btw](https://github.com/WLV-ZEDD/dsh-btw) — DeepSeek Harness Side-Assistant Dock & Drawer · ⭐1
 - [xuanke66/dsh-thinking-slider](https://github.com/xuanke66/dsh-thinking-slider) — 把 DeepSeek 的推理档位 off/low/high/max 做成一根滑杆的 DSH 插件（滑动变祖器） · ⭐1
-- [xxxSnack/dsh-market-dock](https://github.com/xxxSnack/dsh-market-dock) — DeepSeek Harness 的行情面板：免登录看 A股/港股/美股实时行情、K线、热榜、快讯；本地持仓盈亏现算、可选的同花顺账本一次性导入、价格提醒，还有一键「行情隐身」。非雪球官方。 · ⭐1
 - [yunfeizhu/dsh-pptx-editor](https://github.com/yunfeizhu/dsh-pptx-editor) — PPTX editor integration for DeepSeek Harness · ⭐1
 - [YunxiLuna/dsh-song-mv](https://github.com/YunxiLuna/dsh-song-mv) — Code-rendered music videos for DSH: beat-synced scenes, kinetic lyrics, story props drawn in code, encoded with ffmpeg. Ships as a plugin an · ⭐1
 - [yvhcel888/dsh-slide-gauge](https://github.com/yvhcel888/dsh-slide-gauge) — DSH 滑动测量仪挂件：右下角拖动角色显示状态，边界彩蛋，记住上次位置 · DeepSeek Harness plugin · ⭐1
@@ -222,7 +220,6 @@
 - [qiaoda2021/dsh-doctor](https://github.com/qiaoda2021/dsh-doctor) — 面向 DeepSeek Harness（DSH）的环境诊断与受控修复插件。支持环境检查、插件来源追踪、安装前声明冲突预检与检查覆盖摘要；修复操作经用户确认后执行，提供备份、复检与回滚。 · ⭐0
 - [Qiujiyuantiantian/dsh-vehicle-dynamics](https://github.com/Qiujiyuantiantian/dsh-vehicle-dynamics) — 把 Gillespie《车辆动力学基础》整本书重写成 164 张可执行工程检查单的 DSH 技能；附约 77 处原文缺陷标注，不复制原文。｜ A DSH skill: Gillespie's vehicle dynamics rewritten as 164 executable · ⭐0
 - [SamFirefly096/dsh-docflow-workflow](https://github.com/SamFirefly096/dsh-docflow-workflow) 💤 — DSH 文档工作流：上传/解析/生成/修改 docx·pptx·pdf + 真实文献检索核查（PubMed/Crossref）+ GB/T 7714 引文格式 · ⭐0
-- [samorachumbi/dsh-domain-watch](https://github.com/samorachumbi/dsh-domain-watch) — Ask the registry, not the vendor dashboard: whether a domain is really registered, who the registrar of record is, and when it dies. DSH age · ⭐0
 - [scientificmaniac/dsh-code-highlight](https://github.com/scientificmaniac/dsh-code-highlight) — 为报告类文档提供代码语法高亮的 DeepSeek Harness（DSH）插件。注册一个 highlight_code 工具， 把代码片段渲染成带真实语法配色的产物，落到 Markdown / HTML、Word、PowerPoint、PDF 与 LaTeX 里。 · ⭐0
 - [shinelon/dsh-mermaid-plugin](https://github.com/shinelon/dsh-mermaid-plugin) — Render mermaid code blocks in DSH chat as diagrams - 在 DSH 聊天中将 mermaid 代码块渲染为图形 · ⭐0
 - [SIMON-WORLD/dsh-toolkit](https://github.com/SIMON-WORLD/dsh-toolkit) 💤 — DeepSeek Harness 好用化工具箱：dsh-doctor 环境体检 + 中文知识库(173痛点/20方向) + @文件引用/成本仪表盘/视觉桥插件 · ⭐0

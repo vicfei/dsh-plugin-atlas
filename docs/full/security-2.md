@@ -1,16 +1,7 @@
-# Security & Permissions — 1177 entries (part 2/2)
+# Security & Permissions — 1168 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [GooDAnDReaDY/dsh-usage-guard](https://github.com/GooDAnDReaDY/dsh-usage-guard) — Session token-usage sanitizer preventing chat history corruption from malformed provider metrics · ⭐0
-- [good-boy4069/dsh-vision-guard](https://github.com/good-boy4069/dsh-vision-guard) 💤 — (no description) · ⭐0
-- [GoshawkGGGG/dsh-safe-tool](https://github.com/GoshawkGGGG/dsh-safe-tool) — DeepSeek Harness 的 AI 工具审批插件，使用AI审核AGENT调用工具的合规性并决定是否执行，审核标准可定制。 · ⭐0
-- [GreenLv/dsh-completion-guard](https://github.com/GreenLv/dsh-completion-guard) — Task-contract and completion-certification layer for DeepSeek Harness · ⭐0
-- [guanosine-diphosphate/dsh-retry-policy-settings](https://github.com/guanosine-diphosphate/dsh-retry-policy-settings) 💤 — (no description) · ⭐0
-- [guokecloud/dsh-session-janitor](https://github.com/guokecloud/dsh-session-janitor) — DSH session cleaner: a sidebar page listing session records and archive caches, with a restorable recycle bin and an in-use guard. · ⭐0
-- [gyyxs88/dsh-session-control](https://github.com/gyyxs88/dsh-session-control) — Authorized, durable cross-session control for DeepSeek Harness · ⭐0
-- [Hakunm/dsh-approve-for-me](https://github.com/Hakunm/dsh-approve-for-me) 💤 — 为DeepSeek Harness添加“代我审核”功能，让 AI 替你审查 DSH 的敏感操作，而不是直接交出全部权限。Fail-closed automatic approval for DeepSeek Harness with selectable reviewer mod · ⭐0
-- [harmless0819-dev/dsh-agent-chat](https://github.com/harmless0819-dev/dsh-agent-chat) — Turn-injection message channel between DSH agents on two machines: messages land in a log and are injected as context at the next agent step · ⭐0
 - [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) 💤 — Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. · ⭐0
 - [hasan-aghayev/dsh-session-resilience](https://github.com/hasan-aghayev/dsh-session-resilience) — Safe DSH restarts, token-aware reconnect, and policy-based recovery for DSH 0.2+ · ⭐0
 - [Hashing2030/dsh-bulwark](https://github.com/Hashing2030/dsh-bulwark) — DSH plugin: enforce AI rules and protect tools/paths from accidental modification. · ⭐0
@@ -162,7 +153,7 @@
 - [siberiah2o/dsh-plugin-remote](https://github.com/siberiah2o/dsh-plugin-remote) 💤 — Remote access gateway for the DeepSeek Harness Web GUI: login auth + HTTP/WebSocket reverse proxy to the loopback DSH server. · ⭐0
 - [SilasSolivagus/dsh-kanban](https://github.com/SilasSolivagus/dsh-kanban) — The native task board for DeepSeek Harness: four columns, approvals, blockers, attachments and durable Host storage. Not an iframe. · ⭐0
 - [sjh9714/dsh-retry-guard](https://github.com/sjh9714/dsh-retry-guard) — Observe identical tool failures and optionally pause the next model step in DeepSeek Harness. · ⭐0
-- [SLAPaper/dsh-self-checking-profile](https://github.com/SLAPaper/dsh-self-checking-profile) — A drop-in dsh web profile that adds the **Self Checking** sandbox mode to DeepSeek Harness (dsh) · ⭐0
+- [SLAPaper/dsh-self-checking-profile](https://github.com/SLAPaper/dsh-self-checking-profile) 💤 — A drop-in dsh web profile that adds the **Self Checking** sandbox mode to DeepSeek Harness (dsh) · ⭐0
 - [snailium/dsh-repeat-tool-breaker](https://github.com/snailium/dsh-repeat-tool-breaker) — Hard break on repeated identical tool calls in DeepSeek Harness (DSH): a synchronous monotonic ctx.tools.guard gate that denies the 2nd iden · ⭐0
 - [soberkeen/dsh-vault](https://github.com/soberkeen/dsh-vault) — DSH（DeepSeek Harness）加密全量备份与恢复插件 —— 配置/会话/插件/工作区/Hindsight 记忆打包成加密分卷，带自包含还原器与 GFS 滚动保留，零外部依赖 · ⭐0
 - [SOH4C4759/dsh-plugin-cicd](https://github.com/SOH4C4759/dsh-plugin-cicd) — 发布台 (Release Console) for DeepSeek Harness: a sidebar entry and a main-panel page showing each repository's latest CI run, its releases, and · ⭐0

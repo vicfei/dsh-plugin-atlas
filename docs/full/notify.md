@@ -2,8 +2,8 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐534
-- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐245
+- [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐536
+- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐246
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) — DeepSeek Harness 原生风格提示音插件 · ⭐34
 - [temotee2103/dsh-overdrive](https://github.com/temotee2103/dsh-overdrive) 💤 — The OpenClaw of DeepSeek Harness — turn DSH into a multi-platform chat agent with in-chat trajectory tracing, subagents & cron, and one-comm · ⭐23
 - [S3K926/dsh-selfwake](https://github.com/S3K926/dsh-selfwake) — DSH（DeepSeek Harness）插件：到点主动开口 —— 五道闸（间隔／安静／未回话上限／静默时段）过了就挑一条开口，优先投进活跃会话，投不进发系统通知 ＋ 写日志。MIT。 · ⭐21
@@ -73,9 +73,11 @@
 - [king-shao/dsh-turn-notifier](https://github.com/king-shao/dsh-turn-notifier) — DeepSeek Harness 插件：每轮对话完成时弹出通知，标题为会话名、正文为回答摘要 · ⭐1
 - [Kreatur-ECHO/dsh-task-complete-notifier](https://github.com/Kreatur-ECHO/dsh-task-complete-notifier) — DeepSeek Harness 任务完成通知插件：任务真正结束时右下角弹出置顶深色卡片，可输入下一条指令，内置可开关叮声与自定义音效 · ⭐1
 - [Lichen455/band-notify](https://github.com/Lichen455/band-notify) 💤 — DSH插件，让大赢鲸完成工作的时候，通过ntfy给我的小米手环10Pro发消息 · ⭐1
+- [lixiangdong122333/dsh-notify](https://github.com/lixiangdong122333/dsh-notify) — Windows toast notifications for DeepSeek-Harness: get pulled back when a task finishes or the agent needs you. · ⭐1
 - [ljnljn2005/dsh-wecom-notify](https://github.com/ljnljn2005/dsh-wecom-notify) 💤 — DSH 插件：任务完成 / 报错 / 需要用户选择时，自动通过企业微信群机器人 webhook 发送通知（text 默认，可切换 markdown） · ⭐1
 - [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme) — (no description) · ⭐1
 - [MCviseron/dsh-email-notify](https://github.com/MCviseron/dsh-email-notify) — DeepSeek Harness（DSH）的邮件通知插件 · ⭐1
+- [mhlywxl/dsh-coding-sound](https://github.com/mhlywxl/dsh-coding-sound) — Generative background music and notification chimes for DeepSeek Harness. · ⭐1
 - [NattoCB/dsh-plugin-notifications](https://github.com/NattoCB/dsh-plugin-notifications) 💤 — DSH (DeepSeek Harness) bundle plugin: a Settings → General card that pops a system notification (and optional Web Audio chime) when a conver · ⭐1
 - [SunWay0573/dsh-mobile](https://github.com/SunWay0573/dsh-mobile) — Control your home machine's DeepSeek Harness agent from your phone: Android app + DSH plugins for remote wake, work-aware sleep, push notifi · ⭐1
 - [Vergil-long/dsh-email-notify](https://github.com/Vergil-long/dsh-email-notify) — DeepSeek Harness 邮件通知插件：任务完成 / 工具等你授权 / 助手在等你回答时发邮件给你，配一个「离开模式」开关。设置全部集成在 harness 设置界面里。 · ⭐1
@@ -113,9 +115,7 @@
 - [LapStdy/dsh-dingtalk-notify](https://github.com/LapStdy/dsh-dingtalk-notify) — DSH（DeepSeek Harness）钉钉群通知插件：AI 需要你选择/审批、或一轮任务完成时推送到钉钉群，自带设置面板 · ⭐0
 - [lin1213812138/lin-answer-now](https://github.com/lin1213812138/lin-answer-now) — DeepSeek Harness plugin: pushes the agent to deliver its answer as soon as it has one, with escalating reminders when tool calls pile up. · ⭐0
 - [liuqh16/dsh-processes](https://github.com/liuqh16/dsh-processes) 💤 — Manage background processes from DeepSeek Harness: process tool, /ps commands, output inspection, exit/log-match notifications. A DSH port o · ⭐0
-- [lixiangdong122333/dsh-notify](https://github.com/lixiangdong122333/dsh-notify) — Windows toast notifications for DeepSeek-Harness: get pulled back when a task finishes or the agent needs you. · ⭐0
 - [Lloydly007/dsh-bark-notify](https://github.com/Lloydly007/dsh-bark-notify) — Bark push notifications for DeepSeek Harness (DSH): turn completion, waiting prompts, and optional background-job cards, configured in Setti · ⭐0
-- [mhlywxl/dsh-coding-sound](https://github.com/mhlywxl/dsh-coding-sound) — Generative background music and notification chimes for DeepSeek Harness. · ⭐0
 - [miiy/dsh-notify](https://github.com/miiy/dsh-notify) — Cross-device notifications for DeepSeek Harness. · ⭐0
 - [One1turn/dsh-omnibridge](https://github.com/One1turn/dsh-omnibridge) 💤 — AstrBot-style multi-platform bridge for DeepSeek Harness: QQ(OneBot)/Telegram/Discord/KOOK/Slack/Feishu/WeCom/DingTalk/LINE/webchat etc. 19  · ⭐0
 - [pd90506/dsh-web-notification](https://github.com/pd90506/dsh-web-notification) 💤 — (no description) · ⭐0
@@ -136,7 +136,7 @@
 - [Xixixiao2007/dsh-mail-digest](https://github.com/Xixixiao2007/dsh-mail-digest) — 把每轮回答压成一条详略得当的摘要发到邮箱，并支持邮件回信作答或续接对话（DeepSeek Harness 插件） · ⭐0
 - [xwzkj/dsh-audio-alert](https://github.com/xwzkj/dsh-audio-alert) — 适用于linux服务器+网页版dsh的会话状态提醒插件，通过服务器连接的音频设备发声来提醒用户，无需打开网页端即可得知最新进展！ · ⭐0
 - [yakoylp/dsh-localnotify](https://github.com/yakoylp/dsh-localnotify) — DSH 本地通知栏插件：侧边栏【通知】入口 + 全屏通知中心（时间筛选/搜索/未读已读/删除/详情一键复制），notify_add agent 工具 + CLI 写入，JSON 持久化，实时刷新，界面跟随 dsh web 语言切换。Local notification cente · ⭐0
-- [YeqingTang/dsh-task-watcher-plugin](https://github.com/YeqingTang/dsh-task-watcher-plugin) — Windows tray monitor shell plugin for DeepSeek Harness: deploys & manages the standalone DshTaskWatcher tray app, with a start/stop switch i · ⭐0
+- [YeqingTang/dsh-task-watcher-plugin](https://github.com/YeqingTang/dsh-task-watcher-plugin) 💤 — Windows tray monitor shell plugin for DeepSeek Harness: deploys & manages the standalone DshTaskWatcher tray app, with a start/stop switch i · ⭐0
 - [YuMo226/dsh-task-notify](https://github.com/YuMo226/dsh-task-notify) 💤 — (no description) · ⭐0
 - [YUsaltyfish/dsh-notification-sound](https://github.com/YUsaltyfish/dsh-notification-sound) — 在弹出选项卡提问、请求工具权限、一轮对话结束时播放提示音；支持自定义音频。 · ⭐0
 - [zueston/dsh-alarm](https://github.com/zueston/dsh-alarm) — DSH 报警插件：报警条件可选，支持提醒/弹窗/铃声/语音播报四通道（DSH alarm plugin with per-condition channels) · ⭐0

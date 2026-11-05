@@ -1,7 +1,8 @@
-# Session & Context — 1498 entries (part 2/2)
+# Session & Context — 1496 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [yangzhenyu0817/dsh-session-color](https://github.com/yangzhenyu0817/dsh-session-color) — Right-click any session row in the DeepSeek Harness sidebar to color-tag it (default red, ten palette colors, custom picker). / 给 DSH 侧栏会话行加 · ⭐1
 - [Ycet/dsh-archive-manager](https://github.com/Ycet/dsh-archive-manager) — DSH 设置新增「归档」页：按工作区分组查看已归档会话，支持筛选/排序、取消归档、二次确认彻底删除。Add an Archive page to DSH Settings: view archived sessions grouped by workspace, filter/s · ⭐1
 - [yellpoliovirusvaccine37/dsh-launcher](https://github.com/yellpoliovirusvaccine37/dsh-launcher) — Launch DeepSeek Harness on Windows with one double-click, featuring startup autostart and a compact standalone window—no command line requir · ⭐1
 - [ysr666/dsh-computer-history](https://github.com/ysr666/dsh-computer-history) — Privacy-first computer history and work continuity for DeepSeek Harness — local-first, metadata-only. · ⭐1
@@ -95,9 +96,7 @@
 - [chenkui-luo/dsh-session-attachment-repair](https://github.com/chenkui-luo/dsh-session-attachment-repair) — Repair DSH sessions whose requests fail because historical attachment objects are missing from the local attachment store. · ⭐0
 - [Cherryxxh/DSH-One-Dark-Pro-Theme](https://github.com/Cherryxxh/DSH-One-Dark-Pro-Theme) — One Dark Pro (classic) theme for the DeepSeek Harness Web GUI: a Settings -> General switcher with a full 156-token override layer, 1:1 colo · ⭐0
 - [CHIANGANGSTER/dsh-session-window](https://github.com/CHIANGANGSTER/dsh-session-window) — (no description) · ⭐0
-- [chopperH0824/dsh-session-search-bar](https://github.com/chopperH0824/dsh-session-search-bar) — DeepSeek Harness 会话搜索栏插件：按关键词搜索历史会话的消息正文，点结果直接定位到命中文字。 · ⭐0
 - [chou109/dsh-msgrail](https://github.com/chou109/dsh-msgrail) — MsgRail（消息轨道） —— DeepSeek Harness 的窄消息轨道插件：在对话左侧，为每条你发送的消息显示一根细横线。悬停看预览、点击即跳转，更早消息自动加载；全量历史、实时更新、中英双语。 MsgRail is a narrow message rail for  · ⭐0
-- [chriswang/dsh-conversation-tree](https://github.com/chriswang/dsh-conversation-tree) — Conversation Tree for DSH — organise DeepSeek Harness conversations into a collapsible tree by workspace and topic, and open the real sessio · ⭐0
 - [ChuanTianML/dsh-local-share](https://github.com/ChuanTianML/dsh-local-share) — Local, privacy-first Markdown and self-contained HTML sharing for DeepSeek Harness sessions · ⭐0
 - [chuxindd/dsh-context-enhancement](https://github.com/chuxindd/dsh-context-enhancement) — 适用于 DeepSeek Harness 的单会话上下文增强工具，力求化解会话在触发 /compact 上下文压缩后损失信息过多，导致前后表现“判若两人”的技术困境。 · ⭐0
 - [chyxhtc/dsh-ws-recency](https://github.com/chyxhtc/dsh-ws-recency) — (no description) · ⭐0
@@ -239,7 +238,6 @@
 - [kai-GitHubaccount/dsh-usage-panel](https://github.com/kai-GitHubaccount/dsh-usage-panel) — DeepSeek 余额 + Token 用量面板（DSH Web）：三级预警、自定义阈值、一键充值、缓存命中率 ｜ Balance & usage panel for DeepSeek Harness · ⭐0
 - [kanoonak/dsh-whale-catcher](https://github.com/kanoonak/dsh-whale-catcher) — DSH Web 小游戏：左下角会有一枚按钮，点开就可以玩捞 小鲸鱼抓token 的小游戏（非官方粉丝作品） · ⭐0
 - [keepview/dsh-lark](https://github.com/keepview/dsh-lark) 💤 — Minimal Lark/Feishu gateway plugin for DeepSeek Harness (dsh) — chat with your agent from Feishu, one topic = one session. 极简 DeepSeek Harne · ⭐0
-- [Kerberos255/dsh-channel-core](https://github.com/Kerberos255/dsh-channel-core) — Discord and Feishu/Lark channels for DeepSeek Harness: verified identities, shared sessions, native Ask User and progress delivery. · ⭐0
 - [kermars39-web/dsh-conversation-import](https://github.com/kermars39-web/dsh-conversation-import) — Import a local Codex conversation thread into a DeepSeek Harness Session, filed under its original working directory, with optional auto-syn · ⭐0
 - [Kevoyuan/dsh-trading212](https://github.com/Kevoyuan/dsh-trading212) — Read-only Trading 212 portfolio dashboard and dsh tools for holdings, history, risk, and trade markers. · ⭐0
 - [KILLEDx/dsh-token-stats](https://github.com/KILLEDx/dsh-token-stats) — DSH设置页 Token 统计分区：跨会话用量指标、热力图与常驻悬浮小窗（读本地日志，零模型消耗） · ⭐0
@@ -274,6 +272,7 @@
 - [liaoyuqing/dsh-shutdown-idle](https://github.com/liaoyuqing/dsh-shutdown-idle) — DSH plugin: shut down / restart / lock once every session and background job has gone idle. · ⭐0
 - [licat2023/dsh-session-tabs](https://github.com/licat2023/dsh-session-tabs) 💤 — (no description) · ⭐0
 - [lifeopsgo/dsh-lark-session-monitor-plugin](https://github.com/lifeopsgo/dsh-lark-session-monitor-plugin) — 飞书会话监听并投递到指定工作区的会话中 · ⭐0
+- [lij0000-arch/dsh-workspace-migrate](https://github.com/lij0000-arch/dsh-workspace-migrate) — Workspace-scoped DeepSeek Harness migration: conversations, project files and attachments with path remapping · ⭐0
 - [lijajiu9205-collab/dsh-history](https://github.com/lijajiu9205-collab/dsh-history) — deepseek harness古风大肥鱼，让模型对话使用文言文来回答，主页点击开关即可使用(默认关闭) · ⭐0
 - [lilcandi/dsh-session-live](https://github.com/lilcandi/dsh-session-live) — Live activity preview inside DSH session hover cards: what each session is doing right now, how much it spent, and the image it touched last · ⭐0
 - [lin114514-desng/dsh-context-tone](https://github.com/lin114514-desng/dsh-context-tone) — DSH 插件：按上下文占用档位给上下文胶囊的圆环与百分比改色，并在数字右侧显示档位 emoji；五个分界值、五档颜色、六档 emoji 可在插件配置页修改。Colors the DeepSeek Harness context meter by occupancy tier, w · ⭐0
@@ -334,7 +333,6 @@
 - [Motues/dsh-session-curator](https://github.com/Motues/dsh-session-curator) — (no description) · ⭐0
 - [MoYu-CN/dsh-team-chat](https://github.com/MoYu-CN/dsh-team-chat) — Chat room for DSH agents: shared room timeline, member roster, and task dispatch across agent sessions. · ⭐0
 - [mpetruc/dsh-vcc](https://github.com/mpetruc/dsh-vcc) — Deterministic VCC compaction for DSH · ⭐0
-- [mrbeandev/dsh-desktop-ui](https://github.com/mrbeandev/dsh-desktop-ui) — Desktop mode for the DeepSeek Harness web GUI: sessions as movable windows with a taskbar (experimental) · ⭐0
 - [mrdhira/dsh-kanban](https://github.com/mrdhira/dsh-kanban) — A Kanban board for DSH: one SQLite board shared by a human and their agent sessions, in the desktop app's sidebar. Two gates (Definition of  · ⭐0
 - [MrTomTao/dsh-token-billing](https://github.com/MrTomTao/dsh-token-billing) — 给DeepSeek Harness Web GUI用的会话token计费插件：在会话标题栏显示本次会话的实时花费，点开可以看输入 / 缓存命中 / 缓存写入 / 输出 / 推理的分项、按模型的账单，以及当前用的是高峰还是空闲时段价。 · ⭐0
 - [msciu/dsh-prompt-enricher](https://github.com/msciu/dsh-prompt-enricher) — Prompt workbench for DeepSeek Harness: drafts, full-log sent history, and grill-based prompt elicitation. · ⭐0
@@ -417,7 +415,7 @@
 - [Schrei5/dsh-plugin-session-project](https://github.com/Schrei5/dsh-plugin-session-project) — DSH sidebar plugin: show each session's project (Workspace) name under its title in the flat session list · ⭐0
 - [scientificmaniac/dsh-faremeter](https://github.com/scientificmaniac/dsh-faremeter) — 给 AI 对话打表 · A fare meter for DSH chats — token tiers + peak/off-peak, and per-request Search/Fetch billing from 2026-11-01 · ⭐0
 - [seeingrain/dsh-session-todos](https://github.com/seeingrain/dsh-session-todos) — 会话内待办事项：DSH 悬浮待办面板 + 服务器端跨端存储 + 会话列表未完成图标 · ⭐0
-- [seeingrain/dsh-upload-file](https://github.com/seeingrain/dsh-upload-file) — DSH plugin: paperclip file library with per-session isolation, thumbnails and re-download. · ⭐0
+- [seeingrain/dsh-upload-file](https://github.com/seeingrain/dsh-upload-file) 💤 — DSH plugin: paperclip file library with per-session isolation, thumbnails and re-download. · ⭐0
 - [seekerwxy/dsh-session-tabs](https://github.com/seekerwxy/dsh-session-tabs) 💤 — Browser-style session tab bar for DeepSeek Harness (DSH): one tab per opened session at the very top of the web app — click to switch, close · ⭐0
 - [SeireiA/dsh-plugin-rtk](https://github.com/SeireiA/dsh-plugin-rtk) — DeepSeek Harness plugin for RTK-powered shell output compaction · ⭐0
 - [sensen-jo/dsh-plugin-goal-map](https://github.com/sensen-jo/dsh-plugin-goal-map) — Goal Map for DeepSeek Harness: read-only goal-to-plan progress route and session mindmap. · ⭐0

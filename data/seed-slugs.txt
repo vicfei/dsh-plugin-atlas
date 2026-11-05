@@ -1745,6 +1745,7 @@ Fishquito7/dsh-skill-mcp-panel
 Fishsb/dsh-plugin-roundtable
 Fishsb/dsh-project-nav
 Fishsb/dsh-prompt-enhancer
+Fishsb/dsh-voice-prompt-enhancer
 FitBBC/dsh-plugin-tokenmarket
 FlameTN7/dsh-tui-browser-use
 Flamencoff/dsh-xiaozhushou
@@ -2134,6 +2135,7 @@ HerTa-st/dsh-theme-herta
 Hercules-debug/dsh-flock
 Hercules-debug/huixuan-assistant
 HewangLan0511/dsh-ui
+HiAi-gg/docsmint
 HiQ-AI/dingtalk-dsh-assistant
 HiSeax/dsh-agent-outputs-reader
 HiSeax/dsh-better-model-setting
@@ -7468,6 +7470,7 @@ freehul/sgme
 freestylefly/awesome-gpt-image-2
 freestylefly/wesight
 frisk325/dsh-rice-mode
+frostming/dsh-hongguo
 frozo-ai/dsh-worlds
 fryghost/deepseek-harness-wecom-plus
 frzzaxszz/dsh-skill-catalog
@@ -9348,6 +9351,7 @@ louifinn/dsh-tower
 louisyeaaah/dsh-doctor
 louisyeaaah/dsh-receipt
 louisyeaaah/dsh-reload
+louke6572/dsh-Dfy
 louke6572/dsh-whale-widget-plus
 loulangogogo/dsh-plugins-loulan
 lov0vo/dsh-composer-autopair
@@ -11522,6 +11526,7 @@ tetckx/deep-structural-analysis-skill
 text2future/flowix
 thanderming/dsh-auto-vision
 thanhdz235123-commits/nyx-dsh-plugins
+thawline/dsh-memewiki
 the-beating-light-of-the-nail/dsh-meme-hub
 theBigGavin/marketingdashboard
 thedeveloper256/dsh-model-router
@@ -12726,6 +12731,7 @@ yamingmou/dsh-retrace
 yan-mc/dsh-normify
 yanJ26/dsh-disk-browser
 yanfei0725/dsh-qwen-paint
+yang0/dsh-handraw-style
 yang1604454533-netizen/dsh-ASD-100
 yang19997/dsh-live-backdrop
 yang208691-source/dsh-nutstore-backup
@@ -13551,5 +13557,6 @@ zzy6-a/dsh-prompt-enhance
 zzy6-a/dsh-upgrade-guard
 zzy6-a/vision-use
 zzyyyds88/dsh-solo-leveling
+zzzgydi/verge-browser
 zzzmmmnn/dsh-openkapsel
 zzzzym7018/dsh-fudan-status-wallpaper

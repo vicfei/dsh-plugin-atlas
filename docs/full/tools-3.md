@@ -1,7 +1,9 @@
-# Tools & Integrations — 2366 entries (part 3/3)
+# Tools & Integrations — 2364 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [JessenReinhart/dsh-poke-todo](https://github.com/JessenReinhart/dsh-poke-todo) — Port of jcode's auto-poke incomplete-todos feature as a Cordis plugin for DeepSeek Harness. · ⭐0
+- [jiangrz77/DSHLauncher](https://github.com/jiangrz77/DSHLauncher) 💤 — (no description) · ⭐0
 - [JiewiW/dsh-cot-anchor](https://github.com/JiewiW/dsh-cot-anchor) — 思考锚点：从模型上一段思考中提取已确立结论，在工具结果后注入，减少重复推导；并可识别打转与伪工具调用 · ⭐0
 - [jimmyzhang219/dsh-plan-and-execute](https://github.com/jimmyzhang219/dsh-plan-and-execute) — DeepSeek Harness (dsh) 的 Plan-and-Execute 编排插件 · ⭐0
 - [JinSuperOfficial/dsh-proxy-switcher](https://github.com/JinSuperOfficial/dsh-proxy-switcher) — 一款为 dsh 打造的代理热切换插件。支持在设置界面实时切换直连/系统/自定义代理，无需重启 dsh，彻底告别修改代理必须重启的烦恼 · ⭐0
@@ -140,7 +142,6 @@
 - [mkhl20/dsh-lingua-atlas](https://github.com/mkhl20/dsh-lingua-atlas) — Offline Chinese-English dictionary, literary corpus, prosody, and related words for DSH. · ⭐0
 - [Mlte0907/dsh-brake](https://github.com/Mlte0907/dsh-brake) — DSH 死循环刹车器：检测 agent 会话中的方法循环（同类工具高频调用），注入警告或拒绝执行 · ⭐0
 - [monkey-sking/dsh-boot-resume](https://github.com/monkey-sking/dsh-boot-resume) — Resume the conversation a DSH restart interrupted — auto-continue the unfinished turn on boot. · ⭐0
-- [monkey-sking/dsh-im-global](https://github.com/monkey-sking/dsh-im-global) — (no description) · ⭐0
 - [Moolight/dsh-shader-workbench](https://github.com/Moolight/dsh-shader-workbench) — 节点式 GLSL 工作台（DSH / DeepSeek Harness 插件）：拖节点出图 → Shadertoy 兼容实时预览 → 热重载 → 本地材质资源管理（图片 / 音频 / 歌词）。可跨编译导出 HLSL / MSL / SPIR-V，支持导入 Shadertoy 源码 · ⭐0
 - [moonbowterfly/dsh-bio-galatea](https://github.com/moonbowterfly/dsh-bio-galatea) — 蛋白结构预测与设计域插件（dsh-bio-genie 生态）：ProteinMPNN/SolubleMPNN/LigandMPNN 序列设计 + 区域重设计 + ESMFold 折叠/复折叠 + 界面分析 + 共识排序/接触聚类/覆盖审计/预算调度 | protein struc · ⭐0
 - [Morii013/codex-outsource](https://github.com/Morii013/codex-outsource) — Outsource heavy tasks to local Codex CLI (ChatGPT subscription): a DSH/agent skill with macOS/Linux and Windows launchers · ⭐0
@@ -256,7 +257,6 @@
 - [raven3005672/dsh-plugin-highlight-notes](https://github.com/raven3005672/dsh-plugin-highlight-notes) — DSH 批注插件：在回答里标注文字并写备注，一键把引用放回输入框。 · ⭐0
 - [RCYD857/857-dsh-file-attach](https://github.com/RCYD857/857-dsh-file-attach) — (no description) · ⭐0
 - [Rczlin/dsh-better-reasoning](https://github.com/Rczlin/dsh-better-reasoning) — (no description) · ⭐0
-- [re3uofall/dsh-persona-framework](https://github.com/re3uofall/dsh-persona-framework) — DSH 人格框架插件：只给框架，不含人格。四层切分（劲→闸→标→嘴）、88 个模块各一份正文按编号随框架注入、10 个工具、31 个程序。外挂注入，不覆盖、不改写人格文件；发版前过体检闸。 · ⭐0
 - [referiw/dsh-plugin-tieba](https://github.com/referiw/dsh-plugin-tieba) — 只读百度贴吧的 DeepSeek Harness 插件：全量翻页、动态抽样、楼中楼、按楼层取图 · ⭐0
 - [RetiredPhysicist/dsh-plugins](https://github.com/RetiredPhysicist/dsh-plugins) — RetiredPhysicist dsh-plugins · ⭐0
 - [rg2304luyue/dsh-pa](https://github.com/rg2304luyue/dsh-pa) — 供deepseek harness使用的轻量级提示词增强 · ⭐0
@@ -297,7 +297,6 @@
 - [sherconan/dsh-task-mascot](https://github.com/sherconan/dsh-task-mascot) — 真跟着 Agent 每一步工具调用在动 · DeepSeek Harness task mascot by metsh · ⭐0
 - [ShikangPang/jizuo-creator-video](https://github.com/ShikangPang/jizuo-creator-video) — DeepSeek Harness 视频创作插件：独立视频项目、跨小说章节改编与剪辑 · ⭐0
 - [ShikangPang/jizuo-creator-writing](https://github.com/ShikangPang/jizuo-creator-writing) — DeepSeek Harness 小说创作插件：独立小说项目、章节与修订 · ⭐0
-- [shin4/inkpond-dsh](https://github.com/shin4/inkpond-dsh) — Interactive Chinese ink-wash backgrounds for DeepSeek Harness · 墨池水墨背景插件 · ⭐0
 - [Shione0721/dafish-launcher](https://github.com/Shione0721/dafish-launcher) — 大肥鱼启动器 —— DeepSeek Harness 桌面版一键启动器，Windows 单文件 · 零依赖 · 免 UAC · ⭐0
 - [ShiTan-677/dsh-plugins](https://github.com/ShiTan-677/dsh-plugins) — Self-maintained DeepSeek Harness plugins: one repo, one CI, one npm package per plugin with its own version. · ⭐0
 - [shizhanyu13/dsh-waom](https://github.com/shizhanyu13/dsh-waom) 💤 — @shizhanyu13/dsh-waom — DSH plugin: autonomous-ops (WAOM). Monitor / decide / drive a subagent fix / evaluate independently (GAN). dsh-plugi · ⭐0
@@ -542,7 +541,6 @@
 - [zhangqian98/dsh-escalation-advisor](https://github.com/zhangqian98/dsh-escalation-advisor) — (no description) · ⭐0
 - [zhangyy0423/dsh-veripipe](https://github.com/zhangyy0423/dsh-veripipe) — dsh plugin: per-turn receipts (todo counts, goal id, fail-closed plan verdict) that survive the next turn, plus a read-only veripipe_receipt · ⭐0
 - [zhengjy01/dsh-backup-migrator](https://github.com/zhengjy01/dsh-backup-migrator) — Plugin environment backup and migration for DeepSeek Harness · ⭐0
-- [zhengjy01/dsh-npm](https://github.com/zhengjy01/dsh-npm) — NPM registry management for DeepSeek Harness · ⭐0
 - [zhengjy01/dsh-ticktick](https://github.com/zhengjy01/dsh-ticktick) — (no description) · ⭐0
 - [zhengjy01/dsh-wps](https://github.com/zhengjy01/dsh-wps) — (no description) · ⭐0
 - [zhengqiuyang/dsh-prompt-drift](https://github.com/zhengqiuyang/dsh-prompt-drift) — System-prompt surface drift gate for DeepSeek Harness — sections any plugin contributes are hashed and baselined; silent rewrites fail loud · ⭐0

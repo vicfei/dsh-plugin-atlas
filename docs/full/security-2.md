@@ -1,13 +1,17 @@
-# Security & Permissions — 1175 entries (part 2/2)
+# Security & Permissions — 1177 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [GooDAnDReaDY/dsh-usage-guard](https://github.com/GooDAnDReaDY/dsh-usage-guard) — Session token-usage sanitizer preventing chat history corruption from malformed provider metrics · ⭐0
+- [good-boy4069/dsh-vision-guard](https://github.com/good-boy4069/dsh-vision-guard) 💤 — (no description) · ⭐0
+- [GoshawkGGGG/dsh-safe-tool](https://github.com/GoshawkGGGG/dsh-safe-tool) — DeepSeek Harness 的 AI 工具审批插件，使用AI审核AGENT调用工具的合规性并决定是否执行，审核标准可定制。 · ⭐0
+- [GreenLv/dsh-completion-guard](https://github.com/GreenLv/dsh-completion-guard) — Task-contract and completion-certification layer for DeepSeek Harness · ⭐0
 - [guanosine-diphosphate/dsh-retry-policy-settings](https://github.com/guanosine-diphosphate/dsh-retry-policy-settings) 💤 — (no description) · ⭐0
 - [guokecloud/dsh-session-janitor](https://github.com/guokecloud/dsh-session-janitor) — DSH session cleaner: a sidebar page listing session records and archive caches, with a restorable recycle bin and an in-use guard. · ⭐0
 - [gyyxs88/dsh-session-control](https://github.com/gyyxs88/dsh-session-control) — Authorized, durable cross-session control for DeepSeek Harness · ⭐0
 - [Hakunm/dsh-approve-for-me](https://github.com/Hakunm/dsh-approve-for-me) 💤 — 为DeepSeek Harness添加“代我审核”功能，让 AI 替你审查 DSH 的敏感操作，而不是直接交出全部权限。Fail-closed automatic approval for DeepSeek Harness with selectable reviewer mod · ⭐0
 - [harmless0819-dev/dsh-agent-chat](https://github.com/harmless0819-dev/dsh-agent-chat) — Turn-injection message channel between DSH agents on two machines: messages land in a log and are injected as context at the next agent step · ⭐0
-- [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) — Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. · ⭐0
+- [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) 💤 — Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. · ⭐0
 - [hasan-aghayev/dsh-session-resilience](https://github.com/hasan-aghayev/dsh-session-resilience) — Safe DSH restarts, token-aware reconnect, and policy-based recovery for DSH 0.2+ · ⭐0
 - [Hashing2030/dsh-bulwark](https://github.com/Hashing2030/dsh-bulwark) — DSH plugin: enforce AI rules and protect tools/paths from accidental modification. · ⭐0
 - [having5548/dsh-notify](https://github.com/having5548/dsh-notify) — Universal notification plugin for DeepSeek Harness: in-app toasts, native Windows toasts, one-click approval from the action center · ⭐0
@@ -59,13 +63,11 @@
 - [lijiawei255/dsh-status-chime](https://github.com/lijiawei255/dsh-status-chime) — Spoken status alerts for DeepSeek Harness where clip LENGTH encodes urgency: a 2s approval chime vs an 8s failure announcement. Eight scenes · ⭐0
 - [lincoo2019/dsh-trae-vault](https://github.com/lincoo2019/dsh-trae-vault) — DeepSeek Harness plugin bundle: Trae SKILL.md skill provider, a project-local conversation vault, publishing archives as resumable DSH sessi · ⭐0
 - [L-ingqin12/dsh-redaction](https://github.com/L-ingqin12/dsh-redaction) — In-place redaction and prevention policy for DeepSeek Harness session logs - two Cordis plugins plus the platform research behind them · ⭐0
-- [lishize20040802-rgb/dsh-deep-ptc-mode](https://github.com/lishize20040802-rgb/dsh-deep-ptc-mode) — Deep PTC mode for DeepSeek Harness: no token rationing (unlimited DeepSeek budget), code-enforced no-sleep (long commands move to background · ⭐0
 - [lishuo4096/dsh-plugin-authoring](https://github.com/lishuo4096/dsh-plugin-authoring) — DSH skills for writing, publishing and listing DeepSeek Harness (Cordis) plugins. · ⭐0
 - [ListenJ/axiom-kb-dsh](https://github.com/ListenJ/axiom-kb-dsh) 💤 — Axiom Knowledge Base (Vault memory + knowledge graph) as a DeepSeek Harness (dsh) plugin — self-contained, no web-search tools, hot-pluggabl · ⭐0
 - [Liyuk/dsh-quota-router](https://github.com/Liyuk/dsh-quota-router) 💤 — Policy-only multi-source quota router for DeepSeek Harness: deterministic task profiles, ordered candidate chains, health-aware fallback, su · ⭐0
 - [LJH-snow/dsh-tool-redis](https://github.com/LJH-snow/dsh-tool-redis) — Redis inspection and guarded write tools for DeepSeek Harness · ⭐0
 - [lll-77777777/dsh-wechat-approvals](https://github.com/lll-77777777/dsh-wechat-approvals) — DSH 微信插件 fork：桌面会话审批转发微信 + 双端批准 + 任务完成通知 (dsh-wechat-plugin 0.43.1 fork) · ⭐0
-- [LLL-lyh0/dsh-continue-guard](https://github.com/LLL-lyh0/dsh-continue-guard) — (no description) · ⭐0
 - [lone-wolf-akela/dsh-sandboxie-redirect](https://github.com/lone-wolf-akela/dsh-sandboxie-redirect) — DSH bundle: a copy-on-write permission preset that runs shell commands in a per-workspace Sandboxie box · ⭐0
 - [longisland-icetea/dsh-lan-access](https://github.com/longisland-icetea/dsh-lan-access) — Open the DeepSeek Harness Web GUI's LAN access fences: serve on all interfaces, trust only the configured LAN authorities, and choose them f · ⭐0
 - [lornwolf/dsh-claude-subscription](https://github.com/lornwolf/dsh-claude-subscription) — Use a Claude Pro/Max subscription inside DeepSeek Harness: OAuth login, multi-account vault, quota cards and a settings panel. · ⭐0
@@ -168,7 +170,7 @@
 - [solstice621/dsh-opencode-go-auth](https://github.com/solstice621/dsh-opencode-go-auth) — OpenCode Go / Go Plus subscription auth for DeepSeek Harness Desktop, with native account, usage and model-sync UI. · ⭐0
 - [sperictao/dsh-auth-tailscale](https://github.com/sperictao/dsh-auth-tailscale) — Tailscale identity and capability authorization adapter for DeepSeek Harness · ⭐0
 - [stadeummwt/dsh-supreme](https://github.com/stadeummwt/dsh-supreme) — (no description) · ⭐0
-- [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) 💤 — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
+- [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
 - [stushansusu/dsh-delete-guard](https://github.com/stushansusu/dsh-delete-guard) — DSH plugin: meters AI deletions per session, terminates the call once the cumulative size passes a threshold, then asks the user with the li · ⭐0
 - [sunshaobei/dsh-codex-auth](https://github.com/sunshaobei/dsh-codex-auth) — (no description) · ⭐0
 - [sviktor75/dsh-sound-notification](https://github.com/sviktor75/dsh-sound-notification) — DeepSeek Harness Web plugin: plays a chime when any session's response finishes (rising tone) or a question/approval is asked (falling tone) · ⭐0

@@ -940,6 +940,7 @@ BaoBao1996121/dsh-huaci-pinglun
 BaoBao1996121/dsh-restart-ui
 BaqiF2/dsh-plugin-precheck
 BarneyZhaoooo/dsh-theme-native
+BaronCyrus/dsh-aha-tutor
 BaronCyrus/dsh-grok-subscription
 BaronCyrus/dsh-harness-ally
 BaronCyrus/dsh-kimi-subscription
@@ -5409,6 +5410,7 @@ ZSX-114514/dsh-pptx-anim
 ZSeven-W/dsh-android
 ZSeven-W/dsh-computer
 ZSeven-W/dsh-crew
+ZSeven-W/dsh-game-studio
 ZSeven-W/dsh-harbor
 ZSeven-W/dsh-ios
 ZSeven-W/dsh-noema
@@ -7158,6 +7160,7 @@ edusrez/dsh-tool-web-enhanced
 edwardmackiezyv885-art/lbwapi-workbench
 edwardyang0011/dsh-ui-skins
 edynasty/dsh-opencode-go-provider
+eee1723/dsh-houdini
 eehcx/dsh-gentle-engram
 eghrhegpe/dsh-connect-agnes-token-plan
 eghrhegpe/dsh-connect-atomcode
@@ -10229,6 +10232,7 @@ omni-/containerize-dsh
 omoinoki/dsh-sekaisync-connect
 onchainyaotoshi/dsh-plugins
 onclaw-dev/dsh-workflow-designer
+onehumanbeing/esp32-iphone-agent
 oneinitAI/dsh-thunderforge
 onesmash/dsh-reflex
 onesmash/dsh-remote-bot-bridge
@@ -10433,6 +10437,7 @@ po-et/dsh-session-rescue
 po-et/dsh-session-snapshot
 po-et/dsh-sheet-diff
 poco-ai/Agentero
+poco-ai/agentero-dsh-plugin
 pointer-a/dsh-server-login
 poiuyjie/dsh-md-preview
 poiuyjie/dsh-vision-opencode
@@ -11521,6 +11526,7 @@ temotee2103/dsh-ci-co-pilot
 temotee2103/dsh-overdrive
 temotee2103/dsh-remote-gui
 tencent-connect/dsh-qqbot
+tencentmusic/modus
 tengfeizhao1219/dsh-ai-collab
 tenglongbohai/dsh-paddle-ocr
 tengyinan1994/dsh-project-runner
@@ -11628,6 +11634,7 @@ tonyischen/ds_ask_graph
 tonylee2022/dsh-xai-oauth
 tonyous/DSH-AMP-Radio
 tonytanglab/deepseek-harness-relay-mcp
+tonyzdev/dsh-language-bridge
 toolclub/dsh-agent-team-gui
 topkie/dsh-lattice
 touche-s/rice-loving-whale
@@ -12867,6 +12874,7 @@ yihefeikong-rgb/dsh-cc-haha-memory
 yijiezhong/dsh-output-setting
 yijiezhong/dsh-testhud
 yijigao/deepseek-harness-desktop
+yikart/AiToEarn
 yiliang114/dsh-session-deck
 yillkid/dsh-share-room
 yimeng-dev/dsh-traffic-light
@@ -13246,6 +13254,7 @@ zhao1012/dsh-fix-duplicate-loader-id
 zhaochengbiao005/dsh-gcua
 zhaochengggg/dsh-a2ui-studio
 zhaoguoqiang-hub/dsh-soul-engine
+zhaohongxuan/dsh-weread
 zhaolianghz/dsh-turnscope
 zhaoolee/notes
 zhaorui-wu/dsh-skill-cockpit

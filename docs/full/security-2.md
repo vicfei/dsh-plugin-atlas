@@ -1,7 +1,11 @@
-# Security & Permissions — 1170 entries (part 2/2)
+# Security & Permissions — 1172 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [GoshawkGGGG/dsh-safe-tool](https://github.com/GoshawkGGGG/dsh-safe-tool) — DeepSeek Harness 的 AI 工具审批插件，使用AI审核AGENT调用工具的合规性并决定是否执行，审核标准可定制。 · ⭐0
+- [guanosine-diphosphate/dsh-retry-policy-settings](https://github.com/guanosine-diphosphate/dsh-retry-policy-settings) 💤 — (no description) · ⭐0
+- [guokecloud/dsh-session-janitor](https://github.com/guokecloud/dsh-session-janitor) — DSH session cleaner: a sidebar page listing session records and archive caches, with a restorable recycle bin and an in-use guard. · ⭐0
+- [gyyxs88/dsh-session-control](https://github.com/gyyxs88/dsh-session-control) — Authorized, durable cross-session control for DeepSeek Harness · ⭐0
 - [Hakunm/dsh-approve-for-me](https://github.com/Hakunm/dsh-approve-for-me) 💤 — 为DeepSeek Harness添加“代我审核”功能，让 AI 替你审查 DSH 的敏感操作，而不是直接交出全部权限。Fail-closed automatic approval for DeepSeek Harness with selectable reviewer mod · ⭐0
 - [harmless0819-dev/dsh-agent-chat](https://github.com/harmless0819-dev/dsh-agent-chat) — Turn-injection message channel between DSH agents on two machines: messages land in a log and are injected as context at the next agent step · ⭐0
 - [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) 💤 — Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. · ⭐0
@@ -96,7 +100,6 @@
 - [nicecx/dsh-auto-approver](https://github.com/nicecx/dsh-auto-approver) 💤 — Configurable auto-approval for DeepSeek Harness: intercepts approval/request and answers allowed-once/rejected by policy (allow-all/allowlis · ⭐0
 - [nicecx/dsh-task-queue](https://github.com/nicecx/dsh-task-queue) 💤 — Tiered task queue for DSH↔Hermes: queue.json single source of truth, lease/claim model, concurrency-1; Hermes-side cron consumes, DSH-side e · ⭐0
 - [nickhelion/dsh-plugins](https://github.com/nickhelion/dsh-plugins) — Secure DeepSeek Harness plugin monorepo: Qwen Token Plan Responses provider and ServerChan notifications · ⭐0
-- [NingYuanLee/dsh-gui-auth-url](https://github.com/NingYuanLee/dsh-gui-auth-url) — Expose the running DeepSeek Harness Web GUI's authenticated URL as an agent tool (gui_auth_url), so browser automation can open the GUI inst · ⭐0
 - [niushuanan/dsh-pure-chat](https://github.com/niushuanan/dsh-pure-chat) 💤 — Start a chat immediately without a workspace, work mode, or execution permissions while keeping image and text-file uploads. · ⭐0
 - [nlflora/dsh-empty-turn-guard](https://github.com/nlflora/dsh-empty-turn-guard) — (no description) · ⭐0
 - [NOOBnoob163/dsh-open-obsidian](https://github.com/NOOBnoob163/dsh-open-obsidian) — DSH 插件：会话在 Obsidian 库里工作时自动把库打开——这样你装的同步插件（坚果云同步等）就会开始跑，AI 改的东西才能真正同步出去。已开着的库跳过，新窗口不抢焦点。（是 DSH 插件，不是 Obsidian 插件） · ⭐0
@@ -164,7 +167,6 @@
 - [stadeummwt/dsh-supreme](https://github.com/stadeummwt/dsh-supreme) — (no description) · ⭐0
 - [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
 - [stushansusu/dsh-delete-guard](https://github.com/stushansusu/dsh-delete-guard) — DSH plugin: meters AI deletions per session, terminates the call once the cumulative size passes a threshold, then asks the user with the li · ⭐0
-- [sunshaobei/dsh-codex-auth](https://github.com/sunshaobei/dsh-codex-auth) — (no description) · ⭐0
 - [sviktor75/dsh-sound-notification](https://github.com/sviktor75/dsh-sound-notification) — DeepSeek Harness Web plugin: plays a chime when any session's response finishes (rising tone) or a question/approval is asked (falling tone) · ⭐0
 - [Tabbyaccessorial446/dsh-plugin-canvas](https://github.com/Tabbyaccessorial446/dsh-plugin-canvas) — Render HTML design prototypes directly in DeepSeek Harness with a canvas tab for visual review, annotation, and sandboxed previews. · ⭐0
 - [takasurazeem/gmail-dsh](https://github.com/takasurazeem/gmail-dsh) — (no description) · ⭐0

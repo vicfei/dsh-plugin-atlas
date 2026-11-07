@@ -1,8 +1,7 @@
-# Models & Providers — 1812 entries (part 3/3)
+# Models & Providers — 1811 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [zouyuanqing/dsh-verify-reflux](https://github.com/zouyuanqing/dsh-verify-reflux) 💤 — Three-plane probabilistic verifier for DeepSeek Harness: tiered logprob/sample/template judges, seeded tournament best-of-N, layered context · ⭐0
 - [zoyluoblue/deepseek-harness-desktop](https://github.com/zoyluoblue/deepseek-harness-desktop) 💤 — DeepSeek Harness Desktop — a signed, notarized desktop app for the open-source DeepSeek coding agent. One installer for macOS (Apple Silicon · ⭐0
 - [zoyluoblue/deepseek-harness-replay](https://github.com/zoyluoblue/deepseek-harness-replay) 💤 — Export any DeepSeek Harness session as a self-contained, replayable HTML transcript · 把 dsh 会话导出成自包含、可回放的 HTML · ⭐0
 - [zpis666/dsh-context-budget](https://github.com/zpis666/dsh-context-budget) — 在 DSH 模型设置页为每个 pi-ai 路由配置上下文窗口、压缩阈值与保留预算，并在输入框右下角按厂商提供思考强度选择器。 · Per-route context window, compaction threshold, and vendor-aware thinking-e · ⭐0

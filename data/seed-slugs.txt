@@ -35,6 +35,7 @@
 0x5446/reins
 0x5446/rowel
 0x7A7A6572/dsh-forge-studio
+0xLyn77/ProMentor
 0xRabit/dsh-crypto-portfolio
 0xsline/awesome-deepseek-harness
 0xsline/dsh-spotlight
@@ -2772,6 +2773,7 @@ LXFLGH/dsh-deepseek-relay
 LZ-jun/dsh-balance-usage
 Lab-sku/dsh-mingmu
 Lacquervii/smooth-cursor
+Lain-in-coding/dsh-grok-search
 LambProgrammer/dsh-desktop-zero
 LamplitIsles/dsh-companion
 Lan-zk/dsh-at-mention
@@ -4745,6 +4747,7 @@ Townrain/dsh-fetch-models-unselect-all
 ToxicantX/dsh-multi-model-orchestrator
 Toximiner/DSH-Launcher
 Toximiner/dsh-tokmeter
+Tranquillitatis-Lab/dsh-live-compact
 Traveritas/petween
 Travizm/dsh-openai-live
 Treasure-hub-agent/dsh-whale-game
@@ -6773,6 +6776,7 @@ dasazira-QAQ/dsh-kugou-music
 dat-lequoc/dsh-kiro
 dat-lequoc/dsh-opinionated-subagent
 dat-lequoc/dsh-subagent-model
+dataelement/bisheng
 dataelement/dsh-desktop
 dataelement/dsh-plugin-coaligne
 dataizu/dsh-whale-aqua-theme
@@ -6789,6 +6793,7 @@ dawnliming/dsh-chinese-mode
 dawsondx/dsh-token-data
 day-day-dream/dsh-page-refresh
 daydreamer0213/Tian-wen
+dbcaskml183-dotcom/dsh-prelude
 dbssAlan/dsh-hub-plugin
 dbydd/dsh-onlyne
 dclichang2022/dsh-green-meter
@@ -11635,6 +11640,7 @@ tonylee2022/dsh-xai-oauth
 tonyous/DSH-AMP-Radio
 tonytanglab/deepseek-harness-relay-mcp
 tonyzdev/dsh-language-bridge
+tonyzdev/dsh-session-messaging
 toolclub/dsh-agent-team-gui
 topkie/dsh-lattice
 touche-s/rice-loving-whale
@@ -12981,6 +12987,7 @@ yuanfeng637-cmyk/dsh-skill-router-and-gate
 yuange098/deepseek-harness-desktop
 yuanliangxiannan/dsh-hud
 yuanshuoSY/dsh-coder-preset
+yuanstarstar/dsh-game-stack
 yuanyiHY/deepseek-media-gallery
 yuanyiHY/dsh-rail-equalizer
 yuanzehui313/dsh-workspace-enhance

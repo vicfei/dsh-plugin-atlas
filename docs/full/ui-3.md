@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Doozqoo/dsh-pixel-office](https://github.com/Doozqoo/dsh-pixel-office) — DeepSeek Harness Web GUI · ⭐0
 - [doraasn/dsh-web-chat](https://github.com/doraasn/dsh-web-chat) — Chat panel for DeepSeek Harness: embeds chat.deepseek.com, keeps the page alive across panel switches, remembers the last conversation. · ⭐0
 - [DrFly-12/DSH-Desktop](https://github.com/DrFly-12/DSH-Desktop) — DSH桌面套壳 · ⭐0
 - [drmi5446/dsh-wallpaper-engine](https://github.com/drmi5446/dsh-wallpaper-engine) — Turn Wallpaper Engine wallpapers into a liquid glass background for the DSH web GUI, with video and web support. · ⭐0
@@ -408,7 +409,6 @@
 - [SouthernSibyl/dsh-quick-prompt](https://github.com/SouthernSibyl/dsh-quick-prompt) — DSH composer button that rewrites the current draft into a precise prompt in place, in one click, with revert. · ⭐0
 - [SOVLOOKUP/dsh-settings-footer](https://github.com/SOVLOOKUP/dsh-settings-footer) — Move the DSH sidebar Settings entry to a row at the top of the sidebar, hide the 新会话 button, and empty the sidebar footer. · ⭐0
 - [spacecat398/dsh-tray](https://github.com/spacecat398/dsh-tray) 💤 — Windows tray switch & watchdog for DeepSeek Harness (dsh web) — zh/en menu, UI-Automation-driven New Conversation, lifecycle-only watchdog · ⭐0
-- [spix18/dsh-ghidra](https://github.com/spix18/dsh-ghidra) — Ghidra bridge plugin for DeepSeek Harness (DSH): 218 reverse-engineering tools, single-JVM unified mode, in-tree Ghidra install, Settings UI · ⭐0
 - [starash07/dsh-quote-reply](https://github.com/starash07/dsh-quote-reply) — Codex-style selection quote reply for the DeepSeek Harness desktop client (fork of mar1259/dsh-plugin-codex-annotate) · ⭐0
 - [starry728/ghibli-desktop-pet](https://github.com/starry728/ghibli-desktop-pet) — AI 桌面宠物领养系统 · 第一次用 DeepSeek Harness 做的完整项目 · ⭐0
 - [StarsHarryZhu/dsh-intelligent-UI](https://github.com/StarsHarryZhu/dsh-intelligent-UI) — (no description) · ⭐0
@@ -449,7 +449,7 @@
 - [tttnny/DSH-Launcher](https://github.com/tttnny/DSH-Launcher) — A desktop launcher for running multiple DeepSeek Harness (DSH) versions and instances side by side. 多版本、多实例的 DeepSeek Harness (DSH) 桌面启动器。 · ⭐0
 - [tuibe/dsh-deepseek-theme-studio](https://github.com/tuibe/dsh-deepseek-theme-studio) — DSH Web GUI client theme plugin — frosted glass / fluid / quantised effects in DeepSeek's visual language. 100 adjustable parameters. · ⭐0
 - [tydm2/code-forge-skill](https://github.com/tydm2/code-forge-skill) — 编码多智能体工作流接线技能（1 个大脑 + 4 个专精：架构/编码/自检/审查），可与 workflow-builder 工作流技能联合使用 · ⭐0
-- [TYEclipse/dsh-biorxiv](https://github.com/TYEclipse/dsh-biorxiv) — bioRxiv preprint search, version/status and export tools for DeepSeek Harness (dsh). Zero runtime dependencies. · ⭐0
+- [TYEclipse/dsh-biorxiv](https://github.com/TYEclipse/dsh-biorxiv) — bioRxiv preprint search, version/publication status, export, digest and month-by-month volume trend tools for DeepSeek Harness (dsh). Zero r · ⭐0
 - [uAcharGG/dsh-ui-chime](https://github.com/uAcharGG/dsh-ui-chime) 💤 — (no description) · ⭐0
 - [Uid-762/dsh-ai-workbench](https://github.com/Uid-762/dsh-ai-workbench) — 用一句大白话让 AI 在 DSH 里造一个可缩放窗口，然后继续跟它聊 — DeepSeek Harness 插件 · ⭐0
 - [uigdwunm/dsh-conversation-jump](https://github.com/uigdwunm/dsh-conversation-jump) — 为 DSH Web 对话区提供回到顶部 / 上一条 / 下一条 / 回到底部的圆形导航按钮，自动处理更早历史分页。 · ⭐0
@@ -491,7 +491,7 @@
 - [winditer/dsh-temp-chat](https://github.com/winditer/dsh-temp-chat) — A temporary dialogue elf designed specifically for DSH · ⭐0
 - [Windpixy/dsh-floating-window](https://github.com/Windpixy/dsh-floating-window) — DSH 状态悬浮窗 · ⭐0
 - [winniesi/dsh-hide-sidebar](https://github.com/winniesi/dsh-hide-sidebar) — Mobile left sidebar for the DeepSeek Harness Web GUI: the 56px collapsed rail becomes a top toggle button that slides the sidebar in over th · ⭐0
-- [wisdomriver/dsh-desktop](https://github.com/wisdomriver/dsh-desktop) — (no description) · ⭐0
+- [wisdomriver/dsh-desktop](https://github.com/wisdomriver/dsh-desktop) 💤 — (no description) · ⭐0
 - [Wldeinsamkeit/pixel-whale](https://github.com/Wldeinsamkeit/pixel-whale) — 像素小鲸鱼桌宠 · Pixel Whale: a pixel-art whale pet swimming in the DeepSeek Harness sidebar. DSH 可视化插件 · ⭐0
 - [Woeful001/dsh-refresh](https://github.com/Woeful001/dsh-refresh) — DSH desktop plugin: a one-click refresh button in the sidebar footer that reloads the plugin inventory and page so newly installed plugins t · ⭐0
 - [worksAssistant/dsh-quickref](https://github.com/worksAssistant/dsh-quickref) 💤 — 功能：正则表达式实时测试、JSON 格式化/校验、时间戳↔日期、Base64/URL 编解码、cron 表达式生成器、diff 对比——全部本地零依赖。 · ⭐0
@@ -574,7 +574,7 @@
 - [yzsp-studio/award-winning-performance-prompt-v1-1-suite](https://github.com/yzsp-studio/award-winning-performance-prompt-v1-1-suite) — 4 个技能配齐短剧全家桶：3 版全流程 + 获奖级提示词 | 4 skills: three short-drama pipelines plus award-grade prompt formulas · 📮 wow.vip@foxmail.com · 🎬 https:// · ⭐0
 - [yzsp-studio/mediakit-shared-suite](https://github.com/yzsp-studio/mediakit-shared-suite) — 15 个技能一条流水线：出图、出片、做应用，交付前先验片 | 15 skills, one pipeline: build apps, images, videos, verified before delivery · 📮 wow.vip@foxmail.com · 🎬 h · ⭐0
 - [ZachT11/dsh-runtime-env-watch](https://github.com/ZachT11/dsh-runtime-env-watch) — Periodic AI runtime, hardware, and remote-device status checks for DeepSeek Harness · ⭐0
-- [zampie/sakura-afternoon-skin](https://github.com/zampie/sakura-afternoon-skin) — Sakura-afternoon (樱色午后) pastel skin for the DSH Web UI — light/dark sakura palettes, falling-petal overlay, header toggle and settings switc · ⭐0
+- [zampie/sakura-afternoon-skin](https://github.com/zampie/sakura-afternoon-skin) 💤 — Sakura-afternoon (樱色午后) pastel skin for the DSH Web UI — light/dark sakura palettes, falling-petal overlay, header toggle and settings switc · ⭐0
 - [zbin8523/dsh-whale](https://github.com/zbin8523/dsh-whale) 💤 — A standalone macOS desktop shell for DeepSeek Harness with full Web UI and plugin compatibility. · ⭐0
 - [zdd3143/dsh-vision-click](https://github.com/zdd3143/dsh-vision-click) — 让 Agent 用鼠标和键盘操作 Windows：Windows OCR 定位界面文字 → 真实点击/拖动/滚轮/键入 → 像素与文字双重复核。DSH 插件，无需视觉大模型，F6+F7 急停。 · ⭐0
 - [zengxiangpeng123/dsh-sidebar-fold-zxp](https://github.com/zengxiangpeng123/dsh-sidebar-fold-zxp) — 把 DSH 左侧那排插件入口折成一行「插件列表」，按组归类、自定义顺序，把高度还给工作区与会话列表。 · ⭐0

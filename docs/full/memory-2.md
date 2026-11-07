@@ -1,7 +1,8 @@
-# Memory & Knowledge — 942 entries (part 2/2)
+# Memory & Knowledge — 943 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [WwW7olFWwW/dsh-codebase-watcher](https://github.com/WwW7olFWwW/dsh-codebase-watcher) — DSH × Codebase Memory 圖譜保鮮插件：讓 CBM 知識圖譜自動跟上各專案的 git HEAD（落後偵測、條件式 CLI 重建、每專案監看、設定頁觀測卡片與 REST 控制面） · ⭐0
 - [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) — Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run steering, and citatio · ⭐0
 - [wycto/dsh-evolution](https://github.com/wycto/dsh-evolution) — Local-first self-evolution plugin for DSH: records your coding-agent sessions to a local ledger, reviews them across sessions with the model · ⭐0
 - [WYR-233/dsh-memory-lite](https://github.com/WYR-233/dsh-memory-lite) — Read-only enhancer for a file-based (markdown + git) long-term memory library in DeepSeek Harness: built-in zero-dependency search, one-clic · ⭐0

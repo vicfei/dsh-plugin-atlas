@@ -3,7 +3,7 @@
 > live data · full category export · [back to atlas](../../README.md)
 
 - [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐61
-- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐44
+- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐42
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) 💤 — DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。 · ⭐39
 - [AgentConnect/dsh-awiki](https://github.com/AgentConnect/dsh-awiki) — AWiki identity and messaging plugin for DeepSeek Harness · ⭐19
 - [Max-Null/dsh-chinese-thinking](https://github.com/Max-Null/dsh-chinese-thinking) — One-line fix: inject a fixed system-prompt section so the agent always thinks and replies in Chinese, whatever the user's language · 中文思考：注入 · ⭐12
@@ -23,6 +23,7 @@
 - [173787247/dsh-wsl-systemd](https://github.com/173787247/dsh-wsl-systemd) — Read-only systemd --user list / show / journal. · ⭐1
 - [JularDepick/dsh-system-monitor-plugin](https://github.com/JularDepick/dsh-system-monitor-plugin) — A plugin for dsh: monitor the resource utilization of dsh system processes and report the results to the user in the form of charts. · ⭐1
 - [ownduck/dsh-custom-env](https://github.com/ownduck/dsh-custom-env) — Manage $DSH_HOME/.env from Settings; sync Host and Windows/macOS user env · ⭐1
+- [PandaBlessing/dsh-user-sync](https://github.com/PandaBlessing/dsh-user-sync) — DeepSeek Harness（DSH）的用户级配置同步插件 · ⭐1
 - [RyensX/dsh-message-navigation](https://github.com/RyensX/dsh-message-navigation) 💤 — 为DeepSeek Harness提供Codex风格用户消息导航栏。/ Provides a Codex-style user message navigation bar for DeepSeek Harness · ⭐1
 - [sumomok/dsh-plugins](https://github.com/sumomok/dsh-plugins) 💤 — DeepSeek Harness plugins by sumomok: quote earlier messages, edit & rerun a prompt, account balance & spend · ⭐1
 - [wbushihenshuai-design/dsh-error-improvement](https://github.com/wbushihenshuai-design/dsh-error-improvement) — Standalone DSH plugin: user-confirmed anti-regression lessons for DeepSeek Harness · ⭐1
@@ -37,7 +38,6 @@
 - [kouzerror/dsh-retry](https://github.com/kouzerror/dsh-retry) — Native 'Restart DeepSeek Harness' action for the Windows tray menu and account menu. 给 DSH 桌面端加真正的重启入口。 · ⭐0
 - [M-Abozaid/limonene-mcp](https://github.com/M-Abozaid/limonene-mcp) — Connect your Amazon seller account to ChatGPT, Claude and other AI assistants. Read-only MCP connector for sales, Buy Box, FBA inventory, al · ⭐0
 - [oopsdoes/dsh-welcome-back](https://github.com/oopsdoes/dsh-welcome-back) — A DSH plugin that welcomes users back to today's active conversations after a configurable idle period. · ⭐0
-- [PandaBlessing/dsh-user-sync](https://github.com/PandaBlessing/dsh-user-sync) — DeepSeek Harness（DSH）的用户级配置同步插件 · ⭐0
 - [ShikangPang/jizuo-creator-account](https://github.com/ShikangPang/jizuo-creator-account) — 即作账号插件：DeepSeek Harness 浏览器登录、账号权益与模型接入 · ⭐0
 - [Stellight/dsh-deepseek-balance](https://github.com/Stellight/dsh-deepseek-balance) — DeepSeek Harness dynamic Cordis plugin: real-time DeepSeek account balance + official top-up entry · ⭐0
 - [yillkid/dsh-share-room](https://github.com/yillkid/dsh-share-room) — Invite others into your DeepSeek Harness (DSH) AI conversation: they join from a link, discuss with you and ask the AI together. No account  · ⭐0

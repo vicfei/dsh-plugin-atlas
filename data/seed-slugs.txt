@@ -3070,6 +3070,7 @@ MRZHUH/dsh-remote-server
 MS666666/dsh-archive-manager
 MSSZSD3925/dsh-toolkit
 MYCF711/dsh-GOkifu-compact
+MYCF711/dsh-session-superagent
 MYCF711/dsh-websearch-direct
 MYanhui/DSH-plug-in
 Ma354/dsh-limit-break
@@ -5315,6 +5316,7 @@ Yu-tao-Li/dsh-read-image-view
 Yu-tao-Li/dsh-reference-checker
 Yu1Ko/dsh-reasoning-support
 YuJunZhiXue/dsh-purge
+YuLab-SMU/Rho
 YuLaiZ/token-usage
 YuMS/dsh-duet
 YuMo226/dsh-task-notify
@@ -13367,6 +13369,7 @@ zhubaohi/dsh-gpu-pulse
 zhubaohi/dsh-qwen38-compaction-fix
 zhubingzuo/dsh-oneclick-launcher
 zhubowen-bot/Guncat-Work-for-hmos
+zhuchongba-01/dsh-breach
 zhuchuovo/dsh-clinepass
 zhuchuovo/dsh-swarm-orchestrator
 zhuifengqug/dsh-adaptive-reasoning

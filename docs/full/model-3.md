@@ -1,9 +1,7 @@
-# Models & Providers — 1811 entries (part 3/3)
+# Models & Providers — 1809 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [zoyluoblue/deepseek-harness-desktop](https://github.com/zoyluoblue/deepseek-harness-desktop) 💤 — DeepSeek Harness Desktop — a signed, notarized desktop app for the open-source DeepSeek coding agent. One installer for macOS (Apple Silicon · ⭐0
-- [zoyluoblue/deepseek-harness-replay](https://github.com/zoyluoblue/deepseek-harness-replay) 💤 — Export any DeepSeek Harness session as a self-contained, replayable HTML transcript · 把 dsh 会话导出成自包含、可回放的 HTML · ⭐0
 - [zpis666/dsh-context-budget](https://github.com/zpis666/dsh-context-budget) — 在 DSH 模型设置页为每个 pi-ai 路由配置上下文窗口、压缩阈值与保留预算，并在输入框右下角按厂商提供思考强度选择器。 · Per-route context window, compaction threshold, and vendor-aware thinking-e · ⭐0
 - [zq0929/dsh-coding-plan-balance](https://github.com/zq0929/dsh-coding-plan-balance) — Coding Plan quota pill for the DSH (DeepSeek Harness) Web composer dock: monthly cycle usage in USD and the rolling 5-hour window, read with · ⭐0
 - [zszz3/dsh-model-provider-prefix](https://github.com/zszz3/dsh-model-provider-prefix) — (no description) · ⭐0

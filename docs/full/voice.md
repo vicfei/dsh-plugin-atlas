@@ -1,20 +1,21 @@
-# Voice & Audio — 92 entries (part 1/1)
+# Voice & Audio — 93 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐124
-- [Fishsb/dsh-voice-prompt-enhancer](https://github.com/Fishsb/dsh-voice-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐124
+- [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐126
+- [Fishsb/dsh-voice-prompt-enhancer](https://github.com/Fishsb/dsh-voice-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐126
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) 💤 — DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续） · ⭐75
+- [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图） · ⭐53
 - [beiyege-01/dsh-voice-ai-girlfriend-plugin](https://github.com/beiyege-01/dsh-voice-ai-girlfriend-plugin) — (no description) · ⭐52
-- [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图） · ⭐50
-- [WizisCool/dsh-ears](https://github.com/WizisCool/dsh-ears) — Voice input plugin for DeepSeek Harness (DSH) with text polishing. Supports local GPU Whisper and STT(ASR) API | 一款支持润色整理的 DeepSeek Harness  · ⭐28
+- [SAOS-3624/dsh-watch-together](https://github.com/SAOS-3624/dsh-watch-together) — 陪看：和智能体一起看视频 —— 跟着真实播放位置，每段结束前把分镜画面 + 带秒台词交过去；悬浮窗里能出声，也听得见房间。A DSH plugin that watches a video together, in sync with the real playback: a s · ⭐35
+- [WizisCool/dsh-ears](https://github.com/WizisCool/dsh-ears) — Voice input plugin for DeepSeek Harness (DSH) with text polishing. Supports local GPU Whisper and STT(ASR) API | 一款支持润色整理的 DeepSeek Harness  · ⭐29
 - [ALittleLov/dsh-soundcheck](https://github.com/ALittleLov/dsh-soundcheck) — 让文本模型读懂一首歌：本地音乐分析插件，把音频拆成能量、速度、调性、密度，音频不出本机。 · ⭐27
 - [huliux/dsh-asr-plugin](https://github.com/huliux/dsh-asr-plugin) — Unofficial local meeting transcription for DeepSeek Harness on Apple Silicon macOS · ⭐20
 - [Alan2Z/dsh-speak](https://github.com/Alan2Z/dsh-speak) — 一种能让你的harness开口说话的方案/Make your AI harness speak — a verified voice-announcement solution · ⭐19
 - [panqing0313/dsh-plugin-weixin](https://github.com/panqing0313/dsh-plugin-weixin) — 微信（iLink）通道插件：在微信里给 DSH Agent 发消息，在本机跑会话并把回复发回微信。Text, images, files and voice notes. · ⭐17
+- [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing. · ⭐14
 - [welsione/dsh-mmx-bridge](https://github.com/welsione/dsh-mmx-bridge) — 一个工具 = MiniMax 全部多模态能力：DSH 纯文本模型看图/画图/生视频/说话/唱歌/翻唱/搜索/查额度 | One mmx_bridge tool = all MiniMax multimodal (VLM/image/video/speech/music/cover · ⭐13
 - [YuMS/dsh-duet](https://github.com/YuMS/dsh-duet) — 二重奏：DSH 语音操控和语音播报 · ⭐13
-- [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing. · ⭐7
 - [GooDAnDReaDY/dsh-tts](https://github.com/GooDAnDReaDY/dsh-tts) — Natural speech synthesis plugin for DeepSeek Harness (TTS, multi-engine, sanitizer) · ⭐6
 - [Ricketts-Guo/dsh-off-peak-message](https://github.com/Ricketts-Guo/dsh-off-peak-message) — DSH 谷时发送插件：开启后消息排队至谷时窗口自动发送，谷时价仅为峰时 50%，省一半 API 费用。原生外观输入条、快捷键、跨重启持久化。 · ⭐6
 - [maoyuching/dsh-voice-chat](https://github.com/maoyuching/dsh-voice-chat) — (no description) · ⭐5
@@ -40,7 +41,7 @@
 - [MaRi23333/dsh-fish-tts](https://github.com/MaRi23333/dsh-fish-tts) — Fish Audio TTS plugin for DeepSeek Harness — per-reply read-aloud, auto-read toggle, BYOK, third-party. 语音合成插件：逐条朗读、自动朗读；仅支持 Fish Audio API， · ⭐2
 - [omdsh-dev/dsh-fun-typewriter](https://github.com/omdsh-dev/dsh-fun-typewriter) 💤 — DSH Typewriter: WebAudio typing ambience with a plugin-owned settings API and zero audio assets · ⭐2
 - [173787247/dsh-wsl-media](https://github.com/173787247/dsh-wsl-media) — Local media/doc pipeline: ffprobe, extract, thumbnail, PDF, ASR, pandoc, OCR, exif. · ⭐1
-- [2021Heei/dsh-tts-flash](https://github.com/2021Heei/dsh-tts-flash) — 给 DeepSeek Harness 的语音朗读插件：AI 回复流式 TTS 朗读，思考等待期还有趣味语音短语反馈。Edge TTS 开箱即用，支持任意 OpenAI 兼容云端引擎。 · ⭐1
+- [2021Heei/dsh-tts-flash](https://github.com/2021Heei/dsh-tts-flash) 💤 — 给 DeepSeek Harness 的语音朗读插件：AI 回复流式 TTS 朗读，思考等待期还有趣味语音短语反馈。Edge TTS 开箱即用，支持任意 OpenAI 兼容云端引擎。 · ⭐1
 - [anweat/dsh-voice-webspeech](https://github.com/anweat/dsh-voice-webspeech) 💤 — (no description) · ⭐1
 - [conafun/dsh-music-plus](https://github.com/conafun/dsh-music-plus) — 基于 dsh-music-player 的修改版：移除在线QQ/酷狗/讲书/歌词，新增播客 · ⭐1
 - [fenglin-ai/dsh-funasr-voice](https://github.com/fenglin-ai/dsh-funasr-voice) 💤 — DeepSeek Harness 本地离线语音输入插件：麦克风 → FunASR(SenseVoice) → 输入框，全离线识别。 · ⭐1
@@ -65,7 +66,7 @@
 - [jamesylj/dsh-talk](https://github.com/jamesylj/dsh-talk) — dsh-talk, tts for dsh, with minimax api + qwen tts mlx · ⭐0
 - [john-walks-slow/live2d-voice](https://github.com/john-walks-slow/live2d-voice) — One command to a standalone Live2D voice companion / 一行命令跑起独立的 Live2D 语音陪伴 · ⭐0
 - [juju114514/qq-bridge](https://github.com/juju114514/qq-bridge) — 把 QQ 接进 DeepSeek Harness：两条轨道（个人号 OneBot 拟人 + 官方 QQ Bot，官方通道仍上锁未验证）。群聊能分条/潜水/斗图/语音/点歌，模型能看视频（故事板+ASR），支持 B站/抖音/快手/小红书/YouTube；长期记忆、Docker 部署 · ⭐0
-- [kittcat-lab/dsh-kitt-voice](https://github.com/kittcat-lab/dsh-kitt-voice) — Voice for the DeepSeek Harness: speak to the agent, hear it back, and see what it is doing from a floating window that stays on top of whate · ⭐0
+- [kittcat-lab/dsh-kitt-voice](https://github.com/kittcat-lab/dsh-kitt-voice) 💤 — Voice for the DeepSeek Harness: speak to the agent, hear it back, and see what it is doing from a floating window that stays on top of whate · ⭐0
 - [KotDath/dsh-voice](https://github.com/KotDath/dsh-voice) — DSH plugin for voice input · ⭐0
 - [lihua12345670-jpg/dsh-bili-audio](https://github.com/lihua12345670-jpg/dsh-bili-audio) — DSH 插件：B站音频悬浮播放条，宿主反向代理解决 CDN Referer 403，带队列/进度/倍速 · ⭐0
 - [Lindong-K/voice-input-plugin](https://github.com/Lindong-K/voice-input-plugin) 💤 — (no description) · ⭐0

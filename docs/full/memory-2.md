@@ -1,7 +1,10 @@
-# Memory & Knowledge — 946 entries (part 2/2)
+# Memory & Knowledge — 949 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — 文件型长期记忆：每个会话注入你自己的 Markdown 记忆文件，提供读写工具，并能查出 DSH_HOME 漂移；不读对话、不联网 · File-backed memory for DeepSeek Harness, with verifiable constraints · ⭐0
+- [wsnmm3/dsh-session-keeper](https://github.com/wsnmm3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
+- [WSNMM3/dsh-session-keeper](https://github.com/WSNMM3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
 - [WU079/dsh-memory-keeper](https://github.com/WU079/dsh-memory-keeper) — Cross-session memory for DSH: exports every session to readable Markdown with provenance, keeps a MEMORY.md you curate, and gives the agent  · ⭐0
 - [WU079/dsh-sts2-agent](https://github.com/WU079/dsh-sts2-agent) — Let an AI play Slay the Spire 2 inside DSH: screenshot + mouse/keyboard tools, a local card database, and a readable play log. No mods, no m · ⭐0
 - [wu81313-lab/dsh-company-kb](https://github.com/wu81313-lab/dsh-company-kb) — DSH local-folder knowledge base: manual-sync SQLite FTS5 index, Chinese hybrid retrieval (BM25 + CJK bigram + trigram, RRF), explicit-invoca · ⭐0
@@ -17,7 +20,6 @@
 - [xiazhenxin314-cpu/dsh-soul-memory](https://github.com/xiazhenxin314-cpu/dsh-soul-memory) — SOUL/MEMORY 三层跨会话记忆插件 for DeepSeek Harness (DSH)：L1 MEMORY.md + L2/L3 logfile、memory 五件套工具、soulMemory cordis 服务。纯 ESM 无构建。 · ⭐0
 - [Xieddenv/dsh-memory-kit](https://github.com/Xieddenv/dsh-memory-kit) — 给 DSH 机器人装五层记忆：人设/规矩/日记/会话存档/未了结的约定 —— 重置不失忆，装完就灵。 · ⭐0
 - [xingyingyuzhui/dsh-agent-memory](https://github.com/xingyingyuzhui/dsh-agent-memory) — Claw persistent memory for DeepSeek Harness. 金库、日记、回顾、压缩前冲洗。 · ⭐0
-- [xingyueDanYang/dsh-puppet-memory](https://github.com/xingyueDanYang/dsh-puppet-memory) — Cross-session memory for DeepSeek Harness: layered notes, a 600-char always-injected core card, social/multi-person records, session-scoped  · ⭐0
 - [xmwengxing/dsh-client-ui-sidebar-perfmon](https://github.com/xmwengxing/dsh-client-ui-sidebar-perfmon) — Real-time host performance monitoring for the DeepSeek Harness right Sidebar: CPU / memory / swap gauges plus a sortable process table. · DS · ⭐0
 - [Xplore-LAB/dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory) 💤 — Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness · ⭐0
 - [xujiping/dsh-plugins](https://github.com/xujiping/dsh-plugins) — DeepSeek Harness 自研插件全家桶（monorepo）：dsh-memory 全局记忆等 · ⭐0
@@ -48,3 +50,4 @@
 - [zsagi1368/deepseek-harness-zDSH](https://github.com/zsagi1368/deepseek-harness-zDSH) — zDSH - deepseek-harness independent enhancement distro: plugin governance, omnivision vision pipeline, cross-session memory, mobile-ready we · ⭐0
 - [ZyxQl-Ala/dsh-decay-memory](https://github.com/ZyxQl-Ala/dsh-decay-memory) — Decay-based agent memory for DeepSeek Harness: entries gain weight when mentioned, fade and shrink when forgotten, pinned entries never deca · ⭐0
 - [mjtwt/dsh-memory-refine](https://github.com/mjtwt/dsh-memory-refine) — DSH 记忆插件：把对话提炼成记忆条目、每轮自动召回一条、记忆海可视化 · ⭐0
+- [284022719/dsh-kb-sync](https://github.com/284022719/dsh-kb-sync) — DeepSeek Harness plugin: pull DeepSeek web conversations into a local knowledge base (markdown + JSONL + catalog) with in-plugin search, orc · ⭐0

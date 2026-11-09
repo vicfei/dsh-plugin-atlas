@@ -2,17 +2,17 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [liustack/modlens](https://github.com/liustack/modlens) — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON ev · ⭐4851
+- [liustack/modlens](https://github.com/liustack/modlens) — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON ev · ⭐4871
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) — Modality-First GenAI Platform · ⭐1045
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) — :zap:The ultimate image uploading engine. Both CLI & API supports. · ⭐994
-- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。 · ⭐151
-- [THU-MAIC/dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) 💤 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching · ⭐118
+- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。 · ⭐155
+- [THU-MAIC/dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) 💤 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching · ⭐119
 - [oil-oil/dsh-vision](https://github.com/oil-oil/dsh-vision) 💤 — Near-native image understanding for DeepSeek Harness · ⭐91
-- [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — DeepSeek Harness plugin: image + video generation studio with an infinite canvas. Fork of dickpy/dsh-imagegen with a complete video pipeline · ⭐83
+- [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — DeepSeek Harness plugin: image + video generation studio with an infinite canvas. Fork of dickpy/dsh-imagegen with a complete video pipeline · ⭐90
+- [kingcharleslzy-ai/dsh-qwen-studio](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) — Qwen Image 2.1 for DeepSeek Harness: native image editing on Apple Silicon MLX/MFLUX or self-hosted CUDA, LoRA, ControlNet, inpainting, pres · ⭐62
 - [Yts1919/dsh-vision-complete](https://github.com/Yts1919/dsh-vision-complete) 💤 — 给 DeepSeek 补上「眼睛和耳朵」的多模态视觉插件：看图 / OCR / 物体检测 / 视频理解 / 语音转写 / 截图直读，一键安装（DSH 插件）。 · ⭐59
-- [kingcharleslzy-ai/dsh-qwen-studio](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) — Qwen Image 2.1 for DeepSeek Harness: native image editing on Apple Silicon MLX/MFLUX or self-hosted CUDA, LoRA, ControlNet, inpainting, pres · ⭐52
 - [william-jin-cmu/dsh-vision](https://github.com/william-jin-cmu/dsh-vision) 💤 — dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型） · ⭐30
-- [aa1355721445-lgtm/dsh-image-studio](https://github.com/aa1355721445-lgtm/dsh-image-studio) — DeepSeek Harness 生图插件：本地参考库 + 关键词 + 图片/文字转三视图，模型按情境自己判断发什么图 · ⭐21
+- [aa1355721445-lgtm/dsh-image-studio](https://github.com/aa1355721445-lgtm/dsh-image-studio) — DeepSeek Harness 生图插件：本地参考库 + 关键词 + 图片/文字转三视图，模型按情境自己判断发什么图 · ⭐22
 - [elangan1997-cmyk/canvas-workbench](https://github.com/elangan1997-cmyk/canvas-workbench) — 本地生图工作台 canvas-workbench:开自己的 API 生图,画布排版+修图/擦除/去背景/OCR/转矢量,可编辑 PSD/AI 交付,PS/AI 图层级双向桥接 · DSH 插件,与 npm 包同名 · ⭐18
 - [hackerFish/dsh-video-studio](https://github.com/hackerFish/dsh-video-studio) 💤 — 鲸影 DSH Video Studio：DeepSeek Harness 原生视频/漫剧生成插件——六段导演流水线、多供应商免费额度调度、四层提示词自优化，质量优先省钱第二 · ⭐18
 - [paicat1/dsh-screenshot](https://github.com/paicat1/dsh-screenshot) 💤 — DSH 轻量截图插件：轻 ： 纯 PowerShell 实现，零依赖、零二进制；截图能力独立维护，不随任何上游更新而失效。 摆 ：一键全屏即拍；框选前整个桌面保持可操作，所有窗口像布置画面一样自由移动、缩放；鼠标悬停任意窗口即亮起吸附边框，点一下直接截该窗口，被遮挡也能拿到完整内 · ⭐10
@@ -37,7 +37,7 @@
 - [WSL043/dsh-image-viewer](https://github.com/WSL043/dsh-image-viewer) — DeepSeek Harness (DSH) image viewer / 图片查看器: zoom, gallery, original downloads and clear region annotations. · ⭐4
 - [yuqingsh/dsh-image-subagent](https://github.com/yuqingsh/dsh-image-subagent) 💤 — (no description) · ⭐4
 - [zzy6-a/vision-use](https://github.com/zzy6-a/vision-use) — DSH Computer Use：让 Agent 看见并操作 Windows 桌面（Windows 原生 / WSL 自动识别）；视觉通道 + 鼠标键盘 + Codex 风格蓝色覆盖层，Esc 随时中止。 · ⭐4
-- [blackdm666/dsh-plugin-88api-image](https://github.com/blackdm666/dsh-plugin-88api-image) — 统一接入 Image2 与 Nano Banana 四款模型，覆盖文生图、多参考图编辑、2K/4K 输出、顺序批量任务、默认模型持久化和脱敏 Key 配置。 · ⭐3
+- [blackdm666/dsh-plugin-88api-image](https://github.com/blackdm666/dsh-plugin-88api-image) 💤 — 统一接入 Image2 与 Nano Banana 四款模型，覆盖文生图、多参考图编辑、2K/4K 输出、顺序批量任务、默认模型持久化和脱敏 Key 配置。 · ⭐3
 - [InkshadeWoods/dsh-tool-visual-primitives](https://github.com/InkshadeWoods/dsh-tool-visual-primitives) — DeepSeek Harness 视觉增强插件：将图片交给外部视觉模型分析，输出带坐标化视觉原语的纯文本证据，使不支持多模态的文本模型也能在对话中理解图片、截图与文档。 · ⭐3
 - [lsjspl/dsh-plugin-grok2api-media-tool](https://github.com/lsjspl/dsh-plugin-grok2api-media-tool) 💤 — 让 dsh 通过 grok2api 的 API 获得图片与视频生成能力（generate_image / generate_video）。 · ⭐3
 - [MC5lan/dsh-multimodal](https://github.com/MC5lan/dsh-multimodal) 💤 — 给 DeepSeek 安装一双眼睛和一支画笔:会话里直接贴截图/图片,GLM 视觉模型先精确转写图片内容(报错信息、代码、界面逐字保留),然后 DeepSeek 继续处理你的问题——同一轮完成,全程无感;需要配图时,DeepSeek 自动调用文生图后端出图并显示在会话中。 · ⭐3
@@ -70,6 +70,7 @@
 - [xiaoshihou514/dsh-vision](https://github.com/xiaoshihou514/dsh-vision) 💤 — deprecated · ⭐2
 - [YJLTF/dsh-vision-tool](https://github.com/YJLTF/dsh-vision-tool) — 一个 DeepSeek Harness 插件：为纯文本主模型补上识图能力。它把图片理解委托给你配置的一个小参数多模态模型，再把结果以文本形式交还给主模型；当活跃模型自身支持图片输入时，插件完全退避，原生多模态体验不受任何影响。 · ⭐2
 - [Yu1Ko/dsh-reasoning-support](https://github.com/Yu1Ko/dsh-reasoning-support) — DSV4.1 reasoning support for DeepSeek Harness: lean analysis, images and attachments, and bounded acceptance/repair loops that aim to retain · ⭐2
+- [zhishengplus/dsh-image-annotate](https://github.com/zhishengplus/dsh-image-annotate) — An annotation pen for the DeepSeek Harness image lightbox: circle, label, then keep moving / resizing / re-editing every mark — and send the · ⭐2
 - [zimai233/dsh-image-search](https://github.com/zimai233/dsh-image-search) 💤 — Multi-engine reverse image search aggregator for DeepSeek Harness. Turn one public image URL into Google Lens / Baidu / Yandex / TinEye / Sa · ⭐2
 - [zjsthmjialin/pdf-background-gray-codex-skill](https://github.com/zjsthmjialin/pdf-background-gray-codex-skill) 💤 — Codex skill for removing gray backgrounds from scanned PDFs without changing resolution or anti-aliased text. · ⭐2
 - [173787247/dsh-wsl-shot](https://github.com/173787247/dsh-wsl-shot) — Save a Windows clipboard image into a WSL file for multimodal chat. · ⭐1
@@ -92,7 +93,6 @@
 - [TYEclipse/dsh-color](https://github.com/TYEclipse/dsh-color) — Color toolbox for DeepSeek Harness (dsh): parse/convert any CSS color, WCAG contrast plus the nearest passing color, named-color lookup, pal · ⭐1
 - [wanshichenguang/dsh-tool-vision](https://github.com/wanshichenguang/dsh-tool-vision) 💤 — DSH plugin: image_describe (识图) tool over the DashScope OpenAI-compatible vision API (qwen3.7-flash). Bring your own DASHSCOPE_API_KEY. · ⭐1
 - [wulusai2333/mimo-vision](https://github.com/wulusai2333/mimo-vision) 💤 — DeepSeek Harness (DSH) native plugin — describe_image tool: a vision bridge (image → mimo-v2.5 → text description) over the ctx.fs / ctx.cre · ⭐1
-- [zhishengplus/dsh-image-annotate](https://github.com/zhishengplus/dsh-image-annotate) — An annotation pen for the DeepSeek Harness image lightbox: circle, label, then keep moving / resizing / re-editing every mark — and send the · ⭐1
 - [ZZZZZZZ-ZZZZZ/dsh-attachment-library](https://github.com/ZZZZZZZ-ZZZZZ/dsh-attachment-library) — Read-only attachment library for DeepSeek Harness: every stored image and file, its size, and which conversations still use it. · ⭐1
 - [5101good/amoji](https://github.com/5101good/amoji) — AI 原生表情 · AI-native expressions for dsh: images for people, fixed text semantics for AI. · ⭐0
 - [ajia1206/dsh-restart](https://github.com/ajia1206/dsh-restart) — One-call restart for the running DSH process, with launchd-aware supervision detection, a detached-supervisor fallback, and a verifiable res · ⭐0

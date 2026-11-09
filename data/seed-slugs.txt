@@ -1053,6 +1053,7 @@ BuffMcBigHuge/dsh-brave-search
 BuildWithAIHub/dsh-boot-animation-plus
 BuildWithAIHub/dsh-codex-account-switcher
 Buktal/deepseek-desktop
+Burns1028/moa-plus
 ButterHost69/dsh-login-gateway
 BuvkB/dsh-vaultwarden
 Buzzso/dsh-sev
@@ -1130,6 +1131,7 @@ CaiZongyuan/dsh-ag-ui
 CaiZongyuan/dsh-react-surface
 CalamitySpiritKite/dsh-bili-merlin
 Calcium-Ion/dsh-ptc-moejs
+CallMeGuLab/dsh-purge-safe
 CanGeng/yolo-mode
 Canary-Builds/dhs-connect
 Canary-Builds/dsh-mobile-ui
@@ -3587,6 +3589,7 @@ Norman-else/dsh-claude
 NormanFxxkingRockwell/dsh-auto-vision
 NormanFxxkingRockwell/dsh-keyboard-history
 NormanFxxkingRockwell/harmonyos-dev-mcp-for-dsh
+NorthGateChat/dsh-think-game
 Nothree-code/dsh-workspace-tools
 Nothree-code/folder-tree-sh
 Nothree-code/review-quote-sh
@@ -4149,6 +4152,7 @@ S3K926/dsh-selfwake
 SA1992X/dsh-ctrl-enter-submit
 SAOS-3624/dsh-see-now
 SAOS-3624/dsh-video-storyboard
+SAOS-3624/dsh-watch-together
 SARTHAK2511/dsh-cve-audit
 SAXEM1997/dsh-cherry-bridge
 SAXEM1997/dsh-ppt-master-wrapper
@@ -10850,6 +10854,7 @@ runfali/dsh-skill-curator
 running-grass/dsh-nix-dev-shell
 runseal-labs/dsh-tool-runseal
 runzhliu/deepseek-harness-docker
+runzhliu/welink
 russeell/cross-agent-fork
 russeell/job-search
 ruvnet/ruflo
@@ -11704,6 +11709,7 @@ tuogusa/dsh-skill-manager
 tuogusa/dsh-whale-background
 tuogusa/dsh-word-complete
 tuojc/dsh-browser-firefox
+tw93/Mole
 twilightt1/dsh-llm-chatgpt-web
 twinkle10010/dsh-rokid-aiui
 twinsant/qqbot-clawbot

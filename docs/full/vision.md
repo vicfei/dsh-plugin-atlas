@@ -2,30 +2,30 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [liustack/modlens](https://github.com/liustack/modlens) — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON ev · ⭐4871
-- [tong-io/tongflow](https://github.com/tong-io/tongflow) — Modality-First GenAI Platform · ⭐1045
-- [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) — :zap:The ultimate image uploading engine. Both CLI & API supports. · ⭐994
-- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。 · ⭐155
-- [THU-MAIC/dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) 💤 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching · ⭐119
+- [liustack/modlens](https://github.com/liustack/modlens) — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON ev · ⭐4888
+- [tong-io/tongflow](https://github.com/tong-io/tongflow) — Modality-First GenAI Platform · ⭐1046
+- [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) — :zap:The ultimate image uploading engine. Both CLI & API supports. · ⭐995
+- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。 · ⭐157
+- [THU-MAIC/dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) 💤 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching · ⭐122
 - [oil-oil/dsh-vision](https://github.com/oil-oil/dsh-vision) 💤 — Near-native image understanding for DeepSeek Harness · ⭐91
 - [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — DeepSeek Harness plugin: image + video generation studio with an infinite canvas. Fork of dickpy/dsh-imagegen with a complete video pipeline · ⭐90
-- [kingcharleslzy-ai/dsh-qwen-studio](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) — Qwen Image 2.1 for DeepSeek Harness: native image editing on Apple Silicon MLX/MFLUX or self-hosted CUDA, LoRA, ControlNet, inpainting, pres · ⭐62
+- [kingcharleslzy-ai/dsh-qwen-studio](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) — Qwen Image 2.1 for DeepSeek Harness: native image editing on Apple Silicon MLX/MFLUX or self-hosted CUDA, LoRA, ControlNet, inpainting, pres · ⭐71
 - [Yts1919/dsh-vision-complete](https://github.com/Yts1919/dsh-vision-complete) 💤 — 给 DeepSeek 补上「眼睛和耳朵」的多模态视觉插件：看图 / OCR / 物体检测 / 视频理解 / 语音转写 / 截图直读，一键安装（DSH 插件）。 · ⭐59
 - [william-jin-cmu/dsh-vision](https://github.com/william-jin-cmu/dsh-vision) 💤 — dsh 插件：给纯文本 DeepSeek 加视觉——view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型） · ⭐30
-- [aa1355721445-lgtm/dsh-image-studio](https://github.com/aa1355721445-lgtm/dsh-image-studio) — DeepSeek Harness 生图插件：本地参考库 + 关键词 + 图片/文字转三视图，模型按情境自己判断发什么图 · ⭐22
+- [aa1355721445-lgtm/dsh-image-studio](https://github.com/aa1355721445-lgtm/dsh-image-studio) — DeepSeek Harness 生图插件：本地参考库 + 关键词 + 图片/文字转三视图，模型按情境自己判断发什么图 · ⭐23
 - [elangan1997-cmyk/canvas-workbench](https://github.com/elangan1997-cmyk/canvas-workbench) — 本地生图工作台 canvas-workbench:开自己的 API 生图,画布排版+修图/擦除/去背景/OCR/转矢量,可编辑 PSD/AI 交付,PS/AI 图层级双向桥接 · DSH 插件,与 npm 包同名 · ⭐18
 - [hackerFish/dsh-video-studio](https://github.com/hackerFish/dsh-video-studio) 💤 — 鲸影 DSH Video Studio：DeepSeek Harness 原生视频/漫剧生成插件——六段导演流水线、多供应商免费额度调度、四层提示词自优化，质量优先省钱第二 · ⭐18
 - [paicat1/dsh-screenshot](https://github.com/paicat1/dsh-screenshot) 💤 — DSH 轻量截图插件：轻 ： 纯 PowerShell 实现，零依赖、零二进制；截图能力独立维护，不随任何上游更新而失效。 摆 ：一键全屏即拍；框选前整个桌面保持可操作，所有窗口像布置画面一样自由移动、缩放；鼠标悬停任意窗口即亮起吸附边框，点一下直接截该窗口，被遮挡也能拿到完整内 · ⭐10
 - [beijingwahw/dsh-conv-export](https://github.com/beijingwahw/dsh-conv-export) — dsh-conv-export（对话导出）— export the current DeepSeek Harness conversation as Markdown, PDF, or a long PNG image · ⭐9
 - [maple-pwn/paperlab](https://github.com/maple-pwn/paperlab) 💤 — Overleaf-style paper revision workbench powered by a DeepSeek Harness plugin (dsh-plugin) · ⭐9
-- [azwosile/dsh-highres-vision](https://github.com/azwosile/dsh-highres-vision) — 专供 deepseek-v4-flash-vision-exp 的高清识图增强插件：放宽 DSH 图片限制 + highres_read 分块识图工具。 · ⭐8
+- [azwosile/dsh-highres-vision](https://github.com/azwosile/dsh-highres-vision) 💤 — 专供 deepseek-v4-flash-vision-exp 的高清识图增强插件：放宽 DSH 图片限制 + highres_read 分块识图工具。 · ⭐8
 - [EmberwingAviation/dsh-media-gen](https://github.com/EmberwingAviation/dsh-media-gen) — DeepSeek Harness 生图+生视频整合插件：统一供应商目录、三个工具、中转站实测的异步视频契约、 限流退避纪律、设置页+画廊+快车道 CLI。MIT，fork 合并自 dsh-image-generation 与 dsh-video-gen。| Unified ima · ⭐8
 - [FuzzySoul/dsh-free-vision](https://github.com/FuzzySoul/dsh-free-vision) 💤 — 为DSH（DeepSeek Harness）量身打造的视觉插件，现已支持agent调用图片显示/Vision plugin for DSH(DeepSeek Harness),support Proactive Image Display. · ⭐8
 - [sliverp/DeepSeek-harness-qqbot](https://github.com/sliverp/DeepSeek-harness-qqbot) 💤 — QQ Bot text and image channel plugin for DeepSeek Harness · ⭐8
+- [Tripo-Developer/Tripo3D-Plugin-dsh](https://github.com/Tripo-Developer/Tripo3D-Plugin-dsh) — Tripo 3D plugin for DeepSeek Harness (dsh): text/image → textured, rig-ready 3D assets via tripo-cli · ⭐8
+- [VAST-AI-Research/Tripo3D-Plugin-dsh](https://github.com/VAST-AI-Research/Tripo3D-Plugin-dsh) — Tripo 3D plugin for DeepSeek Harness (dsh): text/image → textured, rig-ready 3D assets via tripo-cli · ⭐8
 - [wangyang10/image-vision](https://github.com/wangyang10/image-vision) 💤 — (no description) · ⭐8
 - [csukingzq/dsh-pdf-translator](https://github.com/csukingzq/dsh-pdf-translator) — AI vision PDF translation and LaTeX reconstruction for DeepSeek Harness · ⭐7
-- [Tripo-Developer/Tripo3D-Plugin-dsh](https://github.com/Tripo-Developer/Tripo3D-Plugin-dsh) — Tripo 3D plugin for DeepSeek Harness (dsh): text/image → textured, rig-ready 3D assets via tripo-cli · ⭐7
-- [VAST-AI-Research/Tripo3D-Plugin-dsh](https://github.com/VAST-AI-Research/Tripo3D-Plugin-dsh) — Tripo 3D plugin for DeepSeek Harness (dsh): text/image → textured, rig-ready 3D assets via tripo-cli · ⭐7
 - [balcoz/dsh-ocr-local](https://github.com/balcoz/dsh-ocr-local) — DeepSeek Harness 本地 OCR 插件：粘贴图片，PP-OCRv5 + ONNX Runtime 识别文字，完全离线 | Local OCR plugin for DeepSeek Harness — paste an image, get its text via · ⭐6
 - [grelvan/dsh-ocr-local](https://github.com/grelvan/dsh-ocr-local) — DeepSeek Harness 本地 OCR 插件：粘贴图片，PP-OCRv5 + ONNX Runtime 识别文字，完全离线 | Local OCR plugin for DeepSeek Harness — paste an image, get its text via · ⭐6
 - [3403473060/dsh-inline-images](https://github.com/3403473060/dsh-inline-images) 💤 — (no description) · ⭐5
@@ -89,6 +89,7 @@
 - [N107meow/figma-mcp-dsh](https://github.com/N107meow/figma-mcp-dsh) — Read-only Figma design-source tools for DeepSeek Harness: inspect file structure, colors, typography and export images as native tools. · ⭐1
 - [NingYuanLee/dsh-image-viewer-pro](https://github.com/NingYuanLee/dsh-image-viewer-pro) — A proper image viewer for DeepSeek Harness (DSH): zoom, pan, rotate, download, copy, open in the default app and gallery browsing for in-cha · ⭐1
 - [NormanFxxkingRockwell/dsh-auto-vision](https://github.com/NormanFxxkingRockwell/dsh-auto-vision) — DeepSeek Harness 视觉桥：自动发现你已配置的多模态模型，给纯文本主模型装上 vision 工具，识别结果以纯文本返回。零配置，一条命令安装。 · ⭐1
+- [reg4916/dsh-doc-reader](https://github.com/reg4916/dsh-doc-reader) — Read PDF/DOCX/XLSX/PPTX documents and OCR scans as agent tools for DeepSeek Harness (dsh). · ⭐1
 - [Tests4gptplay/dsh-video-vision](https://github.com/Tests4gptplay/dsh-video-vision) — 让 DSH 中的 AI 观看和理解多站点在线视频及本地视频：结合时间戳画面、音频、字幕与语音转写进行分析，支持接续观看、站点解析扩展及媒体缓存管理。 · ⭐1
 - [TYEclipse/dsh-color](https://github.com/TYEclipse/dsh-color) — Color toolbox for DeepSeek Harness (dsh): parse/convert any CSS color, WCAG contrast plus the nearest passing color, named-color lookup, pal · ⭐1
 - [wanshichenguang/dsh-tool-vision](https://github.com/wanshichenguang/dsh-tool-vision) 💤 — DSH plugin: image_describe (识图) tool over the DashScope OpenAI-compatible vision API (qwen3.7-flash). Bring your own DASHSCOPE_API_KEY. · ⭐1
@@ -131,7 +132,6 @@
 - [protoctistmoses143/dsh-docs](https://github.com/protoctistmoses143/dsh-docs) — Convert PDFs, Office docs, scanned images, and more to clean Markdown, JSON, or text locally with offline OCR—no servers, no API keys, fully · ⭐0
 - [Qiujiyuantiantian/dsh-scan2md](https://github.com/Qiujiyuantiantian/dsh-scan2md) — English：OCR scanned PDFs into Markdown in DSH — resumable, page-addressable, and refuses documents that already have text;中文：把扫描版 PDF（影印书、拍照 · ⭐0
 - [Rainnnnnnny/lumina-dsh](https://github.com/Rainnnnnnny/lumina-dsh) — Photoshop automation for DeepSeek Harness: grading recipes, layered HDR, multi-zone masks, quality-first super-resolution · ⭐0
-- [reg4916/dsh-doc-reader](https://github.com/reg4916/dsh-doc-reader) — Read PDF/DOCX/XLSX/PPTX documents and OCR scans as agent tools for DeepSeek Harness (dsh). · ⭐0
 - [RoderickWilliams/dsh-picture-text-reader](https://github.com/RoderickWilliams/dsh-picture-text-reader) — DeepSeek Harness plugin: batch-read Xiaohongshu notes and WeChat articles with local OCR, every result carrying its source URL. Read-only. · ⭐0
 - [senyayume/dsh-image-once](https://github.com/senyayume/dsh-image-once) — DSH plugin: inline each image block only in the request where it first appears, then swap it for the harness's own placeholder text · ⭐0
 - [ShaineDemo/dsh-vision-pro-bridge](https://github.com/ShaineDemo/dsh-vision-pro-bridge) 💤 — Give text-only DeepSeek-V4-Pro vision — zero new dependencies, DeepSeek-only routing (images described by deepseek-v4-flash-vision-exp, then · ⭐0

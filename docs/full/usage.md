@@ -2,7 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — Двенадцать площадок РФ и Китая (11 маркетплейсов + Циан) как MCP-серверы и 15 Agent Skills: Wildberries, Ozon, Яндекс Маркет, Детский мир, А · ⭐185
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — Двенадцать площадок РФ и Китая (11 маркетплейсов + Циан) как MCP-серверы и 15 Agent Skills: Wildberries, Ozon, Яндекс Маркет, Детский мир, А · ⭐187
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — 一个能帮你省钱的插件！缓存其实比你想象的贵！换窗口可以省缓存钱，但换窗口有顾虑，或许你懒得重新描述项目和规则，或者你还需要那个上下文。所以这个插件，就是为了告诉你，当前轮，纯粹上下文缓存的部分，到底花了你多少钱。这样你才心里有个底，判断什么时候该换窗口。 在dsh-plugin标 · ⭐49
 - [Xenia0922/dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) 💤 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) · ⭐12
 - [Cassius0924/dsh-usage-dashboard](https://github.com/Cassius0924/dsh-usage-dashboard) — DeepSeek 额度与用量仪表盘 — DSH (DeepSeek Harness) 动态 Cordis 插件 · ⭐11
@@ -58,7 +58,7 @@
 - [ShoTakujo/dsh-platform-usage](https://github.com/ShoTakujo/dsh-platform-usage) — DSH 用量插件：读 DeepSeek 开放平台的账号级数据，把该账号下全部 API Key 的消耗画成 52 周热力图（每天/每周/累计可切）。不是只统计 DSH 自己。 · ⭐1
 - [sxwer001/dsh-coding-plan-quota](https://github.com/sxwer001/dsh-coding-plan-quota) — Quota ring in the DSH composer bar that tracks OpenCode Go and 14 other coding-plan quotas or balances, cycles 5-hour weekly and monthly win · ⭐1
 - [yanzoro926/dsh-usage-dash](https://github.com/yanzoro926/dsh-usage-dash) 💤 — (no description) · ⭐1
-- [863683348/dsh-plugin-local-life](https://github.com/863683348/dsh-plugin-local-life) — Local-life toolkit for DeepSeek Harness agents: budget planning, bill splitting, unit-price and discount math, common unit conversions (incl · ⭐0
+- [863683348/dsh-plugin-local-life](https://github.com/863683348/dsh-plugin-local-life) 💤 — Local-life toolkit for DeepSeek Harness agents: budget planning, bill splitting, unit-price and discount math, common unit conversions (incl · ⭐0
 - [ai-written/dsh-usage-badge](https://github.com/ai-written/dsh-usage-badge) — DeepSeek Harness 的用量徽标插件 · ⭐0
 - [AyahaShirane/dsh-deepseek-usage-meter](https://github.com/AyahaShirane/dsh-deepseek-usage-meter) — DSH 插件：在输入栏统计条内显示 DeepSeek 官方渠道的会话开销与账户余额（MIT） · ⭐0
 - [Bil812/dsh-balance-tasks](https://github.com/Bil812/dsh-balance-tasks) 💤 — DeepSeek Harness 插件：余额与任务数换算——右下角悬浮卡显示余额、峰谷档位与倒计时，按历史平均消耗估算还能跑多少个任务。 · ⭐0

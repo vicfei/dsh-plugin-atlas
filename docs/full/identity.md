@@ -2,8 +2,8 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐61
-- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐43
+- [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐60
+- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐44
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) 💤 — DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。 · ⭐39
 - [AgentConnect/dsh-awiki](https://github.com/AgentConnect/dsh-awiki) — AWiki identity and messaging plugin for DeepSeek Harness · ⭐19
 - [Max-Null/dsh-chinese-thinking](https://github.com/Max-Null/dsh-chinese-thinking) — One-line fix: inject a fixed system-prompt section so the agent always thinks and replies in Chinese, whatever the user's language · 中文思考：注入 · ⭐13
@@ -18,12 +18,12 @@
 - [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) — DeepSeek Harness plugin that learns from coding agent retries and user corrections, then adds visible, editable directives to future convers · ⭐4
 - [ZihaoVistonWang/Stata-AI-Skill](https://github.com/ZihaoVistonWang/Stata-AI-Skill) 💤 — Stata AI Skill Native Service: Native localhost HTTP service that lets AI agents run Stata without VS Code, Node.js, or Python on the user s · ⭐4
 - [AusertDream/TravelPlanner](https://github.com/AusertDream/TravelPlanner) — 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 · ⭐3
+- [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐3
+- [PandaBlessing/dsh-user-sync](https://github.com/PandaBlessing/dsh-user-sync) — DeepSeek Harness（DSH）的用户级配置同步插件 · ⭐2
 - [ShanHaiFish/sent-msg-locator](https://github.com/ShanHaiFish/sent-msg-locator) 💤 — DSH 插件：对话区左缘轮次图标列，点击定位到每轮用户输入文本。A DSH plugin: left-edge turn rail, click to locate each turn's user message. · ⭐2
-- [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐2
 - [173787247/dsh-wsl-systemd](https://github.com/173787247/dsh-wsl-systemd) — Read-only systemd --user list / show / journal. · ⭐1
 - [JularDepick/dsh-system-monitor-plugin](https://github.com/JularDepick/dsh-system-monitor-plugin) — A plugin for dsh: monitor the resource utilization of dsh system processes and report the results to the user in the form of charts. · ⭐1
 - [ownduck/dsh-custom-env](https://github.com/ownduck/dsh-custom-env) — Manage $DSH_HOME/.env from Settings; sync Host and Windows/macOS user env · ⭐1
-- [PandaBlessing/dsh-user-sync](https://github.com/PandaBlessing/dsh-user-sync) — DeepSeek Harness（DSH）的用户级配置同步插件 · ⭐1
 - [RyensX/dsh-message-navigation](https://github.com/RyensX/dsh-message-navigation) 💤 — 为DeepSeek Harness提供Codex风格用户消息导航栏。/ Provides a Codex-style user message navigation bar for DeepSeek Harness · ⭐1
 - [sumomok/dsh-plugins](https://github.com/sumomok/dsh-plugins) 💤 — DeepSeek Harness plugins by sumomok: quote earlier messages, edit & rerun a prompt, account balance & spend · ⭐1
 - [wbushihenshuai-design/dsh-error-improvement](https://github.com/wbushihenshuai-design/dsh-error-improvement) — Standalone DSH plugin: user-confirmed anti-regression lessons for DeepSeek Harness · ⭐1

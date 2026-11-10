@@ -3015,6 +3015,7 @@ LuminariSoftwares/context-guardian
 LuminariSoftwares/stack-guardian
 LuminariSoftwares/tool-guardian
 Luminet-LT/dsh-inapp-chat
+Luminousyyh/skill-wb-exec
 Lumonote/lumo-harness
 Lunatic029/dsh-clash-proxy
 Luokaikai1/dsh-local-first-router
@@ -4437,6 +4438,7 @@ Socialist-Sister/dsh-survival-mode
 SodaMem/dsh-plugin-sodamem
 SodaZheng/dsh-totp
 Sodapopper-pixel/dsh-cot-translator-plus
+SoliSpark/deepseek-harness-shorekeeper-theme
 SolidiFact/dsh-auto-archive
 SolidiFact/dsh-session-list-cache
 Solismuchengxue/dsh_plugin_swift_cycle
@@ -5372,6 +5374,7 @@ Yuuyuko-uu/dsh-qq-bridge
 Yuuyuko-uu/dsh-qq-link
 Yuuyuko-uu/dsh-speak-up
 Yuuyuko-uu/dsh-tts-bridge
+Yuuyuko-uu/dsh-xingxi
 Yuuz12/dsh-tavily
 Yuuz12/dsh-vision-helper
 Yuuz12/dsh-webui-auth
@@ -8667,6 +8670,7 @@ kelai141/local-git-4-llm
 kelearns/dsh-navigation-bar
 kelearns/dsh-token-usage
 keleus/deepseek-pet
+keli-wen/agy-staff
 keller-52/bilibili-deepseek
 keman-ai/dsh-opencode-zen
 keman-ai/dsh-pocket
@@ -10263,6 +10267,7 @@ opdsh/unity-plugin
 open-dsh-plugins/dsh-open-in-app
 open-dshai/dsh-employee
 openAGFS/dsh-agfs
+openBitFun/OpenBitFun
 openbkn-ai/bkn-dsh
 opencamel/dsh-wb-archive
 opencamel/dsh-wx-archive
@@ -11454,6 +11459,7 @@ syncable-dev/memtrace-public
 syncended/deepseek-harness-automations
 syncended/deepseek-harness-picture-in-picture
 syncended/deepseek-harness-usage
+sysevol-ai/CodeNib
 syx2bzd/dsh-ricewhale
 syyr1987/dsh-linghun
 syyr1987/dsh-linghun-assembler
@@ -12133,6 +12139,7 @@ wild-River2016/dsh-canvas-xiaohe
 wild-River2016/xiaohe-canvas-dsh
 wilianyichen/dsh-deepseek-web
 wilianyichen/dsh-official-vision
+william-jin-cmu/cetus
 william-jin-cmu/dsh-evolve
 william-jin-cmu/dsh-stickers
 william-jin-cmu/dsh-vision
@@ -13388,6 +13395,7 @@ zhujiuyi/dsh-tokenDashBoard
 zhujunpeng12/dsh-memory-system
 zhujunzhujunzhu/ai-token-report
 zhukunpenglinyutong/desktop-cc-gui
+zhukunpenglinyutong/dsh-ccgui
 zhuobichen/zhaowen-dsh
 zhuquan7237/zhuquan7237.github.io
 zhuran305-web/dsh-cet-vocab

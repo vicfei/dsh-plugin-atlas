@@ -2,6 +2,9 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [wzn16/dsh-auto-archive](https://github.com/wzn16/dsh-auto-archive) — Auto-archive for DeepSeek Harness: archive sessions idle beyond a threshold, with full archived-session management UI · DSH 自动归档插件 · ⭐1
+- [wzn16/proto-spec](https://github.com/wzn16/proto-spec) — 规范驱动的多页 HTML 原型生成 skill：人机访谈定规范 → 冻结 SPEC/tokens → 按规范批量生成可点击原型 → 质量门自检，替代 Axure。零依赖，宿主中立。 · ⭐1
+- [xfpuls/dsh-usage-suite](https://github.com/xfpuls/dsh-usage-suite) — DSH 用量与费用统计 + 提问置顶：本轮花费、今日 token 与消费、空闲/高峰时段，并钉住最新提问 · ⭐1
 - [xfy2412/dsh-session-cloudsync](https://github.com/xfy2412/dsh-session-cloudsync) — 适用于dsh的会话同步插件及配套可自部署服务器 · ⭐1
 - [xgxx666/dsh-clear-usage](https://github.com/xgxx666/dsh-clear-usage) — DSH 本地 Token 用量统计与模型分析，支持热力图、自定义日期和模型筛选。 · ⭐1
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation · ⭐1
@@ -22,6 +25,7 @@
 - [yangzhenyu0817/dsh-session-color](https://github.com/yangzhenyu0817/dsh-session-color) — Right-click any session row in the DeepSeek Harness sidebar to color-tag it (default red, ten palette colors, custom picker). / 给 DSH 侧栏会话行加 · ⭐1
 - [Ycet/dsh-archive-manager](https://github.com/Ycet/dsh-archive-manager) — DSH 设置新增「归档」页：按工作区分组查看已归档会话，支持筛选/排序、取消归档、二次确认彻底删除。Add an Archive page to DSH Settings: view archived sessions grouped by workspace, filter/s · ⭐1
 - [yellpoliovirusvaccine37/dsh-launcher](https://github.com/yellpoliovirusvaccine37/dsh-launcher) — Launch DeepSeek Harness on Windows with one double-click, featuring startup autostart and a compact standalone window—no command line requir · ⭐1
+- [yfwu2020/dsh-recent-sessions](https://github.com/yfwu2020/dsh-recent-sessions) — DSH sidebar plugin: a floating recent-sessions sheet that blends into the sidebar · ⭐1
 - [YOUKNOWWHOOO/dsh-session-reader](https://github.com/YOUKNOWWHOOO/dsh-session-reader) — 读取、列出、检索、统计与校验本机 DeepSeek Harness（dsh）会话历史的技能；只读、离线、不产生模型调用。 · ⭐1
 - [yumingtao/narwhal](https://github.com/yumingtao/narwhal) — A local-first, privacy-first AI agent. Your conversations, projects, and work context stay on your machine. · ⭐1
 - [yunfong/dsh-session-md-export](https://github.com/yunfong/dsh-session-md-export) — 把 DSH 会话一键导出成可读的 Markdown / Export a DeepSeek Harness session as readable Markdown, dialogue only. · ⭐1
@@ -38,7 +42,7 @@
 - [zhengqiuyang/dsh-janitor](https://github.com/zhengqiuyang/dsh-janitor) — Deterministic artifact lifecycle for DeepSeek Harness — scan session debris, return a reviewable cleanup plan; the janitor is never an agent · ⭐1
 - [zhifeiNi/dsh-usage-orb](https://github.com/zhifeiNi/dsh-usage-orb) — DSH 用量光球：右下角常驻圆环 + 可拖动的跨会话用量面板（token/缓存命中率/成本/余额/工具归因，支持 iOS 式磁贴 DIY 与 bloub 机器人）。DeepSeek Harness 插件，MIT。 · ⭐1
 - [zhifengjiang/dsh-hover-archive](https://github.com/zhifengjiang/dsh-hover-archive) 💤 — Codex-style hover archive for DeepSeek Harness Web: hovering a sidebar session row reveals an Archive icon at the far right; one click archi · ⭐1
-- [zhm20001/dsh-usage-board](https://github.com/zhm20001/dsh-usage-board) — dsh-usage-board 是专为 DSH (DeepSeek Harness) 设计的用量与成本可视化看板插件。 插件能实时捕获会话内的 Token 消耗、Step 耗时和异常指标，支持冷启动增量回溯历史全量会话，并按 Sub-agent DAG 调用关系进行树状归集与反向 · ⭐1
+- [zhm20001/dsh-usage-board](https://github.com/zhm20001/dsh-usage-board) 💤 — dsh-usage-board 是专为 DSH (DeepSeek Harness) 设计的用量与成本可视化看板插件。 插件能实时捕获会话内的 Token 消耗、Step 耗时和异常指标，支持冷启动增量回溯历史全量会话，并按 Sub-agent DAG 调用关系进行树状归集与反向 · ⭐1
 - [ZHOUcourier/dsh-theme-whalegirl](https://github.com/ZHOUcourier/dsh-theme-whalegirl) — DeepSeek-鲸鱼娘 (Whale Girl) theme for the DeepSeek Harness Web UI — ported from DreamSkin ver_cb557ececaa5de3f3dbe: full --dsw-* token remap + · ⭐1
 - [Zhuchen00123/dsh-compaction-cacheaware](https://github.com/Zhuchen00123/dsh-compaction-cacheaware) — Reasonix-style cache-aware compaction backend for DeepSeek Harness (DSH). Modular compact plugin with auto-sync from esengine/DeepSeek-Reaso · ⭐1
 - [zhujunzhujunzhu/ai-token-report](https://github.com/zhujunzhujunzhu/ai-token-report) — (no description) · ⭐1
@@ -62,7 +66,7 @@
 - [4478sc/DSH_CostLive](https://github.com/4478sc/DSH_CostLive) — DSH 会话费用面板：CNY/USD 双币并列不折算，opencode 按官网账单计 USD，支持按会话/按天、峰谷价拆分与 Token 均价，零依赖 Node。 · ⭐0
 - [7bder/dsh-plugin-orchd](https://github.com/7bder/dsh-plugin-orchd) — Read-only orchd panel for the DSH right sidebar: task board, dependency graph, ideas and review timeline for the session's project. · DSH 右侧 · ⭐0
 - [7vw58n3ftvq7cn89v/dsh-plugin-session-colors](https://github.com/7vw58n3ftvq7cn89v/dsh-plugin-session-colors) — (no description) · ⭐0
-- [9527ccccccc/dsh-build-plan-mode](https://github.com/9527ccccccc/dsh-build-plan-mode) — Build and read-only Plan modes for DeepSeek Harness sessions - a pure user-layer Cordis plugin, zero DSH core modification · ⭐0
+- [9527ccccccc/dsh-build-plan-mode](https://github.com/9527ccccccc/dsh-build-plan-mode) 💤 — Build and read-only Plan modes for DeepSeek Harness sessions - a pure user-layer Cordis plugin, zero DSH core modification · ⭐0
 - [988hj7tczd-oss/dsh-receipts](https://github.com/988hj7tczd-oss/dsh-receipts) 💤 — Mine local DSH session logs (JSONL) into personal usage & impact receipts: Markdown day/week/month reports plus a self-contained HTML receip · ⭐0
 - [988hj7tczd-oss/dsh-skill-creator](https://github.com/988hj7tczd-oss/dsh-skill-creator) 💤 — One-shot DSH skill (SKILL.md) generator: capture intent, draft, validate, package and distribute skills from inside a DeepSeek Harness sessi · ⭐0
 - [abangbang/dsh-delete-chat](https://github.com/abangbang/dsh-delete-chat) — Trash-first session deletion for DeepSeek Harness: Delete chat in the row menu moves the session directory into ~/.dsh/session-trash, a side · ⭐0
@@ -149,7 +153,7 @@
 - [draysen-yau/session-handoff](https://github.com/draysen-yau/session-handoff) — Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes. · ⭐0
 - [dreamtao2199/dsh-colors](https://github.com/dreamtao2199/dsh-colors) — DeepSeek Harness theme plugin: 22 light-only palettes (Pantone / Chinese traditional / Morandi) and 14 composable surface effects, plus twel · ⭐0
 - [DSH-Raising-Plan/dsh-context-budget](https://github.com/DSH-Raising-Plan/dsh-context-budget) — DeepSeek Harness 上下文预算插件：保留人设，按轮丢掉最旧对话 · ⭐0
-- [Dubai1210/dsh-session-delete](https://github.com/Dubai1210/dsh-session-delete) — DSH Plugin（DeepSeek Harness 插件）：在会话菜单「归档会话」下方增加「删除会话」，一次点按删除该会话及其全部数据。Adds a Delete item under Archive that removes a session and all of its · ⭐0
+- [Dubai1210/dsh-session-delete](https://github.com/Dubai1210/dsh-session-delete) — DSH plugin: delete a session from its menu, and choose which files that session left in the workspace to remove. · ⭐0
 - [dyguests/dsh-compact-panel-nav](https://github.com/dyguests/dsh-compact-panel-nav) — Compact the DeepSeek Harness sidebar: Plugins / Automations / More become one row, and New Session becomes an icon in the brand row. · ⭐0
 - [dzwalker/dsh-session-keepwarm](https://github.com/dzwalker/dsh-session-keepwarm) — Keep the most recently used sessions resident in the browser, so switching back reuses the loaded history instead of re-reading it. DSH plug · ⭐0
 - [EarthPretender/dsh-session-delete](https://github.com/EarthPretender/dsh-session-delete) — DSH 插件：在会话“…”菜单的“归档会话”下方新增红色“删除会话”行，二次确认后真正删除该会话的日志与工作区登记（不可逆；当次启动使用过的会话先停用再删，正在执行任务的会话再点一次停止任务并删除）。 · ⭐0
@@ -168,7 +172,7 @@
 - [FenrirCait/dsh-session-leftover-purge](https://github.com/FenrirCait/dsh-session-leftover-purge) — Purge billion-context (bili) leftovers after an archive-manager session delete completes. Plugin for DeepSeek Harness. · ⭐0
 - [Ferien-sein/dsh-dajiangjun](https://github.com/Ferien-sein/dsh-dajiangjun) — 大管家 — DeepSeek Harness 的会话接力：写档 / 建会话 / 投递，让新会话自己开工。纯由 AI 开发。Session relay for DeepSeek Harness — write a handoff doc, create a session, del · ⭐0
 - [fishcg/dsh-recent-tasks](https://github.com/fishcg/dsh-recent-tasks) — A collapsible Recent tasks folder at the top of the DeepSeek Harness sidebar: recent sessions, pinning, and a per-row menu. · ⭐0
-- [fishOfOUC/dsh-price-monitor](https://github.com/fishOfOUC/dsh-price-monitor) — Session cost monitor for DeepSeek Harness — a dsh-better-sidebar tab (that sidebar is required; this package ships no UI of its own) showing · ⭐0
+- [fishOfOUC/dsh-price-monitor](https://github.com/fishOfOUC/dsh-price-monitor) 💤 — Session cost monitor for DeepSeek Harness — a dsh-better-sidebar tab (that sidebar is required; this package ships no UI of its own) showing · ⭐0
 - [flowfire/dsh-plugin-agent-groups](https://github.com/flowfire/dsh-plugin-agent-groups) — A DSH (DeepSeek Harness) plugin that pulls multiple live sessions into one collaboration group and relays their final outputs on a shared ti · ⭐0
 - [ForceMind/dsh-atelier](https://github.com/ForceMind/dsh-atelier) — Local-first DeepSeek Harness workbench: compact usage and cost metrics, prompt library, activity text, and opt-in request auditing. · ⭐0
 - [fpm0312/dsh-auto-compact](https://github.com/fpm0312/dsh-auto-compact) — DeepSeek Harness 插件：上下文超过 45% 且静默 3 分钟时自动压缩会话历史 · ⭐0
@@ -177,7 +181,7 @@
 - [gaolin89898/remote-session-plugin](https://github.com/gaolin89898/remote-session-plugin) — (no description) · ⭐0
 - [Gaudi-XIX/dsbot-session-create](https://github.com/Gaudi-XIX/dsbot-session-create) — 会话编排层：Chief 能把活派给别的 Bot，却派不进「某个项目的那个会话」；宿主已有开会话的原语，但没开成工具。这个插件把原语开成四个工具（建会话、插话、读回话、列派单），派单只追加自己的台账，不另造调度器。 · ⭐0
 - [GeoSyntax/dsh-plugin-time-machine](https://github.com/GeoSyntax/dsh-plugin-time-machine) — Community DSH plugin for coordinated session/workspace checkpoints, safe rewind, DAG forks, and failure reflection. · ⭐0
-- [gongyijie85/dsh-agent-frugality](https://github.com/gongyijie85/dsh-agent-frugality) — Multi-agent frugality defense plugin for DeepSeek Harness: read-ledger dedup, compaction-immune rules, completion gate, cheap-review lane. · ⭐0
+- [gongyijie85/dsh-agent-frugality](https://github.com/gongyijie85/dsh-agent-frugality) 💤 — Multi-agent frugality defense plugin for DeepSeek Harness: read-ledger dedup, compaction-immune rules, completion gate, cheap-review lane. · ⭐0
 - [GooDAnDReaDY/dsh-kanban](https://github.com/GooDAnDReaDY/dsh-kanban) — Kanban board for DeepSeek Harness: Gitea-backed tasks, workflow columns, and dedicated agent sessions · ⭐0
 - [Gordonynh/dsh-plugin-codex-import](https://github.com/Gordonynh/dsh-plugin-codex-import) 💤 — DeepSeek Harness plugin: import OpenAI Codex conversation history into DSH sessions via /codex-import | 用 /codex-import 把 Codex 历史对话导入 DSH · ⭐0
 - [Gorkaseto/dsh-delete-sessions](https://github.com/Gorkaseto/dsh-delete-sessions) — A plugin for DeepSeek Harness (DSH) that adds a permanent "Delete session" action to the sidebar session menu · ⭐0
@@ -208,7 +212,7 @@
 - [hujiyo/dsh-recent-prompts](https://github.com/hujiyo/dsh-recent-prompts) — DeepSeek Harness plugin: browse, search, copy and hide the prompts you sent to the AI across all sessions. · ⭐0
 - [hunyu-feng/dsh-usage-pulse](https://github.com/hunyu-feng/dsh-usage-pulse) — DSH Web UI plugin: live DeepSeek peak / off-peak pricing, token spend and hourly usage bars in the composer dock. · ⭐0
 - [HuskkyQ/dsh-doki](https://github.com/HuskkyQ/dsh-doki) — Composer typing statistics for DeepSeek Harness — typing time, cumulative characters and thinking time as a pill next to the session/token s · ⭐0
-- [HYBB-rash/dsh-plugins](https://github.com/HYBB-rash/dsh-plugins) — Personal DeepSeek Harness plugins for Telegram, scheduling, assistant responsibilities, X feeds, and UI experiments. · ⭐0
+- [HYBB-rash/dsh-plugins](https://github.com/HYBB-rash/dsh-plugins) 💤 — Personal DeepSeek Harness plugins for Telegram, scheduling, assistant responsibilities, X feeds, and UI experiments. · ⭐0
 - [hy-sde/dsh-zstd-frame](https://github.com/hy-sde/dsh-zstd-frame) — Zstandard frame primitives (scan / compress / decompress / multi-frame decoder) shared by the DeepSeek Harness session persistence backend a · ⭐0
 - [hzh5021/dsh-qq](https://github.com/hzh5021/dsh-qq) — Bridges a OneBot QQ bot into DSH: the owner's direct messages open a session on the same home, answers go back to QQ, and files named with [ · ⭐0
 - [Iambatman1928/dsh-xingye](https://github.com/Iambatman1928/dsh-xingye) — Chat agent for a DeepSeek Harness session: characters and personas, several archive threads per character, an undoable/rewindable local tran · ⭐0
@@ -242,7 +246,7 @@
 - [JoeyTrribbiani/fly-buddy](https://github.com/JoeyTrribbiani/fly-buddy) — Headless digital fruit fly - a formless cyber-organism. Feeds on tokens, personality derived from real connectomes (FlyWire/MaleCNS). dsh fr · ⭐0
 - [John-20260101/dsh-theme-atlas](https://github.com/John-20260101/dsh-theme-atlas) — Atlas: six material skins for the DeepSeek Harness Web GUI — one token engine, light and dark, switched in-app. CSS only: no images, no host · ⭐0
 - [joyboy-yy/dsh-archive-purge](https://github.com/joyboy-yy/dsh-archive-purge) — Keeps archived sessions out of the DSH conversation list and adds a panel to restore them or delete them permanently - session log, archive  · ⭐0
-- [jsoncode/dsh-get-balance](https://github.com/jsoncode/dsh-get-balance) — 余额与费用查询插件，支持多账号查询，实时token实时统计，中英双语，界面交互直观、开箱即用 · ⭐0
+- [jsoncode/dsh-get-balance](https://github.com/jsoncode/dsh-get-balance) 💤 — 余额与费用查询插件，支持多账号查询，实时token实时统计，中英双语，界面交互直观、开箱即用 · ⭐0
 - [JuneLearn/dsh-session-import](https://github.com/JuneLearn/dsh-session-import) 💤 — DeepSeek Harness 会话导入与校验插件 | Import and verify DSH session exports with validation, state sync, rollback protection, and an in-app UI. · ⭐0
 - [jusong/dsh-codex-pets](https://github.com/jusong/dsh-codex-pets) — macOS always-on-top desktop pet for DSH Desktop: DeepSeek whale, Codex/codex-pets.net skins, session ball, right-click/shortcut new-session  · ⭐0
 - [jyhn-hunao/dsh-session-cost](https://github.com/jyhn-hunao/dsh-session-cost) 💤 — (no description) · ⭐0
@@ -264,7 +268,6 @@
 - [Lanzgale/dsh-repo-browser](https://github.com/Lanzgale/dsh-repo-browser) — Repository Browser plugin for DeepSeek Harness — right-side GitHub repo list (stars / forks / topics / last push) with local grouping folder · ⭐0
 - [Lan-zk/dsh-at-mention](https://github.com/Lan-zk/dsh-at-mention) 💤 — @-mention context references for DeepSeek Harness: workspace file search and cross-session references from the web composer. · ⭐0
 - [LastTrainKing/deepseek-harness-batch-executor](https://github.com/LastTrainKing/deepseek-harness-batch-executor) — DeepSeek Harness 高效执行 Skill：将确定性操作合并为单次脚本化执行、反馈压缩为摘要并按需深读、本地核验结果、及时停止无效重试 | Efficient tool execution skill for DeepSeek Harness: batches det · ⭐0
-- [LAwLi3tCoding/dsh-api-ledger](https://github.com/LAwLi3tCoding/dsh-api-ledger) — DSH API usage and cost ledger with per-pool reports and CNY/USD display · ⭐0
 - [LeeeWM/dsh-session-toast](https://github.com/LeeeWM/dsh-session-toast) — Windows 11 toast notification when a DeepSeek Harness session turn finishes, with focus-aware suppression. Install as dsh-session-toast. · ⭐0
 - [leemax1688/dsh-kimetsu-theme](https://github.com/leemax1688/dsh-kimetsu-theme) — Kimetsu no Yaiba (Demon Slayer) skin for the DeepSeek Harness Web UI: token-layer palette, rotating wallpapers, flame band. 鬼灭之刃 DSH 主题插件 · ⭐0
 - [lengduan/dsh-usage-stats](https://github.com/lengduan/dsh-usage-stats) — DeepSeek Harness 用量统计插件：本地 SQLite 账本，按天 / 服务商 / 模型统计 token 用量 · ⭐0
@@ -453,7 +456,6 @@
 - [StabCut/dsh-edit-regenerate](https://github.com/StabCut/dsh-edit-regenerate) 💤 — DSH plugin: edit a user message in conversation history and regenerate from the revised prompt in a forked session. · ⭐0
 - [stitchmaps/dsh-todolist](https://github.com/stitchmaps/dsh-todolist) — A DeepSeek Harness (DSH) To-do List plugin: collapsible task cards with due dates and workspace-session binding. · ⭐0
 - [Sttrevens/dsh-linked-folders](https://github.com/Sttrevens/dsh-linked-folders) 💤 — dsh plugin: multi-folder workspace — global linked-folders list + per-session on-the-fly linking, managed from the Web sidebar. · ⭐0
-- [sumingwang233/dsh-auto-title](https://github.com/sumingwang233/dsh-auto-title) — Automatic session titles for DeepSeek Harness: names a session from the first prompt plus the first assistant reply instead of truncating th · ⭐0
 - [sun17352668482-lgtm/dsh-dafeiyu-web](https://github.com/sun17352668482-lgtm/dsh-dafeiyu-web) — 大肥鱼手机版桌宠 Web 复刻版 - 基于上游素材一比一还原，含 Token 余额与用量面板 · ⭐0
 - [sunshaobei/dsh-input-history](https://github.com/sunshaobei/dsh-input-history) — (no description) · ⭐0
 - [SuperPaiGu/dsh-session-manager](https://github.com/SuperPaiGu/dsh-session-manager) — DSH 侧栏批量管理会话插件：工作区可批量多选删除，会话可直接删除（进系统回收站），无需归档 · ⭐0
@@ -483,7 +485,7 @@
 - [ugg-ki/dsh-skill-manager](https://github.com/ugg-ki/dsh-skill-manager) — Standalone Skills page for DeepSeek Harness: every skill listed with an enable switch at global, project and session scope; custom categorie · ⭐0
 - [umerkhalid204/dsh-career-ops](https://github.com/umerkhalid204/dsh-career-ops) — career-ops job-search agent as a DeepSeek Harness plugin: A-H evaluations with a 1-5 fit score, zero-token ATS scans, CV tailoring, applicat · ⭐0
 - [umialpha/dsh-session-groups](https://github.com/umialpha/dsh-session-groups) — Cross-project pinned Session groups for DeepSeek Harness Web (alpha preview) · ⭐0
-- [Unintendedz/dsh-session-tools](https://github.com/Unintendedz/dsh-session-tools) — Archive, cross-session read, and copy-ID tools for DeepSeek Harness conversations. · ⭐0
+- [Unintendedz/dsh-session-tools](https://github.com/Unintendedz/dsh-session-tools) 💤 — Archive, cross-session read, and copy-ID tools for DeepSeek Harness conversations. · ⭐0
 - [Unintendedz/dsh-ui-enhancements](https://github.com/Unintendedz/dsh-ui-enhancements) — Small, focused UI enhancements for DeepSeek Harness · ⭐0
 - [usersx/dsh-automation-center](https://github.com/usersx/dsh-automation-center) 💤 — Root-level automation center for DeepSeek Harness: scheduled tasks, fresh Result Sessions, and cross-workspace run history. · ⭐0
 - [uu88s/dsh-session-handoff](https://github.com/uu88s/dsh-session-handoff) — DSH Web plugin: copy a DSH session id, or hand the whole session over to codex so `codex resume <id>` restores it. · ⭐0
@@ -509,7 +511,6 @@
 - [weifa860504-droid/dsh-greet-signoff](https://github.com/weifa860504-droid/dsh-greet-signoff) — 固定开场语/收尾语 + 会话预算导航条（DeepSeek Harness Web 插件）：输入框上方六格读数（占用/花费/时长/预算档/速率/到线约还有）、预算线口径与红底横幅、上下文构成明细、本机花费台账、交接摘要落盘 HANDOFF.md、场景与文案池。改完下一轮回复即生效。 · ⭐0
 - [weiVc/dsh-session-tidy](https://github.com/weiVc/dsh-session-tidy) — 会话整理：删除 DSH 会话，或只删除会话中的某一轮（二次确认 / 物理删除 / 自动备份）。Delete sessions or a single turn in DeepSeek Harness. · ⭐0
 - [weiw0923/dsh-composer-balance](https://github.com/weiw0923/dsh-composer-balance) — Minimal composer balance chip for DeepSeek Harness: account balance + current-session spend, in the host's own visual language. · ⭐0
-- [WelY1/dsh-topbar](https://github.com/WelY1/dsh-topbar) — Per-session status chips in the GNOME top bar for DeepSeek Harness. · ⭐0
 - [WhatCannotBeSaid/dsh-im-workspace-buttons](https://github.com/WhatCannotBeSaid/dsh-im-workspace-buttons) — DSH plugin: one channel entry per @xmanrui/dsh-im channel in the sidebar 工作区 header row, filtering the session list to that channel. Extract · ⭐0
 - [WhatCannotBeSaid/dsh-session-eva-status](https://github.com/WhatCannotBeSaid/dsh-session-eva-status) — DSH plugin: colors sidebar session rows by their official status in an Evangelion-flavored palette - orange = pending interaction, red = sel · ⭐0
 - [wig123/dsh-thread-tools](https://github.com/wig123/dsh-thread-tools) — Cross-session tools for DeepSeek Harness: list the deployment's other sessions and deliver a message to a live one · ⭐0
@@ -557,7 +558,6 @@
 - [yangyizhu8/dsh-unread-mark](https://github.com/yangyizhu8/dsh-unread-mark) — Session-row unread mark for DeepSeek Harness (dsh): Mark unread / Unmark in the session menu pins a red dot that survives reload until clear · ⭐0
 - [yanhuifair/dsh-money](https://github.com/yanhuifair/dsh-money) — 一个显示回复和对话费用的 deepseek harness 插件 · ⭐0
 - [yezitotempeace/dsh-big-compact](https://github.com/yezitotempeace/dsh-big-compact) — DSH 超大会话压缩插件：上下文实时监测（窗口×0.85）触发，分块摘要再合并，小会话仍走自带压缩 · ⭐0
-- [yfwu2020/dsh-recent-sessions](https://github.com/yfwu2020/dsh-recent-sessions) — DSH sidebar plugin: a floating recent-sessions sheet that blends into the sidebar · ⭐0
 - [Yhx888/dsh-quote-context](https://github.com/Yhx888/dsh-quote-context) — 聊天引用：选中 DSH 消息文字即可引用或评论，引用常驻输入卡上方，发送后变成可跳回的引用块。 · ⭐0
 - [Yijia-Zhou/session-analyzer](https://github.com/Yijia-Zhou/session-analyzer) — Local session history viewer for Codex, Claude Code, and DeepSeek Harness. Review agent work, inspect tool calls and results, and search ses · ⭐0
 - [yixin2021/dsh-interaction-kit](https://github.com/yixin2021/dsh-interaction-kit) — Interaction and convenience upgrades for the DSH Web UI: session right-click menu with permanent delete, a Git branch chip under the compose · ⭐0

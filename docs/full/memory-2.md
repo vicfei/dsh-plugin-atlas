@@ -1,7 +1,8 @@
-# Memory & Knowledge — 948 entries (part 2/2)
+# Memory & Knowledge — 949 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — 文件型长期记忆：每个会话注入你自己的 Markdown 记忆文件，提供读写工具，并能查出 DSH_HOME 漂移；不读对话、不联网 · File-backed memory for DeepSeek Harness, with verifiable constraints · ⭐0
 - [wsnmm3/dsh-session-keeper](https://github.com/wsnmm3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
 - [WSNMM3/dsh-session-keeper](https://github.com/WSNMM3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
 - [WU079/dsh-memory-keeper](https://github.com/WU079/dsh-memory-keeper) — Cross-session memory for DSH: exports every session to readable Markdown with provenance, keeps a MEMORY.md you curate, and gives the agent  · ⭐0

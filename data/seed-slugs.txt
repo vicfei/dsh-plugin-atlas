@@ -542,6 +542,7 @@ AHIOSUZ/dsh-workspace-tools
 AI-Galaxy-GPU/dsh-sound
 AI-Scarlett/DSH_CLIAPI
 AI-Scarlett/build-dsh-plugin
+AIBanlv/AIBanlv-Bot
 AIR-pixel/air-pixel-liquid-glass
 AIRIKE1/dsh-ide-panels
 AITabby/dockyard-dsh
@@ -552,6 +553,7 @@ AIcivilization/dsh-pick
 AIcivilization/dsh-tingdong
 AIcivilization/dsh-vps
 AIcivilization/dsh-vps-manager
+AIpRoBuilder/FlowX
 AJUbest/dsh-plugin-optimization
 AK-blank/dsh-codex-bridge
 AK-blank/dsh-plugin-auto-answer
@@ -1628,6 +1630,7 @@ EthanYoQ/AI-Novel-Writer
 EthanYoQ/Invoice-Downloader
 Ethanout/computer-use-plus
 Ethanz11-creat/dsh-billing-tui
+Ethereal-Space-one/code2kb-agent-toolkit
 Ethereal-ljq/dsh-qqbot-buddy
 Etheslay/dsh-token-dashboard
 EugeneVl/dsh_session_folders
@@ -2023,6 +2026,7 @@ HOWILLMAKEIT/dsh-model-context-catalog
 HOWILLMAKEIT/football-mcp
 HOWILLMAKEIT/skills
 HQ1995/deepseek-code
+HRuiCcc/RuiC-dsh-purge
 HTRP1486/dsh-one-click-polish
 HTian-qwq/prts-terrarchive
 HUANGjiale123-bit/dsh-desktop-control
@@ -2697,6 +2701,7 @@ KuramiWan/dshp-skill-panel
 KurohaneKaoruko/DSH-Novel
 KurohaneKaoruko/DSH-Novelist
 KurosawaGeeker/dsh-moe-lite
+KurutoDenzeru/tersio
 Kxiaoguai3/dsh-visual-safety-control
 Kyf-eng/dsh-threads
 KylinQ01/dsh-startup-animation
@@ -4530,6 +4535,7 @@ Su-1003/dsh-notify-sound
 SuCriss/dsh-leekbox
 SuCriss/dsh-version-update
 SuCriss/dsh-voice-control
+SuLiuCanYing/dsh-billing-statistics
 SuangXX/dsh-zh-cot-fidelity
 Suef-666/dsh-pet
 SugarFatFree/dsh-agent-extension
@@ -10021,6 +10027,7 @@ newbieYi/dsh-dify-builder
 newgacker/dsh-strata-ai-center
 nexpeakcore/deepseek-harness-pr-review
 nexu-io/open-design
+nexu-io/openmotion
 nguyenduclong-ict/dsh-plugin-live-terminal
 nguyenduclong-ict/dsh-session-progress
 nicearrack/dsh-translator

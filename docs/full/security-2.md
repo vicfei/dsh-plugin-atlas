@@ -1,9 +1,7 @@
-# Security & Permissions — 1173 entries (part 2/2)
+# Security & Permissions — 1170 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Flan246/dsh-latex-guard](https://github.com/Flan246/dsh-latex-guard) 💤 — LaTeX compile check and BibTeX lint/fill/audit tools for DeepSeek Harness and any agent. dsh plugin + CLI + SKILL.md. · ⭐0
-- [FoyonaCZY/dsh-kit](https://github.com/FoyonaCZY/dsh-kit) 💤 — DeepSeek Harness plugins for the failures nobody catches: auto-format, generated-file guard, .env drift detection, and a typecheck gate that · ⭐0
 - [goldgish/dsh-gamepad-approval](https://github.com/goldgish/dsh-gamepad-approval) 💤 — Xbox 手柄硬件审批插件 for DeepSeek Harness (dsh) — Agent 高危工具调用需物理按键确认，A 批准 / B 驳回 · ⭐0
 - [GooDAnDReaDY/dsh-usage-guard](https://github.com/GooDAnDReaDY/dsh-usage-guard) — Session token-usage sanitizer preventing chat history corruption from malformed provider metrics · ⭐0
 - [good-boy4069/dsh-vision-guard](https://github.com/good-boy4069/dsh-vision-guard) 💤 — (no description) · ⭐0
@@ -168,7 +166,7 @@
 - [solstice621/dsh-openai-auth](https://github.com/solstice621/dsh-openai-auth) — OpenAI / Codex ChatGPT subscription auth for DeepSeek Harness Desktop, with native account and quota UI. · ⭐0
 - [solstice621/dsh-opencode-go-auth](https://github.com/solstice621/dsh-opencode-go-auth) — OpenCode Go / Go Plus subscription auth for DeepSeek Harness Desktop, with native account, usage and model-sync UI. · ⭐0
 - [sperictao/dsh-auth-tailscale](https://github.com/sperictao/dsh-auth-tailscale) — Tailscale identity and capability authorization adapter for DeepSeek Harness · ⭐0
-- [stadeummwt/dsh-supreme](https://github.com/stadeummwt/dsh-supreme) — (no description) · ⭐0
+- [stadeummwt/dsh-supreme](https://github.com/stadeummwt/dsh-supreme) 💤 — (no description) · ⭐0
 - [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
 - [stushansusu/dsh-delete-guard](https://github.com/stushansusu/dsh-delete-guard) — DSH plugin: meters AI deletions per session, terminates the call once the cumulative size passes a threshold, then asks the user with the li · ⭐0
 - [sviktor75/dsh-sound-notification](https://github.com/sviktor75/dsh-sound-notification) — DeepSeek Harness Web plugin: plays a chime when any session's response finishes (rising tone) or a question/approval is asked (falling tone) · ⭐0
@@ -215,7 +213,7 @@
 - [whoisDDD/dsh-approval-notify](https://github.com/whoisDDD/dsh-approval-notify) — DSH approval/question/completion notifier with native browser notifications and toast fallback. / DSH 审批、提问与完成提醒插件，支持浏览器原生通知和 toast 回退。 · ⭐0
 - [wilsonchengassistant/dsh-media-web-preview](https://github.com/wilsonchengassistant/dsh-media-web-preview) — In-browser audio and video previews in the DSH right Sidebar, streamed over an authenticated HTTP Range route so a remote browser can play a · ⭐0
 - [Wisdoverse/dsh-git-auth-plugin](https://github.com/Wisdoverse/dsh-git-auth-plugin) — GitHub and GitLab CLI authentication through DSH credentials or environment tokens, with workspace-local SSH deploy keys and plugin settings · ⭐0
-- [Wisper-beep/dsh-runbox](https://github.com/Wisper-beep/dsh-runbox) — Isolated execution substrate for DeepSeek Harness (dsh): run agent shell / fs / process / terminal / jobs inside disposable containers. · ⭐0
+- [Wisper-beep/dsh-runbox](https://github.com/Wisper-beep/dsh-runbox) 💤 — Isolated execution substrate for DeepSeek Harness (dsh): run agent shell / fs / process / terminal / jobs inside disposable containers. · ⭐0
 - [wodongx123/dsh-desktop-tray](https://github.com/wodongx123/dsh-desktop-tray) 💤 — System tray support for DSH Desktop: tray icon plus settings to hide the main window on minimize or close, with self-healing boot-time injec · ⭐0
 - [wowayou/mydsh](https://github.com/wowayou/mydsh) 💤 — Personal Agent System on DeepSeek Harness — everything is a plugin: completion notifications, vision for text models, reply annotations, mul · ⭐0
 - [wufengwind/dsh-plugin-dm-ops](https://github.com/wufengwind/dsh-plugin-dm-ops) — Dameng inspection, security and recovery-condition assessment for DeepSeek Harness · ⭐0
@@ -231,7 +229,7 @@
 - [xingyingyuzhui/dsh-session-permissions](https://github.com/xingyingyuzhui/dsh-session-permissions) — Layered session permissions for DeepSeek Harness. 官方 ∩ Agent ∩ 本会话。 · ⭐0
 - [Xin-kon/dsh-lang-guard](https://github.com/Xin-kon/dsh-lang-guard) — DeepSeek Harness (DSH) plugin that pins zh-CN thinking and replies into the system prompt. Zero runtime deps, single file, capability probin · ⭐0
 - [Xinlong-Wu/dsh-auto-review](https://github.com/Xinlong-Wu/dsh-auto-review) 💤 — adds an auto-review permission preset to DeepSeek Harness. Same Codex auto review · ⭐0
-- [xiyiyiru/dsh-state](https://github.com/xiyiyiru/dsh-state) — dsh plugin: session-state notebook + task stack — add/read/compact_state over log events, zero auto-injection (npm: @xiyiyiru/dsh-state) · ⭐0
+- [xiyiyiru/dsh-state](https://github.com/xiyiyiru/dsh-state) 💤 — dsh plugin: session-state notebook + task stack — add/read/compact_state over log events, zero auto-injection (npm: @xiyiyiru/dsh-state) · ⭐0
 - [xs1023/dsh-memory-vault](https://github.com/xs1023/dsh-memory-vault) — DSH 外置记忆库插件（修复分支）— SQLite 长期记忆、分层压缩、搜索与归档 · ⭐0
 - [xswt442-cmd/dsh-unsandboxed-winbash](https://github.com/xswt442-cmd/dsh-unsandboxed-winbash) — 让 dsh 在 Windows 上使用用户自安装的 Git Bash，并绕过其沙箱限制 | Enable dsh to use a user-installed Git Bash on Windows by bypassing its sandbox restrictions. · ⭐0
 - [xt765/dsh-context-window](https://github.com/xt765/dsh-context-window) — Manual context window selector & adaptive compaction guard plugin for DeepSeek Harness (上下文窗口手动配置与自适应压缩防失败守卫插件) · ⭐0
@@ -247,7 +245,6 @@
 - [yffo/dsh-engramory-recall](https://github.com/yffo/dsh-engramory-recall) — Local-first memory for DeepSeek Harness: per-turn BM25 recall you can audit — open-rate ledger, memory report, fail-closed write guard, 14-c · ⭐0
 - [yffo/tabellio-dsh](https://github.com/yffo/tabellio-dsh) — tabellio-dsh — memory for DeepSeek Harness: candidates first, you approve, recall with receipts. · ⭐0
 - [yonking305/arc-vista](https://github.com/yonking305/arc-vista) — 面向 Git 仓库的本地优先架构观测台——架构图、安全守护、业务知识图谱、复杂度与分支风险对比。 · ⭐0
-- [yoshino-xiao7/dsh-codex](https://github.com/yoshino-xiao7/dsh-codex) — 社区维护的 DeepSeek Harness Codex 插件：OAuth、模型、图片与流式恢复；非官方 / Community Codex plugin for DSH: OAuth, models, images, stream recovery; unofficial. · ⭐0
 - [youchen-yc/dsh-security-judge](https://github.com/youchen-yc/dsh-security-judge) — 代码安全防御规则评审判官：自动识别做代码的会话，按《代码安全防御架构规则》强制评审并门禁，需要 1/2/多种架构推荐与冲突检查，发布含 SBOM 与签名。 · ⭐0
 - [yuanyiHY/dsh-rail-equalizer](https://github.com/yuanyiHY/dsh-rail-equalizer) — Make DSH's turn-navigator rail react to system audio in real time (Windows). WASAPI loopback capture via koffi - no permission prompt, no mi · ⭐0
 - [YukimuraSol/dsh-ui-block](https://github.com/YukimuraSol/dsh-ui-block) — Page block + element chip: render a ::dsh-ui <name> [res=WxH]:: line's ui-blocks file in a sandboxed canvas, and render · ⭐0

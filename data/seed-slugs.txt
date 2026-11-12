@@ -5932,6 +5932,8 @@ aujurd22/dsh-flymemory
 aureth-labs/dsh-aurabot-qq
 aurumple/dsh-rea-toggle
 aust24lzy/dsh-plugin-hub
+automagik-si/genie
+automagik-si/omni
 auwc/dsh-tarot
 avdergh/poe2-exile-architect
 averyjohnkucan-arch/dsh-strata
@@ -8846,6 +8848,7 @@ kun2-5code/dsh-plugin-template
 kunainuo/deepseek_harness_dsh-usage-dashboard
 kunjienie50-creator/dsh-shared-kb
 kunjinkao-os/dsh-mobile-gui-agent
+kunkundi/crossdesk
 kuraneko1/dsh-opencode-zen
 kuroi-kid/dsh-memory-sea
 kuroshio4396/dafayu-pixiv-duty
@@ -9207,6 +9210,7 @@ liuhaolong16/dsh-paper-studio
 liuhaolong16/dsh-quote-reply
 liuhusk/dsh-status-card
 liujia-io/dsh-image-picker
+liujiangnanchenjbguo/dsh-gufa-code
 liujianqiao701/dsh-ask-notify
 liujianqiao701/dsh-compat-vet
 liujianqiao701/dsh-context-radar
@@ -9268,6 +9272,7 @@ liyuxuan20111101/dsh-ui-stronger
 liyy996/dsh-theme-windowsxp
 lizhiyao/oh-my-knowledge
 lizhouai/dsh-provider-usage
+lizi600jin/dsh-ensp
 lizilong1993/dsh-offpeak
 lizilong1993/dsh-unlimited-effort
 lizixuan200410-cmd/dsh-ink-whale-leap
@@ -9476,6 +9481,7 @@ luo-ross/dsh-desktop
 luo0712yan0219-blip/dsh-whale-decor
 luobosibing2/dsh-jev-plugin
 luocuiyu/deepseek-harness-manager
+luodaoyi/dsh-cabinet-mode
 luokai-demo/dsh-plugins
 luolin-boot/ATRI-Core
 luomeii/dsh-review-squad

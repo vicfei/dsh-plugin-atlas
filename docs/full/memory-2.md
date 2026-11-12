@@ -1,7 +1,9 @@
-# Memory & Knowledge — 949 entries (part 2/2)
+# Memory & Knowledge — 950 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [whding110/dsh-dev-progress-memory](https://github.com/whding110/dsh-dev-progress-memory) — (no description) · ⭐0
+- [whiteS18/dsh-terminal-button](https://github.com/whiteS18/dsh-terminal-button) — Embedded terminal plugin for DeepSeek Harness. · ⭐0
 - [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — 文件型长期记忆：每个会话注入你自己的 Markdown 记忆文件，提供读写工具，并能查出 DSH_HOME 漂移；不读对话、不联网 · File-backed memory for DeepSeek Harness, with verifiable constraints · ⭐0
 - [wsnmm3/dsh-session-keeper](https://github.com/wsnmm3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
 - [WSNMM3/dsh-session-keeper](https://github.com/WSNMM3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
@@ -50,4 +52,3 @@
 - [zsagi1368/deepseek-harness-zDSH](https://github.com/zsagi1368/deepseek-harness-zDSH) — zDSH - deepseek-harness independent enhancement distro: plugin governance, omnivision vision pipeline, cross-session memory, mobile-ready we · ⭐0
 - [ZyxQl-Ala/dsh-decay-memory](https://github.com/ZyxQl-Ala/dsh-decay-memory) — Decay-based agent memory for DeepSeek Harness: entries gain weight when mentioned, fade and shrink when forgotten, pinned entries never deca · ⭐0
 - [mjtwt/dsh-memory-refine](https://github.com/mjtwt/dsh-memory-refine) — DSH 记忆插件：把对话提炼成记忆条目、每轮自动召回一条、记忆海可视化 · ⭐0
-- [284022719/dsh-kb-sync](https://github.com/284022719/dsh-kb-sync) — DeepSeek Harness plugin: pull DeepSeek web conversations into a local knowledge base (markdown + JSONL + catalog) with in-plugin search, orc · ⭐0

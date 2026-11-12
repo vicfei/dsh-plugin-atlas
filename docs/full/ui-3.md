@@ -1,7 +1,12 @@
-# UI & Themes — 2407 entries (part 3/3)
+# UI & Themes — 2409 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [dickpy/dsh-weblink](https://github.com/dickpy/dsh-weblink) — DSH Desktop plugin: a left-sidebar button that opens a configured website in the main area as a real browser view (Electron webview), config · ⭐0
+- [dingchenhui0618-arch/dsh-adaptive](https://github.com/dingchenhui0618-arch/dsh-adaptive) — Version-adaptive plugin for DeepSeek Harness: reads the running DSH version, mirrors its plugin-compatibility rules, and flags code still us · ⭐0
+- [dingchenhui0618-arch/dsh-in-hand-relay](https://github.com/dingchenhui0618-arch/dsh-in-hand-relay) — 掌上 DeepSeek Harness 中继：手机经局域网或 SSH 反向隧道查看 DSH 任务，零依赖 Node 单文件，共享令牌门禁 + 硬编码白名单 · ⭐0
+- [dingchenhui0618-arch/dsh-launch-card](https://github.com/dingchenhui0618-arch/dsh-launch-card) — 发布卡片：从本地仓库真实产物生成 hero 图、特性网格与双语文案，导出前 lint 掉无法证实的说法 · ⭐0
+- [dingchenhui0618-arch/dsh-mask-pixel-lock](https://github.com/dingchenhui0618-arch/dsh-mask-pixel-lock) — Prove a local image edit left every pixel outside the mask untouched: per-pixel comparison, difference heatmap and a SHA-256 proof report. D · ⭐0
 - [dingchenhui0618-arch/dsh-readme-reel](https://github.com/dingchenhui0618-arch/dsh-readme-reel) — Turn a plugin repo's screenshots into a 6-second silent looping hero reel: transparent-background webm + gif + cover frame, for README first · ⭐0
 - [dingchenhui0618-arch/dsh-solution-first](https://github.com/dingchenhui0618-arch/dsh-solution-first) — 先选路径，再动手：给 coding agent（含 DeepSeek Harness）的常驻闸门 / skill / plan mode 三层约定 · ⭐0
 - [dingchenhui0618-arch/dsh-turing-table](https://github.com/dingchenhui0618-arch/dsh-turing-table) — 图灵圆桌：若干座位由不同模型配置的 agent 扮演，靠提问与交叉印证找出哪些座位是 AI，每局导出逐席位对话 JSONL 与判定记录 · ⭐0
@@ -34,7 +39,6 @@
 - [EasyTZ/dsh-terminal-panel](https://github.com/EasyTZ/dsh-terminal-panel) 💤 — Terminal panel plugin for DeepSeek Harness (dsh) — run commands in the current workspace with streaming output · ⭐0
 - [EasyTZ/dsh-ui-balance](https://github.com/EasyTZ/dsh-ui-balance) — Balance display plugin for DeepSeek Harness (dsh) — show your DeepSeek API balance under each reply · ⭐0
 - [EdwardHamu/dsh-glassmorphism-theme](https://github.com/EdwardHamu/dsh-glassmorphism-theme) 💤 — 一个DeepSeek Harness 磨砂玻璃主题 · ⭐0
-- [EiffelBS/dsh-plugin-ideas-manager](https://github.com/EiffelBS/dsh-plugin-ideas-manager) — Capture ideas, anywhere: the Ideas manager brings an idea backlog straight into the DSH Web GUI. · ⭐0
 - [elmaxid/dsh-manage](https://github.com/elmaxid/dsh-manage) 💤 — Instalacion y administracion de DeepSeek Harness (dsh): install/start/stop/update/status para puestos dev · ⭐0
 - [etony668/dsh-balance](https://github.com/etony668/dsh-balance) — DeepSeek API 余额常驻显示（侧边栏「设置」旁）· DeepSeek API balance badge beside Settings in the DSH sidebar · ⭐0
 - [Evan1987/dsh-yestermorrow](https://github.com/Evan1987/dsh-yestermorrow) — YESTERMORROW / 昨日之明日 — retrofuturist skins for DeepSeek Harness: dusk trains, neon hover taxis and a Space Age coast · ⭐0
@@ -284,7 +288,6 @@
 - [Mobai-read/dsh-chat-index-rail](https://github.com/Mobai-read/dsh-chat-index-rail) 💤 — Chat input index rail for DeepSeek Harness Web UI · ⭐0
 - [mohith-das/dsh-voice-input-en](https://github.com/mohith-das/dsh-voice-input-en) 💤 — Minimal, English-only voice input plugin for DeepSeek Harness Web UI — a mic button in the composer using the browser's native SpeechRecogni · ⭐0
 - [Monatonic-Capital-Management/dsh-deck](https://github.com/Monatonic-Capital-Management/dsh-deck) — Desktop control panel for every DeepSeek Harness (dsh) instance - local and remote, over SSH tunnels it owns · ⭐0
-- [moophone/dsh-sidebar-fold](https://github.com/moophone/dsh-sidebar-fold) — (no description) · ⭐0
 - [mostkia/dsh-launcher](https://github.com/mostkia/dsh-launcher) — Power controls (shutdown / restart) for the DSH sidebar plus a Windows tray launcher with start-at-logon. · ⭐0
 - [mrtoxiorg-sys/dsh-locale-ru](https://github.com/mrtoxiorg-sys/dsh-locale-ru) — Russian (Русский) language pack for the DeepSeek Harness web GUI: 2310 strings across 55 namespaces, picked from the native Settings -> Lang · ⭐0
 - [mtaech/whale-nest](https://github.com/mtaech/whale-nest) 💤 — 基于 Tauri v2 的 DeepSeek Harness (dsh) 桌面客户端：后台常驻运行 dsh，前端展示其 Web UI。 · ⭐0
@@ -417,7 +420,7 @@
 - [starry728/ghibli-desktop-pet](https://github.com/starry728/ghibli-desktop-pet) — AI 桌面宠物领养系统 · 第一次用 DeepSeek Harness 做的完整项目 · ⭐0
 - [StarsHarryZhu/dsh-intelligent-UI](https://github.com/StarsHarryZhu/dsh-intelligent-UI) — (no description) · ⭐0
 - [steven95/dsh-office-suite](https://github.com/steven95/dsh-office-suite) 💤 — (no description) · ⭐0
-- [StevenZha0/dsh-vae-theme](https://github.com/StevenZha0/dsh-vae-theme) — 《庐州月 · 许嵩》— DeepSeek Harness 国风水墨主题插件 | 夜色水墨长卷 · 金丝九宫格边框 · VAE 书法标志 · 全屏雨幕 · 国风歌词竖排轮播 · ⭐0
+- [StevenZha0/dsh-vae-theme](https://github.com/StevenZha0/dsh-vae-theme) 💤 — 《庐州月 · 许嵩》— DeepSeek Harness 国风水墨主题插件 | 夜色水墨长卷 · 金丝九宫格边框 · VAE 书法标志 · 全屏雨幕 · 国风歌词竖排轮播 · ⭐0
 - [sujiu0616-art/DSH-CustomWallpapers-Glassmorphism-Theme](https://github.com/sujiu0616-art/DSH-CustomWallpapers-Glassmorphism-Theme) — dsh可自定义壁纸玻璃风主题 · ⭐0
 - [summer-521/deepseek-harness-swift](https://github.com/summer-521/deepseek-harness-swift) — 基于 AppKit、SwiftUI 与 WKWebView 的 DSH 原生 macOS 桌面壳，提供设置中心、DSH 版本管理、插件管理、通知和 Sparkle 应用更新。 · ⭐0
 - [sunChargedd/dsh-mcp-skill-manage](https://github.com/sunChargedd/dsh-mcp-skill-manage) — MCP & Skill Manager — manage agent skills and MCP servers across DSH, Claude Code, Codex, Cursor and other agent tools from one DSH sidebar  · ⭐0
@@ -468,7 +471,7 @@
 - [viphzz/whale-girl-assistant](https://github.com/viphzz/whale-girl-assistant) 💤 — DSH 右下角的看板娘，会跟随 Agent 状态动起来 · ⭐0
 - [Void-LifeStream/dsh-cuda](https://github.com/Void-LifeStream/dsh-cuda) — Run Python on the local CUDA GPU from DeepSeek Harness: device status, foreground and detached jobs, durable logs, and a measured peak-VRAM  · ⭐0
 - [vollegrewar/dsh-tool-highlight](https://github.com/vollegrewar/dsh-tool-highlight) 💤 — (no description) · ⭐0
-- [Volta-ln/dsh-quick-ask](https://github.com/Volta-ln/dsh-quick-ask) — A quick ask in the side windows（if there are any problems, please tell me.） · ⭐0
+- [Volta-ln/dsh-quick-ask](https://github.com/Volta-ln/dsh-quick-ask) 💤 — A quick ask in the side windows（if there are any problems, please tell me.） · ⭐0
 - [w17her/dsh-power-control](https://github.com/w17her/dsh-power-control) — Reload, restart, or shut down the DeepSeek Harness desktop app from inside its window. · ⭐0
 - [w32394045-dotcom/dsh-toolbox](https://github.com/w32394045-dotcom/dsh-toolbox) — DSH 工具箱：Windows 单文件 exe，GUI + CLI 双模（68 条命令 / 20 组：文件·哈希·进程·服务·系统·网络·签名·任务·宿主运维与安装） · ⭐0
 - [wangbofan/dsh-restart-button](https://github.com/wangbofan/dsh-restart-button) — DSH desktop (Windows) titlebar menu: a Restart button that closes and relaunches the whole app - shell + Host. Plugin-only, no app.asar patc · ⭐0
@@ -478,7 +481,6 @@
 - [Wanyi424/dsh-quick-translate](https://github.com/Wanyi424/dsh-quick-translate) — 不离开 DSH 就能中英互译：复用已配置的模型，免填 API Key；译文边生成边显示，提示词可自定义，历史自动存在本地，可随时回看重译。 · ⭐0
 - [wasteoneslife/scenes-skill-creator](https://github.com/wasteoneslife/scenes-skill-creator) — DeepSeek Harness plugin: create spec-compliant skills from the Web UI (Huawei Cloud / generic / REST API), with a 10-point evaluation loop · ⭐0
 - [wbaws/dsh-scenery](https://github.com/wbaws/dsh-scenery) 💤 — Capy-style ambient background for the DeepSeek Harness (DSH) workspace: custom image + very large bottom black gradient + soft radial aura a · ⭐0
-- [wdx0614/dsh-restart-plugin](https://github.com/wdx0614/dsh-restart-plugin) — DSH 桌面版电源菜单：侧边栏一键「重启 DSH」/「关闭 DSH」。重启会自动重新打开应用，改完插件或配置不必再去托盘翻菜单。Windows/macOS，MIT。 · ⭐0
 - [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) — DeepSeek Harness 插件：白噪音播放器——场景纯目录驱动，AI 后台分门别类下载氛围音，四播放模式+定时关 · ⭐0
 - [weibaohui/dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy) — dsh 插件 · 侧栏收纳：把「新会话」下方的面板行与各插件入口收进一个二级菜单按钮；零字面选择器，明暗主题自动跟随 · ⭐0
 - [weikangzeng07-ops/dsh-hmos-skills](https://github.com/weikangzeng07-ops/dsh-hmos-skills) 💤 — HarmonyOS (鸿蒙) development skills for DeepSeek Harness — 39 official hmos-* skill bundles ported to the DSH skill registry: ArkTS/ArkUI, mul · ⭐0
@@ -500,9 +502,9 @@
 - [worksAssistant/dsh-quickref](https://github.com/worksAssistant/dsh-quickref) 💤 — 功能：正则表达式实时测试、JSON 格式化/校验、时间戳↔日期、Base64/URL 编解码、cron 表达式生成器、diff 对比——全部本地零依赖。 · ⭐0
 - [woshipixiu1234/dsh-invest-bundle](https://github.com/woshipixiu1234/dsh-invest-bundle) — DSH investment research bundle: 10 tools + 23 skills adapted from ai-berkshire. A six-phase workflow runs four parallel agents (Duan Yongpin · ⭐0
 - [wqianv/dsh-desktop-pet](https://github.com/wqianv/dsh-desktop-pet) — DSH 桌面宠物：Tauri 2 + Rust 透明置顶窗、点击穿透；只读 DSH 会话状态；宠物素材来自 PC2005-cloud/dsh-pet（非商用） · ⭐0
-- [wqy-cell/dsh-task-flow](https://github.com/wqy-cell/dsh-task-flow) — DSH 插件：任务星图 — 樱花主题的任务流程可视化。一句话让 AI 长出星图，Agent 干活星图实时点亮，Goal 主线星联动；支持任务历史、多窗口同步，数据全在本机 · A DeepSeek Harness plugin: sakura-themed task flow v · ⭐0
+- [wqy-cell/dsh-task-flow](https://github.com/wqy-cell/dsh-task-flow) 💤 — DSH 插件：任务星图 — 樱花主题的任务流程可视化。一句话让 AI 长出星图，Agent 干活星图实时点亮，Goal 主线星联动；支持任务历史、多窗口同步，数据全在本机 · A DeepSeek Harness plugin: sakura-themed task flow v · ⭐0
 - [wqzhellohhwy/dsh-ungrouped-top](https://github.com/wqzhellohhwy/dsh-ungrouped-top) — 把 DSH 侧边栏的「未分组」钉在最上面，并让「新会话」默认落进无工作区会话。零依赖、无需构建的 DeepSeek Harness 客户端插件。 · ⭐0
-- [WsTe47/dsh-step-clock](https://github.com/WsTe47/dsh-step-clock) — Live per-step elapsed clock for the DeepSeek Harness web GUI · ⭐0
+- [WsTe47/dsh-step-clock](https://github.com/WsTe47/dsh-step-clock) 💤 — Live per-step elapsed clock for the DeepSeek Harness web GUI · ⭐0
 - [WuHututu/dsh-side-chat](https://github.com/WuHututu/dsh-side-chat) — dsh 侧边临时对话 · ⭐0
 - [wuyad/dsh-client-ui-cat](https://github.com/wuyad/dsh-client-ui-cat) — A little tabby cat that wanders around the DeepSeek Harness UI — walking, hopping, napping and getting petted. (dsh 客户端插件:一只在 DeepSeek Harne · ⭐0
 - [wuyuzi-luo/dsh-desktop](https://github.com/wuyuzi-luo/dsh-desktop) 💤 — DeepSeek Harness (dsh) 的 Windows 桌面管理壳：托盘常驻、Skills/MCP 管理面板、自定义皮肤、自动更新，小白友好的一键安装引导 · ⭐0

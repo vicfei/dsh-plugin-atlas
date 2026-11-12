@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [FoyonaCZY/dsh-kit](https://github.com/FoyonaCZY/dsh-kit) 💤 — DeepSeek Harness plugins for the failures nobody catches: auto-format, generated-file guard, .env drift detection, and a typecheck gate that · ⭐0
 - [goldgish/dsh-gamepad-approval](https://github.com/goldgish/dsh-gamepad-approval) 💤 — Xbox 手柄硬件审批插件 for DeepSeek Harness (dsh) — Agent 高危工具调用需物理按键确认，A 批准 / B 驳回 · ⭐0
 - [GooDAnDReaDY/dsh-usage-guard](https://github.com/GooDAnDReaDY/dsh-usage-guard) — Session token-usage sanitizer preventing chat history corruption from malformed provider metrics · ⭐0
 - [good-boy4069/dsh-vision-guard](https://github.com/good-boy4069/dsh-vision-guard) 💤 — (no description) · ⭐0
@@ -61,7 +62,7 @@
 - [lifecoder1988/dsh-secrets-manager](https://github.com/lifecoder1988/dsh-secrets-manager) — Project secret management for the DeepSeek Harness: monorepo .env discovery, comment-preserving edits, and a DSH_ENV_FILES pointer your shel · ⭐0
 - [lijiawei255/dsh-status-chime](https://github.com/lijiawei255/dsh-status-chime) — Spoken status alerts for DeepSeek Harness where clip LENGTH encodes urgency: a 2s approval chime vs an 8s failure announcement. Eight scenes · ⭐0
 - [lincoo2019/dsh-trae-vault](https://github.com/lincoo2019/dsh-trae-vault) — DeepSeek Harness plugin bundle: Trae SKILL.md skill provider, a project-local conversation vault, publishing archives as resumable DSH sessi · ⭐0
-- [L-ingqin12/dsh-redaction](https://github.com/L-ingqin12/dsh-redaction) — In-place redaction and prevention policy for DeepSeek Harness session logs - two Cordis plugins plus the platform research behind them · ⭐0
+- [L-ingqin12/dsh-redaction](https://github.com/L-ingqin12/dsh-redaction) 💤 — In-place redaction and prevention policy for DeepSeek Harness session logs - two Cordis plugins plus the platform research behind them · ⭐0
 - [lishuo4096/dsh-plugin-authoring](https://github.com/lishuo4096/dsh-plugin-authoring) — DSH skills for writing, publishing and listing DeepSeek Harness (Cordis) plugins. · ⭐0
 - [ListenJ/axiom-kb-dsh](https://github.com/ListenJ/axiom-kb-dsh) 💤 — Axiom Knowledge Base (Vault memory + knowledge graph) as a DeepSeek Harness (dsh) plugin — self-contained, no web-search tools, hot-pluggabl · ⭐0
 - [Liyuk/dsh-quota-router](https://github.com/Liyuk/dsh-quota-router) 💤 — Policy-only multi-source quota router for DeepSeek Harness: deterministic task profiles, ordered candidate chains, health-aware fallback, su · ⭐0
@@ -209,7 +210,6 @@
 - [wanzdoan/agy2dsh](https://github.com/wanzdoan/agy2dsh) — DeepSeek Harness plugin: use your Antigravity (Gemini/Claude) and Codex subscriptions as LLM providers, with self-refreshing OAuth and accur · ⭐0
 - [weijiafu14/dsh-remote-sandbox](https://github.com/weijiafu14/dsh-remote-sandbox) 💤 — Crash-resilient remote execution world for DeepSeek Harness: ctx.fs/ctx.subprocess over an E2B sandbox with heartbeat keep-alive, transparen · ⭐0
 - [weisofns/dsh-security-guard](https://github.com/weisofns/dsh-security-guard) 💤 — DSH plugin security guard: 28-rule static scanner, risk scoring, whitelist/blacklist policy, local web dashboard and in-DSH risk popups./DSH · ⭐0
-- [wentao75/dsh-remote-auth](https://github.com/wentao75/dsh-remote-auth) — (no description) · ⭐0
 - [whoisDDD/dsh-approval-notify](https://github.com/whoisDDD/dsh-approval-notify) — DSH approval/question/completion notifier with native browser notifications and toast fallback. / DSH 审批、提问与完成提醒插件，支持浏览器原生通知和 toast 回退。 · ⭐0
 - [wilsonchengassistant/dsh-media-web-preview](https://github.com/wilsonchengassistant/dsh-media-web-preview) — In-browser audio and video previews in the DSH right Sidebar, streamed over an authenticated HTTP Range route so a remote browser can play a · ⭐0
 - [Wisdoverse/dsh-git-auth-plugin](https://github.com/Wisdoverse/dsh-git-auth-plugin) — GitHub and GitLab CLI authentication through DSH credentials or environment tokens, with workspace-local SSH deploy keys and plugin settings · ⭐0

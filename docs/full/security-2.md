@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Flan246/dsh-latex-guard](https://github.com/Flan246/dsh-latex-guard) 💤 — LaTeX compile check and BibTeX lint/fill/audit tools for DeepSeek Harness and any agent. dsh plugin + CLI + SKILL.md. · ⭐0
 - [FoyonaCZY/dsh-kit](https://github.com/FoyonaCZY/dsh-kit) 💤 — DeepSeek Harness plugins for the failures nobody catches: auto-format, generated-file guard, .env drift detection, and a typecheck gate that · ⭐0
 - [goldgish/dsh-gamepad-approval](https://github.com/goldgish/dsh-gamepad-approval) 💤 — Xbox 手柄硬件审批插件 for DeepSeek Harness (dsh) — Agent 高危工具调用需物理按键确认，A 批准 / B 驳回 · ⭐0
 - [GooDAnDReaDY/dsh-usage-guard](https://github.com/GooDAnDReaDY/dsh-usage-guard) — Session token-usage sanitizer preventing chat history corruption from malformed provider metrics · ⭐0
@@ -56,7 +57,7 @@
 - [KumarZX/dsh-memory-wrap](https://github.com/KumarZX/dsh-memory-wrap) 💤 — DSH plugins: idle memory wrap-up sidebar plus vault search, distill, and rules. · ⭐0
 - [laoer/dsh-whitelist-auto-approval](https://github.com/laoer/dsh-whitelist-auto-approval) — Per-command sandbox allow-list for the DSH bash tool: allow-listed CLIs (lark-cli, gh, ...) run under a home-writable sandbox instead of pro · ⭐0
 - [LAwLi3tCoding/dsh-approval-review](https://github.com/LAwLi3tCoding/dsh-approval-review) — Codex-style agent auto-approval for DeepSeek Harness: an independent reviewer model decides allow/deny on the approval answerer chain, fail- · ⭐0
-- [leinasi2014/dsh-rlm](https://github.com/leinasi2014/dsh-rlm) — DeepSeek Harness plugin: persistent per-Session Python kernel for rlm_eval - managed context, bounded subagent queries, snapshot recovery, s · ⭐0
+- [leinasi2014/dsh-rlm](https://github.com/leinasi2014/dsh-rlm) 💤 — DeepSeek Harness plugin: persistent per-Session Python kernel for rlm_eval - managed context, bounded subagent queries, snapshot recovery, s · ⭐0
 - [Leo-Ayh-Oday/dsh-orcana](https://github.com/Leo-Ayh-Oday/dsh-orcana) 💤 — Runtime governance for DeepSeek Harness: progress governor, evidence freshness, completion guard, capability router (Same model. Same DSH. O · ⭐0
 - [lesca/dsh-sandbox](https://github.com/lesca/dsh-sandbox) — A sandbox implement for Deepseek Harness within VS Code · ⭐0
 - [lifecoder1988/dsh-secrets-manager](https://github.com/lifecoder1988/dsh-secrets-manager) — Project secret management for the DeepSeek Harness: monorepo .env discovery, comment-preserving edits, and a DSH_ENV_FILES pointer your shel · ⭐0
@@ -81,7 +82,7 @@
 - [LWLAymh/dsh-edit-guardian](https://github.com/LWLAymh/dsh-edit-guardian) 💤 — (no description) · ⭐0
 - [M1r0er/dsh-inkvault](https://github.com/M1r0er/dsh-inkvault) — DeepSeek Harness 的 Obsidian 桥接插件：知识库 + 记忆库双功能，目录显式选择 · ⭐0
 - [M4rkzzz/dsh-cpa](https://github.com/M4rkzzz/dsh-cpa) — DSH settings, ChatGPT OAuth and model sync for a local CLIProxyAPI · ⭐0
-- [mafeis/dsh-image-guard](https://github.com/mafeis/dsh-image-guard) — DSH plugin: trims historical images to the provider image budget before sending, learns the image cap from HTTP 400 responses, and retries w · ⭐0
+- [mafeis/dsh-image-guard](https://github.com/mafeis/dsh-image-guard) 💤 — DSH plugin: trims historical images to the provider image budget before sending, learns the image cap from HTTP 400 responses, and retries w · ⭐0
 - [MagicTangOps/dsh-insurance-advisor](https://github.com/MagicTangOps/dsh-insurance-advisor) — Insurance advisor agent preset for DeepSeek Harness: suitability matching, policy ledger and sales-recording checks for individual agents (个 · ⭐0
 - [Making-acid/dsh-approval-preflight](https://github.com/Making-acid/dsh-approval-preflight) — Plan-first permission preflight for DeepSeek Harness: batch-grant coarse permission classes once, resolve covered approvals instantly, and l · ⭐0
 - [malko/aibox](https://github.com/malko/aibox) — Your AI, in its own box. · ⭐0
@@ -95,7 +96,6 @@
 - [mmw-devs/mmw-tools](https://github.com/mmw-devs/mmw-tools) — DSH plugin: connect a DeepSeek Harness agent to a single GitHub repo via OAuth Device Flow, follow AGENTS.md, edit only the allowlisted path · ⭐0
 - [MochiNek0/dsh-vendor-login](https://github.com/MochiNek0/dsh-vendor-login) — Sign in to AI coding plans that have no API key — Claude Pro/Max/Team, ChatGPT Plus/Pro, Copilot, SuperGrok — from the dsh settings UI. · ⭐0
 - [moozhu/dsh-obsidian](https://github.com/moozhu/dsh-obsidian) 💤 — DeepSeek Harness (DSH) web UI integration for Obsidian. One isolated AI workspace per vault. · ⭐0
-- [mosabbir-maruf/ai-workstation-cli](https://github.com/mosabbir-maruf/ai-workstation-cli) — A secure and reusable development workstation for VPS, with isolated Docker projects, DeepSeek Harness, GitHub App authentication, SSH previ · ⭐0
 - [muen-collective/muen-plugins](https://github.com/muen-collective/muen-plugins) — Muen-authored plugins for the DeepSeek Harness market — published as GitHub Release tarballs and installed with `dsh plugin add`. Generic, w · ⭐0
 - [my-dsh-plugin/readonly-security-audit](https://github.com/my-dsh-plugin/readonly-security-audit) 💤 — DeepSeek Harness 只读安全审计模式 · Read-only security audit mode for DeepSeek Harness · ⭐0
 - [MyRemme/dsh-loop-guard](https://github.com/MyRemme/dsh-loop-guard) — 多智能体监工：一个独立模型实时审阅推理文本与工具调用，检测死循环 / 空转 / 偷懒，并按 WARN / BLOCK / STOP 三档落地。DSH 宿主插件 + 浏览器设置界面。 · ⭐0

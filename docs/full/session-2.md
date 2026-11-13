@@ -1,7 +1,10 @@
-# Session & Context — 1495 entries (part 2/2)
+# Session & Context — 1497 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [windrover/dsh-prompt-optimizer](https://github.com/windrover/dsh-prompt-optimizer) — Prompt optimizer for DeepSeek Harness (dsh): rewrite the conversation input draft in place with 15 templates (basic / context / image). 0.2. · ⭐1
+- [windwhiterain/dsh-office](https://github.com/windwhiterain/dsh-office) — A persistent office of colleague agents for DeepSeek Harness: ordinary sessions with a roster, channels, direct messages, and delivery that  · ⭐1
+- [WJDdidi-1/ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) — Find the files your AI coding agent should not read before sending it your repo. · ⭐1
 - [wjingshan/dsh-cost-gauge](https://github.com/wjingshan/dsh-cost-gauge) — DeepSeek Harness cost gauge: floating widget showing DeepSeek API spend & balance, peak/off-peak rate pointer, flashing red alarm when balan · ⭐1
 - [WODE25500/dsh-lan-share](https://github.com/WODE25500/dsh-lan-share) 💤 — DSH LAN file share: share the workspace over the local network - phones/tablets/other computers browse, download and upload files via browse · ⭐1
 - [WongYuYe/dsh-composer-recall](https://github.com/WongYuYe/dsh-composer-recall) 💤 — Arrow-key input history for the DSH web composer on 0.1.2-alpha.1 · ⭐1
@@ -53,7 +56,6 @@
 - [zhujunzhujunzhu/ai-token-report](https://github.com/zhujunzhujunzhu/ai-token-report) — (no description) · ⭐1
 - [zhuto666/dsh-compact-agents](https://github.com/zhuto666/dsh-compact-agents) — (no description) · ⭐1
 - [ZiOstudio/dsh-budget-handoff](https://github.com/ZiOstudio/dsh-budget-handoff) — Session budget brake for DeepSeek Harness — meters every call against the official price table, halts the run when the budget runs out, and  · ⭐1
-- [zxj0306/DSH-javadev-enhance](https://github.com/zxj0306/DSH-javadev-enhance) — 这是一个提供java开发增强并节省token的dsh插件，包含规则自动fix错误、java工具链地址查询、以及意图直接生成preset代码模板（包含2种风格的数十个模板）功能，持续优化中 · ⭐1
 - [zxsimple/dsh-revive](https://github.com/zxsimple/dsh-revive) — DSH 会话回放视图：逐轮流式重放、一键复刻到新会话、以及把回放录成 WebM 视频 · ⭐1
 - [ZYAONS/dsh-plugin-mascot](https://github.com/ZYAONS/dsh-plugin-mascot) — DeepSeek Harness mascot plugin - a clickable character sprite (Arknights' Closure / BanG Dream!'s Sengoku Yuno) showing token cache hits, co · ⭐1
 - [ZZZjf13960/dsh-onfail](https://github.com/ZZZjf13960/dsh-onfail) 💤 — DSH plugin: poll GitHub Actions, surface failed checks as cards, open a fix session with log context. · ⭐1
@@ -199,7 +201,7 @@
 - [Harzva/dsh-restart-autoresume](https://github.com/Harzva/dsh-restart-autoresume) 💤 — Safe DSH restart coordination and durable top-level session autoresume · ⭐0
 - [hbgdjb/dsh-mimo-quota](https://github.com/hbgdjb/dsh-mimo-quota) — MIMO Quota Panel —— DeepSeek Harness 的模型额度面板：会话日志逐调用自动记账，一屏展示 Token 用量、消费金额、请求次数、趋势波形、模型构成，支持按模型/粒度/时间范围/项目·对话统计切换，内置可编辑定价与 DeepSeek 峰谷价自动套算 · ⭐0
 - [hejiahang0001-oss/dsh-desktop](https://github.com/hejiahang0001-oss/dsh-desktop) — Unofficial Windows desktop host for DeepSeek Harness — native workspaces, persistent sessions, agent controls, and safe diff review. · ⭐0
-- [henrytian1998/dsh-doctor](https://github.com/henrytian1998/dsh-doctor) — DeepSeek Harness 诊断插件：把 home、进程、端口、大 session、版本问题收成一份可粘贴的报告。不替代 Desktop / TUI。 · ⭐0
+- [henrytian1998/dsh-doctor](https://github.com/henrytian1998/dsh-doctor) 💤 — DeepSeek Harness 诊断插件：把 home、进程、端口、大 session、版本问题收成一份可粘贴的报告。不替代 Desktop / TUI。 · ⭐0
 - [HerTa-st/dsh-balance-card](https://github.com/HerTa-st/dsh-balance-card) — DSH 余额与用量浮层卡片：点图片从左侧滑出 / 再点缩回 + 点击回弹动画 · 官方余额 + 本地会话 token 三段计价估算 · ⭐0
 - [HeShen-1/dsh-composer-enhance](https://github.com/HeShen-1/dsh-composer-enhance) — Native DeepSeek Harness web plugin: a ✨ composer button that grounds a draft in session context, asks only about genuine ambiguity, rewrites · ⭐0
 - [HildebrandYu/dsh-session-chains](https://github.com/HildebrandYu/dsh-session-chains) — DSH 交接鏈面板：把互相交接的對話聚成一條鏈（卡片／編號／面板／HUD／門檻提醒／自動交接） · ⭐0
@@ -215,7 +217,7 @@
 - [hujiyo/dsh-recent-prompts](https://github.com/hujiyo/dsh-recent-prompts) — DeepSeek Harness plugin: browse, search, copy and hide the prompts you sent to the AI across all sessions. · ⭐0
 - [hunyu-feng/dsh-usage-pulse](https://github.com/hunyu-feng/dsh-usage-pulse) — DSH Web UI plugin: live DeepSeek peak / off-peak pricing, token spend and hourly usage bars in the composer dock. · ⭐0
 - [HuskkyQ/dsh-doki](https://github.com/HuskkyQ/dsh-doki) — Composer typing statistics for DeepSeek Harness — typing time, cumulative characters and thinking time as a pill next to the session/token s · ⭐0
-- [HYBB-rash/dsh-plugins](https://github.com/HYBB-rash/dsh-plugins) 💤 — Personal DeepSeek Harness plugins for Telegram, scheduling, assistant responsibilities, X feeds, and UI experiments. · ⭐0
+- [HYBB-rash/dsh-plugins](https://github.com/HYBB-rash/dsh-plugins) — Personal DeepSeek Harness plugins for Telegram, scheduling, assistant responsibilities, X feeds, and UI experiments. · ⭐0
 - [hy-sde/dsh-zstd-frame](https://github.com/hy-sde/dsh-zstd-frame) — Zstandard frame primitives (scan / compress / decompress / multi-frame decoder) shared by the DeepSeek Harness session persistence backend a · ⭐0
 - [hzh5021/dsh-qq](https://github.com/hzh5021/dsh-qq) — Bridges a OneBot QQ bot into DSH: the owner's direct messages open a session on the same home, answers go back to QQ, and files named with [ · ⭐0
 - [Iambatman1928/dsh-xingye](https://github.com/Iambatman1928/dsh-xingye) — Chat agent for a DeepSeek Harness session: characters and personas, several archive threads per character, an undoable/rewindable local tran · ⭐0

@@ -1,15 +1,15 @@
-# Remote & Mobile — 110 entries (part 1/1)
+# Remote & Mobile — 109 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) — Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole resear · ⭐564
-- [uumit-ai/dsh-uumit-remote](https://github.com/uumit-ai/dsh-uumit-remote) — (no description) · ⭐519
-- [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) — 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app · ⭐158
+- [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) — Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole resear · ⭐565
+- [uumit-ai/dsh-uumit-remote](https://github.com/uumit-ai/dsh-uumit-remote) — (no description) · ⭐521
+- [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) — 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app · ⭐159
 - [SCSpotato/dsh-remote](https://github.com/SCSpotato/dsh-remote) 💤 — Native Android client to remotely control DeepSeek Harness (DSH) from your phone · ⭐95
 - [caoyiwei850/dsh-ssh-ops](https://github.com/caoyiwei850/dsh-ssh-ops) — DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。 · ⭐58
-- [xiazhi88/dshgo](https://github.com/xiazhi88/dshgo) — DSH Go —— 在手机/平板上用 DeepSeek Harness。Android App + 让电脑可达的 DSH 插件。 · ⭐51
+- [xiazhi88/dshgo](https://github.com/xiazhi88/dshgo) — DSH Go —— 在手机/平板上用 DeepSeek Harness。Android App + 让电脑可达的 DSH 插件。 · ⭐55
+- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) — DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行） · ⭐45
 - [chenw2759-wq/dsh-IDE](https://github.com/chenw2759-wq/dsh-IDE) 💤 — dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服 · ⭐43
-- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) — DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行） · ⭐39
 - [Thanksgiver233/dsh-mobile](https://github.com/Thanksgiver233/dsh-mobile) 💤 — DeepSeek Harness Mobile 是 DeepSeek Harness 的 Android 原生应用，将原本仅支持 PC 浏览器的 AI Agent 框架完整迁移至移动端。采用 Kotlin + Jetpack Compose 开发，内置 Node.js ARM64 · ⭐33
 - [lehhair/dsh-mobile](https://github.com/lehhair/dsh-mobile) 💤 — (no description) · ⭐26
 - [Jensen-Yao/deepseek-harness-android-app](https://github.com/Jensen-Yao/deepseek-harness-android-app) 💤 — DeepSeek Harness 安卓通用控制端：Termux 引导、一键部署、内置浏览器与存储管理（dsh-plugin 生态） · ⭐23
@@ -83,9 +83,8 @@
 - [6mt/dsh-control](https://github.com/6mt/dsh-control) — 多机 dsh 控制：从本地一个窗口驱动你其他服务器上的 dsh——远端会话原生进侧栏，整台远端界面也能搬进来。· Control the dsh instances on your other machines from one local window. · ⭐0
 - [AndersOnLin4/dsh-remote-gateway](https://github.com/AndersOnLin4/dsh-remote-gateway) 💤 — DeepSeek Harness 远程控制套件：网页、Windows 桌面端、Android App 三形态，安全网关 + 实时推送 + 多端会话管理，出门在外也能监控、回复、答题。 · ⭐0
 - [AprilCrystal/dsh-remote](https://github.com/AprilCrystal/dsh-remote) — (no description) · ⭐0
-- [cryptocurpays/dsh-remote-tools](https://github.com/cryptocurpays/dsh-remote-tools) — (no description) · ⭐0
+- [cryptocurpays/dsh-remote-tools](https://github.com/cryptocurpays/dsh-remote-tools) 💤 — (no description) · ⭐0
 - [dbssAlan/dsh-hub-plugin](https://github.com/dbssAlan/dsh-hub-plugin) — 把 DSH 安全发布到局域网/公网：访问密码、二维码、设备导航、cloudflared 隧道，全部在设置页里管理。 · ⭐0
-- [Gaudi-XIX/dsh-pocket-glide](https://github.com/Gaudi-XIX/dsh-pocket-glide) — DSH 的手机接入层：人离开电脑，长任务照样往前走——微信提醒点链接直达、秒开跟手，发送、流式、审批、排队全闭环，手机上还能直接管 DS Bot 团队。它跑在宿主进程里，不把桌面投到手机：没有构建步骤，只有一个运行时依赖；局域网直连，Cloudflare 临时隧道重启自愈回连。 · ⭐0
 - [guhanfei-ai/dsh-zterm](https://github.com/guhanfei-ai/dsh-zterm) — Real-machine terminal for DeepSeek Harness — SSH, JumpServer and local PTY, read-only by default, writes only when a human turns them on. · ⭐0
 - [Hjay1101/dsh-ios-control](https://github.com/Hjay1101/dsh-ios-control) — DeepSeek Harness 插件：手机扫码遥控电脑上的 agent —— 在 dsh-remote-link 基础上增强会话持久化（dsh 重启后已配对设备保持登录）、iOS 主屏图标等 · ⭐0
 - [hoshino114/dsh-server-box](https://github.com/hoshino114/dsh-server-box) — DSH ????:???????? + ???? + SFTP ????(? dsh-server-deck ??) · ⭐0

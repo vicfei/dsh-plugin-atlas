@@ -1425,6 +1425,7 @@ DeepseekDays/dsh-ofm-model-manager
 DeepseekDays/dsh-provider-toggle
 DeepseekHarnessPlugins/Notification
 Deiael/dsh-live-farben
+Deiael/dsh-live-vibeCoding
 DelayNooMore/dsh-plugin-session-trash
 Dely0/dsh-personal-workbench
 Demerier/dsh-image-forge
@@ -3068,6 +3069,7 @@ MDR-EX1000/dsh-rw
 MEMZ-JZY/DSH-Claude-Style-Reasoning-Slider
 MIHassan3/DSH-Launcher
 MIOYULIN/dsh-client-ui-mobile-mono
+MJ-CJM/DSH-Bot
 MJorgin/dsh-agent-conductor
 MJorgin/dsh-media-skills
 MJorgin/skill-bartender
@@ -3637,6 +3639,7 @@ Octo-o-o-o/dsh-plugin-deploy
 Odefined/dsh-mobile-webui
 Oii6111/TinyPelican
 Okkay712/DSH-dseyes
+Old-Friends-Gathering/sedimem
 OldManDing/dsh-ledger-watch
 OldQin-Aurora001/dsh-breeze-tts
 OliYogSothoth/dsh-plugin-session-purge
@@ -5009,6 +5012,7 @@ Wenaixi/dsh-prompt-history
 Wenaixi/dsh-superpower
 WenhongPan/dsh-projects
 WestFox-AwA/dsh-wish-specializer
+WforEvery/dsh-runtime-log
 Wfssll/dsh-three-pane
 Whale-Zhang/dsh-complete-chime
 Whale-Zhang/dsh-cron-tasks
@@ -9069,6 +9073,7 @@ liggest/dsh-alt-enter-newline
 light051001/dsh-preset-qa-mode
 lightli369/dsh-llm-usage-stats
 lightporta/dsh-knowledge-center
+lightsifter/sift-light
 liguobao/ds-harness-remote
 liguobao/dsh-desktop
 liguobao/dsh-file-viewer
@@ -11669,6 +11674,7 @@ tonyzdev/dsh-language-bridge
 tonyzdev/dsh-session-messaging
 toolclub/dsh-agent-team-gui
 topkie/dsh-lattice
+topmindspace/dsh-super-kanban
 touche-s/rice-loving-whale
 toujianjian/dsh-do
 toustifer/agentflow

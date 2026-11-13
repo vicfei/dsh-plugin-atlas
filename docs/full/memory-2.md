@@ -1,7 +1,10 @@
-# Memory & Knowledge — 950 entries (part 2/2)
+# Memory & Knowledge — 953 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [WANGJINSHAN-11/memory_mcp](https://github.com/WANGJINSHAN-11/memory_mcp) — 一个通用的全局记忆的mcp插件 · ⭐0
+- [wangtheme-coder/dsh-dragon-control](https://github.com/wangtheme-coder/dsh-dragon-control) — Windows x64 only: self-contained DOM/CDP browser and UI Automation control for DSH Desktop. · ⭐0
+- [warmwine/dsh-memoryleak](https://github.com/warmwine/dsh-memoryleak) — 基于dsh的知识库和待办管理工具 · ⭐0
 - [whding110/dsh-dev-progress-memory](https://github.com/whding110/dsh-dev-progress-memory) — (no description) · ⭐0
 - [whiteS18/dsh-terminal-button](https://github.com/whiteS18/dsh-terminal-button) — Embedded terminal plugin for DeepSeek Harness. · ⭐0
 - [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — 文件型长期记忆：每个会话注入你自己的 Markdown 记忆文件，提供读写工具，并能查出 DSH_HOME 漂移；不读对话、不联网 · File-backed memory for DeepSeek Harness, with verifiable constraints · ⭐0
@@ -33,7 +36,7 @@
 - [yaqiangsun/dsh-plugin-search](https://github.com/yaqiangsun/dsh-plugin-search) — Search DSH plugins on the npm registry by a name fragment and install them from the Plugins page. · ⭐0
 - [yayuqianhuang/dsh-video-to-knowledge](https://github.com/yayuqianhuang/dsh-video-to-knowledge) — (no description) · ⭐0
 - [yesterday06/dsh-brain](https://github.com/yesterday06/dsh-brain) — DeepSeek Harness 记忆插件：四层记忆、按需检索注入、自动接续与任务封存；目录和卡片格式兼容 sage-mem，可直接接管现有记忆库。 · ⭐0
-- [yihefeikong-rgb/dsh-cc-haha-dream](https://github.com/yihefeikong-rgb/dsh-cc-haha-dream) — DSH 自动做梦插件：后台定期回顾会话与记忆整合去重（复刻 CC-HAHA autoDream）· Auto memory consolidation (dream) plugin for DeepSeek Harness, inspired by CC-HAHA · ⭐0
+- [yihefeikong-rgb/dsh-cc-haha-dream](https://github.com/yihefeikong-rgb/dsh-cc-haha-dream) 💤 — DSH 自动做梦插件：后台定期回顾会话与记忆整合去重（复刻 CC-HAHA autoDream）· Auto memory consolidation (dream) plugin for DeepSeek Harness, inspired by CC-HAHA · ⭐0
 - [YiRan0/dsh-mobile-glass](https://github.com/YiRan0/dsh-mobile-glass) 💤 — DSH Web mobile adaptation plugin: liquid glass UI, reveal drawer, drag gestures, mobile composer/header fixes. Desktop untouched. · ⭐0
 - [Yuedalao/dsh-connect-minimax](https://github.com/Yuedalao/dsh-connect-minimax) — Connect a locally signed-in MiniMax Code account to DeepSeek Harness through a loopback reverse proxy. No API key storage and no sign-out. · ⭐0
 - [yulianjie/dsh-brain](https://github.com/yulianjie/dsh-brain) — Local long-term memory and user-controlled communication style for DeepSeek Harness Desktop | 本地长期记忆与可控交流风格 · ⭐0

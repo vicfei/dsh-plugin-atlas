@@ -1,7 +1,10 @@
-# Tools & Integrations — 2325 entries (part 3/3)
+# Tools & Integrations — 2326 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Jupiter1949/dsh-plugins](https://github.com/Jupiter1949/dsh-plugins) 💤 — DSH plugin monorepo: cot-smart + future DeepSeek Harness plugins · ⭐0
+- [juzikexue/dsh-paper-digest](https://github.com/juzikexue/dsh-paper-digest) — (no description) · ⭐0
+- [jyhn-hunao/dsh-idea-launcher](https://github.com/jyhn-hunao/dsh-idea-launcher) — (no description) · ⭐0
 - [Kagurazaka135/dsh-video-frames](https://github.com/Kagurazaka135/dsh-video-frames) — (no description) · ⭐0
 - [kaiwangleo/xiwen](https://github.com/kaiwangleo/xiwen) 💤 — 析问：自然语言问数工作台 · ⭐0
 - [kekydream/dsh-meeting-room](https://github.com/kekydream/dsh-meeting-room) — (no description) · ⭐0
@@ -274,7 +277,7 @@
 - [Shione0721/dafish-launcher](https://github.com/Shione0721/dafish-launcher) — 大肥鱼启动器 —— DeepSeek Harness 桌面版一键启动器，Windows 单文件 · 零依赖 · 免 UAC · ⭐0
 - [ShiTan-677/dsh-plugins](https://github.com/ShiTan-677/dsh-plugins) — Self-maintained DeepSeek Harness plugins: one repo, one CI, one npm package per plugin with its own version. · ⭐0
 - [shizhanyu13/dsh-waom](https://github.com/shizhanyu13/dsh-waom) 💤 — @shizhanyu13/dsh-waom — DSH plugin: autonomous-ops (WAOM). Monitor / decide / drive a subagent fix / evaluate independently (GAN). dsh-plugi · ⭐0
-- [simikangtao/dsh-storyboard](https://github.com/simikangtao/dsh-storyboard) — Doubao-style end-of-chat storyboard card for DeepSeek Harness: lightweight, zero-dependency HTML/SVG visual summary at the end of substantiv · ⭐0
+- [simikangtao/dsh-storyboard](https://github.com/simikangtao/dsh-storyboard) 💤 — Doubao-style end-of-chat storyboard card for DeepSeek Harness: lightweight, zero-dependency HTML/SVG visual summary at the end of substantiv · ⭐0
 - [SIMON-WORLD/dsh-eco-indicator](https://github.com/SIMON-WORLD/dsh-eco-indicator) 💤 — (no description) · ⭐0
 - [sindo-s/dsh-qq-bot](https://github.com/sindo-s/dsh-qq-bot) — DeepSeek Harness plugin bridging QQ official Bot API to dsh agents (no third-party bot framework) · ⭐0
 - [SJCxuanyi/dsh-ai-assistant](https://github.com/SJCxuanyi/dsh-ai-assistant) — (no description) · ⭐0
@@ -310,7 +313,6 @@
 - [sunshaobei/dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) 💤 — 支持dsh @引用文件及文件夹 · ⭐0
 - [Super-Gagaga/PromptForge](https://github.com/Super-Gagaga/PromptForge) — DeepSeek Harness（DSH）的提示词优化插件。发送消息之前，用 DSH 已配置的模型整理当前草稿，并可追加经过校验的文件与技能引用。可使用现有的 DSH 模型重写你的草稿，并配有用于设置模型和推理强度的配置页面。 · ⭐0
 - [swswordholy-tech/AgentsChatProtocol](https://github.com/swswordholy-tech/AgentsChatProtocol) — (no description) · ⭐0
-- [sxwpskd/dsh-milieu](https://github.com/sxwpskd/dsh-milieu) — dsh-milieu插件开发仓库 · ⭐0
 - [syncended/deepseek-harness-picture-in-picture](https://github.com/syncended/deepseek-harness-picture-in-picture) 💤 — (no description) · ⭐0
 - [tabilet/tabilet-skills](https://github.com/tabilet/tabilet-skills) — Agentic Engineering Harness for Small to Large Projects · ⭐0
 - [tableau-China/dsh-tableau-twb-viewer](https://github.com/tableau-China/dsh-tableau-twb-viewer) — A DeepSeek Harness plugin to inspect Tableau workbooks (.twb): layout, lineage, metadata.DSH Tableau 工作簿检视器：在浏览器里查看 .twb 的 1:1 仪表板布局、字段引用关系与 · ⭐0
@@ -424,7 +426,6 @@
 - [xindady/dsh-prompt-enhancer](https://github.com/xindady/dsh-prompt-enhancer) — One-click prompt enhancement plugin for DeepSeek Harness · ⭐0
 - [xinming-chenniang/dsh-longshot](https://github.com/xinming-chenniang/dsh-longshot) — DeepSeek Harness plugin: auto-split over-long screenshots into DSH-acceptable slices before prompt admission (no native deps, overlap betwee · ⭐0
 - [Xinyuan-Gao/xy-dsh](https://github.com/Xinyuan-Gao/xy-dsh) — A set of DeepSeek Harness plugins: an always-on-top agent lamp board (macOS) and a question navigator. · ⭐0
-- [xlpoistop-prog/dsh-ios](https://github.com/xlpoistop-prog/dsh-ios) — 在越狱 iPhone 上跑 DeepSeek Harness —— 无需 Mac / Xcode / 交叉编译 · ⭐0
 - [xmmtr/dsh-better-right-click](https://github.com/xmmtr/dsh-better-right-click) — (no description) · ⭐0
 - [xqtx9527/dsh-live-pricing](https://github.com/xqtx9527/dsh-live-pricing) — DeepSeek Harness 实时价格条：高峰/空闲时段、中国法定节假日、当前单价与会话花费 | Live pricing widget for DSH · ⭐0
 - [xsluck/dsh-vidgen-plugin](https://github.com/xsluck/dsh-vidgen-plugin) 💤 — (no description) · ⭐0

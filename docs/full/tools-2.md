@@ -1,4 +1,4 @@
-# Tools & Integrations — 2326 entries (part 2/3)
+# Tools & Integrations — 2323 entries (part 2/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -235,7 +235,7 @@
 - [feiertu/dsh-input-rewriter](https://github.com/feiertu/dsh-input-rewriter) — 一个用于实时改写提示词的deepseek harness插件。 · ⭐1
 - [FelixJiashengFu/dsh-haoba-mode](https://github.com/FelixJiashengFu/dsh-haoba-mode) — 豪霸模式：DeepSeek Harness 插件，一枚土豪金开关把每一步的推理强度与输出预算拉满 · Max-effort mode switch for DeepSeek Harness · ⭐1
 - [FelixJiashengFu/dsh-muse-code](https://github.com/FelixJiashengFu/dsh-muse-code) — Muse Code for DeepSeek Harness：输入框开关打开右侧边栏 Muse Code 面板，聊天工具共享同一会话，默认 $10 硬性花费上限 · ⭐1
-- [FengHuoLinShan/novelAssist-dsh](https://github.com/FengHuoLinShan/novelAssist-dsh) — novelAssist DSH 插件重写 (M4) · ⭐1
+- [FengHuoLinShan/novelAssist-dsh](https://github.com/FengHuoLinShan/novelAssist-dsh) 💤 — novelAssist DSH 插件重写 (M4) · ⭐1
 - [fengMax1997/dsh-line-select](https://github.com/fengMax1997/dsh-line-select) 💤 — (no description) · ⭐1
 - [feng-yifan/dsh-plugins](https://github.com/feng-yifan/dsh-plugins) — (no description) · ⭐1
 - [fishcg/dsh-input-prediction](https://github.com/fishcg/dsh-input-prediction) — DSH 输入预测插件：输入框灰字续写下一句（Tab 接受）+ 每轮回答后 1–3 条可一键发送的候选 · ⭐1
@@ -248,6 +248,7 @@
 - [FuriousKinght/dsh-fk-rollback](https://github.com/FuriousKinght/dsh-fk-rollback) — DSH 配置快照与回滚插件。自动留痕、出问题能查、坏了能退回 —— 保证 DSH 本体能启动、能输入输出、功能正常。 · ⭐1
 - [Fyue7/dsh-restart-button](https://github.com/Fyue7/dsh-restart-button) — 给 DSH 会话头部加一颗重启按钮：完全退出并把新实例拉回来，全程零窗口。非官方插件。 · ⭐1
 - [fzlong/dsh-balance-eta](https://github.com/fzlong/dsh-balance-eta) 💤 — DeepSeek Harness 极简余额插件：余额 + 今日消耗 + 可用时长预测 + 低余额告警（仅 CNY，价格无关免维护） · ⭐1
+- [GBDJXB/dsh-workspace-presets](https://github.com/GBDJXB/dsh-workspace-presets) — Per-workspace Agent preset bindings for DeepSeek Harness · ⭐1
 - [GearVoid/dsh-taskify](https://github.com/GearVoid/dsh-taskify) — 让 Coding Agent 不越界：Focus 固定执行范围，Persistent Anchors 保留不能改变的边界。 · ⭐1
 - [geniusdapeng-collab/workloom-im](https://github.com/geniusdapeng-collab/workloom-im) — WorkLoom IM 基座与 AI 产品经理行业版（私有） · ⭐1
 - [GeniusHu-tgty/dsh-prompt-better](https://github.com/GeniusHu-tgty/dsh-prompt-better) — DSH plugin: one-click prompt enhancement in the composer — rewrite your draft into a clearer, more specific prompt, with revert and cancel. · ⭐1
@@ -403,6 +404,7 @@
 - [nanjingya/agent-diagram](https://github.com/nanjingya/agent-diagram) 💤 — Stop shipping Mermaid boxes. Agent skill for editorial HTML/SVG technical diagrams — DeepSeek Harness, Claude Code, Cursor. · ⭐1
 - [netori/galfree](https://github.com/netori/galfree) — (no description) · ⭐1
 - [NevermindZZT/dsh-manager](https://github.com/NevermindZZT/dsh-manager) — dsh 远程使用服务器管理工具 · ⭐1
+- [NickyWooden/dsh-scrapling](https://github.com/NickyWooden/dsh-scrapling) — dsh plugin use scrapling · ⭐1
 - [nightBrise/Oh-My-DSH](https://github.com/nightBrise/Oh-My-DSH) 💤 — 为Deepseek Harness设计的综合插件包 · ⭐1
 - [ninetyhe-90/dsh-assistant-stream](https://github.com/ninetyhe-90/dsh-assistant-stream) — (no description) · ⭐1
 - [Niuniu-Sir/dsh-data-ledger](https://github.com/Niuniu-Sir/dsh-data-ledger) 💤 — 数据台账：DeepSeek Harness 本地数据统一看板——对话/账本/技能/记忆/日志的来源、位置与内容摘要，回收站删除、浏览器存储清理（dsh-plugin） · ⭐1
@@ -426,7 +428,6 @@
 - [promise0320/dsh-persona-studio](https://github.com/promise0320/dsh-persona-studio) — (no description) · ⭐1
 - [purezhi/dsh-plugin-pando](https://github.com/purezhi/dsh-plugin-pando) — 复刻 confirmo for DeepSeek Harness · ⭐1
 - [q862877400-ux/dsh-fuhuobi](https://github.com/q862877400-ux/dsh-fuhuobi) — 一键复活！！装个新插件，重启又崩了？——装前自动快照、崩了自动回滚、桌面一键救回、坏插件自动隔离。 · ⭐1
-- [QianLuo-Ly/dsh-weather](https://github.com/QianLuo-Ly/dsh-weather) — dsh的天气插件（没有高大上的东西，生活不易，出门记得看天气~） · ⭐1
 - [qinglang8609/deepseek_herdr](https://github.com/qinglang8609/deepseek_herdr) 💤 — 多智能体总指挥插件（DeepSeek Harness 原生版） ——让 DeepSeek 高效打开并指挥一个 claude / opencode / codex 智能体团队，实时看到每个智能体在做什么，通过共享记忆与任务看板编排多人协作。 · ⭐1
 - [qiyeren/dsh-eac-popup](https://github.com/qiyeren/dsh-eac-popup) 💤 — DSH plugin: ???? agent ??/?????,EAC ????(??????)+?????5?+?????? · ⭐1
 - [QlzqQlzq/dsh-dual-agent-presets](https://github.com/QlzqQlzq/dsh-dual-agent-presets) 💤 — General-purpose and coding-focused Agent Presets for DeepSeek Harness · ⭐1
@@ -459,6 +460,7 @@
 - [shine-233/dsh-codex](https://github.com/shine-233/dsh-codex) — openai/codex 能力移植进 DeepSeek Harness (dsh) 的 monorepo：线协议契约、沙箱、策略引擎、会话套件、编辑融合、提示词资产、移植台账与集成装配 · ⭐1
 - [Shiyuedong-Jade/DM-recovery](https://github.com/Shiyuedong-Jade/DM-recovery) — 达梦 DM8 数据库可恢复能力评估插件。按 16 个恢复场景逐项对照「要求 vs 本库实际」，回答能恢复到哪一点、要丢什么，生成 HTML 报告。 · ⭐1
 - [Short-Arm-Ape/dsh-sensitive-replace](https://github.com/Short-Arm-Ape/dsh-sensitive-replace) — Deepseek Harness 敏感字符自动替换插件，用于替换模型读取的敏感字符从而避免官方 API 400 错误。 · ⭐1
+- [SIMON-WORLD/dsh-eco-indicator](https://github.com/SIMON-WORLD/dsh-eco-indicator) 💤 — (no description) · ⭐1
 - [SixId666/dsh-math-plugin](https://github.com/SixId666/dsh-math-plugin) — (no description) · ⭐1
 - [sknagato/dsh-plugin-fc-emulator](https://github.com/sknagato/dsh-plugin-fc-emulator) — dsh fc/nes模拟器 · ⭐1
 - [sleep9ull/dsh-asc-cli](https://github.com/sleep9ull/dsh-asc-cli) — (no description) · ⭐1
@@ -528,7 +530,7 @@
 - [wyin77/dsh-plugin-prompt-optimizer](https://github.com/wyin77/dsh-plugin-prompt-optimizer) — DSH prompt optimizer plugin: composer star button that rewrites the current draft in place · ⭐1
 - [wyq09/dsh-rewind](https://github.com/wyq09/dsh-rewind) 💤 — 一个给 DeepSeek Harness（DSH） 用的「检查点 / 回退」插件 · ⭐1
 - [wzn16/dsh-fs-allowlist](https://github.com/wzn16/dsh-fs-allowlist) — (no description) · ⭐1
-- [X1A0BAN/dsh-survival-mode](https://github.com/X1A0BAN/dsh-survival-mode) — (no description) · ⭐1
+- [X1A0BAN/dsh-survival-mode](https://github.com/X1A0BAN/dsh-survival-mode) 💤 — (no description) · ⭐1
 - [x2802490130-prog/dsh-shield](https://github.com/x2802490130-prog/dsh-shield) 💤 — DSH 脱手模式安全网：删除目录先进回收站、删除链接绝不跟随，零审批。 · ⭐1
 - [XcodeFish/dsh-file-link-menu](https://github.com/XcodeFish/dsh-file-link-menu) — (no description) · ⭐1
 - [xczhanjun/lazeword](https://github.com/xczhanjun/lazeword) 💤 — (no description) · ⭐1
@@ -697,7 +699,6 @@
 - [cglyvip/dsh-auto-continue](https://github.com/cglyvip/dsh-auto-continue) — DeepSeek Harness 插件：模型请求失败自动注入「继续」并切换兜底模型，免手动干预 · ⭐0
 - [Chance-Wu/dsh-task-capsule](https://github.com/Chance-Wu/dsh-task-capsule) 💤 — 把 Harness 的执行过程收敛成一个始终可见、几乎不打扰的任务状态指示器 · ⭐0
 - [changguo1998/dsh-toolset](https://github.com/changguo1998/dsh-toolset) — My self-used deepseek harness plugins · ⭐0
-- [changliang-c/zemingxingxiao-brand-diagnosis](https://github.com/changliang-c/zemingxingxiao-brand-diagnosis) — 择命行效·品牌五行诊断（开源协作版） · ⭐0
 - [chaoge762/dsh-ears-prosody](https://github.com/chaoge762/dsh-ears-prosody) — Local offline prosody analysis for DeepSeek Harness — how something was said, not just what was said. · ⭐0
 - [chenqiuyushuang/dsh-nexus](https://github.com/chenqiuyushuang/dsh-nexus) — Nexus — DeepSeek Harness 的零配置成本自保记忆层（原子 + 门控 + 可审计） · ⭐0
 - [chjy090/dsh-pairing-gate](https://github.com/chjy090/dsh-pairing-gate) — DSH安全认证插件 · ⭐0
@@ -797,7 +798,6 @@
 - [FYKANG/dsh-rss-reader](https://github.com/FYKANG/dsh-rss-reader) — 内嵌在 DSH 里的 RSS / Atom 阅读器 · ⭐0
 - [GaoHu1997/dsh-webdav](https://github.com/GaoHu1997/dsh-webdav) — (no description) · ⭐0
 - [gausszhou/dsh-scavenger](https://github.com/gausszhou/dsh-scavenger) — deepseek harness 插件清道夫 🧹🛡️ · ⭐0
-- [GBDJXB/dsh-workspace-presets](https://github.com/GBDJXB/dsh-workspace-presets) — Per-workspace Agent preset bindings for DeepSeek Harness · ⭐0
 - [gejiaju/dsh-balance](https://github.com/gejiaju/dsh-balance) 💤 — (no description) · ⭐0
 - [gentle-knight/dsh-cannbot-connect](https://github.com/gentle-knight/dsh-cannbot-connect) — (no description) · ⭐0
 - [geohotstan/dsh-tabula-rasa-preset](https://github.com/geohotstan/dsh-tabula-rasa-preset) 💤 — Blank slate preset. Create your own adventure. · ⭐0
@@ -836,7 +836,7 @@
 - [HeShen-1/dsh-pg-grid](https://github.com/HeShen-1/dsh-pg-grid) — Native DSH PostgreSQL workbench with visual filters, same-database joins, computed columns, pivots and saved views. · ⭐0
 - [hestudio-community/dsh-plugin-onenote](https://github.com/hestudio-community/dsh-plugin-onenote) — Read the Microsoft OneNote notebooks you choose from inside DeepSeek Harness · ⭐0
 - [heyitaowml-ctrl/dsh-vscode-bridge](https://github.com/heyitaowml-ctrl/dsh-vscode-bridge) — (no description) · ⭐0
-- [he-yufeng/dsh-tool-reading-map](https://github.com/he-yufeng/dsh-tool-reading-map) — Repo reading-map tool for DeepSeek Harness: a structured, priority-ranked map of any codebase before the agent edits it · ⭐0
+- [he-yufeng/dsh-tool-reading-map](https://github.com/he-yufeng/dsh-tool-reading-map) 💤 — Repo reading-map tool for DeepSeek Harness: a structured, priority-ranked map of any codebase before the agent edits it · ⭐0
 - [hhl123hhl/dsh-privacy-shield](https://github.com/hhl123hhl/dsh-privacy-shield) — 送模型前自动给手机号/身份证等隐私打码、回来再还原的 DeepSeek Harness 插件 · ⭐0
 - [hhy66/dsh-balance-stats](https://github.com/hhy66/dsh-balance-stats) 💤 — DSH 余额与消耗面板（dsh-balance-stats） · ⭐0
 - [HiccupGeng/dsh-briefing-skill](https://github.com/HiccupGeng/dsh-briefing-skill) 💤 — (no description) · ⭐0

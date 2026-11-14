@@ -2,6 +2,8 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [fengxiforcy/dsh-surrogate-guard](https://github.com/fengxiforcy/dsh-surrogate-guard) — Neutralize lone UTF-16 surrogates in tool results before they reach the session log — prevents permanent 400 INVALID_REQUEST. · ⭐0
+- [f-infinite-z/dsh-plugin-ops](https://github.com/f-infinite-z/dsh-plugin-ops) — DeepSeek Harness plugin operations: pre-boot health gate, failure attribution, dependency governance, and a web panel — the startup-lifecycl · ⭐0
 - [Flan246/dsh-latex-guard](https://github.com/Flan246/dsh-latex-guard) 💤 — LaTeX compile check and BibTeX lint/fill/audit tools for DeepSeek Harness and any agent. dsh plugin + CLI + SKILL.md. · ⭐0
 - [FoyonaCZY/dsh-kit](https://github.com/FoyonaCZY/dsh-kit) 💤 — DeepSeek Harness plugins for the failures nobody catches: auto-format, generated-file guard, .env drift detection, and a typecheck gate that · ⭐0
 - [goldgish/dsh-gamepad-approval](https://github.com/goldgish/dsh-gamepad-approval) 💤 — Xbox 手柄硬件审批插件 for DeepSeek Harness (dsh) — Agent 高危工具调用需物理按键确认，A 批准 / B 驳回 · ⭐0
@@ -29,7 +31,6 @@
 - [IFIAnder/dsh-loose-review](https://github.com/IFIAnder/dsh-loose-review) — DSH 插件：「自动审查（宽松）」权限预设 —— 破坏性命令执行前做窄模型审查，执行中检测到大量删除会熔断 · ⭐0
 - [intsig-textin/dsh-plugin-xparse](https://github.com/intsig-textin/dsh-plugin-xparse) — TextIn xParse document parsing tool and skill for DeepSeek Harness, with multi-document tasks, OAuth/AppKey authentication, and paid-operati · ⭐0
 - [iStarryDust/dsh-skill-suite](https://github.com/iStarryDust/dsh-skill-suite) — Skill management for the DeepSeek Harness: the Skills page (browse, toggle, edit, create, delete) over the user skill root, the save_skill a · ⭐0
-- [JackAIStudio/dsh-grok-oauth](https://github.com/JackAIStudio/dsh-grok-oauth) — Grok (xAI) subscription provider for DeepSeek Harness: PKCE login, chat, usage chip, optional Imagine · ⭐0
 - [Jacobinwwey/dsh-NotEMD](https://github.com/Jacobinwwey/dsh-NotEMD) — Portable NoteMD workflow bundle for DeepSeek Harness: approval-gated markdown automation, knowledge indexing, diagrams, SVG previews, and Sl · ⭐0
 - [JayYuen666/dsh-danger-guard](https://github.com/JayYuen666/dsh-danger-guard) — (no description) · ⭐0
 - [JFWaskin/dsh-git-nexus](https://github.com/JFWaskin/dsh-git-nexus) 💤 — Unified Git + GitHub + workflow + files panel for the DeepSeek Harness (DSH) web profile. Community plugin tagged dsh-plugin. · ⭐0
@@ -92,7 +93,6 @@
 - [marsma-101/dsh-qoder-connect](https://github.com/marsma-101/dsh-qoder-connect) — Bring Qoder CN desktop-app models into DeepSeek Harness: decrypt the OSCrypt local sign-in, sign requests with the COSY scheme, and register · ⭐0
 - [maxid/dsh-github-aide](https://github.com/maxid/dsh-github-aide) — DeepSeek Harness plugin: publish a workspace or project directory to GitHub — read-only preflight, secret scan, .gitignore generation, repos · ⭐0
 - [mikazuhe13-ui/dsh-hook](https://github.com/mikazuhe13-ui/dsh-hook) — DSH (DeepSeek Harness) lifecycle hooks settings panel plugin — 7-event coverage, guard rules with live toggles, run status. dsh-plugin · ⭐0
-- [MintMilk777/dsh-review-format-guard](https://github.com/MintMilk777/dsh-review-format-guard) — DSH 自动审查返回格式兼容插件：严格校验 JSON、有限重试，保留合法拒绝。 / DSH auto-review response format compatibility plugin: strict JSON validation, bounded retries, and · ⭐0
 - [mmw-devs/mmw-tools](https://github.com/mmw-devs/mmw-tools) — DSH plugin: connect a DeepSeek Harness agent to a single GitHub repo via OAuth Device Flow, follow AGENTS.md, edit only the allowlisted path · ⭐0
 - [MochiNek0/dsh-vendor-login](https://github.com/MochiNek0/dsh-vendor-login) — Sign in to AI coding plans that have no API key — Claude Pro/Max/Team, ChatGPT Plus/Pro, Copilot, SuperGrok — from the dsh settings UI. · ⭐0
 - [moozhu/dsh-obsidian](https://github.com/moozhu/dsh-obsidian) 💤 — DeepSeek Harness (DSH) web UI integration for Obsidian. One isolated AI workspace per vault. · ⭐0

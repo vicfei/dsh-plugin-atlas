@@ -686,6 +686,7 @@ AlfredChaos/dsh-usage-panel
 AlgoVaultLabs/dsh-algovault
 Algorandius/dsh-disk-janitor
 Aliboder/dsh-expert-hub
+Aliboder/dsh-music-panel
 Aliboder/dsh-prompt-forge
 Alice-Marx/dsh-fixed-port-bridge
 Alice-Marx/dsh-model-router
@@ -1042,6 +1043,7 @@ Breeze136/dsh-oneclick
 BrianDabrowski64376/flameox
 BrianHIO-x/dsh-think-expand
 Britneycode/dsh-archive-vault
+Britneycode/dsh-fish-soul
 BroCC57/dsh-pending-review-glow
 BroWhitebyte/dsh-plugin-baiguangda-style
 Bronier/dsh-web-search-so360
@@ -1253,6 +1255,7 @@ Cicero010/dsh-whale-atelier
 Cieux/dsh-zoom-scale
 Cike-money/dsh-qq-bridge
 CilaWaller/dsh-plugin-translate-flow
+CixiSVesper/dsh-soundtry
 Cjrrrrrrrr/dsh-plugins
 Ck-epsilon/Aura
 Ck-epsilon/aura-vision
@@ -1748,6 +1751,7 @@ FiretrUCK666/project-forge
 Fisfzy/dsh-ego-browser
 Fish-under-sea/dsh-agent-teams-fish
 Fish-under-sea/dsh-fish
+Fish-under-sea/dsh-our-free-model-fish
 Fish121380/auto-mouse
 FishBottle7/opencode2dsh
 Fishquito7/dsh-gitbash
@@ -2458,6 +2462,7 @@ JiewiW/dsh-step-governor
 JimChen-g/dsh-action-outbox
 JimChen-g/dsh-frontier-repro
 JimLiu/baoyu-design
+JimLiu/open-artifacts
 Jimmy0123-ux/dsh-token-pet
 Jimmyzwang-cloud/dsh-inkscreen-theme
 Jimxinfang/dsh-theme-neo-brutalist
@@ -8735,6 +8740,7 @@ king-bcolor/dsh-multi-tenant-projects
 king-shao/dsh-turn-notifier
 kingOfSoySauce/dsh-liang-skin
 kingOfSoySauce/dsh-skin-market
+kingcharleslzy-ai/DSH-Spicy
 kingcharleslzy-ai/dsh-honcho-memory
 kingcharleslzy-ai/dsh-purge
 kingcharleslzy-ai/dsh-qwen-studio

@@ -2,43 +2,43 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ⭐7507
-- [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ⭐7507
-- [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ⭐7507
-- [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) — DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness · ⭐2914
-- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. · ⭐2810
-- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) — Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project  · ⭐1456
-- [z91772524-ai/pojia-next](https://github.com/z91772524-ai/pojia-next) — 四个 AI 客户端的内置提示词一键替换：DSH / WorkBuddy / ZCode / Codex。双击即用、可自证、改前备份、一键还原。免装 Python 单文件 exe，MIT 开源；激活码用于服务器运维，官网自助发卡。 · ⭐1144
-- [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) — 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中 · ⭐909
-- [inclusionAI/Avernet](https://github.com/inclusionAI/Avernet) — Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together — like an organization. · ⭐602
-- [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) — WeChat channel for DeepSeek Harness · ⭐431
-- [morluto/jacobian](https://github.com/morluto/jacobian) — Composable mathematics tools for agents · ⭐367
-- [xiaoso456/dsh-workflow-lite](https://github.com/xiaoso456/dsh-workflow-lite) — DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎 · ⭐272
+- [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ⭐7699
+- [FeiZhuLulu/DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ⭐7699
+- [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ⭐7699
+- [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) — DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness · ⭐2933
+- [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. · ⭐2824
+- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) — Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project  · ⭐1462
+- [z91772524-ai/pojia-next](https://github.com/z91772524-ai/pojia-next) — 四个 AI 客户端的内置提示词一键替换：DSH / WorkBuddy / ZCode / Codex。双击即用、可自证、改前备份、一键还原。免装 Python 单文件 exe，MIT 开源；激活码用于服务器运维，官网自助发卡。 · ⭐1152
+- [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) — 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中 · ⭐918
+- [inclusionAI/Avernet](https://github.com/inclusionAI/Avernet) — Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together — like an organization. · ⭐603
+- [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) — WeChat channel for DeepSeek Harness · ⭐434
+- [morluto/jacobian](https://github.com/morluto/jacobian) — Composable mathematics tools for agents · ⭐370
+- [xiaoso456/dsh-workflow-lite](https://github.com/xiaoso456/dsh-workflow-lite) — DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎 · ⭐280
 - [shanliuling/skills-link](https://github.com/shanliuling/skills-link) 💤 — Sync your local skills across 41+ AI coding agents with a single command. · ⭐188
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) — 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层 · ⭐158
-- [orziz/odai](https://github.com/orziz/odai) — AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified de · ⭐132
+- [orziz/odai](https://github.com/orziz/odai) — AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified de · ⭐133
 - [justlovemaki/PrismFlowAgent](https://github.com/justlovemaki/PrismFlowAgent) — 全栈资讯处理与 AI Agent 系统。它能够自动化地从全球多源渠道抓取高质量资讯，利用顶级大语言模型进行深度总结，并将其分发至多种终端 · ⭐97
-- [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — dsh-agent-team: Agent Teams for DeepSeek Harness. Hand work to a team of agents that carries it end to end while you set the direction and h · ⭐92
-- [wowyuarm/dsh-agent-team](https://github.com/wowyuarm/dsh-agent-team) — dsh-agent-team: Agent Teams for DeepSeek Harness. Hand work to a team of agents that carries it end to end while you set the direction and h · ⭐92
+- [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team) — dsh-agent-team: Agent Teams for DeepSeek Harness. Hand work to a team of agents that carries it end to end while you set the direction and h · ⭐96
+- [wowyuarm/dsh-agent-team](https://github.com/wowyuarm/dsh-agent-team) — dsh-agent-team: Agent Teams for DeepSeek Harness. Hand work to a team of agents that carries it end to end while you set the direction and h · ⭐96
 - [ZASENJC/dsh-plugins-store](https://github.com/ZASENJC/dsh-plugins-store) — 自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace. · ⭐74
-- [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) — 可视化 Agent 编排平台｜基于 DeepSeek Harness，支持 Workflow、Multi-Agent、元编排、MCP 与 Human-in-the-loop｜Visual AI Agent orchestration platform for workflows, · ⭐68
+- [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) — 可视化 Agent 编排平台｜基于 DeepSeek Harness，支持 Workflow、Multi-Agent、元编排、MCP 与 Human-in-the-loop｜Visual AI Agent orchestration platform for workflows, · ⭐70
 - [zenx0x/allinluna](https://github.com/zenx0x/allinluna) 💤 — Resource-aware multi-agent orchestration for Codex and DeepSeek Harness (All in Flash DSH plugin) · ⭐65
-- [Smalldy/godot-bridge](https://github.com/Smalldy/godot-bridge) — DSH (DeepSeek Harness) plugin that launches and drives a running Godot 4.x game through its in-game TCP interaction server — replaces the go · ⭐53
-- [fyjgtddco/DSH-SW-and-CAD](https://github.com/fyjgtddco/DSH-SW-and-CAD) — 担心AI在SW上面画的好看，实际组装又是另外一个事故？有这个项目在！材料、力学、规范三重校核，凭可追溯证据交付工图。让AI画的图真正能进入工程世界，而不是只是一个漂亮的玩具 · ⭐53
-- [gychen-NJU/dsh-game-daily](https://github.com/gychen-NJU/dsh-game-daily) — DSH 桌面端插件：游戏日常代理（原神 / 崩坏3 / 星穹铁道）—设置页逐游戏开关、排班、计划任务自动执行并汇报 | DSH plugin for daily game automation · ⭐53
+- [Smalldy/godot-bridge](https://github.com/Smalldy/godot-bridge) — DSH (DeepSeek Harness) plugin that launches and drives a running Godot 4.x game through its in-game TCP interaction server — replaces the go · ⭐55
+- [fyjgtddco/DSH-SW-and-CAD](https://github.com/fyjgtddco/DSH-SW-and-CAD) — 担心AI在SW上面画的好看，实际组装又是另外一个事故？有这个项目在！材料、力学、规范三重校核，凭可追溯证据交付工图。让AI画的图真正能进入工程世界，而不是只是一个漂亮的玩具（暂时停更看论文和研究结构，暂时停更一小波） · ⭐54
+- [gychen-NJU/dsh-game-daily](https://github.com/gychen-NJU/dsh-game-daily) — DSH 桌面端插件：游戏日常代理（原神 / 崩坏3 / 星穹铁道）—设置页逐游戏开关、排班、计划任务自动执行并汇报 | DSH plugin for daily game automation · ⭐54
+- [SuperWheel/cliworker-now](https://github.com/SuperWheel/cliworker-now) — DeepSeek Harness 多 CLI 智能体侧栏插件：独立对话、账号管理、角色预设与任务续聊 · ⭐46
+- [SuperWheel/dsh-cliworker-now](https://github.com/SuperWheel/dsh-cliworker-now) — DeepSeek Harness 多 CLI 智能体侧栏插件：独立对话、账号管理、角色预设与任务续聊 · ⭐46
 - [xcisxc29/dsh-qq-plugin](https://github.com/xcisxc29/dsh-qq-plugin) — (no description) · ⭐46
-- [SuperWheel/cliworker-now](https://github.com/SuperWheel/cliworker-now) — DeepSeek Harness 多 CLI 智能体侧栏插件：独立对话、账号管理、角色预设与任务续聊 · ⭐44
-- [SuperWheel/dsh-cliworker-now](https://github.com/SuperWheel/dsh-cliworker-now) — DeepSeek Harness 多 CLI 智能体侧栏插件：独立对话、账号管理、角色预设与任务续聊 · ⭐44
 - [sikadi233-hub/minecraft-dev](https://github.com/sikadi233-hub/minecraft-dev) — Minecraft dev for DeepSeek Harness (dsh): Paper/Spigot/Fabric/Forge/NeoForge across MC 1.7.10-26.3, offline API signature indexes, determini · ⭐41
-- [zhu168/dsh-save-money](https://github.com/zhu168/dsh-save-money) 💤 — Save-money plugin for DSH (DeepSeek Harness) — define your own "pause / resume" time windows; at pause time running long tasks are paused (n · ⭐37
+- [zhu168/dsh-save-money](https://github.com/zhu168/dsh-save-money) 💤 — Save-money plugin for DSH (DeepSeek Harness) — define your own "pause / resume" time windows; at pause time running long tasks are paused (n · ⭐38
 - [omdsh-dev/dsh-deep-research](https://github.com/omdsh-dev/dsh-deep-research) 💤 — Adaptive deep-research orchestrator plugin for DeepSeek Harness (official workflow engine, cybernetics/information-theory design) · ⭐33
 - [chumingjun/dsh-harness-one](https://github.com/chumingjun/dsh-harness-one) — Visual AI workflow orchestrator for DeepSeek Harness (dsh): multi-agent DAGs, live execution, recovery, and Feishu integration. · ⭐32
 - [chumingjun/harness-one](https://github.com/chumingjun/harness-one) — Visual AI workflow orchestrator for DeepSeek Harness (dsh): multi-agent DAGs, live execution, recovery, and Feishu integration. · ⭐32
-- [sailoumili/novel-writer](https://github.com/sailoumili/novel-writer) — 小说创作模式：一个统筹队长统领全局，5 个专职子代理各司其职——架构世界、策划剧情、管理人物、执笔写文、质检复核——协同写作。 · ⭐32
+- [sailoumili/novel-writer](https://github.com/sailoumili/novel-writer) 💤 — 小说创作模式：一个统筹队长统领全局，5 个专职子代理各司其职——架构世界、策划剧情、管理人物、执笔写文、质检复核——协同写作。 · ⭐32
 - [olicesx/kixparadigm](https://github.com/olicesx/kixparadigm) — kixparadigm — AI self-orchestrated minimal paradigm (resident cognition layer) + kixpower multi-agent orchestration · one-command import int · ⭐30
 - [not-big-dog/DSH-pipeline-kernel](https://github.com/not-big-dog/DSH-pipeline-kernel) 💤 — (no description) · ⭐29
 - [zuoyunlai/lunheng-article-pipeline-dsh](https://github.com/zuoyunlai/lunheng-article-pipeline-dsh) — 论衡（lunheng-article-pipeline）DeepSeek Harness bundle 插件（DSH 适配版） · ⭐27
-- [miuzel/dsh-graph](https://github.com/miuzel/dsh-graph) — 把工作组织成目标看板的 DeepSeek Harness (dsh) 插件：目标 / 判据 / 上下文卡片 / 执行 attempt 的二维泳道看板，数据以文件+事件流落在 .dsh-graph · Goal-kanban plugin for DeepSeek Harness · ⭐25
+- [miuzel/dsh-graph](https://github.com/miuzel/dsh-graph) — 把工作组织成目标看板的 DeepSeek Harness (dsh) 插件：目标 / 判据 / 上下文卡片 / 执行 attempt 的二维泳道看板，数据以文件+事件流落在 .dsh-graph · Goal-kanban plugin for DeepSeek Harness · ⭐26
 - [1225Sakura/oh-my-deepseekharness](https://github.com/1225Sakura/oh-my-deepseekharness) — DeepSeek Harness 的多智能体编排层 —— 42 skills / 33 角色卡 / 55 MCP 工具 / graph DAG 运行时 / team 流水线 / HUD 面板。OMC/OMX 理念的 dsh 原生适配。 · ⭐16
 - [9931666/dsh-plugin-roundtable](https://github.com/9931666/dsh-plugin-roundtable) — （roundtable V1.0.0）把一次 DeepSeek Harness 会话，从"你和 AI 一对一聊天"，升级成"你 + 主持人(DeepSeek) + 一圈专家 AI 开圆桌会 · ⭐16
 - [CodermanYHZ/dsh-node-flow](https://github.com/CodermanYHZ/dsh-node-flow) — 节点式 DSH 工作流画布：编排子代理、代码、条件、循环与定时任务，支持模型路由与 AI 生成指南。 Node-mode DSH workflow canvas: orchestrate sub-agents, code, conditions, loops & schedule · ⭐16
@@ -48,9 +48,9 @@
 - [LeemanCheung/dsh-task-dag](https://github.com/LeemanCheung/dsh-task-dag) — Persistent live DAG visualization for DeepSeek Harness subagents and workflows · ⭐15
 - [Asher-2000/dsh-expert-mode](https://github.com/Asher-2000/dsh-expert-mode) 💤 — DSH (DeepSeek Harness) 专家模式 agent preset — 首席协调官 + 17位领域专家子代理 Expert-mode preset for DeepSeek Harness · ⭐14
 - [feng-liu-1994/workbuddy-finance-workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) — WorkBuddy / DeepSeek Harness 可视化财务工作台：20 个模块、异常闭环、25 个 AI 工作流，支持 MCP App 一键安装 · ⭐14
+- [mario841859784/dsh-expert-orchestrator](https://github.com/mario841859784/dsh-expert-orchestrator) — DSH 专家编排模式 agent preset — PM-first planning, Agency expert delegation, gated delivery, experience pooling · ⭐13
 - [1264459640/dsh-trellis](https://github.com/1264459640/dsh-trellis) — Self-contained Trellis workflow trigger for DeepSeek Harness (DSH / Cordis) · ⭐12
-- [mario841859784/dsh-expert-orchestrator](https://github.com/mario841859784/dsh-expert-orchestrator) — DSH 专家编排模式 agent preset — PM-first planning, Agency expert delegation, gated delivery, experience pooling · ⭐12
-- [27painter/dsh-sw-cad](https://github.com/27painter/dsh-sw-cad) — DSH/Codex × SolidWorks & AutoCAD · on-demand skills + MCP servers for real CAD automation (Windows, COM) · ⭐10
+- [27painter/dsh-sw-cad](https://github.com/27painter/dsh-sw-cad) — DSH/Codex × SolidWorks & AutoCAD · on-demand skills + MCP servers for real CAD automation (Windows, COM) · ⭐11
 - [Tikzen/dsh-agent-arena](https://github.com/Tikzen/dsh-agent-arena) — Interactive multi-agent collaboration, meetings, group chats, and task execution for DeepSeek Harness. · ⭐10
 - [GM-HZ/agent-dag-workflow](https://github.com/GM-HZ/agent-dag-workflow) — Host-neutral durable DAG workflows for Agents: CLI-native access, fixed MCP gateway, on-demand Skills, triggers, replay, and visual Canvas. · ⭐9
 - [edusrez/dsh-smart-restart](https://github.com/edusrez/dsh-smart-restart) — Wakes the main agent after any DSH restart so interrupted work resumes automatically — adds a restart tool and an optional canary that valid · ⭐8
@@ -59,13 +59,14 @@
 - [polaris-smart/dsh-devices](https://github.com/polaris-smart/dsh-devices) — Turn your devices into a fleet — dsh plugin for decentralized multi-device collaboration: mDNS discovery, key pairing, SSH direct exec. Tool · ⭐8
 - [439436269-ctrl/dsh-video-pipeline](https://github.com/439436269-ctrl/dsh-video-pipeline) — DSH 插件：把一条短视频生产流水线（19 个 skill：编排 + 原子）内置进 agent 技能目录 · ⭐7
 - [BillyChen123/qdd](https://github.com/BillyChen123/qdd) 💤 — (no description) · ⭐7
+- [HAN102300/dsh-bot](https://github.com/HAN102300/dsh-bot) — 这是一个在DSH harness当中，用一句自然语言，把重复性的守护工作交给一个有记忆、有预算、可回滚的 AI 队友的插件 · ⭐6
 - [ikun666666/dsh-groupchat](https://github.com/ikun666666/dsh-groupchat) — DSH 插件：每个工程一个群聊 —— 多个 AI 会话与人同群互聊、@ 唤醒离线会话、@创建成员 拉新会话进群 · ⭐6
 - [recoluan/recowork](https://github.com/recoluan/recowork) — Give your AI a workflow. · ⭐6
 - [SAXEM1997/specpowers](https://github.com/SAXEM1997/specpowers) — SpecPowers — SDD+TDD engineering methodology as a DeepSeek Harness (DSH) plugin and Claude Code skill group: 6 skills fusing OpenSpec spec-d · ⭐6
 - [beijingwahw/dsh-proactive](https://github.com/beijingwahw/dsh-proactive) — DSH Proactive — 主动智能调度插件：自主心跳 + 科学家/理论家双心智（贝叶斯实验设计与定律归纳）+ 能量共生经济 + 好奇心探索 + 安全治理，Raft 共识与热更新 · ⭐5
 - [ChuanTianML/prompt-for-me](https://github.com/ChuanTianML/prompt-for-me) — Automatic ghost suggestions and one-click next-message drafting for the DeepSeek Harness composer. · ⭐5
 - [Fish-under-sea/dsh-fish](https://github.com/Fish-under-sea/dsh-fish) — 自用 DSH（DeepSeek Harness）插件聚合包：一个 pnpm 工作区装齐 8 个插件（5 个自建 + 3 个上游补充版：AgentTeams / 思考强度 / 免费模型），子插件源码在 packages/ 下 · ⭐5
-- [HAN102300/dsh-bot](https://github.com/HAN102300/dsh-bot) — 这是一个在DSH harness当中，用一句自然语言，把重复性的守护工作交给一个有记忆、有预算、可回滚的 AI 队友的插件 · ⭐5
+- [huchunlinnk/deepseek-desk-rsi](https://github.com/huchunlinnk/deepseek-desk-rsi) 💤 — Recursive Self-Improvement engine for DeepSeek Harness — DSH maintains DSH: bounded perceive→integrate→verify→parity→repair→propose loop enf · ⭐5
 - [jeremy9682/dsh-skill-pack](https://github.com/jeremy9682/dsh-skill-pack) 💤 — 11 shareable workflow skills for DeepSeek Harness: handoffs, triage, specs, tickets, wayfinding, teaching, mode routing, overnight runs · ⭐5
 - [lonelymoon87/dsh-specflow](https://github.com/lonelymoon87/dsh-specflow) 💤 — Specification-driven development toolkit for DeepSeek Harness. · ⭐5
 - [trueRISCOacnt/maa-dsh-skill](https://github.com/trueRISCOacnt/maa-dsh-skill) 💤 — 基于 MaaAssistantArknights (MAA) 官方命令行工具 maa-cli 构建的 DeepSeek Harness Skill：让 DeepSeek Harness 直接驱动 MaaCore，自动化完成《明日方舟》日常任务。 · ⭐5
@@ -77,14 +78,12 @@
 - [edisonzerolam/team-orchestration-skill](https://github.com/edisonzerolam/team-orchestration-skill) 💤 — 多智能体对抗编排引擎 — 五阶段对抗协议(二审终审制) + 40专家团8聚合域 + 动态派数 + 任务级Skill封装（专家池借鉴了 WorkBuddy、QoderWork 的专家功能） · ⭐4
 - [ff66ccff/dsh-ATN](https://github.com/ff66ccff/dsh-ATN) — Adaptive topology multi-agent preset for DeepSeek Harness, with peer messaging, a shared board and live network visualization. · ⭐4
 - [Fish-under-sea/dsh-agent-teams-fish](https://github.com/Fish-under-sea/dsh-agent-teams-fish) — DSH 插件（上游 NanmiCoder/dsh-agent-teams 的补充版）：AgentTeams 多智能体团队协作 —— 自然语言组队、任务依赖 DAG、信箱通信、右侧栏树状监测；随包自带 17 厂商 × 10 岗位头像与 17 个厂商徽标（286 个文件），支持自定义 · ⭐4
-- [huchunlinnk/deepseek-desk-rsi](https://github.com/huchunlinnk/deepseek-desk-rsi) 💤 — Recursive Self-Improvement engine for DeepSeek Harness — DSH maintains DSH: bounded perceive→integrate→verify→parity→repair→propose loop enf · ⭐4
 - [linxuhao/AItelier](https://github.com/linxuhao/AItelier) — AI-Atelier, the all in one personal "atelier" (means handcraft studio in french) that can adapt to your need. · ⭐4
 - [Lixiuxiu559/AgentForge](https://github.com/Lixiuxiu559/AgentForge) — Project Wiki & engineering workflows for coding agents. 项目知识库、功能实现、调试与代码评审，支持 Codex、Claude Code 和 DeepSeek Harness。 · ⭐4
 - [monotykamary/dsh-factory](https://github.com/monotykamary/dsh-factory) 💤 — Durable dependency-graph task factory for DeepSeek Harness: recurring Agent work, safe checkout lanes, first-class queues, Triage, and artif · ⭐4
 - [NeoMei/dsh-roundtable](https://github.com/NeoMei/dsh-roundtable) — Roundtable (圆桌讨论) multi-agent discussion plugin for DeepSeek Harness · ⭐4
 - [PiedPiper911/dsh-workflow-canvas](https://github.com/PiedPiper911/dsh-workflow-canvas) 💤 — DSH plugin by PiedPiper911 — dsh-workflow-canvas · ⭐4
 - [Qulierm/orbital-agents](https://github.com/Qulierm/orbital-agents) — Paired Endeavour and Challenger agents for DeepSeek Harness. · ⭐4
-- [swarm-apps/dsh-swarmdrop](https://github.com/swarm-apps/dsh-swarmdrop) 💤 — Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end- · ⭐4
 - [zhairy/dsh-agent-swarm](https://github.com/zhairy/dsh-agent-swarm) — DeepSeek Harness 中文多智能体插件「百工」：天枢统筹 12 位专家，证据门禁、多层模型路由与回退、内嵌 Jev 判断工具 · ⭐4
 - [Angel2518975237/captain-ai](https://github.com/Angel2518975237/captain-ai) 💤 — ⚓ Captain AI｜可恢复、多智能体的求职公司筛查 DeepSeek Harness 工作流。灵感来自杰克船长——在萧条的职场里，导航你人生方向、勇敢无畏的导师。 · ⭐3
 - [bujue600-arch/dsh-testgen](https://github.com/bujue600-arch/dsh-testgen) 💤 — Automated unit-test generation for DeepSeek Harness: /testgen command + generate_tests tool that scaffold, run, and fix unit tests until the · ⭐3
@@ -98,6 +97,7 @@
 - [royenheart/dsh-migrate-bot](https://github.com/royenheart/dsh-migrate-bot) — Automatically migrate dsh plugins to the new version. · ⭐3
 - [SajoLuo/dsh-trellis](https://github.com/SajoLuo/dsh-trellis) — Trellis workflow integration for DeepSeek Harness · ⭐3
 - [SpookyWaste/dsh-ohjingjing-team](https://github.com/SpookyWaste/dsh-ohjingjing-team) — 智能体团队面板美化: 用「哦鲸鲸」形象替换 DSH 智能体团队面板里成员行的状态图标（静止 / 运行 / 失败），会话头部「对话／轨迹」右边那条空白带子变成一条跑道：哦鲸鲸会出现在这里跑步和吃白饭 · ⭐3
+- [swarm-apps/dsh-swarmdrop](https://github.com/swarm-apps/dsh-swarmdrop) 💤 — Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end- · ⭐3
 - [whitelonng/dsh-opencode-go-pool](https://github.com/whitelonng/dsh-opencode-go-pool) 💤 — DeepSeek Harness plugin: multi-key pool with automatic quota failover and a usage dashboard for the OpenCode Go plan · ⭐3
 - [xiebaiyuan/dsh-lead-mode](https://github.com/xiebaiyuan/dsh-lead-mode) — Lead mode for DSH: an agent preset, a working-method skill, a dependency self-check, and two reminders that tell you to enable the official  · ⭐3
 - [xsoc1/math-research-dsh](https://github.com/xsoc1/math-research-dsh) — DSH adaptation of the math-research Codex plugin marketplace: rigorous-open-math-research, manage-math-research-program, math-research-workf · ⭐3

@@ -1,4 +1,4 @@
-# Tools & Integrations — 2326 entries (part 3/3)
+# Tools & Integrations — 2323 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -147,7 +147,6 @@
 - [Neutron3529/dsh-plugin-tool-gaming-host](https://github.com/Neutron3529/dsh-plugin-tool-gaming-host) 💤 — 一个允许agent借助gaming程序直接访问宿主机的插件。日后或许会搞个网页版，把gaming改成bwrap然后允许传参什么的，但现在，这个库只有最基础的功能 · ⭐0
 - [nicecx/dsh-macos-calendar](https://github.com/nicecx/dsh-macos-calendar) 💤 — DSH host-side plugin: real macOS Calendar integration (create/list/query/delete events via AppleScript) for DeepSeek Harness agents · ⭐0
 - [nicecx/dsh-reset-handoff](https://github.com/nicecx/dsh-reset-handoff) 💤 — DSH never restarts itself: host plugin that hands reset requests to an external ops agent (e.g. Hermes) via a versioned JSON protocol — pref · ⭐0
-- [NickyWooden/dsh-scrapling](https://github.com/NickyWooden/dsh-scrapling) — dsh plugin use scrapling · ⭐0
 - [nineoooo/dsh-qzone-echo](https://github.com/nineoooo/dsh-qzone-echo) — 把你本人发过的 QQ 空间说说收进本地库，自动分成思考/梦记/推荐三栏，可逐条人工纠正；配一个口令锁住的私人网页查看器，补回被接口截断的长文，按年月统计字数，备份配图。Cookie 只存本机。 · ⭐0
 - [nirvanaslash/dsh-bat2exe](https://github.com/nirvanaslash/dsh-bat2exe) 💤 — Compile Windows .bat/.cmd launchers into real .exe shells from inside DeepSeek Harness: generated icon, C# wrapper, csc compile, optional sh · ⭐0
 - [nolighter/dsh-im-bubble](https://github.com/nolighter/dsh-im-bubble) — DSH plugin: send an IM reply as several separate bubbles via dsh-im proactive delivery (im_say, im_targets, im_target_add). · ⭐0
@@ -241,7 +240,7 @@
 - [Rheasilvia/dsh-pretty-extension](https://github.com/Rheasilvia/dsh-pretty-extension) — (no description) · ⭐0
 - [RHY006/agency-agents-zh-dsh-plugin](https://github.com/RHY006/agency-agents-zh-dsh-plugin) — DeepSeek Harness (dsh) plugin: agency-agents-zh Chinese AI expert library (268 roles / 20 departments) as native skills · ⭐0
 - [Rick1125/dsh-beads-viewer](https://github.com/Rick1125/dsh-beads-viewer) — Beads Viewer for DSH · ⭐0
-- [rita112025-cpu/dsh-starter](https://github.com/rita112025-cpu/dsh-starter) — DeepSeek Harness 入門模板 — 下載、填入 API Key、雙擊啟動，幾分鐘內就能使用並試用「文件摘要」技能。 · ⭐0
+- [rita112025-cpu/dsh-starter](https://github.com/rita112025-cpu/dsh-starter) 💤 — DeepSeek Harness 入門模板 — 下載、填入 API Key、雙擊啟動，幾分鐘內就能使用並試用「文件摘要」技能。 · ⭐0
 - [robin421/dsh-html-inspector](https://github.com/robin421/dsh-html-inspector) — Selection mode for DeepSeek Harness: click any element in a local HTML demo, locator auto-written to chat input / DSH HTML 选区模式插件 · ⭐0
 - [rootsbymenda/dsh-second-angle](https://github.com/rootsbymenda/dsh-second-angle) — A second angle on a finished DeepSeek Harness turn: checks the answer against the tool output the turn read. · ⭐0
 - [R-roker315/dsh-Alist-](https://github.com/R-roker315/dsh-Alist-) — 用于dsh上使用的操控Alist的插件 · ⭐0
@@ -278,7 +277,6 @@
 - [ShiTan-677/dsh-plugins](https://github.com/ShiTan-677/dsh-plugins) — Self-maintained DeepSeek Harness plugins: one repo, one CI, one npm package per plugin with its own version. · ⭐0
 - [shizhanyu13/dsh-waom](https://github.com/shizhanyu13/dsh-waom) 💤 — @shizhanyu13/dsh-waom — DSH plugin: autonomous-ops (WAOM). Monitor / decide / drive a subagent fix / evaluate independently (GAN). dsh-plugi · ⭐0
 - [simikangtao/dsh-storyboard](https://github.com/simikangtao/dsh-storyboard) 💤 — Doubao-style end-of-chat storyboard card for DeepSeek Harness: lightweight, zero-dependency HTML/SVG visual summary at the end of substantiv · ⭐0
-- [SIMON-WORLD/dsh-eco-indicator](https://github.com/SIMON-WORLD/dsh-eco-indicator) 💤 — (no description) · ⭐0
 - [sindo-s/dsh-qq-bot](https://github.com/sindo-s/dsh-qq-bot) — DeepSeek Harness plugin bridging QQ official Bot API to dsh agents (no third-party bot framework) · ⭐0
 - [SJCxuanyi/dsh-ai-assistant](https://github.com/SJCxuanyi/dsh-ai-assistant) — (no description) · ⭐0
 - [sky1ine139/dsh-plugin-screenshot-ask](https://github.com/sky1ine139/dsh-plugin-screenshot-ask) — DSH 截图提问插件：原生框选截图直接进输入框，全程不落盘（DeepSeek Harness plugin, Windows） · ⭐0
@@ -339,7 +337,6 @@
 - [tonyous/DSH-AMP-Radio](https://github.com/tonyous/DSH-AMP-Radio) — (no description) · ⭐0
 - [topkie/dsh-lattice](https://github.com/topkie/dsh-lattice) — DeepSeek Harness 的本地记忆插件：把值得长期复用的知识写成带主题与关联的条目，之后按语义召回；数据存在本地 SQLite 库里，向量模型首次使用时下载，之后离线可用。 · ⭐0
 - [toustifer/dshplugin](https://github.com/toustifer/dshplugin) — (no description) · ⭐0
-- [TowardsDawn/dsh-plugin-source-link](https://github.com/TowardsDawn/dsh-plugin-source-link) — 显示插件来源 · ⭐0
 - [tula-liuxin/dsh-conversation-companion](https://github.com/tula-liuxin/dsh-conversation-companion) — 给 DeepSeek Harness 加上下一句 Tab 补全与通俗摘要浮窗。Concise next-message suggestions and editable summaries. MIT. · ⭐0
 - [twinsant/qqbot-clawbot](https://github.com/twinsant/qqbot-clawbot) — QQ bot bridge plugin for DeepSeek Harness (QQ Open Platform WebSocket gateway) · ⭐0
 - [Typhoon-line/film-scan_epson](https://github.com/Typhoon-line/film-scan_epson) — Epson 胶片扫描 · 片夹垫高/对焦调校的 WorkBuddy skill 集合 · ⭐0
@@ -525,6 +522,6 @@
 - [zuuky/dsh-omnifile](https://github.com/zuuky/dsh-omnifile) 💤 — (no description) · ⭐0
 - [zwbao/dsh-plugin-longpi](https://github.com/zwbao/dsh-plugin-longpi) — Personal longevity harness for DeepSeek Harness: dispatch longevity-skills from one person's Mirobody record, with a health board. · ⭐0
 - [zzx-dear/dsh-selection-followup](https://github.com/zzx-dear/dsh-selection-followup) 💤 — (no description) · ⭐0
-- [zzy6-a/dsh-prompt-enhance](https://github.com/zzy6-a/dsh-prompt-enhance) — DSH 输入框旁的一键提示词增强：把口语化的一句话改写成目标明确、细节完整的任务说明，可一键撤销；五种改写风格、模型可跟随或固定，含 @引用/命令芯片时自动置灰保护。 · ⭐0
+- [zzy6-a/dsh-prompt-enhance](https://github.com/zzy6-a/dsh-prompt-enhance) 💤 — DSH 输入框旁的一键提示词增强：把口语化的一句话改写成目标明确、细节完整的任务说明，可一键撤销；五种改写风格、模型可跟随或固定，含 @引用/命令芯片时自动置灰保护。 · ⭐0
 - [researchrepo-backup/dsh-countup-pomodoro](https://github.com/researchrepo-backup/dsh-countup-pomodoro) — (no description) · ⭐0
 - [abc12524/dsh-openviking](https://github.com/abc12524/dsh-openviking) — (no description) · ⭐0

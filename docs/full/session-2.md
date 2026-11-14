@@ -1,8 +1,7 @@
-# Session & Context — 1497 entries (part 2/2)
+# Session & Context — 1496 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [windrover/dsh-prompt-optimizer](https://github.com/windrover/dsh-prompt-optimizer) — Prompt optimizer for DeepSeek Harness (dsh): rewrite the conversation input draft in place with 15 templates (basic / context / image). 0.2. · ⭐1
 - [windwhiterain/dsh-office](https://github.com/windwhiterain/dsh-office) — A persistent office of colleague agents for DeepSeek Harness: ordinary sessions with a roster, channels, direct messages, and delivery that  · ⭐1
 - [WJDdidi-1/ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) — Find the files your AI coding agent should not read before sending it your repo. · ⭐1
 - [wjingshan/dsh-cost-gauge](https://github.com/wjingshan/dsh-cost-gauge) — DeepSeek Harness cost gauge: floating widget showing DeepSeek API spend & balance, peak/off-peak rate pointer, flashing red alarm when balan · ⭐1
@@ -27,6 +26,7 @@
 - [XXXXXQ-0206/dsh-session-delete](https://github.com/XXXXXQ-0206/dsh-session-delete) — Session recycle bin and permanent delete for DeepSeek Harness. Sidebar delete, restore, batch purge, and active-session protection. · ⭐1
 - [y258dd/dsh-hormone](https://github.com/y258dd/dsh-hormone) — Hormone state for DeepSeek Harness agents: stress, energy and reward values driven by real session events, written into the system prompt on · ⭐1
 - [YangShen-SWE/dsh-plugin-simple-pet](https://github.com/YangShen-SWE/dsh-plugin-simple-pet) — Windows desktop pet with DeepSeek billing, Codex subscription quotas, opt-in automatic Codex warm-up, six skins and usage charts. · ⭐1
+- [yangyizhu8/dsh-powercontext](https://github.com/yangyizhu8/dsh-powercontext) 💤 — (no description) · ⭐1
 - [yangyizhu8/dsh-session-handoff](https://github.com/yangyizhu8/dsh-session-handoff) 💤 — (no description) · ⭐1
 - [yangyongzhen/dsh-session-report](https://github.com/yangyongzhen/dsh-session-report) 💤 — Session cost/usage report cards for DeepSeek Harness: tokens, cache-hit rate, per-turn breakdown, cost estimate. dsh plugin. · ⭐1
 - [yangzhenyu0817/dsh-session-color](https://github.com/yangzhenyu0817/dsh-session-color) — Right-click any session row in the DeepSeek Harness sidebar to color-tag it (default red, ten palette colors, custom picker). / 给 DSH 侧栏会话行加 · ⭐1
@@ -122,7 +122,6 @@
 - [CHENJIAMIAN/dsh-session-switch](https://github.com/CHENJIAMIAN/dsh-session-switch) — DSH 桌面版 Ctrl+Tab：在当前会话和上一个会话之间来回切 / Toggle between the current and previous DSH session with Ctrl+Tab · ⭐0
 - [CHENKEYI-MAKER/dsh-team-reporter](https://github.com/CHENKEYI-MAKER/dsh-team-reporter) — DSH plugin: reports local token usage to a team dashboard you run yourself. · ⭐0
 - [chenkui-luo/dsh-session-attachment-repair](https://github.com/chenkui-luo/dsh-session-attachment-repair) — Repair DSH sessions whose requests fail because historical attachment objects are missing from the local attachment store. · ⭐0
-- [Cherryxxh/DSH-One-Dark-Pro-Theme](https://github.com/Cherryxxh/DSH-One-Dark-Pro-Theme) — One Dark Pro (classic) theme for the DeepSeek Harness Web GUI: a Settings -> General switcher with a full 156-token override layer, 1:1 colo · ⭐0
 - [CHIANGANGSTER/dsh-session-window](https://github.com/CHIANGANGSTER/dsh-session-window) — (no description) · ⭐0
 - [chou109/dsh-msgrail](https://github.com/chou109/dsh-msgrail) — MsgRail（消息轨道） —— DeepSeek Harness 的窄消息轨道插件：在对话左侧，为每条你发送的消息显示一根细横线。悬停看预览、点击即跳转，更早消息自动加载；全量历史、实时更新、中英双语。 MsgRail is a narrow message rail for  · ⭐0
 - [ChuanTianML/dsh-local-share](https://github.com/ChuanTianML/dsh-local-share) — Local, privacy-first Markdown and self-contained HTML sharing for DeepSeek Harness sessions · ⭐0
@@ -459,6 +458,7 @@
 - [StabCut/dsh-edit-regenerate](https://github.com/StabCut/dsh-edit-regenerate) 💤 — DSH plugin: edit a user message in conversation history and regenerate from the revised prompt in a forked session. · ⭐0
 - [stitchmaps/dsh-todolist](https://github.com/stitchmaps/dsh-todolist) — A DeepSeek Harness (DSH) To-do List plugin: collapsible task cards with due dates and workspace-session binding. · ⭐0
 - [Sttrevens/dsh-linked-folders](https://github.com/Sttrevens/dsh-linked-folders) 💤 — dsh plugin: multi-folder workspace — global linked-folders list + per-session on-the-fly linking, managed from the Web sidebar. · ⭐0
+- [SUKJG1052/DSH-Plugin-Session-Delete](https://github.com/SUKJG1052/DSH-Plugin-Session-Delete) — Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu item (no conversation jump), risk-consent dial · ⭐0
 - [sun17352668482-lgtm/dsh-dafeiyu-web](https://github.com/sun17352668482-lgtm/dsh-dafeiyu-web) — 大肥鱼手机版桌宠 Web 复刻版 - 基于上游素材一比一还原，含 Token 余额与用量面板 · ⭐0
 - [sunshaobei/dsh-input-history](https://github.com/sunshaobei/dsh-input-history) — (no description) · ⭐0
 - [SuperPaiGu/dsh-session-manager](https://github.com/SuperPaiGu/dsh-session-manager) 💤 — DSH 侧栏批量管理会话插件：工作区可批量多选删除，会话可直接删除（进系统回收站），无需归档 · ⭐0
@@ -556,7 +556,6 @@
 - [xxvk/dsh-cost-crystal](https://github.com/xxvk/dsh-cost-crystal) 💤 — A cost & usage monitoring plugin for the DeepSeek Harness web GUI — balance card, real-time token rate, peak/off-peak billing, and next-mess · ⭐0
 - [X-Xyy/dsh-api-balance](https://github.com/X-Xyy/dsh-api-balance) — Live DeepSeek API balance and per-session token usage in the conversation header. · ⭐0
 - [yabolee-kkk/dsh-streaming-mcp-bridge](https://github.com/yabolee-kkk/dsh-streaming-mcp-bridge) 💤 — DeepSeek Harness streaming MCP bridge: live session events as MCP progress, plus ACP adapter for cc-connect/Feishu. · ⭐0
-- [yangyizhu8/dsh-powercontext](https://github.com/yangyizhu8/dsh-powercontext) 💤 — (no description) · ⭐0
 - [yangyizhu8/dsh-unread-mark](https://github.com/yangyizhu8/dsh-unread-mark) 💤 — Session-row unread mark for DeepSeek Harness (dsh): Mark unread / Unmark in the session menu pins a red dot that survives reload until clear · ⭐0
 - [yanhuifair/dsh-money](https://github.com/yanhuifair/dsh-money) — 一个显示回复和对话费用的 deepseek harness 插件 · ⭐0
 - [yezitotempeace/dsh-big-compact](https://github.com/yezitotempeace/dsh-big-compact) — DSH 超大会话压缩插件：上下文实时监测（窗口×0.85）触发，分块摘要再合并，小会话仍走自带压缩 · ⭐0

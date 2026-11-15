@@ -27,7 +27,6 @@
 - [ZnonEn/dsh-volcark-quota](https://github.com/ZnonEn/dsh-volcark-quota) 💤 — 火山方舟 Coding Plan / Agent Plan 额度实时查看的 DeepSeek Harness (DSH) 插件：AK/SK 直连官方 API，悬浮小球 + Donut 环形图展示各窗口已用/剩余/重置倒计时（两位小数） · ⭐3
 - [3361805598-gif/dsh-usage-analytics](https://github.com/3361805598-gif/dsh-usage-analytics) 💤 — Local-first personal usage insights for DeepSeek Harness · ⭐2
 - [CZ1900/suanzhang-dsh](https://github.com/CZ1900/suanzhang-dsh) 💤 — 算账 (suanzhang) — DeepSeek Harness 计费插件：余额/今日消费/按步骤费用，交易终端风格，官方价自动同步。 · ⭐2
-- [gao-gao-zai/http-request-dsh-plugin](https://github.com/gao-gao-zai/http-request-dsh-plugin) 💤 — Native DSH HTTP request plugin with configurable credential whitelist and usage skill · ⭐2
 - [golitter/dsh-deepseek-billing](https://github.com/golitter/dsh-deepseek-billing) — 在 DSH 中查看 DeepSeek API 账户余额及计费信息 · ⭐2
 - [GooDAnDReaDY/dsh-key-limits](https://github.com/GooDAnDReaDY/dsh-key-limits) — DeepSeek Harness plugin: API key / subscription quota limits (float chip, composer bar, settings) · ⭐2
 - [lcthe/dsh-usage-monitor](https://github.com/lcthe/dsh-usage-monitor) — DSH plugin: usage and credit balance monitor · ⭐2
@@ -42,6 +41,7 @@
 - [Bob-Bo1/dsh-deepseek-balance](https://github.com/Bob-Bo1/dsh-deepseek-balance) 💤 — DSH plugin for viewing DeepSeek API balance and local Flash/Pro usage costs. · ⭐1
 - [BREEY05/dsh-balance-widget](https://github.com/BREEY05/dsh-balance-widget) — (no description) · ⭐1
 - [ddtcorex/dsh-maestro-dashboard](https://github.com/ddtcorex/dsh-maestro-dashboard) — Maestro Dashboard — unified Control Center (Overview/Plugins/Usage) DSH-native · ⭐1
+- [gao-gao-zai/http-request-dsh-plugin](https://github.com/gao-gao-zai/http-request-dsh-plugin) 💤 — Native DSH HTTP request plugin with configurable credential whitelist and usage skill · ⭐1
 - [guojinpeng/dsh-cost-meter](https://github.com/guojinpeng/dsh-cost-meter) — 极简匹配DSH官方风格的计费卡片. 会话与轮次费用估算插件，支持多价格源、模型独立币种和 DeepSeek 峰谷计费。 · ⭐1
 - [hojas/dsh-price-tip](https://github.com/hojas/dsh-price-tip) — DeepSeek Harness 侧栏的 API 价格时段提醒：当前处于空闲时段还是高峰时段、距离切换还有多久，以及当前生效的价目表。 · ⭐1
 - [hoyyang/dsh-agent-billing](https://github.com/hoyyang/dsh-agent-billing) — Agent billing & usage observability for DeepSeek Harness — 会话日志直扫记账 / per-window 实时徽标 / 多账号费率档案 / 预算告警 · ⭐1
@@ -72,7 +72,7 @@
 - [i1537725423-dotcom/dsh-plugin-task-budget](https://github.com/i1537725423-dotcom/dsh-plugin-task-budget) — 任务预算：给 DeepSeek Harness 每一轮对话设人民币花费上限，默认 5 元，到线即停。 · ⭐0
 - [jwilson411/dsh-spend-receipt](https://github.com/jwilson411/dsh-spend-receipt) 💤 — A cache-aware JSONL cost receipt plugin for DeepSeek Harness. · ⭐0
 - [jwilson411/dsh-tool-quota](https://github.com/jwilson411/dsh-tool-quota) — DeepSeek Harness plugin: per-tool call and result-byte caps · ⭐0
-- [kongshan-zhuyu/dsh-balance-quota](https://github.com/kongshan-zhuyu/dsh-balance-quota) — 一块可以配置余额、监测模型监控状态、以及配置模型多模态设置的插件 · ⭐0
+- [kongshan-zhuyu/dsh-balance-quota](https://github.com/kongshan-zhuyu/dsh-balance-quota) 💤 — 一块可以配置余额、监测模型监控状态、以及配置模型多模态设置的插件 · ⭐0
 - [liujianqiao701/dsh-cost-today](https://github.com/liujianqiao701/dsh-cost-today) — DSH 今日花费插件：读 dsh-cost-meter 的账本，把「今天花了多少钱」显示在输入框下方与会话头部 | Daily spend for DeepSeek Harness, read from the cost-meter ledger · ⭐0
 - [ljr282341583/dsh-convo-cost](https://github.com/ljr282341583/dsh-convo-cost) — (no description) · ⭐0
 - [Lyoko-Jeremie/dsh-plugin-usage-insights](https://github.com/Lyoko-Jeremie/dsh-plugin-usage-insights) — (no description) · ⭐0

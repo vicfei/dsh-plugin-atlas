@@ -1,7 +1,8 @@
-# Tools & Integrations — 2323 entries (part 3/3)
+# Tools & Integrations — 2321 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [JunKoProject/dsh-read-book](https://github.com/JunKoProject/dsh-read-book) — Four free libraries in one window: Gutenberg and Shuge give real download links, NCPSSD searches, ctext is link-only. · ⭐0
 - [Jupiter1949/dsh-plugins](https://github.com/Jupiter1949/dsh-plugins) 💤 — DSH plugin monorepo: cot-smart + future DeepSeek Harness plugins · ⭐0
 - [juzikexue/dsh-paper-digest](https://github.com/juzikexue/dsh-paper-digest) — (no description) · ⭐0
 - [jyhn-hunao/dsh-idea-launcher](https://github.com/jyhn-hunao/dsh-idea-launcher) — (no description) · ⭐0
@@ -55,7 +56,7 @@
 - [liuyize-CHE/dsh-spanish-tutor](https://github.com/liuyize-CHE/dsh-spanish-tutor) — 西语练习插件 for DeepSeek Harness：六类本地判分的练习 + 情景造句（模型批改）。 Spanish practice drills with local grading. · ⭐0
 - [liuyun847/dsh-host-restart](https://github.com/liuyun847/dsh-host-restart) — DSH 宿主插件:给模型一个 restart_dsh 工具,重启 dsh 后自动恢复原会话续跑 (DeepSeek Harness) · ⭐0
 - [liweidong1722/dsh-work-list](https://github.com/liweidong1722/dsh-work-list) — deepseek harness工作台 · ⭐0
-- [ljh257110/dsh-local-installer](https://github.com/ljh257110/dsh-local-installer) — (no description) · ⭐0
+- [ljh257110/dsh-local-installer](https://github.com/ljh257110/dsh-local-installer) 💤 — (no description) · ⭐0
 - [LJH-snow/dsh-tool-linear](https://github.com/LJH-snow/dsh-tool-linear) — (no description) · ⭐0
 - [LJH-snow/dsh-tool-pagerduty](https://github.com/LJH-snow/dsh-tool-pagerduty) — (no description) · ⭐0
 - [LJH-snow/dsh-tool-sql](https://github.com/LJH-snow/dsh-tool-sql) — (no description) · ⭐0
@@ -86,7 +87,6 @@
 - [LvDAO/dsh-exec-extension](https://github.com/LvDAO/dsh-exec-extension) — An exec extension for headless dsh runner allowing more flags etc. · ⭐0
 - [ly14278/dsh-prompt-brief](https://github.com/ly14278/dsh-prompt-brief) — 给 DeepSeek Harness 输入框加「优化」按钮：口语需求 → 结构化产品需求（定位 / 核心功能 / 视觉参考 / 设计规范） · ⭐0
 - [Lysander-9/dsh-intermi](https://github.com/Lysander-9/dsh-intermi) — Interactive view of the persistent terminal used by each DSH Agent. · ⭐0
-- [lyx0717/dsh-washer](https://github.com/lyx0717/dsh-washer) — 把 DSH 会话状态渲染成一台滚筒洗衣机 · 三种皮肤三种档位 · ⭐0
 - [lzqzm/dsh-magical-lowcode-project](https://github.com/lzqzm/dsh-magical-lowcode-project) — Deepseek Harness 插件 · ⭐0
 - [Lzz2133/dsh-manutd-fixtures](https://github.com/Lzz2133/dsh-manutd-fixtures) 💤 — (no description) · ⭐0
 - [m1452700576/dsh-app-updater](https://github.com/m1452700576/dsh-app-updater) 💤 — 更新dsh客户端 · ⭐0
@@ -151,7 +151,6 @@
 - [nirvanaslash/dsh-bat2exe](https://github.com/nirvanaslash/dsh-bat2exe) 💤 — Compile Windows .bat/.cmd launchers into real .exe shells from inside DeepSeek Harness: generated icon, C# wrapper, csc compile, optional sh · ⭐0
 - [nolighter/dsh-im-bubble](https://github.com/nolighter/dsh-im-bubble) — DSH plugin: send an IM reply as several separate bubbles via dsh-im proactive delivery (im_say, im_targets, im_target_add). · ⭐0
 - [nomxy/dsh-balance](https://github.com/nomxy/dsh-balance) — DeepSeek Harness 侧栏账号后余额与峰谷胶囊 · ⭐0
-- [nonefora11/dsh-genshin](https://github.com/nonefora11/dsh-genshin) — DeepSeek Harness plugin: opens the official Genshin Impact site and downloads the official launcher on startup. · ⭐0
 - [Nozzi2455/majfish](https://github.com/Nozzi2455/majfish) — 和自家肥鱼打立直麻将的 DSH（DeepSeek Harness）插件，支持局域网联机 · ⭐0
 - [nuolingmo/dsh-market-notes](https://github.com/nuolingmo/dsh-market-notes) — ? dshmarket ???????????????????Auto-writes short plain-Chinese notes for installed dshmarket plugins that have none. · ⭐0
 - [oliblue-evan/dsh-peakclock](https://github.com/oliblue-evan/dsh-peakclock) — 峰谷倒计时：在 DSH 模型名称中显示 DeepSeek 峰谷状态与倒计时，支持实时预览与紧凑设置。 · ⭐0
@@ -310,7 +309,6 @@
 - [sumingwang233/dsh-question-bridge](https://github.com/sumingwang233/dsh-question-bridge) — Non-blocking interactive questions for DSH agents: ask, walk away, answer later. · ⭐0
 - [sunshaobei/dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) 💤 — 支持dsh @引用文件及文件夹 · ⭐0
 - [Super-Gagaga/PromptForge](https://github.com/Super-Gagaga/PromptForge) — DeepSeek Harness（DSH）的提示词优化插件。发送消息之前，用 DSH 已配置的模型整理当前草稿，并可追加经过校验的文件与技能引用。可使用现有的 DSH 模型重写你的草稿，并配有用于设置模型和推理强度的配置页面。 · ⭐0
-- [swswordholy-tech/AgentsChatProtocol](https://github.com/swswordholy-tech/AgentsChatProtocol) — (no description) · ⭐0
 - [syncended/deepseek-harness-picture-in-picture](https://github.com/syncended/deepseek-harness-picture-in-picture) 💤 — (no description) · ⭐0
 - [tabilet/tabilet-skills](https://github.com/tabilet/tabilet-skills) — Agentic Engineering Harness for Small to Large Projects · ⭐0
 - [tableau-China/dsh-tableau-twb-viewer](https://github.com/tableau-China/dsh-tableau-twb-viewer) — A DeepSeek Harness plugin to inspect Tableau workbooks (.twb): layout, lineage, metadata.DSH Tableau 工作簿检视器：在浏览器里查看 .twb 的 1:1 仪表板布局、字段引用关系与 · ⭐0
@@ -372,7 +370,7 @@
 - [wangzhanchao883/dsh-lost-and-found](https://github.com/wangzhanchao883/dsh-lost-and-found) — DeepSeek Harness plugin: local file recall - watch the folders you choose, index what appeared (name/type/size/appeared-at/location/origin)  · ⭐0
 - [waning-sun/dsh-napcat-keeper](https://github.com/waning-sun/dsh-napcat-keeper) — 在DSH运行时自动运行napcat的小插件 · ⭐0
 - [Wcof/PlugBox](https://github.com/Wcof/PlugBox) — PlugBox · 通用插件中心与插件索引源：统一插件协议，适配所有支持自定义插件的引擎层 / 智能体层工具。首批内置 DeepSeek Harness 与 zcode DeepSeek Harness 适配器。A universal plugin center & index  · ⭐0
-- [wcytjy/dsh-meal-picker](https://github.com/wcytjy/dsh-meal-picker) — (no description) · ⭐0
+- [wcytjy/dsh-meal-picker](https://github.com/wcytjy/dsh-meal-picker) 💤 — (no description) · ⭐0
 - [we39/dsh-jumpserver](https://github.com/we39/dsh-jumpserver) — (no description) · ⭐0
 - [Wedomizing/Dsh_genshin_nicole_skin](https://github.com/Wedomizing/Dsh_genshin_nicole_skin) — 来自世界之外的智慧所诞生的进步，每天都比过去一百年的积累更多 · ⭐0
 - [weimin96/diagram-plugin](https://github.com/weimin96/diagram-plugin) — 在 DeepSeek Harness/Codex 中创建、查看和编辑 Mermaid 图表与 Canvas 画布。 · ⭐0
@@ -453,7 +451,7 @@
 - [yfwu2020/dsh-think-flow](https://github.com/yfwu2020/dsh-think-flow) — DSH 思维链可视化：把模型的实时思考按 turn → step →（思考原文 + 工具调用）聚合成可读的右侧栏视图 · ⭐0
 - [Ygritteee/dsh-ygritte-boot](https://github.com/Ygritteee/dsh-ygritte-boot) — (no description) · ⭐0
 - [yidao2000/dsh-local-background](https://github.com/yidao2000/dsh-local-background) — dsh用本地图片做背景图 · ⭐0
-- [Yidien/dsh-capture-window](https://github.com/Yidien/dsh-capture-window) — DeepSeek Harness 旁路捕获插件：随手丢想法进独立的安静新会话，不打断主线上下文。 · ⭐0
+- [Yidien/dsh-capture-window](https://github.com/Yidien/dsh-capture-window) 💤 — DeepSeek Harness 旁路捕获插件：随手丢想法进独立的安静新会话，不打断主线上下文。 · ⭐0
 - [Yikeqm/dsh-wb-credit-fallback](https://github.com/Yikeqm/dsh-wb-credit-fallback) — WorkBuddy 积分耗尽时自动回落到 DeepSeek 的 DSH 插件 · ⭐0
 - [Yingmoon0715/yingmoon-plugins](https://github.com/Yingmoon0715/yingmoon-plugins) — yingmoon 的 DSH 插件库 —— 我们自己写的 DeepSeek Harness 插件都放在这里。 · ⭐0
 - [YiuTerran/dsh-wps365-plugin](https://github.com/YiuTerran/dsh-wps365-plugin) — 配合官方wps365-cli的dsh插件 · ⭐0
@@ -486,10 +484,10 @@
 - [zangoose335/dsh-todo-assistant](https://github.com/zangoose335/dsh-todo-assistant) — DSH 插件：会话中记录待办，自动记录上下文中关于这个待办事项的关键内容，等需要处理时可在新会话中直接开始任务，无需从头调查也不用再次说明情况 · ⭐0
 - [zaowanshangxian/deepseek-harness-plugins](https://github.com/zaowanshangxian/deepseek-harness-plugins) — DeepSeek Harness 插件集：可独立安装的 DSH 插件，一个插件一个文件夹（含「更多表情和颜文字」） · ⭐0
 - [Z-Asset/alpharsi](https://github.com/Z-Asset/alpharsi) — (no description) · ⭐0
-- [Z-Asset/ZA_data](https://github.com/Z-Asset/ZA_data) — ZA Research data stage — data discovery and quality assessment for asset pricing + ML/DL research. · ⭐0
+- [Z-Asset/ZA_data](https://github.com/Z-Asset/ZA_data) 💤 — ZA Research data stage — data discovery and quality assessment for asset pricing + ML/DL research. · ⭐0
 - [Z-Asset/zagent](https://github.com/Z-Asset/zagent) — (no description) · ⭐0
-- [Z-Asset/ZA_literature](https://github.com/Z-Asset/ZA_literature) — ZA Research literature stage — search, synthesis, and citation-chain tracking for asset pricing + ML/DL research. · ⭐0
-- [Z-Asset/ZA_report](https://github.com/Z-Asset/ZA_report) — ZA Research report stage — academic paper writing for asset pricing + ML/DL research. · ⭐0
+- [Z-Asset/ZA_literature](https://github.com/Z-Asset/ZA_literature) 💤 — ZA Research literature stage — search, synthesis, and citation-chain tracking for asset pricing + ML/DL research. · ⭐0
+- [Z-Asset/ZA_report](https://github.com/Z-Asset/ZA_report) 💤 — ZA Research report stage — academic paper writing for asset pricing + ML/DL research. · ⭐0
 - [ZaVang/dsh-diorama](https://github.com/ZaVang/dsh-diorama) 💤 — (no description) · ⭐0
 - [zbc0315/dsh-synomega](https://github.com/zbc0315/dsh-synomega) — Organic reaction prediction for DeepSeek Harness: retrosynthesis, forward prediction, route planning, SynScore, and multi-component evolutio · ⭐0
 - [Zeishuai-s-Project/ZeishuaiDeepSeekHarness](https://github.com/Zeishuai-s-Project/ZeishuaiDeepSeekHarness) 💤 — DSH的个人衍生版本，主要用于C#，C/C++，python，typescript开发 · ⭐0
@@ -503,7 +501,7 @@
 - [zhengjy01/dsh-wps](https://github.com/zhengjy01/dsh-wps) — (no description) · ⭐0
 - [zhengqiuyang/dsh-prompt-drift](https://github.com/zhengqiuyang/dsh-prompt-drift) — System-prompt surface drift gate for DeepSeek Harness — sections any plugin contributes are hashed and baselined; silent rewrites fail loud · ⭐0
 - [zhenyu-24/dsh-workspace-manager](https://github.com/zhenyu-24/dsh-workspace-manager) — DSH 工作区管理：会话树、多源文件夹、批量归档与系统目录打开 · ⭐0
-- [zhiheng-zhang-Mera/dsh-restart](https://github.com/zhiheng-zhang-Mera/dsh-restart) — DSH plugin: safe restart execution for DeepSeek Harness — request validation, checkpoint gating, restart locking, graceful shutdown, crash-l · ⭐0
+- [zhiheng-zhang-Mera/dsh-restart](https://github.com/zhiheng-zhang-Mera/dsh-restart) 💤 — DSH plugin: safe restart execution for DeepSeek Harness — request validation, checkpoint gating, restart locking, graceful shutdown, crash-l · ⭐0
 - [zhijun-dai/dsh-Fonts](https://github.com/zhijun-dai/dsh-Fonts) — (no description) · ⭐0
 - [zhongyichang1998/dsh-open-meadow](https://github.com/zhongyichang1998/dsh-open-meadow) — 海风与草甸：适用于官方 macOS DeepSeek Harness 0.2.0-rc.2 的动态海边主题，提供云层、局部海浪、前景花草摆动和中文设置。 · ⭐0
 - [zhouxin121/project-cross-migration](https://github.com/zhouxin121/project-cross-migration) — Agent 项目资料跨框架迁移：五层备份还原（对话/记忆/人格/工具/环境），Claude Code·Codex·pi·OpenClaw 实测 1418 条零丢失，纯 Python 标准库，MIT · ⭐0

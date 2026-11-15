@@ -2317,6 +2317,7 @@ JJDonald/dsh-telegram-login-approval
 JJJACKsong/sleep-not-permitted
 JJXjustin/dsh-session-rewind
 JKL-agents/toollery-dsh
+JKZeng-cell/moki-library-for-dsh
 JMOKSZ/dsh-lark-bridge
 JMX-4869/dsh-mood
 JMweitao/dsh-local-plugin-installer
@@ -5336,6 +5337,7 @@ Yu-tao-Li/dsh-computer-use-win
 Yu-tao-Li/dsh-read-image-view
 Yu-tao-Li/dsh-reference-checker
 Yu1Ko/dsh-reasoning-support
+YuChenLiao/dsh-comfyui-workbench
 YuJunZhiXue/dsh-purge
 YuLab-SMU/Rho
 YuLaiZ/token-usage
@@ -6246,6 +6248,7 @@ broody-cascarillabark100/DeepSeek-Harness-Desktop
 bruc3van/awesome-dsh-plugin
 bruc3van/bruce-md2word
 bruc3van/dsh-desktop
+bruc3van/dsh-desktop-pro
 bruc3van/dsh-desktop-safe-market
 bruc3van/dsh-doctor
 brunhildzhou/dsh-all-warmup
@@ -10165,6 +10168,7 @@ ohlygod/dsh-jiuling-remote-android
 ohmejj/dsh-chat-archive
 oihai/dsh-harness-trace
 oil-oil/dsh-oil-creator
+oil-oil/dsh-oil-ui
 oil-oil/dsh-theme
 oil-oil/dsh-vision
 oioiphainon/dsh-widget
@@ -10954,6 +10958,7 @@ sbVAN/dsh-skill-mimo
 sbearbug/dsh-highlightpin
 scarf1985566475-cloud/dsh-voice
 scarlet20252025-cloud/DSH_Computeruse_Enhance
+scarletkc/Hatoba
 scd13150/dsh-cognition
 sch246/dsh-warm-minimal
 scientificmaniac/dsh-code-highlight
@@ -11726,6 +11731,7 @@ tttnny/my-dsh
 tttwh/dsh-plugin-diraud
 ttxs69/hermes-continue-hook
 tuantuan0218/TDSH
+tubeagentkit/youtube-transcript-skills
 tuibe/dsh-deepseek-theme-studio
 tula-liuxin/dsh-conversation-companion
 tulipdkw/dsh-whale-aquarium

@@ -1,7 +1,8 @@
-# Memory & Knowledge — 954 entries (part 2/2)
+# Memory & Knowledge — 955 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [vv5v5/dsh-memory-archive](https://github.com/vv5v5/dsh-memory-archive) — Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually se · ⭐0
 - [wafernm-crypto/dsh-memory-library](https://github.com/wafernm-crypto/dsh-memory-library) — (no description) · ⭐0
 - [WANGJINSHAN-11/memory_mcp](https://github.com/WANGJINSHAN-11/memory_mcp) — 一个通用的全局记忆的mcp插件 · ⭐0
 - [wangtheme-coder/dsh-dragon-control](https://github.com/wangtheme-coder/dsh-dragon-control) — Windows x64 only: self-contained DOM/CDP browser and UI Automation control for DSH Desktop. · ⭐0

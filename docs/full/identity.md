@@ -3,7 +3,7 @@
 > live data · full category export · [back to atlas](../../README.md)
 
 - [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐60
-- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐46
+- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐48
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) 💤 — DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。 · ⭐40
 - [AgentConnect/dsh-awiki](https://github.com/AgentConnect/dsh-awiki) — AWiki identity and messaging plugin for DeepSeek Harness · ⭐19
 - [Max-Null/dsh-chinese-thinking](https://github.com/Max-Null/dsh-chinese-thinking) — One-line fix: inject a fixed system-prompt section so the agent always thinks and replies in Chinese, whatever the user's language · 中文思考：注入 · ⭐14

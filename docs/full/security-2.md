@@ -1,7 +1,9 @@
-# Security & Permissions — 1170 entries (part 2/2)
+# Security & Permissions — 1169 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-key-vault](https://github.com/feely0208/dsh-key-vault) — 深鲸 Key 保险箱：本机保存你自带的多个 API Key（只显示掩码、0600、不上传） · ⭐0
+- [fengxiforcy/dsh-surrogate-guard](https://github.com/fengxiforcy/dsh-surrogate-guard) — Neutralize lone UTF-16 surrogates in tool results before they reach the session log — prevents permanent 400 INVALID_REQUEST. · ⭐0
 - [f-infinite-z/dsh-plugin-ops](https://github.com/f-infinite-z/dsh-plugin-ops) — DeepSeek Harness plugin operations: pre-boot health gate, failure attribution, dependency governance, and a web panel — the startup-lifecycl · ⭐0
 - [Flan246/dsh-latex-guard](https://github.com/Flan246/dsh-latex-guard) 💤 — LaTeX compile check and BibTeX lint/fill/audit tools for DeepSeek Harness and any agent. dsh plugin + CLI + SKILL.md. · ⭐0
 - [FoyonaCZY/dsh-kit](https://github.com/FoyonaCZY/dsh-kit) 💤 — DeepSeek Harness plugins for the failures nobody catches: auto-format, generated-file guard, .env drift detection, and a typecheck gate that · ⭐0
@@ -31,11 +33,9 @@
 - [intsig-textin/dsh-plugin-xparse](https://github.com/intsig-textin/dsh-plugin-xparse) — TextIn xParse document parsing tool and skill for DeepSeek Harness, with multi-document tasks, OAuth/AppKey authentication, and paid-operati · ⭐0
 - [iStarryDust/dsh-skill-suite](https://github.com/iStarryDust/dsh-skill-suite) — Skill management for the DeepSeek Harness: the Skills page (browse, toggle, edit, create, delete) over the user skill root, the save_skill a · ⭐0
 - [Jacobinwwey/dsh-NotEMD](https://github.com/Jacobinwwey/dsh-NotEMD) — Portable NoteMD workflow bundle for DeepSeek Harness: approval-gated markdown automation, knowledge indexing, diagrams, SVG previews, and Sl · ⭐0
-- [JayYuen666/dsh-danger-guard](https://github.com/JayYuen666/dsh-danger-guard) — (no description) · ⭐0
 - [JFWaskin/dsh-git-nexus](https://github.com/JFWaskin/dsh-git-nexus) 💤 — Unified Git + GitHub + workflow + files panel for the DeepSeek Harness (DSH) web profile. Community plugin tagged dsh-plugin. · ⭐0
 - [jhonden/my-dsh-plugins](https://github.com/jhonden/my-dsh-plugins) 💤 — Community plugins for the DeepSeek Harness (dsh): workspace file explorer for the Web UI (Files tab — tree, markdown preview, sandboxed read · ⭐0
 - [Jiachi5533/dsh-remote-gateway](https://github.com/Jiachi5533/dsh-remote-gateway) 💤 — Source-filtered remote gateway for DeepSeek Harness behind an authenticated reverse proxy · ⭐0
-- [jianghuifr/dsh-feishu-auth](https://github.com/jianghuifr/dsh-feishu-auth) — Feishu (Lark) OAuth login gate for the DeepSeek Harness web GUI — a signed session cookie in front of every HTTP request. · ⭐0
 - [JiewiW/dsh-derive-watcher](https://github.com/JiewiW/dsh-derive-watcher) — Semantic watcher plugin for DSH (L3): journey ledger, flash summarizer, MinHash novelty, milestone fold, context injection, 3-level stall re · ⭐0
 - [Jindom/dsh-bitwarden](https://github.com/Jindom/dsh-bitwarden) 💤 — Bitwarden/Vaultwarden credentials in every DSH session: vault tools + proactive prompt guidance + a settings card for the master password. · ⭐0
 - [JJDonald/dsh-telegram-login-approval](https://github.com/JJDonald/dsh-telegram-login-approval) — Telegram out-of-band login approval and task-completion notifications for DeepSeek Harness (DSH) · ⭐0
@@ -69,12 +69,11 @@
 - [Liyuk/dsh-quota-router](https://github.com/Liyuk/dsh-quota-router) 💤 — Policy-only multi-source quota router for DeepSeek Harness: deterministic task profiles, ordered candidate chains, health-aware fallback, su · ⭐0
 - [LJH-snow/dsh-tool-redis](https://github.com/LJH-snow/dsh-tool-redis) — Redis inspection and guarded write tools for DeepSeek Harness · ⭐0
 - [lll-77777777/dsh-wechat-approvals](https://github.com/lll-77777777/dsh-wechat-approvals) — DSH 微信插件 fork：桌面会话审批转发微信 + 双端批准 + 任务完成通知 (dsh-wechat-plugin 0.43.1 fork) · ⭐0
-- [lone-wolf-akela/dsh-sandboxie-redirect](https://github.com/lone-wolf-akela/dsh-sandboxie-redirect) — DSH bundle: a copy-on-write permission preset that runs shell commands in a per-workspace Sandboxie box · ⭐0
 - [longisland-icetea/dsh-lan-access](https://github.com/longisland-icetea/dsh-lan-access) 💤 — Open the DeepSeek Harness Web GUI's LAN access fences: serve on all interfaces, trust only the configured LAN authorities, and choose them f · ⭐0
 - [lornwolf/dsh-claude-subscription](https://github.com/lornwolf/dsh-claude-subscription) — Use a Claude Pro/Max subscription inside DeepSeek Harness: OAuth login, multi-account vault, quota cards and a settings panel. · ⭐0
 - [LPX-E5BD8/dsh-plugin-lark](https://github.com/LPX-E5BD8/dsh-plugin-lark) — Feishu/Lark bridge for DeepSeek Harness with streaming Card 2.0, tool approvals, and session routing · ⭐0
 - [Lstions/dsh-web-password-auth](https://github.com/Lstions/dsh-web-password-auth) — Username and password sign-in for the DeepSeek Harness Web UI, with persistent sessions, an in-app security settings page, and optional TOTP · ⭐0
-- [lt9/dsh-simple-auth](https://github.com/lt9/dsh-simple-auth) — Ultra-light dsh login gate: shared key or master/guest keys, ACL-filtered session list, owner-only share/unshare FAB. · ⭐0
+- [lt9/dsh-simple-auth](https://github.com/lt9/dsh-simple-auth) 💤 — Ultra-light dsh login gate: shared key or master/guest keys, ACL-filtered session list, owner-only share/unshare FAB. · ⭐0
 - [Luisarg03/dsh-memory-vault](https://github.com/Luisarg03/dsh-memory-vault) — Memoria OKF persistente para DeepSeek Harness: MCP server (SQLite FTS5 + markdown) + plugins memory-mcp / memory-auto · ⭐0
 - [lukethecat/dsh-plugin-warroom-garak](https://github.com/lukethecat/dsh-plugin-warroom-garak) 💤 — (no description) · ⭐0
 - [LuminariSoftwares/stack-guardian](https://github.com/LuminariSoftwares/stack-guardian) — 14 checks, one command, graded findings. A health doctor for a home AI stack: Ollama, NVIDIA GPUs, tailnet. · ⭐0
@@ -246,7 +245,7 @@
 - [yffo/tabellio-dsh](https://github.com/yffo/tabellio-dsh) — tabellio-dsh — memory for DeepSeek Harness: candidates first, you approve, recall with receipts. · ⭐0
 - [yonking305/arc-vista](https://github.com/yonking305/arc-vista) — 面向 Git 仓库的本地优先架构观测台——架构图、安全守护、业务知识图谱、复杂度与分支风险对比。 · ⭐0
 - [youchen-yc/dsh-security-judge](https://github.com/youchen-yc/dsh-security-judge) — 代码安全防御规则评审判官：自动识别做代码的会话，按《代码安全防御架构规则》强制评审并门禁，需要 1/2/多种架构推荐与冲突检查，发布含 SBOM 与签名。 · ⭐0
-- [yuanyiHY/dsh-rail-equalizer](https://github.com/yuanyiHY/dsh-rail-equalizer) — Make DSH's turn-navigator rail react to system audio in real time (Windows). WASAPI loopback capture via koffi - no permission prompt, no mi · ⭐0
+- [yuanyiHY/dsh-rail-equalizer](https://github.com/yuanyiHY/dsh-rail-equalizer) 💤 — Make DSH's turn-navigator rail react to system audio in real time (Windows). WASAPI loopback capture via koffi - no permission prompt, no mi · ⭐0
 - [YukimuraSol/dsh-ui-block](https://github.com/YukimuraSol/dsh-ui-block) — Page block + element chip: render a ::dsh-ui <name> [res=WxH]:: line's ui-blocks file in a sandboxed canvas, and render · ⭐0
 - [yuloop/dsh-secret-vault](https://github.com/yuloop/dsh-secret-vault) — DSH plugin: hand secrets to the agent without them entering the context · ⭐0
 - [yuna78/dsh-slayer](https://github.com/yuna78/dsh-slayer) — SLAYER — a cyber foreman for DSH: two delegation presets with call-time tool guards (a fixed 8-seat crew, or up to 3 day-rate temps). · ⭐0

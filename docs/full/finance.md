@@ -1,25 +1,26 @@
-# Finance & Markets — 131 entries (part 1/1)
+# Finance & Markets — 132 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [theBigGavin/marketingdashboard](https://github.com/theBigGavin/marketingdashboard) — 面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen:  · ⭐483
-- [Minara-AI/minara-skills](https://github.com/Minara-AI/minara-skills) — The skills for trading, to make your agent earn for you. · ⭐377
-- [zhu1090093659/dsh-trading](https://github.com/zhu1090093659/dsh-trading) — Agent-native trading terminal built on DeepSeek Harness. Crypto, US, CN and HK in one three-column GUI, 19+ hot-swappable connectors, dry-ru · ⭐352
+- [theBigGavin/marketingdashboard](https://github.com/theBigGavin/marketingdashboard) — 面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen:  · ⭐486
+- [Minara-AI/minara-skills](https://github.com/Minara-AI/minara-skills) 💤 — The skills for trading, to make your agent earn for you. · ⭐377
+- [zhu1090093659/dsh-trading](https://github.com/zhu1090093659/dsh-trading) — Agent-native trading terminal built on DeepSeek Harness. Crypto, US, CN and HK in one three-column GUI, 19+ hot-swappable connectors, dry-ru · ⭐356
 - [JingHao-Leon/dsh-alpha-desk](https://github.com/JingHao-Leon/dsh-alpha-desk) — 把 dsh 会话变成合规、可复现、可追责的 AI 投研工作台：ai-hedge-fund 回测 + risk-gate 风控 + cron 盯盘 + 记忆复盘 | compliance-first AI investment desk · ⭐168
 - [hyqibot/A-share-Ai](https://github.com/hyqibot/A-share-Ai) — 幻银量化A股阿法狗AlphaHYQi，100%由ai自主驱动的实盘交易机器。接入自产龙虾iClaw，手机端一句话控制四大模型同时干活。获取方法：前往https://hyqibot.com/card-shop.html 捐赠相应期限的服务卡*2即可获得，另有训练好的权重可洽。 A股 · ⭐135
-- [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) — MCP Connector for DeepSeek Harness: a data marketplace connecting enterprise, financial, legal, patent and research data. Manage authorizati · ⭐128
+- [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) — MCP Connector for DeepSeek Harness: a data marketplace connecting enterprise, financial, legal, patent and research data. Manage authorizati · ⭐130
 - [hancao97/hanai-investment-dsh](https://github.com/hancao97/hanai-investment-dsh) — Local-first A-share research workbench for DeepSeek Harness: market dashboards, watchlists, valuation, four investor agents, versioned repor · ⭐126
 - [dustinliang666-blip/lava-mcp](https://github.com/dustinliang666-blip/lava-mcp) — 熔岩 Lava：A 股股票与概念板块的消息面热度监测（结构化只读 MCP/REST，支持量化交易工具与 AI Agent 股市研究接入） · ⭐100
-- [Weaxs/stock-analysis-plugin](https://github.com/Weaxs/stock-analysis-plugin) — Stock research toolkit for AI agents — 73 tools + 21 skills for analysis, screening & backtesting across A/HK/US/JP/KR/TW markets. Works wit · ⭐94
+- [Weaxs/stock-analysis-plugin](https://github.com/Weaxs/stock-analysis-plugin) — Stock research toolkit for AI agents — 73 tools + 21 skills for analysis, screening & backtesting across A/HK/US/JP/KR/TW markets. Works wit · ⭐96
 - [Awu12277/dsh-stock-watch](https://github.com/Awu12277/dsh-stock-watch) 💤 — A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗 · ⭐87
 - [pengpengyi92/dsh-quant](https://github.com/pengpengyi92/dsh-quant) — "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS " · ⭐69
-- [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — Deterministic research reports for Chinese public mutual funds, as a DeepSeek Harness plugin: one fund code in, a versioned Markdown report  · ⭐68
-- [maddogfinance/dsh-trading](https://github.com/maddogfinance/dsh-trading) — Trading research workbench for DeepSeek Harness (dsh): typed market-data seam, deterministic indicators, interactive chart cards ｜ 交易研究工作台插件 · ⭐41
-- [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline) — 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。 · ⭐37
-- [v587d/capital-generation](https://github.com/v587d/capital-generation) — DSH插件：面向中国股市散户的金融投资智能体。Next-Gen AI-Driven Capital Gains Terminal. · ⭐35
+- [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — Deterministic research reports for Chinese public mutual funds, as a DeepSeek Harness plugin: one fund code in, a versioned Markdown report  · ⭐67
+- [Kide-Lee/dsh-locus-bridge](https://github.com/Kide-Lee/dsh-locus-bridge) — DSH plugin acting as a Locus client for the Unity native broker (Win32 named pipe / Unix domain socket) · ⭐46
+- [maddogfinance/dsh-trading](https://github.com/maddogfinance/dsh-trading) — Trading research workbench for DeepSeek Harness (dsh): typed market-data seam, deterministic indicators, interactive chart cards ｜ 交易研究工作台插件 · ⭐42
+- [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline) — 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。 · ⭐38
+- [v587d/capital-generation](https://github.com/v587d/capital-generation) — DSH插件：面向中国股市散户的金融投资智能体。Next-Gen AI-Driven Capital Gains Terminal. · ⭐36
 - [myc0576/SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) — Read-only trading journal and review harness: Jev typed judgments, agent integration, and a reproducible finance benchmark. No orders, no ad · ⭐26
 - [lehhair/dsh-diff-viewer](https://github.com/lehhair/dsh-diff-viewer) — DSH Web GUI PiUI-style diff viewer plugin: replaces the stock DiffBlock for write/edit tool calls via ui-tool diff-card chain slots (host pa · ⭐25
-- [KCNyu/clawock](https://github.com/KCNyu/clawock) — Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plugin) or your own scr · ⭐23
+- [KCNyu/clawock](https://github.com/KCNyu/clawock) — Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plugin) or your own scr · ⭐24
 - [AnacondaKC/dsh-stock-market](https://github.com/AnacondaKC/dsh-stock-market) 💤 — 有效解决了写代码的时候账户不能同时亏钱的BUG · ⭐21
 - [the-beating-light-of-the-nail/awesome-dsh-plugin-stock](https://github.com/the-beating-light-of-the-nail/awesome-dsh-plugin-stock) 💤 — Curated vertical list of stock/finance/quant plugins for DeepSeek Harness (dsh) — 24 verified entries, bilingual · ⭐20
 - [Tkingxiao/dsh-novel-solo](https://github.com/Tkingxiao/dsh-novel-solo) — DeepSeek Harness 的「单核写作」插件：面向量化小模型做了充分的工具瘦身与输出加固，适合在本机用本地模型跑长篇小说流水线。 · ⭐14
@@ -28,32 +29,33 @@
 - [kangjinghang/dsh-xueqiu](https://github.com/kangjinghang/dsh-xueqiu) — 雪球 mini 行情面板 — DeepSeek Harness 免登录 A股/港美股实时行情、K线、分时、热榜、7x24快讯。可拖拽悬浮面板，交易时段智能刷新。 · ⭐10
 - [linhut/dsh-stock-terminal](https://github.com/linhut/dsh-stock-terminal) 💤 — 股市行情皮肤+功能插件：DSH Web GUI 全局交易终端视觉 + 实时行情面板（A股/港股/美股/加密/外汇），自选跑马灯、首字母模糊搜索、持仓盈亏管理 · ⭐10
 - [linxichen/dsh-rigorquant](https://github.com/linxichen/dsh-rigorquant) — Adds capability to Deepseek harness to do rigorous quant finance work · ⭐10
+- [SuCriss/dsh-leekbox](https://github.com/SuCriss/dsh-leekbox) — 韭菜盒子 LeekBox — A股看盘助手 · DeepSeek Harness (DSH) 插件：实时行情与K线、自选股持仓盈亏与价格预警、13 项技术信号选股、涨停情绪与龙虎榜、7×24 快讯、AI 个股分析 | Realtime A-share dashboard plug · ⭐10
 - [wanderer-yk/dsh-xueqiu](https://github.com/wanderer-yk/dsh-xueqiu) — 雪球 mini 行情面板 — DeepSeek Harness 免登录 A股/港美股实时行情、K线、分时、热榜、7x24快讯。可拖拽悬浮面板，交易时段智能刷新。 · ⭐10
 - [kobenfang/bigA](https://github.com/kobenfang/bigA) 💤 — openclaw-skills BigA · A股智能选股（选股分析·量化交易·股票池） · ⭐9
 - [Realyujie/dsh-us-stocks](https://github.com/Realyujie/dsh-us-stocks) — US stock market data tools for DeepSeek Harness, powered by yahoo-finance2 · ⭐9
-- [SuCriss/dsh-leekbox](https://github.com/SuCriss/dsh-leekbox) — 韭菜盒子 LeekBox — A股看盘助手 · DeepSeek Harness (DSH) 插件：实时行情与K线、自选股持仓盈亏与价格预警、13 项技术信号选股、涨停情绪与龙虎榜、7×24 快讯、AI 个股分析 | Realtime A-share dashboard plug · ⭐9
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) 💤 — (no description) · ⭐9
 - [shine-233/dsh-waimao](https://github.com/shine-233/dsh-waimao) 💤 — 外贸获客插件 for DeepSeek Harness (dsh): Google 三层搜客 + WhatsApp 客服审核台 + 邮件触达闭环 (ICP 评分/跟进序列/CRM/报价PDF), 零依赖 · ⭐8
 - [PM25000/dsh-ths-holdings](https://github.com/PM25000/dsh-ths-holdings) — DSH 持仓盈亏悬浮卡片（同花顺投资账本）— 自动同步真实持仓数据，显示今日盈亏、上证指数和当日走势图，无需手动添加股票。 · ⭐6
 - [sfeng49/ashare-agent](https://github.com/sfeng49/ashare-agent) 💤 — 基于 DeepSeek Harness + AKShare 的本地 A 股 AI Agent 工作台：数据获取 / 每日晨报 / 交易复盘三大技能，只做分析、不做交易。 · ⭐6
+- [c-ling/dsh-plugin-goldboard](https://github.com/c-ling/dsh-plugin-goldboard) — DeepSeek Harness 黄金实时看板与策略诊断插件：Au99.99/XAU/CMB 行情、独立交易日历、招行双边历史、持仓建议与探索性回放。 · ⭐5
 - [initial-d/dsh-plugin-mlquant-benchmark](https://github.com/initial-d/dsh-plugin-mlquant-benchmark) — DeepSeek Harness tools for reproducing the ml-quant-trading protocol v1 benchmark. · ⭐5
 - [lolipop-1x1/dsh-you-should-know](https://github.com/lolipop-1x1/dsh-you-should-know) — A DeepSeek Harness plugin that surfaces important facts, trade-offs, and useful context while your AI agent works. · ⭐5
 - [megatronyy/dsh-tradingagents](https://github.com/megatronyy/dsh-tradingagents) 💤 — TradingAgents for DeepSeek Harness: the 14-role A-share multi-agent analysis pipeline behind /trading-agent · ⭐5
+- [prgrmrwy/dsh-magpie-connector](https://github.com/prgrmrwy/dsh-magpie-connector) — DeepSeek Harness plugin: connect a self-hosted Magpie gateway with one real provider route per upstream owner (grouped model picker on stock · ⭐5
 - [tianyagk/dsh-tradewatcher](https://github.com/tianyagk/dsh-tradewatcher) — DeepSeek Harness (DSH) web plugin: 盯盘 market-dashboard sidebar tab — three quote strips with hover intraday charts, watchlist with industry  · ⭐5
 - [dmsobtl/dsh-quant-workbench](https://github.com/dmsobtl/dsh-quant-workbench) — 基于 DeepSeek Harness 的量化研究工作台 — A 股、美股、加密货币一站式分析。 · ⭐5
 - [0xRabit/dsh-crypto-portfolio](https://github.com/0xRabit/dsh-crypto-portfolio) — A free, 100% self-hosted DeepSeek Harness plugin that unifies your on-chain and CEX assets. · ⭐4
 - [534119219/dsh-custom-provider-reasoning](https://github.com/534119219/dsh-custom-provider-reasoning) 💤 — dsh 插件：让自定义提供方（pi-ai 手写路由）的所有模型都能选择思考强度（推理等级），选择经原厂适配器真正发往线上。A dsh plugin giving every custom-provider model selectable reasoning effort, wi · ⭐4
-- [c-ling/dsh-plugin-goldboard](https://github.com/c-ling/dsh-plugin-goldboard) — DeepSeek Harness 黄金实时看板与策略诊断插件：Au99.99/XAU/CMB 行情、独立交易日历、招行双边历史、持仓建议与探索性回放。 · ⭐4
 - [FeiZhuNiU-INFJA/dsh-stock-ticker](https://github.com/FeiZhuNiU-INFJA/dsh-stock-ticker) 💤 — dsh-plugin: floating semi-transparent market ticker for DeepSeek Harness — 上证指数 / 创业板指 / 科创50 / 恒生科技 · ⭐4
 - [kentleenot/dsh-trading-toolkit](https://github.com/kentleenot/dsh-trading-toolkit) 💤 — A-share + US stock trading toolkit for DeepSeek Harness agents: quotes, klines, ADX regime signal, backtest preview. Read-only by design. · ⭐4
 - [LipingAn04/dsh-index-fund-guide](https://github.com/LipingAn04/dsh-index-fund-guide) — 《指数基金投资指南》(银行螺丝钉) 的估值—定投—卖出体系，DSH 插件：9 份参考文档 + 4 个零依赖脚本 + 34 项保真测试 · ⭐4
 - [Noelune/dsh-agent-relay](https://github.com/Noelune/dsh-agent-relay) — Local multi-agent collaboration relay for DeepSeek Harness — HMAC-authenticated loopback message broker for dsh, Codex, Claude Code & Hermes · ⭐4
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) 💤 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存 · ⭐4
-- [prgrmrwy/dsh-magpie-connector](https://github.com/prgrmrwy/dsh-magpie-connector) — DeepSeek Harness plugin: connect a self-hosted Magpie gateway with one real provider route per upstream owner (grouped model picker on stock · ⭐4
 - [tiantianlaolao/dsh-astock-research](https://github.com/tiantianlaolao/dsh-astock-research) 💤 — A股个股研究助手 - DeepSeek Harness (dsh) 插件：股票搜索/历史公告/财报/画像/信号科普，附合规 skill · ⭐4
 - [Bob-Bo1/dsh-stock-watch](https://github.com/Bob-Bo1/dsh-stock-watch) 💤 — DeepSeek Harness (DSH) plugin for local A-share portfolio tracking. Reads a local holdings.json and shows quotes and P&L in the sidebar. · ⭐3
 - [fashionmascherine-svg/dsh-polymarket-knowhow](https://github.com/fashionmascherine-svg/dsh-polymarket-knowhow) — DeepSeek Harness plugin (dsh-plugin): complete Polymarket superpowers — 31 verified tools across Gamma/CLOB/Data-API/Perps/RFQ/Bridge, embed · ⭐3
 - [GeekRicardo/claude-in-dsh](https://github.com/GeekRicardo/claude-in-dsh) — 在 dsh web 里用本机 Claude Code 驱动会话：原生渲染、权限档、模型/effort、命令面板、broker 托管进程 · ⭐3
+- [gigaflw/dsh-fft-paper-trading](https://github.com/gigaflw/dsh-fft-paper-trading) — 在 DSH 中进行模拟交易，支持 A 股与商品期货（stock & futures paper trading），本地账本，内置 FTShare 数据源与 K 线，无需购买 API Key 也可用日 K 收盘价练习 · ⭐3
 - [pg527322814/dsh-bayes-predict](https://github.com/pg527322814/dsh-bayes-predict) — dsh-贝叶斯个股预测插件：卡尔曼增益融合的上涨概率估计、策略回测与全市场选股、自选股实时跟踪（A 股 + 美股） · ⭐3
 - [sjdhdbbf/dsh-drawai-vectorizer](https://github.com/sjdhdbbf/dsh-drawai-vectorizer) — DSH 右侧栏可编辑画布 + AI 绘图工具的增强 fork：新增 vtracer 高质量矢量化引擎（贝塞尔样条 / 每通道位深 / 一半核心并行） · ⭐3
 - [uckkk/dsh-live-data](https://github.com/uckkk/dsh-live-data) 💤 — 实时数据聚合插件（10 个工具 / 8 个免密钥公开接口）：汇率、天气、npm、GitHub、PyPI、B站、A股、大盘、金价（元/克）、IP 归属地。All-in-one live-data plugin for DeepSeek Harness. · ⭐3
@@ -64,11 +66,10 @@
 - [advance-lion/dsh-brand](https://github.com/advance-lion/dsh-brand) — 方便魔改作者轻量化自定义商标 · ⭐2
 - [codingDuan/dsh-plugin-xquant](https://github.com/codingDuan/dsh-plugin-xquant) 💤 — One-command xquant MCP integration for DeepSeek Harness · ⭐2
 - [ggban666/deepseek-harness-diechi](https://github.com/ggban666/deepseek-harness-diechi) 💤 — 蝶翅APP · DSH 改版整合版 — 一键启动本地 AI 工作台。本地 Qwen3.8-27B 大模型对话（懒加载 + KV 量化，8GB 显存跑 32K 上下文）+ MiniCPM-V 实时视觉 + Kokoro 语音 + 平权技能 + 全局大脑。三架构自进化基座（被升级者/ · ⭐2
-- [gigaflw/dsh-fft-paper-trading](https://github.com/gigaflw/dsh-fft-paper-trading) — 在 DSH 中进行模拟交易，支持 A 股与商品期货（stock & futures paper trading），本地账本，内置 FTShare 数据源与 K 线，无需购买 API Key 也可用日 K 收盘价练习 · ⭐2
 - [helibeiqi/dsh-quant-data-mcp](https://github.com/helibeiqi/dsh-quant-data-mcp) 💤 — Zero-dependency MCP stdio server template + ready-to-use A-share data tools for DeepSeek Harness (dsh). No API key, all env-var paths, stand · ⭐2
 - [mingzeng21/dsh-stock-mentions](https://github.com/mingzeng21/dsh-stock-mentions) — 你在 DSH 对话中提到的股票名称或股票代码，会自动变成可点击按钮——点一下，行情和资讯就在右侧侧边栏展开。 · ⭐2
 - [minyang-chen/dsh-stock-lookup](https://github.com/minyang-chen/dsh-stock-lookup) 💤 — DSH plugin: resolve company names to stock symbols via SEC EDGAR and fetch live quotes via Yahoo Finance · ⭐2
-- [NoCandles/dsh-stock-bar](https://github.com/NoCandles/dsh-stock-bar) — DeepSeek Harness 插件：窗口顶部常驻股票行情条——自选股、持仓（股数与成本）、盈亏、K线/分时图、盘口、成交记录、预警、AI 复盘。 · ⭐2
+- [NoCandles/dsh-stock-bar](https://github.com/NoCandles/dsh-stock-bar) — DeepSeek Harness 插件：窗口顶部常驻股票行情条——自选与持仓盈亏、K线/分时、五档盘口、成交流水、价格预警、AI 复盘（可追问/定时跟踪），装了 dsh-better-sidebar 时还可作为右侧栏「股票」页打开。 · ⭐2
 - [Snowball-labbot/Portfolio-OS](https://github.com/Snowball-labbot/Portfolio-OS) — (no description) · ⭐2
 - [ZHUBAI0528/dsh-client-ui-aqua-community-fix](https://github.com/ZHUBAI0528/dsh-client-ui-aqua-community-fix) — Aqua 玻璃质感主题 · 适配 DeepSeek Harness V0.2.1-rc.3 · glassmorphism theme for DSH: adjustable blur/frost, fluid or wallpaper backdrop, unified cor · ⭐2
 - [eclipti/dsh-invest-research](https://github.com/eclipti/dsh-invest-research) 💤 — A-share full-chain investment research plugin for DeepSeek Harness: real-time quote, Buffett-style value scoring, risk radar and institution · ⭐2

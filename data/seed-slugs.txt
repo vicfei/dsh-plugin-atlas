@@ -542,6 +542,7 @@ AHIOSUZ/dsh-workspace-tools
 AI-Galaxy-GPU/dsh-sound
 AI-Scarlett/DSH_CLIAPI
 AI-Scarlett/build-dsh-plugin
+AI4XE/Parallax
 AIBanlv/AIBanlv-Bot
 AIR-pixel/air-pixel-liquid-glass
 AIRIKE1/dsh-ide-panels
@@ -1062,6 +1063,7 @@ ButterHost69/dsh-login-gateway
 BuvkB/dsh-vaultwarden
 Buzzso/dsh-sev
 Byte-Naut/dsh-plugin-probe
+Bytedesk/bytedesk
 ByxHuster/DSH-Paper-Highlighting-Agent
 C3H3-AI/dsh-mobile-fix
 CAI-MH/dsh-agent-bridge
@@ -2668,6 +2670,7 @@ Khorsheed/dsh-ankh-guard
 Khorsheed/dsh-web-basic
 Kian-Oraish/dsh-prompt-enchant
 Kickstartparty3459/dsh-ios
+Kide-Lee/dsh-locus-bridge
 Kihara777/NixKits
 Kihara777/dsh-api-balance
 KikaiLastest/dsh-memory-core
@@ -10184,6 +10187,7 @@ oliblue-evan/dsh-roleplay-preset
 oliblue-evan/dsh-usage-pill
 olicesx/kixparadigm
 olimc2016/dsh-token-meter-panel
+omagents/omagents
 omdsh-dev/7d7d
 omdsh-dev/DSH-better-sidebar
 omdsh-dev/Qwen-MM-Plugins
@@ -10275,6 +10279,7 @@ omni-/containerize-dsh
 omoinoki/dsh-sekaisync-connect
 onchainyaotoshi/dsh-plugins
 onclaw-dev/dsh-workflow-designer
+oneclickvirt/ecs
 onehumanbeing/esp32-iphone-agent
 oneinitAI/dsh-thunderforge
 onesmash/dsh-reflex
@@ -11377,6 +11382,7 @@ sugarforever/dsh-lark
 sugarforever/dsh-plugins
 sugarmaster666/dsh-persona-forge
 sugarxl/dsh-safety
+suifei/dsh-ai-team
 suimi8/dsh-cost-ledger
 sujalmandal/dsh-tab-plan-toggle
 sujingkpo/dsh-auto-pass

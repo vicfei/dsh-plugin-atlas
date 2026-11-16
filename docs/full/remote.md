@@ -2,13 +2,13 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) — Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole resear · ⭐567
+- [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) — Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole resear · ⭐568
 - [uumit-ai/dsh-uumit-remote](https://github.com/uumit-ai/dsh-uumit-remote) — (no description) · ⭐524
 - [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) — 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app · ⭐160
 - [SCSpotato/dsh-remote](https://github.com/SCSpotato/dsh-remote) 💤 — Native Android client to remotely control DeepSeek Harness (DSH) from your phone · ⭐95
-- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) — DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行） · ⭐59
-- [caoyiwei850/dsh-ssh-ops](https://github.com/caoyiwei850/dsh-ssh-ops) — DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。 · ⭐58
-- [xiazhi88/dshgo](https://github.com/xiazhi88/dshgo) — DSH Go —— 在手机/平板上用 DeepSeek Harness。Android App + 让电脑可达的 DSH 插件。 · ⭐57
+- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) — DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行） · ⭐66
+- [xiazhi88/dshgo](https://github.com/xiazhi88/dshgo) — DSH Go —— 在手机/平板上用 DeepSeek Harness。Android App + 让电脑可达的 DSH 插件。 · ⭐59
+- [caoyiwei850/dsh-ssh-ops](https://github.com/caoyiwei850/dsh-ssh-ops) — DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。 · ⭐57
 - [chenw2759-wq/dsh-IDE](https://github.com/chenw2759-wq/dsh-IDE) 💤 — dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服 · ⭐43
 - [Thanksgiver233/dsh-mobile](https://github.com/Thanksgiver233/dsh-mobile) 💤 — DeepSeek Harness Mobile 是 DeepSeek Harness 的 Android 原生应用，将原本仅支持 PC 浏览器的 AI Agent 框架完整迁移至移动端。采用 Kotlin + Jetpack Compose 开发，内置 Node.js ARM64 · ⭐33
 - [lehhair/dsh-mobile](https://github.com/lehhair/dsh-mobile) 💤 — (no description) · ⭐26
@@ -24,7 +24,7 @@
 - [CWNU-Open-Source-Community/dsh-webgate](https://github.com/CWNU-Open-Source-Community/dsh-webgate) 💤 — DSH 远程访问插件：内网二维码 / cloudflared 隧道 / frp+自有服务器（含登录门户） · ⭐8
 - [demacia1314/dsh-airdrop](https://github.com/demacia1314/dsh-airdrop) — ⭐ 支持拖拽上传文件/文件夹到 DSH 窗口任意位置；支持远程上传，字节直传服务器会话工作区——部署在服务器上的 DSH 也能像本地一样拖了就发。 · ⭐8
 - [Funny1Potato/dsh-onebot-hub](https://github.com/Funny1Potato/dsh-onebot-hub) — OneBot v11 hub for DeepSeek Harness: relays QQ events verbatim to downstream bots while giving the agent a full timeline, action ledger and  · ⭐8
-- [kinderao/dsh-pocket-relay](https://github.com/kinderao/dsh-pocket-relay) — (no description) · ⭐7
+- [kinderao/dsh-pocket-relay](https://github.com/kinderao/dsh-pocket-relay) 💤 — (no description) · ⭐7
 - [yuchen1017918/dsh-fusion](https://github.com/yuchen1017918/dsh-fusion) — 融合版 Android DSH：预置 bionic Node 24 + PRoot 双运行时、22 个 android_* 设备工具、离线语音唤醒与桌宠。独立包名 io.dsh.fusion，可与其它 DSH 安卓版并排安装。 · ⭐7
 - [Linjiangxian0203/dsh-remote-tunnel](https://github.com/Linjiangxian0203/dsh-remote-tunnel) — Remote Host Tunnel Manager for dsh: remote port allocation + registry + resilient SSH tunnel · ⭐6
 - [mazov2love/dsh-remote-control](https://github.com/mazov2love/dsh-remote-control) — 为 Agent 提供直接操控本机完整 DSH 实例的能力：目标 DSH 无需安装任何插件或额外组件，零侵入，开箱即用、无需手动配置，并提供接近用户的操作语义、增量读取、引用保存以及远端会话与工作区搜索等功能。 · ⭐6
@@ -93,7 +93,7 @@
 - [ivanant/dsh-simple-remote](https://github.com/ivanant/dsh-simple-remote) — 这是一款 DeepSeek Harness Plugin，安装后无需设置，手机即可访问 · ⭐0
 - [jxboop/dsh-plugin-mobile-bridge](https://github.com/jxboop/dsh-plugin-mobile-bridge) — 给 DeepSeek Harness 用的手机端插件：在手机上发图/发视频/下发任务、实时看输出、插话与撤回、把电脑给的素材存进相册；局域网 / Tailscale Funnel 外网可达 · ⭐0
 - [jyb114/pocket-bridge](https://github.com/jyb114/pocket-bridge) — A lightweight, encrypted phone interface for DeepSeek Harness on your Windows PC, with an optional DSH Settings plugin for pairing, gateway  · ⭐0
-- [kaelorvyn/dsh-mobile](https://github.com/kaelorvyn/dsh-mobile) — 把 DeepSeek Harness 装进手机：扫码即连、免密码，电脑上可查看并逐台收回手机访问权限。含 dsh-pocket 魔改版插件 (GPL-2.0) 与 Android App。 · ⭐0
+- [kaelorvyn/dsh-mobile](https://github.com/kaelorvyn/dsh-mobile) 💤 — 把 DeepSeek Harness 装进手机：扫码即连、免密码，电脑上可查看并逐台收回手机访问权限。含 dsh-pocket 魔改版插件 (GPL-2.0) 与 Android App。 · ⭐0
 - [liushQAQ/dsh-anywhere](https://github.com/liushQAQ/dsh-anywhere) — 专为 DSH iOS App 与多终端协同打造：多设备同时在线无缝切换、实时同屏收发、锁屏秒级自愈（Fast-Resume），支持局域网 3082/3083 隔离与三层通用稳定外网通道。 · ⭐0
 - [Missher12/dsh-missher-evolution](https://github.com/Missher12/dsh-missher-evolution) — Privacy-bounded self-improvement plugin for DeepSeek Harness；桌面入口与其他插件见主页链接。 · ⭐0
 - [Missher12/Missher-MSE-Learning](https://github.com/Missher12/Missher-MSE-Learning) — Missher MSE Learning: standalone learning product for DSH and other agents; no personal learning data.；桌面入口与其他插件见主页链接。 · ⭐0

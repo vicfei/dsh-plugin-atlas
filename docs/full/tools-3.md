@@ -1,7 +1,16 @@
-# Tools & Integrations — 2321 entries (part 3/3)
+# Tools & Integrations — 2329 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [JinSuperOfficial/dsh-proxy-switcher](https://github.com/JinSuperOfficial/dsh-proxy-switcher) — 一款为 dsh 打造的代理热切换插件。支持在设置界面实时切换直连/系统/自定义代理，无需重启 dsh，彻底告别修改代理必须重启的烦恼 · ⭐0
+- [JinYihang1011/dsh-plugins](https://github.com/JinYihang1011/dsh-plugins) — DSH 本地插件集：虎符咒（插件共存领地体检）、界面微调、Windows 通知、会话操作、界面菜单。每个插件一个子目录，各带自测。 · ⭐0
+- [jo32/dsh-hackernews-reader](https://github.com/jo32/dsh-hackernews-reader) 💤 — A dsh-plugin Hacker News reader with app-scoped AI conversations for DeepDeck. · ⭐0
+- [jo32/dsh-nga-reader](https://github.com/jo32/dsh-nga-reader) 💤 — A dsh-plugin NGA reader with app-scoped AI conversations for DeepDeck. · ⭐0
+- [jockiller/dsh-translator](https://github.com/jockiller/dsh-translator) 💤 — 基于 DeepSeek Harness (DSH) 插件规范打造的输入框悬浮快捷翻译与历史找回挂件。支持直接复用当前会话已选大模型，内置智谱 AI 免费模型预设，并支持添加多个自定义 OpenAI 兼容接口。 · ⭐0
+- [JohnXu22786/calendar](https://github.com/JohnXu22786/calendar) — CalDAV + iCalendar + RRULE calendar integration bundle for DeepSeek Harness (dsh), with Chinese-bias (lunar calendar / holidays / Asia/Shang · ⭐0
+- [JohnXu22786/file-planning](https://github.com/JohnXu22786/file-planning) 💤 — trailmap（轨迹地图）：磁盘持久化的执行规划插件——里程碑/步骤状态机、依赖标注、审计事件与复盘纪要，提供 dsh 工具、CLI 与技能三种接口 · ⭐0
+- [jonah791/dsh-agent-checkpoint](https://github.com/jonah791/dsh-agent-checkpoint) — 存档点管理器：最后的保活机制 + 试错回滚工具。定时/事件/主人指令创建健康存档点（记忆库+灵魂+校验和），验证器确保存档可启动，出事后一键恢复最近健康点。 · ⭐0
+- [jonah791/dsh-agent-toolface](https://github.com/jonah791/dsh-agent-toolface) — 工具面分档（DSH agent preset 行）：按证据化的 deny 集在 agent 作用域收窄模型可见工具，lean/full 一键切换 + 审计留痕，降低工具 schema 的固定上下文成本与工具选择稀释。 · ⭐0
 - [JunKoProject/dsh-read-book](https://github.com/JunKoProject/dsh-read-book) — Four free libraries in one window: Gutenberg and Shuge give real download links, NCPSSD searches, ctext is link-only. · ⭐0
 - [Jupiter1949/dsh-plugins](https://github.com/Jupiter1949/dsh-plugins) 💤 — DSH plugin monorepo: cot-smart + future DeepSeek Harness plugins · ⭐0
 - [juzikexue/dsh-paper-digest](https://github.com/juzikexue/dsh-paper-digest) — (no description) · ⭐0
@@ -207,7 +216,6 @@
 - [potterlee369-prog/dsh-vscode-opener](https://github.com/potterlee369-prog/dsh-vscode-opener) 💤 — 在deepseek harness聊天框加入VS code和文件管理器按钮 · ⭐0
 - [praystring/dsh-send-debounce](https://github.com/praystring/dsh-send-debounce) — 把聊天框里连发的几条短消息合并成一轮后再唤醒模型（DSH 插件） · ⭐0
 - [prettyfox/dsh-selection-quote-auto](https://github.com/prettyfox/dsh-selection-quote-auto) — DeepSeek Harness plugin: select text in assistant messages to copy it and open an inline comment chip (fork of dsh-selection-quote) · ⭐0
-- [project-hy/dsh-claude-delegate](https://github.com/project-hy/dsh-claude-delegate) — DSH 插件：把自包含的编码子任务委派给本机 Claude Code（官方 Agent SDK），后台作业 + 实时输出通道 + 监控面板 + 运行时技能；npm: dsh-claude-delegate · ⭐0
 - [Pudge1996/dsh-task-feedback](https://github.com/Pudge1996/dsh-task-feedback) — (no description) · ⭐0
 - [qianai05233/dsh-codex-preset](https://github.com/qianai05233/dsh-codex-preset) — Codex-mode agent preset for DSH: explore → plan → implement → verify → integrate · ⭐0
 - [qianTouchFish/dsh-deepseek-balance](https://github.com/qianTouchFish/dsh-deepseek-balance) — (no description) · ⭐0
@@ -231,7 +239,7 @@
 - [qwq1999/dsh-ide-database](https://github.com/qwq1999/dsh-ide-database) — DeepSeek Harness（DSH）的 JetBrains Database 风格数据源插件：右侧边栏的数据库工具窗，以及一组供 Agent 查询/操作数据库的工具。 · ⭐0
 - [rans725/dsh-workspace-ranswork](https://github.com/rans725/dsh-workspace-ranswork) — dsh会话总览插件 · ⭐0
 - [raven3005672/dsh-plugin-highlight-notes](https://github.com/raven3005672/dsh-plugin-highlight-notes) — DSH 批注插件：在回答里标注文字并写备注，一键把引用放回输入框。 · ⭐0
-- [RCYD857/857-dsh-file-attach](https://github.com/RCYD857/857-dsh-file-attach) — (no description) · ⭐0
+- [RCYD857/857-dsh-file-attach](https://github.com/RCYD857/857-dsh-file-attach) 💤 — (no description) · ⭐0
 - [Rczlin/dsh-better-reasoning](https://github.com/Rczlin/dsh-better-reasoning) — (no description) · ⭐0
 - [referiw/dsh-plugin-tieba](https://github.com/referiw/dsh-plugin-tieba) — 只读百度贴吧的 DeepSeek Harness 插件：全量翻页、动态抽样、楼中楼、按楼层取图 · ⭐0
 - [RetiredPhysicist/dsh-plugins](https://github.com/RetiredPhysicist/dsh-plugins) — RetiredPhysicist dsh-plugins · ⭐0

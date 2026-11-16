@@ -1,7 +1,8 @@
-# Models & Providers — 1816 entries (part 3/3)
+# Models & Providers — 1817 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
 - [zlwzk/dsh-friends](https://github.com/zlwzk/dsh-friends) — DSH whale friends: see whether your fellow DeepSeek Harness users are online and whether their model is running a task. Signatures, mood, po · ⭐0
 - [Zn-Dk/dsh-zhipu-toolkit](https://github.com/Zn-Dk/dsh-zhipu-toolkit) — Zhipu BigModel/GLM provider toolkit for DeepSeek Harness: dual-endpoint model catalog (Coding Plan + ordinary API), verified thinking-level  · ⭐0

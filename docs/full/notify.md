@@ -1,10 +1,10 @@
-# Notifications & Bridges — 141 entries (part 1/1)
+# Notifications & Bridges — 143 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐549
-- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐259
-- [lizi600jin/dsh-ensp](https://github.com/lizi600jin/dsh-ensp) — Automate Huawei eNSP labs: generate .topo files, start and stop devices, and push configuration one command at a time with per-command error · ⭐76
+- [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐548
+- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐260
+- [lizi600jin/dsh-ensp](https://github.com/lizi600jin/dsh-ensp) — Automate Huawei eNSP labs: generate .topo files, start and stop devices, and push configuration one command at a time with per-command error · ⭐94
 - [automagik-si/omni](https://github.com/automagik-si/omni) — Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform · ⭐70
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) — DeepSeek Harness 原生风格提示音插件 · ⭐37
 - [temotee2103/dsh-overdrive](https://github.com/temotee2103/dsh-overdrive) 💤 — The OpenClaw of DeepSeek Harness — turn DSH into a multi-platform chat agent with in-chat trajectory tracing, subagents & cron, and one-comm · ⭐23
@@ -20,19 +20,19 @@
 - [534119219/chicheng-cron](https://github.com/534119219/chicheng-cron) 💤 — DSH 定时任务插件：侧栏「定时任务」入口，cron 定时执行 shell / python / node 脚本、Skill 与 Agent 任务；支持 chicheng-push 与 messaging-core 推送通知、会话归档、移动端适配。 · ⭐7
 - [534119219/chicheng-push](https://github.com/534119219/chicheng-push) 💤 — DSH(DeepSeek Harness) Web 消息推送插件：多渠道推送(Server酱/PushPlus/Bark/钉钉/企微/Telegram/飞书/Webhook等)，设置界面提供「推送插件」入口，可被其他插件调用(pushNotifier 服务 / /push/api · ⭐7
 - [LoserFox/telegram](https://github.com/LoserFox/telegram) 💤 — Telegram Bot API 桥接插件：长轮询、per-chat 会话、HTML 格式化 · ⭐7
+- [SciF-Lin/dsh-notify-sound-plus](https://github.com/SciF-Lin/dsh-notify-sound-plus) — DSH 提示音插件：任务完成/需要回答/需要授权/出错四类事件的 Web Audio 实时合成提示音，可在通用设置里逐事件选音、上传自定义音频，对话左下角有临时静音喇叭；兼容桌面端与网页端 · ⭐7
 - [LitoMore/agent-discord-presence](https://github.com/LitoMore/agent-discord-presence) — Discord Rich Presence for Codex, Claude Code, OpenCode, Pi, and DeepSeek Harness, powered by one local service that keeps your active work v · ⭐6
-- [SciF-Lin/dsh-notify-sound-plus](https://github.com/SciF-Lin/dsh-notify-sound-plus) — DSH 提示音插件：任务完成/需要回答/需要授权/出错四类事件的 Web Audio 实时合成提示音，可在通用设置里逐事件选音、上传自定义音频，对话左下角有临时静音喇叭；兼容桌面端与网页端 · ⭐6
 - [534119219/chicheng-peak](https://github.com/534119219/chicheng-peak) 💤 — DSH 峰谷提醒插件：DeepSeek 官方峰谷时段感知——高峰橙/低峰蓝贴边呼吸边框、流光效果、服务端消息推送提醒（自定义标题内容）。Peak/valley breathing border + push reminder for DSH. · ⭐5
 - [AbcdefgXW/dsh-msg-hub](https://github.com/AbcdefgXW/dsh-msg-hub) — dsh IM 渠道桥：微信/QQ/飞书接入 + 主动推送 | IM channel bridge for dsh: WeChat/QQ/Feishu with proactive push · ⭐5
 - [gameswu/dsh-notifacation-frame](https://github.com/gameswu/dsh-notifacation-frame) 💤 — dsh通知消息统一管理框架 · ⭐5
 - [Laplace-bit/dsh-bell-notify](https://github.com/Laplace-bit/dsh-bell-notify) 💤 — Configurable, unobtrusive Web Audio lifecycle notifications for DeepSeek Harness (dsh): 10 events, custom sounds, offline playback. · ⭐5
+- [pc439527/dsh-notify-bark](https://github.com/pc439527/dsh-notify-bark) — (no description) · ⭐5
 - [YiMlT/dsh-notify-yimit](https://github.com/YiMlT/dsh-notify-yimit) — DeepSeek Harness 通知插件:在 **任务完成 / 任务出错 / 运行中 / 等待审批 / 等待回答** 时提醒用户。 通知标题为对话标题;系统通知与自定义通知均支持**点击跳转到对应会话**。 · ⭐5
 - [congchuanling-dot/DSH-Telegram-Relay](https://github.com/congchuanling-dot/DSH-Telegram-Relay) 💤 — DSH Relay 让你可以通过 Telegram 远程与 DeepSeek Harness 对话，并接收通知。DSH Relay turns Telegram into a remote conversation and notification channel for Dee · ⭐4
 - [Edge-Echo/dsh-win-toolkit](https://github.com/Edge-Echo/dsh-win-toolkit) — Windows-native capability pack for DeepSeek Harness (dsh): clipboard, notifications, hosts file, network diagnostics and more — safe PowerSh · ⭐4
 - [ldchaowin/dsh-plugin-notify-sound](https://github.com/ldchaowin/dsh-plugin-notify-sound) 💤 — notify sound for DeepSeek harness · ⭐4
 - [MaybeMeibeMaybi/dsh-harmonyos-hiboard](https://github.com/MaybeMeibeMaybi/dsh-harmonyos-hiboard) — Push DeepSeek Harness (dsh) task results to Huawei HarmonyOS assistant-today service cards. Compatible with dsh 0.1.5 / cordis 4. · ⭐4
 - [nienieai/dsh-chime-alerts](https://github.com/nienieai/dsh-chime-alerts) — DSH 声音提醒插件:Agent 工作事件的声音提醒,每类事件独立开关、声音与音量,浏览器合成音 + 跨平台系统蜂鸣(Windows/Linux/macOS),工作区快捷静音,默认声音零版权负担 · ⭐4
-- [pc439527/dsh-notify-bark](https://github.com/pc439527/dsh-notify-bark) — (no description) · ⭐4
 - [V-Reason/dsh-task-notify](https://github.com/V-Reason/dsh-task-notify) — DeepSeekHarness任务完成时进行消息推送提醒（微信+Windows通知） · ⭐4
 - [ZBber-lab/cau-portal-open](https://github.com/ZBber-lab/cau-portal-open) — 农大门户（cau-portal）：中国农业大学通知公告 DSH 插件 + 爬虫/AI 加工管道（开源工具，数据由使用者自建） · ⭐4
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) — Native Windows toast + taskbar flash for DeepSeek Harness when a task finishes or your input is needed. · ⭐3
@@ -43,6 +43,8 @@
 - [Jxxxxx729/dsh-win-notify](https://github.com/Jxxxxx729/dsh-win-notify) — DeepSeek Harness 插件：在 Windows 通知栏提示对话完成、等待选择、等待授权或需要登录，点击通知直接跳回对应对话。Toast 以 DeepSeek Harness 应用身份发出。 · ⭐3
 - [kaixinbaba/dsh-complete-notify](https://github.com/kaixinbaba/dsh-complete-notify) 💤 — 任务完成时播放提示音并弹出小通知（页面内 toast + 后台时系统通知）。纯浏览器方案，零系统依赖，跨 Windows/macOS/Linux。 · ⭐3
 - [QinpanWan/dsh-hiboard-push](https://github.com/QinpanWan/dsh-hiboard-push) 💤 — Push task-completion messages to the Huawei HarmonyOS assistant-today (负一屏) card feed from DeepSeek Harness — wire-compatible with the OpenC · ⭐3
+- [STARDUSTLC666/dsh-dingtalk](https://github.com/STARDUSTLC666/dsh-dingtalk) — DSH 钉钉通知：向自定义群机器人发送文本或 Markdown，支持签名配置与自检。欢迎提交 issues。 · ⭐3
+- [STARDUSTLC666/dsh-slack](https://github.com/STARDUSTLC666/dsh-slack) — DSH Slack 工具：通知、Socket Mode 收件箱、线程回复、连接状态与受控重连。欢迎提交 issues。 · ⭐3
 - [ThreeBody6666/dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) 💤 — Multi-platform IM gateway for DeepSeek Harness: Feishu (Lark), WeCom (WeChat Work), and Telegram. One agent per chat, whitelist access, no p · ⭐3
 - [zhengjy01/dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher) — Task dispatcher for DeepSeek Harness: use TickTick (滴答清单) as the daily task dispatcher — a cordis timer pulls today's due tasks, writes them · ⭐3
 - [a23842/dsh-notifier](https://github.com/a23842/dsh-notifier) — (no description) · ⭐2
@@ -66,6 +68,7 @@
 - [173787247/dsh-wsl-notify](https://github.com/173787247/dsh-wsl-notify) — DeepSeek Harness tool: Windows MessageBox notification from WSL. · ⭐1
 - [bushizhanghan/dsh-page-monitor](https://github.com/bushizhanghan/dsh-page-monitor) — Webpage watch agent for DeepSeek Harness: track a watchlist of URLs, snapshot, detect important changes, notify. ??????? · ⭐1
 - [charonpi/dsh-mail](https://github.com/charonpi/dsh-mail) — DSH 插件：通过 IMAP/SMTP 收发邮件，支持 QQ/163/126/Gmail/Outlook 等多服务商与附件上传下载 · ⭐1
+- [citedy/dsh-telegram-bot](https://github.com/citedy/dsh-telegram-bot) 💤 — Deepseek Harness Telegram Bot · ⭐1
 - [CrombastiC/dsh-macos-notify](https://github.com/CrombastiC/dsh-macos-notify) — (no description) · ⭐1
 - [danilinao/dsh-telegram-channel-ru](https://github.com/danilinao/dsh-telegram-channel-ru) — (no description) · ⭐1
 - [flashyiyi/dsh-voice-announcer](https://github.com/flashyiyi/dsh-voice-announcer) — (no description) · ⭐1
@@ -99,7 +102,6 @@
 - [Archaofan/dsh-notify-relay](https://github.com/Archaofan/dsh-notify-relay) — DSH 外联通知中枢：生命周期事件经去重/免打扰/摘要合批后路由到 Bark/Server酱/Telegram/企业微信/飞书/ntfy/webhook。零运行时依赖。 · ⭐0
 - [ChenneyZhuang/agent-skills-cn](https://github.com/ChenneyZhuang/agent-skills-cn) — Bilingual (EN/CN) agent skills: email deliverability audit, competitor recon, resume localization CN→EN, delivery checklist — battle-tested  · ⭐0
 - [chenvinc/dsh-task-settle-notify](https://github.com/chenvinc/dsh-task-settle-notify) — 任务看板卡片结算后自动通知发起会话的 DSH 插件 · ⭐0
-- [citedy/dsh-telegram-bot](https://github.com/citedy/dsh-telegram-bot) 💤 — Deepseek Harness Telegram Bot · ⭐0
 - [DearMrChai/dsh-plugin-task-notify](https://github.com/DearMrChai/dsh-plugin-task-notify) — (no description) · ⭐0
 - [DeepseekHarnessPlugins/Notification](https://github.com/DeepseekHarnessPlugins/Notification) 💤 — DeepseekHarnessPlugin · ⭐0
 - [dsh-niao/dsh-niao-message](https://github.com/dsh-niao/dsh-niao-message) 💤 — macOS 系统通知插件：在「异常终止 / 需要你操作 / 正常完成」三大场景弹通知中心横幅，点击横幅直达指定应用。 · ⭐0

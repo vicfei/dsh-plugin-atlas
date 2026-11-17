@@ -2883,6 +2883,7 @@ Lgv-H/dsh-maibot-plugin-writer
 Lheyang/orca-dsh-launcher
 Lhy723/dsh-agent-canvas
 Lhy723/dsh-neu-theme
+Li-Evan/BloomTutor
 Li-Mingshuang/dsh-audio-control
 Li-canghai/dsh-archived-conversation
 LiFenrir/dsh-scenario
@@ -6879,6 +6880,7 @@ denceee/dsh-everything-claude-code
 dengpeihua/dsh-browser-use
 dengyier/openworkproof-dsh-plugin
 dennisrongo/dsh-plugins
+dennisyang1986/polymarket-proxy
 deqingLv/dsh-chrome-attach
 deqingLv/dsh-slash-new
 derek2035/dsh-social
@@ -9049,6 +9051,7 @@ liangmianya/dsh-synapse
 liangxiaobing520/dsh-local-vector-memory
 liangyou09/lyshell
 lianzhimanye/dsh-bard-0.03
+liaoangbo-droid/dsh-notewall
 liaohongrao/dsh-session-dates
 liaojianjin/dsh-large-jsonl-viewer
 liaosiliangCodeLife/harness-mate-dsh
@@ -10280,6 +10283,7 @@ omoinoki/dsh-sekaisync-connect
 onchainyaotoshi/dsh-plugins
 onclaw-dev/dsh-workflow-designer
 oneclickvirt/ecs
+oneclickvirt/oneclickvirt
 onehumanbeing/esp32-iphone-agent
 oneinitAI/dsh-thunderforge
 onesmash/dsh-reflex
@@ -10488,6 +10492,7 @@ po-et/dsh-sheet-diff
 poco-ai/Agentero
 poco-ai/agentero-dsh-plugin
 pointer-a/dsh-server-login
+pointylab/pointy
 poiuyjie/dsh-md-preview
 poiuyjie/dsh-vision-opencode
 pokiimon/dsh-memory-eternal-fork
@@ -11130,6 +11135,7 @@ shuunO-O/dsh-neo4j-memory
 shuuul/dsh-bioviewer
 shuxidemosheng/dsh-plan-mode-plus
 shuxidemosheng/dsh-skill-compat-plus
+shuxidemosheng/dsh-todolist
 shuxidemosheng/dsh-tool-todo-plus
 shuxidemosheng/dsh-tool-workflow-plus
 shuxue6662-a11y/dsh-risk-guard

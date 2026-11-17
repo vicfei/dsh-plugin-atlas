@@ -2,6 +2,8 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-industry-manufacturing](https://github.com/feely0208/dsh-industry-manufacturing) — 制造现场多出来的那几项：安全生产培训学时、特种设备登记、产品标识与危化品管理，别等检查才发现 · ⭐0
+- [feely0208/dsh-industry-realestate](https://github.com/feely0208/dsh-industry-realestate) — 房产销售多出来的那几项：广告承诺、学区表述、明码标价与预售资金监管，别等处罚才发现 · ⭐0
 - [feely0208/dsh-key-vault](https://github.com/feely0208/dsh-key-vault) — 深鲸 Key 保险箱：本机保存你自带的多个 API Key（只显示掩码、0600、不上传） · ⭐0
 - [fengxiforcy/dsh-surrogate-guard](https://github.com/fengxiforcy/dsh-surrogate-guard) — Neutralize lone UTF-16 surrogates in tool results before they reach the session log — prevents permanent 400 INVALID_REQUEST. · ⭐0
 - [f-infinite-z/dsh-plugin-ops](https://github.com/f-infinite-z/dsh-plugin-ops) — DeepSeek Harness plugin operations: pre-boot health gate, failure attribution, dependency governance, and a web panel — the startup-lifecycl · ⭐0
@@ -56,7 +58,6 @@
 - [KSF1216/chinese-script-policy](https://github.com/KSF1216/chinese-script-policy) — Harness-neutral Traditional Chinese enforcer and offline converter (skill / DSH bundle / CLI). Checks one script axis one way at a time plus · ⭐0
 - [KumarZX/dsh-memory-wrap](https://github.com/KumarZX/dsh-memory-wrap) 💤 — DSH plugins: idle memory wrap-up sidebar plus vault search, distill, and rules. · ⭐0
 - [laoer/dsh-whitelist-auto-approval](https://github.com/laoer/dsh-whitelist-auto-approval) — Per-command sandbox allow-list for the DSH bash tool: allow-listed CLIs (lark-cli, gh, ...) run under a home-writable sandbox instead of pro · ⭐0
-- [LAwLi3tCoding/dsh-approval-review](https://github.com/LAwLi3tCoding/dsh-approval-review) — Codex-style agent auto-approval for DeepSeek Harness: an independent reviewer model decides allow/deny on the approval answerer chain, fail- · ⭐0
 - [leinasi2014/dsh-rlm](https://github.com/leinasi2014/dsh-rlm) 💤 — DeepSeek Harness plugin: persistent per-Session Python kernel for rlm_eval - managed context, bounded subagent queries, snapshot recovery, s · ⭐0
 - [Leo-Ayh-Oday/dsh-orcana](https://github.com/Leo-Ayh-Oday/dsh-orcana) 💤 — Runtime governance for DeepSeek Harness: progress governor, evidence freshness, completion guard, capability router (Same model. Same DSH. O · ⭐0
 - [lesca/dsh-sandbox](https://github.com/lesca/dsh-sandbox) — A sandbox implement for Deepseek Harness within VS Code · ⭐0
@@ -154,7 +155,6 @@
 - [shark-QAQ/SCG-Suite](https://github.com/shark-QAQ/SCG-Suite) — Session-level security guardrail for autonomous coding agents on DeepSeek Harness · ⭐0
 - [shizhanyu13/dsh-ironbound-policy](https://github.com/shizhanyu13/dsh-ironbound-policy) 💤 — @shizhanyu13/dsh-ironbound-policy — DSH plugin: Ironbound hard-gate guard. Blocks dangerous shell commands before they reach a tool, with a  · ⭐0
 - [shuxue6662-a11y/dsh-risk-guard](https://github.com/shuxue6662-a11y/dsh-risk-guard) 💤 — Zero-interruption audit + fuse blocking plugin for DeepSeek Harness / 零打扰 Agent 审计与保险丝拦截插件 · ⭐0
-- [shZhang1614/dsh-float-lamp](https://github.com/shZhang1614/dsh-float-lamp) — Floating task-status lamp for DeepSeek Harness: green running, orange approval, blue question, grey idle — a borderless always-on-top window · ⭐0
 - [siberiah2o/dsh-plugin-remote](https://github.com/siberiah2o/dsh-plugin-remote) 💤 — Remote access gateway for the DeepSeek Harness Web GUI: login auth + HTTP/WebSocket reverse proxy to the loopback DSH server. · ⭐0
 - [SilasSolivagus/dsh-kanban](https://github.com/SilasSolivagus/dsh-kanban) — The native task board for DeepSeek Harness: four columns, approvals, blockers, attachments and durable Host storage. Not an iframe. · ⭐0
 - [sjh9714/dsh-retry-guard](https://github.com/sjh9714/dsh-retry-guard) — Observe identical tool failures and optionally pause the next model step in DeepSeek Harness. · ⭐0
@@ -169,14 +169,14 @@
 - [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
 - [stushansusu/dsh-delete-guard](https://github.com/stushansusu/dsh-delete-guard) — DSH plugin: meters AI deletions per session, terminates the call once the cumulative size passes a threshold, then asks the user with the li · ⭐0
 - [sviktor75/dsh-sound-notification](https://github.com/sviktor75/dsh-sound-notification) — DeepSeek Harness Web plugin: plays a chime when any session's response finishes (rising tone) or a question/approval is asked (falling tone) · ⭐0
-- [swswordholy-tech/AgentsChatProtocol](https://github.com/swswordholy-tech/AgentsChatProtocol) — AgentsChat (Agents Chat) — Shared MCP rooms & social network for AI coding agents (Claude Code, Codex, Antigravity, Cursor, OpenClaw, Hermes · ⭐0
+- [swswordholy-tech/AgentsChatProtocol](https://github.com/swswordholy-tech/AgentsChatProtocol) — AgentsChat (Agents Chat) — Shared MCP rooms & social network for AI coding agents (Claude Code, Codex, DSH, Antigravity, Cursor, OpenClaw, H · ⭐0
 - [Tabbyaccessorial446/dsh-plugin-canvas](https://github.com/Tabbyaccessorial446/dsh-plugin-canvas) — Render HTML design prototypes directly in DeepSeek Harness with a canvas tab for visual review, annotation, and sandboxed previews. · ⭐0
 - [takasurazeem/gmail-dsh](https://github.com/takasurazeem/gmail-dsh) — (no description) · ⭐0
 - [takboo/dsh-session-bin](https://github.com/takboo/dsh-session-bin) — Native archived-session management for DeepSeek Harness with guarded permanent deletion and fixed batches. · ⭐0
 - [tancheng33/dsh-code-runtime-container](https://github.com/tancheng33/dsh-code-runtime-container) 💤 — Container-isolated backend for the DeepSeek Harness code-execution seam: Code Mode programs run in a fresh container with no network, a read · ⭐0
 - [tancheng33/dsh-credentials-vault](https://github.com/tancheng33/dsh-credentials-vault) 💤 — HashiCorp Vault backend for the DeepSeek Harness credential seam: central secrets, AppRole machine auth, rotation without restart, and no lo · ⭐0
 - [Tang-mm95/dsh-single-instance-guard](https://github.com/Tang-mm95/dsh-single-instance-guard) 💤 — DSH_HOME single-instance lock plugin for DeepSeek Harness: aborts startup loudly when another dsh server uses the same data directory (preve · ⭐0
-- [TerebiSAMA/dsh-desktop-linux](https://github.com/TerebiSAMA/dsh-desktop-linux) — Linux desktop shell for DeepSeek Harness — standalone window, tray LED (done/ask/fail), 60fps breathing bar, self-signed cookie auth, autost · ⭐0
+- [TerebiSAMA/dsh-desktop-linux](https://github.com/TerebiSAMA/dsh-desktop-linux) 💤 — Linux desktop shell for DeepSeek Harness — standalone window, tray LED (done/ask/fail), 60fps breathing bar, self-signed cookie auth, autost · ⭐0
 - [thinkmoon/dsh-gateway](https://github.com/thinkmoon/dsh-gateway) — DSH plugin: authenticated reverse proxy for the web GUI. Forwards the browser Host and Origin unchanged and publishes them as DSH 0.2 truste · ⭐0
 - [tianhanly/dsh-verification-meme](https://github.com/tianhanly/dsh-verification-meme) 💤 — Every time you press a key, a security verification pops up. 每按一个harness的按键都会跳出一个安全验证 · ⭐0
 - [tianhengzhibei/dsh-approval-ding](https://github.com/tianhengzhibei/dsh-approval-ding) — Play a short ding whenever DeepSeek Harness asks for tool approval. · ⭐0

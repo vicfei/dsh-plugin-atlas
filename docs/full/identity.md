@@ -1,8 +1,8 @@
-# Identity — 38 entries (part 1/1)
+# Identity — 37 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐60
+- [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐61
 - [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐48
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) 💤 — DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。 · ⭐40
 - [AgentConnect/dsh-awiki](https://github.com/AgentConnect/dsh-awiki) — AWiki identity and messaging plugin for DeepSeek Harness · ⭐19
@@ -30,7 +30,6 @@
 - [artorias-zj/dsh-cc-switch-skills](https://github.com/artorias-zj/dsh-cc-switch-skills) — DSH plugin: load every skill from the current user's .cc-switch\skills into DeepSeek Harness at startup · ⭐0
 - [azkbzxf/dsh-account-balance-pill](https://github.com/azkbzxf/dsh-account-balance-pill) — DSH plugin: shows the DeepSeek account's remaining balance in the composer bottom bar. · ⭐0
 - [Bai-Ziyi/dsh-proxy-control](https://github.com/Bai-Ziyi/dsh-proxy-control) — Pre-launch and runtime HTTP proxy control for DeepSeek Harness: writes the user-level .env so the launcher and the first requests are proxie · ⭐0
-- [bigfatdsh/dsh-user-backup](https://github.com/bigfatdsh/dsh-user-backup) — 用户备份：DeepSeek Harness 当前 11 个插件的可还原快照（一键安装） · ⭐0
 - [huang2005-hj/dsh-plugin-grill-me](https://github.com/huang2005-hj/dsh-plugin-grill-me) — Interview users one frontier at a time: a grill-me skill plugin for DeepSeek Harness (MIT, independent implementation of mattpocock/skills g · ⭐0
 - [huangmiuXyz/dsh-edit-retry](https://github.com/huangmiuXyz/dsh-edit-retry) — Right-click any user message to edit it and retry from that point — a client-side plugin for DeepSeek Harness (DSH). · 右键编辑任意一条用户消息并从那里重试。 · ⭐0
 - [IHS470/dsh-global-rules](https://github.com/IHS470/dsh-global-rules) — DSH plugin: one user-owned rule list, injected into every request system prompt, so the agent has to walk the rules before answering. · ⭐0

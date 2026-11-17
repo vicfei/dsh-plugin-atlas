@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [vicfei/dsh-weknora-ops](https://github.com/vicfei/dsh-weknora-ops) **★** — DeepSeek Harness plugin: the WRITE path for WeKnora — document ingest, gated deletes, tag trees — under a three-layer safety model. Compleme · ⭐0
 - [vv5v5/dsh-anima-rag](https://github.com/vv5v5/dsh-anima-rag) — DSH-side port of the Anima-Memory-System retrieval core (vector + BM25, echo, rerank) for DeepSeek Harness RP sessions. Ported from Ellina's · ⭐0
 - [vv5v5/dsh-memory-archive](https://github.com/vv5v5/dsh-memory-archive) — Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually se · ⭐0
 - [wafernm-crypto/dsh-memory-library](https://github.com/wafernm-crypto/dsh-memory-library) — (no description) · ⭐0
@@ -10,10 +11,9 @@
 - [warmwine/dsh-memoryleak](https://github.com/warmwine/dsh-memoryleak) — 基于dsh的知识库和待办管理工具 · ⭐0
 - [whding110/dsh-dev-progress-memory](https://github.com/whding110/dsh-dev-progress-memory) — (no description) · ⭐0
 - [whiteS18/dsh-terminal-button](https://github.com/whiteS18/dsh-terminal-button) — Embedded terminal plugin for DeepSeek Harness. · ⭐0
-- [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — 文件型长期记忆：每个会话注入你自己的 Markdown 记忆文件，提供读写工具，并能查出 DSH_HOME 漂移；不读对话、不联网 · File-backed memory for DeepSeek Harness, with verifiable constraints · ⭐0
+- [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — Local long-term memory for DeepSeek Harness: injects your Markdown memory each session, adds read/write/recall/undo tools with backup and au · ⭐0
 - [wsnmm3/dsh-session-keeper](https://github.com/wsnmm3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
 - [WSNMM3/dsh-session-keeper](https://github.com/WSNMM3/dsh-session-keeper) — 会话管理 for DeepSeek Harness: workspace-scoped category trees, drag reordering, pinning, an archive section and a reversible delete bin. · ⭐0
-- [WU079/dsh-memory-keeper](https://github.com/WU079/dsh-memory-keeper) — Cross-session memory for DSH: exports every session to readable Markdown with provenance, keeps a MEMORY.md you curate, and gives the agent  · ⭐0
 - [WU079/dsh-sts2-agent](https://github.com/WU079/dsh-sts2-agent) — Let an AI play Slay the Spire 2 inside DSH: screenshot + mouse/keyboard tools, a local card database, and a readable play log. No mods, no m · ⭐0
 - [wu81313-lab/dsh-company-kb](https://github.com/wu81313-lab/dsh-company-kb) — DSH local-folder knowledge base: manual-sync SQLite FTS5 index, Chinese hybrid retrieval (BM25 + CJK bigram + trigram, RRF), explicit-invoca · ⭐0
 - [WwW7olFWwW/dsh-codebase-watcher](https://github.com/WwW7olFWwW/dsh-codebase-watcher) — DSH × Codebase Memory 圖譜保鮮插件：讓 CBM 知識圖譜自動跟上各專案的 git HEAD（落後偵測、條件式 CLI 重建、每專案監看、設定頁觀測卡片與 REST 控制面） · ⭐0

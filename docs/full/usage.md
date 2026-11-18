@@ -1,8 +1,8 @@
-# Cost & Usage — 87 entries (part 1/1)
+# Cost & Usage — 88 entries (part 1/1)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — MCP-серверы и agent skills для 12 площадок РФ и Китая: WB, Ozon, Яндекс Маркет, Авито. Сравнение цен. · ⭐191
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — MCP-серверы и сравнение цен без API-ключей для 12 площадок РФ и Китая (Wildberries / WB, Ozon, Яндекс Маркет, Авито, AliExpress, Taobao, DNS · ⭐192
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — 一个能帮你省钱的插件！缓存其实比你想象的贵！换窗口可以省缓存钱，但换窗口有顾虑，或许你懒得重新描述项目和规则，或者你还需要那个上下文。所以这个插件，就是为了告诉你，当前轮，纯粹上下文缓存的部分，到底花了你多少钱。这样你才心里有个底，判断什么时候该换窗口。 在dsh-plugin标 · ⭐49
 - [Cassius0924/dsh-usage-dashboard](https://github.com/Cassius0924/dsh-usage-dashboard) — DeepSeek 额度与用量仪表盘 — DSH (DeepSeek Harness) 动态 Cordis 插件 · ⭐13
 - [Xenia0922/dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) 💤 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) · ⭐12
@@ -52,12 +52,14 @@
 - [misakimiku2/dsh-cost-display](https://github.com/misakimiku2/dsh-cost-display) 💤 — DeepSeek Harness 成本显示插件 · ⭐1
 - [mouse33333/dsh-quota-monitor](https://github.com/mouse33333/dsh-quota-monitor) 💤 — 对DSH里的OpenCode的Go套餐，以及DeepSeek官方API的额度监控 · ⭐1
 - [nrenvo/dsh-turn-trace](https://github.com/nrenvo/dsh-turn-trace) — Per-step, per-turn cost ledger for DeepSeek Harness — a Turns tab that prices every step. · ⭐1
+- [nzz0991999-ai/dsh-usage-dashboard](https://github.com/nzz0991999-ai/dsh-usage-dashboard) — DeepSeek 平台用量仪表盘插件 | DeepSeek usage dashboard plugin for DeepSeek Harness · ⭐1
 - [Polar-Lighter/dsh-cost-meter](https://github.com/Polar-Lighter/dsh-cost-meter) 💤 — (no description) · ⭐1
 - [rayzhu1109/dsh-balance](https://github.com/rayzhu1109/dsh-balance) 💤 — balance record & usage tracking · ⭐1
 - [seeseeczl/dsh-sym](https://github.com/seeseeczl/dsh-sym) — 给 DeepSeek Harness 接的共生体（dsh-sym）：实时会话花费（人民币，按厂商/模型与峰谷时段折算）、每轮费用、账户余额、峰谷时段标记，以及把任一回复作为上下文引用的 @ 按钮。名字取自 symbiote —— 附着在宿主上、持续长出能力，功能不限于计费。 · ⭐1
 - [ShoTakujo/dsh-platform-usage](https://github.com/ShoTakujo/dsh-platform-usage) — DSH 用量插件：读 DeepSeek 开放平台的账号级数据，把该账号下全部 API Key 的消耗画成 52 周热力图（每天/每周/累计可切）。不是只统计 DSH 自己。 · ⭐1
 - [sxwer001/dsh-coding-plan-quota](https://github.com/sxwer001/dsh-coding-plan-quota) — Quota ring in the DSH composer bar that tracks OpenCode Go and 14 other coding-plan quotas or balances, cycles 5-hour weekly and monthly win · ⭐1
 - [yanzoro926/dsh-usage-dash](https://github.com/yanzoro926/dsh-usage-dash) 💤 — (no description) · ⭐1
+- [whisperflo/dsh-deepseek-console](https://github.com/whisperflo/dsh-deepseek-console) 💤 — DeepSeek 账户控制台：实时余额监控 / 用量与成本统计 / 消费额度管理 / 全局悬浮 HUD（官方 API 直连，Key 仅存本机） · ⭐1
 - [863683348/dsh-plugin-local-life](https://github.com/863683348/dsh-plugin-local-life) 💤 — Local-life toolkit for DeepSeek Harness agents: budget planning, bill splitting, unit-price and discount math, common unit conversions (incl · ⭐0
 - [ai-written/dsh-usage-badge](https://github.com/ai-written/dsh-usage-badge) — DeepSeek Harness 的用量徽标插件 · ⭐0
 - [AyahaShirane/dsh-deepseek-usage-meter](https://github.com/AyahaShirane/dsh-deepseek-usage-meter) — DSH 插件：在输入栏统计条内显示 DeepSeek 官方渠道的会话开销与账户余额（MIT） · ⭐0
@@ -80,7 +82,6 @@
 - [MaximFedorovtoo/dsh-plugins](https://github.com/MaximFedorovtoo/dsh-plugins) — Four DeepSeek Harness plugins: API spend per project, screenshots as input, Russian localization and Codex import. · ⭐0
 - [MoyunLee/deepseek-ai-dsh-api-cost](https://github.com/MoyunLee/deepseek-ai-dsh-api-cost) 💤 — DSH生态的DeepSeek API费用监控插件 · ⭐0
 - [Nixz0824/dsh-usage-stats-plus](https://github.com/Nixz0824/dsh-usage-stats-plus) 💤 — DSH 用量与余额面板增强版：官方余额实时拉取、逐事件精确计价、全渠道消耗估算、Codex 风格活动时间轴（Fork of dsh-usage-stats, MIT） · ⭐0
-- [nzz0991999-ai/dsh-usage-dashboard](https://github.com/nzz0991999-ai/dsh-usage-dashboard) — DeepSeek 平台用量仪表盘插件 | DeepSeek usage dashboard plugin for DeepSeek Harness · ⭐0
 - [pythoner1984/dsh-plugin-openai-quota](https://github.com/pythoner1984/dsh-plugin-openai-quota) — A one-line quota notice for DeepSeek Harness: DeepSeek balance, ChatGPT/Codex rate-limit windows and reset cards. · ⭐0
 - [qomob/dsh-madrank](https://github.com/qomob/dsh-madrank) — AI usage dashboard + optional global ranking for DeepSeek Harness (DSH). · ⭐0
 - [upcyan/dsh-mimo-extension](https://github.com/upcyan/dsh-mimo-extension) — MiMo (Xiaomi) quota ring and usage detail tab for DeepSeek Harness · ⭐0

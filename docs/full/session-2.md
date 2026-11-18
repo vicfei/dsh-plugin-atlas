@@ -1,7 +1,8 @@
-# Session & Context — 1494 entries (part 2/2)
+# Session & Context — 1495 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [wenhao4126/dsh-session-delete](https://github.com/wenhao4126/dsh-session-delete) 💤 — (no description) · ⭐1
 - [Whale-Zhang/dsh-cron-tasks](https://github.com/Whale-Zhang/dsh-cron-tasks) 💤 — Scheduled tasks for DeepSeek Harness: sidebar jobs, isolated run history, cron/at schedules. · ⭐1
 - [whybebabo/dsh-recent-sessions](https://github.com/whybebabo/dsh-recent-sessions) — Recent sessions across every workspace in one panel for DeepSeek Harness (DSH), plus deferred notes that come back when you reopen the conve · ⭐1
 - [windrover/dsh-prompt-optimizer](https://github.com/windrover/dsh-prompt-optimizer) — Prompt optimizer for DeepSeek Harness (dsh): rewrite the conversation input draft in place with 15 templates (basic / context / image). 0.2. · ⭐1
@@ -62,6 +63,7 @@
 - [ZYAONS/dsh-plugin-mascot](https://github.com/ZYAONS/dsh-plugin-mascot) — DeepSeek Harness mascot plugin - a clickable character sprite (Arknights' Closure / BanG Dream!'s Sengoku Yuno) showing token cache hits, co · ⭐1
 - [ZZZjf13960/dsh-onfail](https://github.com/ZZZjf13960/dsh-onfail) 💤 — DSH plugin: poll GitHub Actions, surface failed checks as cards, open a fix session with log context. · ⭐1
 - [ZZZZZZZ-ZZZZZ/dsh-session-trash](https://github.com/ZZZZZZZ-ZZZZZ/dsh-session-trash) — Session trash for DeepSeek Harness: move conversations to a trash, restore them, or delete them permanently after a second confirmation. · ⭐1
+- [Cieux/dsh-zoom-scale](https://github.com/Cieux/dsh-zoom-scale) — Interface zoom for DeepSeek Harness (DSH): a complete page-zoom shim (rects, viewport units, media queries and pointer math converted), with · ⭐1
 - [11111353535/dsh-reaper](https://github.com/11111353535/dsh-reaper) — Find and reclaim the orphan dev servers and watchers an agent session left behind. · ⭐0
 - [16512354554/dsh-chat-navigator](https://github.com/16512354554/dsh-chat-navigator) 💤 — Right-edge chat-history navigator plugin for DeepSeek Harness Web. · ⭐0
 - [1731988818/dsh-lan-remote](https://github.com/1731988818/dsh-lan-remote) — Expose the running DeepSeek Harness desktop web GUI to a phone - the same session through a loopback reverse proxy, with LAN and Tailscale t · ⭐0
@@ -81,6 +83,7 @@
 - [adamcjm/dsh-workspace-visibility](https://github.com/adamcjm/dsh-workspace-visibility) — Hide selected workspaces — and the sessions they own — from the DSH sidebar, with a Show hidden workspaces switch in the view options. Displ · ⭐0
 - [adithyanraj03/dsh-verbose](https://github.com/adithyanraj03/dsh-verbose) — A session-header 3-dots menu for dsh: download the session log, switch each chat between Normal and Verbose, and define what Verbose expands · ⭐0
 - [advance-lion/dsh-history-plugin](https://github.com/advance-lion/dsh-history-plugin) — DSH 插件安装历史：本机记账、按设备归类、经百度网盘跨设备同步、勾选批量重装 · ⭐0
+- [Aeroscis/dsh-temptask](https://github.com/Aeroscis/dsh-temptask) — Temporary task mode for DeepSeek Harness (dsh) — one-click disposable working dir + session, no long-lived workspace bound. · ⭐0
 - [AGImentu/dsh-cost-stats](https://github.com/AGImentu/dsh-cost-stats) — DSH (DeepSeek Harness) Web 插件：每条助手消息旁的费用胶囊 + 设置里的「费用统计」页（逐条计费项、回复与上下文压缩分开、官方 CNY/USD 价目表、高峰/空闲感知） · ⭐0
 - [ags-neto/dsh-status-telemetry](https://github.com/ags-neto/dsh-status-telemetry) — A DSH client plugin: a session telemetry pill in the composer dock that expands into a token, performance and context panel. · ⭐0
 - [AhaCrazy/dsh-nav-history](https://github.com/AhaCrazy/dsh-nav-history) — DSH plugin: global back/forward navigation history across sessions and whole-page panels, with a configurable bottom strip and browser-style · ⭐0
@@ -126,7 +129,7 @@
 - [chou109/dsh-msgrail](https://github.com/chou109/dsh-msgrail) — MsgRail（消息轨道） —— DeepSeek Harness 的窄消息轨道插件：在对话左侧，为每条你发送的消息显示一根细横线。悬停看预览、点击即跳转，更早消息自动加载；全量历史、实时更新、中英双语。 MsgRail is a narrow message rail for  · ⭐0
 - [ChuanTianML/dsh-local-share](https://github.com/ChuanTianML/dsh-local-share) — Local, privacy-first Markdown and self-contained HTML sharing for DeepSeek Harness sessions · ⭐0
 - [chuxindd/dsh-context-enhancement](https://github.com/chuxindd/dsh-context-enhancement) — 适用于 DeepSeek Harness 的单会话上下文增强工具，力求化解会话在触发 /compact 上下文压缩后损失信息过多，导致前后表现“判若两人”的技术困境。 · ⭐0
-- [cn-zhangpeng/dsh-shanhai-stats](https://github.com/cn-zhangpeng/dsh-shanhai-stats) 💤 — 山海系列 DeepSeek Harness 用量统计插件：总量徽章、每日走势、GitHub 风格热力图、按模型/提供商分组明细 · ⭐0
+- [cn-zhangpeng/dsh-shanhai-stats](https://github.com/cn-zhangpeng/dsh-shanhai-stats) — 山海系列 DeepSeek Harness 用量统计插件：总量徽章、每日走势、GitHub 风格热力图、按模型/提供商分组明细 · ⭐0
 - [crack-time/dsh-web-ui-skin](https://github.com/crack-time/dsh-web-ui-skin) 💤 — Session archive plugin for DSH web GUI · ⭐0
 - [cshengyi023-collab/dsh-pet-companion](https://github.com/cshengyi023-collab/dsh-pet-companion) — 小鲸鲸陪伴 / dsh-pet-companion: a low-key companion panel for DeepSeek Harness (DSH) — pomodoro timer, todo list, drink & stand-up reminders, les · ⭐0
 - [cyberElar/dsh-fast-term](https://github.com/cyberElar/dsh-fast-term) — Low-latency terminal for the DeepSeek Harness right sidebar: dedicated PTY websocket, persistent sessions · ⭐0
@@ -185,7 +188,7 @@
 - [gaolin89898/remote-session-plugin](https://github.com/gaolin89898/remote-session-plugin) — (no description) · ⭐0
 - [Gaudi-XIX/dsbot-session-create](https://github.com/Gaudi-XIX/dsbot-session-create) — 会话编排层：Chief 能把活派给别的 Bot，却派不进「某个项目的那个会话」；宿主已有开会话的原语，但没开成工具。这个插件把原语开成四个工具（建会话、插话、读回话、列派单），派单只追加自己的台账，不另造调度器。 · ⭐0
 - [GeoSyntax/dsh-plugin-time-machine](https://github.com/GeoSyntax/dsh-plugin-time-machine) — Community DSH plugin for coordinated session/workspace checkpoints, safe rewind, DAG forks, and failure reflection. · ⭐0
-- [gongyijie85/dsh-agent-frugality](https://github.com/gongyijie85/dsh-agent-frugality) 💤 — Multi-agent frugality defense plugin for DeepSeek Harness: read-ledger dedup, compaction-immune rules, completion gate, cheap-review lane. · ⭐0
+- [gongyijie85/dsh-agent-frugality](https://github.com/gongyijie85/dsh-agent-frugality) — Multi-agent frugality defense plugin for DeepSeek Harness: read-ledger dedup, compaction-immune rules, completion gate, cheap-review lane. · ⭐0
 - [GooDAnDReaDY/dsh-kanban](https://github.com/GooDAnDReaDY/dsh-kanban) — Kanban board for DeepSeek Harness: Gitea-backed tasks, workflow columns, and dedicated agent sessions · ⭐0
 - [Gordonynh/dsh-plugin-codex-import](https://github.com/Gordonynh/dsh-plugin-codex-import) 💤 — DeepSeek Harness plugin: import OpenAI Codex conversation history into DSH sessions via /codex-import | 用 /codex-import 把 Codex 历史对话导入 DSH · ⭐0
 - [Gorkaseto/dsh-delete-sessions](https://github.com/Gorkaseto/dsh-delete-sessions) — A plugin for DeepSeek Harness (DSH) that adds a permanent "Delete session" action to the sidebar session menu · ⭐0
@@ -419,7 +422,6 @@
 - [Ruiming-cn/dsh-more-session-operations](https://github.com/Ruiming-cn/dsh-more-session-operations) 💤 — DeepSeek Harness Web sidebar session-row menu enhancements: mark unread via the official completed-reminder dot, copy session ID, delete ses · ⭐0
 - [Ruler4396/dsh-shredder](https://github.com/Ruler4396/dsh-shredder) — dsh 插件：在原生会话菜单里给已归档的会话加一枚红色「彻底删除」行，不额外做归档面板 / dsh plugin: one red delete row in the native session menu, for archived sessions only · ⭐0
 - [ryanxie113/dsh-solpi](https://github.com/ryanxie113/dsh-solpi) 💤 — Four harness efficiency mechanisms (Action Fusion, ObservationPack, Evidence-Preserving Reducer, Online Context Compact) as a DeepSeek Harne · ⭐0
-- [Ryuu-64/dsh-session-tools](https://github.com/Ryuu-64/dsh-session-tools) — Delegate tasks between DeepSeek Harness (DSH) conversations: create sessions, send follow-ups, track replies, and control sending and receiv · ⭐0
 - [sbVAN/dsh-skill-mimo](https://github.com/sbVAN/dsh-skill-mimo) — 将每个MiMo Desktop / MiMoCode skill读取到 DeepSeek Harness 会话技能目录中。Reads every Xiaomi MiMo (MiMo Desktop / MiMoCode) skill into the DeepSeek Harne · ⭐0
 - [Schrei5/dsh-plugin-session-project](https://github.com/Schrei5/dsh-plugin-session-project) — DSH sidebar plugin: show each session's project (Workspace) name under its title in the flat session list · ⭐0
 - [scientificmaniac/dsh-faremeter](https://github.com/scientificmaniac/dsh-faremeter) — 给 AI 对话打表 · A fare meter for DSH chats — token tiers + peak/off-peak, and per-request Search/Fetch billing from 2026-11-01 · ⭐0
@@ -462,7 +464,7 @@
 - [superslash-rico/dsh-plugin-slashx-gateway](https://github.com/superslash-rico/dsh-plugin-slashx-gateway) 💤 — DeepSeek Harness host bundle for SlashX request, response, rich media, async callbacks, and complete token metering · ⭐0
 - [suyunxing/dsh-compact-sidebar](https://github.com/suyunxing/dsh-compact-sidebar) — Compacts the DSH sidebar navigation into a two-column grid and repairs dsh-resource:// records whose protocol the browser URL parser reports · ⭐0
 - [svgop/dsh-rich-context](https://github.com/svgop/dsh-rich-context) — Agent instruction manager for DSH — edit and template the AGENTS.md files the harness actually reads (global + per-workspace) · ⭐0
-- [syx2bzd/dsh-ricewhale](https://github.com/syx2bzd/dsh-ricewhale) — DSH Web 界面的「鲸鱼女仆」物理挂件：拖拽投掷、撞边回弹、撒币吃分连击，每吃满 500 个 token 冒一碗白饭。 · ⭐0
+- [syx2bzd/dsh-ricewhale](https://github.com/syx2bzd/dsh-ricewhale) 💤 — DSH Web 界面的「鲸鱼女仆」物理挂件：拖拽投掷、撞边回弹、撒币吃分连击，每吃满 500 个 token 冒一碗白饭。 · ⭐0
 - [tableau-China/dsh-workload-report](https://github.com/tableau-China/dsh-workload-report) — A DeepSeek Harness plugin for effort & token insights by date and workspace, plus multi-device sync. DSH 工作量报告插件：按日期与工作区看清「我的付出」与 Token 消耗，含 · ⭐0
 - [TARS-snail/dsh-notify](https://github.com/TARS-snail/dsh-notify) — Desktop notifications for DeepSeek Harness sessions, only while you are away · ⭐0
 - [tbb051122/dsh-plugin-qq-bridge](https://github.com/tbb051122/dsh-plugin-qq-bridge) — In-process QQ official-bot bridge for DeepSeek Harness: QQ messages start or resume real DSH sessions inside the host and send the result ba · ⭐0
@@ -593,6 +595,5 @@
 - [zyfgood/dsh-mobile](https://github.com/zyfgood/dsh-mobile) — DSH mobile web UI: browse all sessions and continue conversations from a phone on the same LAN. ??? Web UI ??? · ⭐0
 - [zys2026/dsh-theme-tide](https://github.com/zys2026/dsh-theme-tide) — Tide & Timber (潮汐木色) — a coastal light/dark theme for the DeepSeek Harness Web GUI, built on the official ThemeRuntime alias-token layer. · ⭐0
 - [ZyxQl-Ala/dsh-rollover](https://github.com/ZyxQl-Ala/dsh-rollover) — Context rollover for DeepSeek Harness: auto-save a handoff before the context window fills and re-inject it once in the next session segment · ⭐0
-- [ZZJQ678/dsh-global-context](https://github.com/ZZJQ678/dsh-global-context) — 全局提示词配置：在对话视图新增一个标签页，写进去的内容会加在每个会话系统提示词的最前面，保存后下一条消息即生效。 · ⭐0
+- [ZZJQ678/dsh-global-context](https://github.com/ZZJQ678/dsh-global-context) 💤 — 全局提示词配置：在对话视图新增一个标签页，写进去的内容会加在每个会话系统提示词的最前面，保存后下一条消息即生效。 · ⭐0
 - [uugvkbvkdjbsdbvwxxl/dsh-archived-chats](https://github.com/uugvkbvkdjbsdbvwxxl/dsh-archived-chats) — Browse archived DSH sessions grouped by workspace in Settings, search them, restore one, or delete a session log for good. · ⭐0
-- [Cieux/dsh-zoom-scale](https://github.com/Cieux/dsh-zoom-scale) — Interface zoom for DeepSeek Harness (DSH): a complete page-zoom shim (rects, viewport units, media queries and pointer math converted), with · ⭐0

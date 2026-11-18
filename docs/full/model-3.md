@@ -1,7 +1,8 @@
-# Models & Providers — 1817 entries (part 3/3)
+# Models & Providers — 1818 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [ZhouXuan-Yu/dsh-model-rotation](https://github.com/ZhouXuan-Yu/dsh-model-rotation) — Multi-source model rotation plugin for DeepSeek Harness — group models by source, order them (manual/auto), preset model + reasoning effort, · ⭐0
 - [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
 - [zlwzk/dsh-friends](https://github.com/zlwzk/dsh-friends) — DSH whale friends: see whether your fellow DeepSeek Harness users are online and whether their model is running a task. Signatures, mood, po · ⭐0
@@ -16,6 +17,6 @@
 - [zq0929/dsh-coding-plan-balance](https://github.com/zq0929/dsh-coding-plan-balance) — Coding Plan quota pill for the DSH (DeepSeek Harness) Web composer dock: monthly cycle usage in USD and the rolling 5-hour window, read with · ⭐0
 - [zuojinxin/dsh-provider-switch](https://github.com/zuojinxin/dsh-provider-switch) — 为 DSH 模型选择器加供应商启停开关、模型搜索与重命名 / Provider on/off switches, model search, and inline provider renaming for DeepSeek Harness. · ⭐0
 - [zx06/dsh-tavily](https://github.com/zx06/dsh-tavily) — Tavily web search plugin for DeepSeek Harness (DSH): ctx.web search provider + search/extract/crawl/map/research tools + settings page (API  · ⭐0
-- [ZZJQ678/dsh-model-picker](https://github.com/ZZJQ678/dsh-model-picker) — 按渠道商（Provider）分组、可折叠的 DSH 模型选择器：替换聊天输入框右下角原生选择器。仅在 DSH 桌面版实测通过，Web 版未测试。 · ⭐0
+- [ZZJQ678/dsh-model-picker](https://github.com/ZZJQ678/dsh-model-picker) 💤 — 按渠道商（Provider）分组、可折叠的 DSH 模型选择器：替换聊天输入框右下角原生选择器。仅在 DSH 桌面版实测通过，Web 版未测试。 · ⭐0
 - [naili0712/dsh-gsv-local](https://github.com/naili0712/dsh-gsv-local) — 把本机 GPT-SoVITS 接进 DeepSeek Harness：随 DSH 启停引擎、只念该说出口的那一句；自带默认音色，只需填好本机 GPT-SoVITS 的 runtimeDir。 · ⭐0
 - [tttnny/my-dsh](https://github.com/tttnny/my-dsh) — DeepSeek Harness 插件/补丁/preset 合集 | DSH plugins, patches & presets · ⭐0

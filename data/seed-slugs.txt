@@ -3209,6 +3209,7 @@ Meredith2328/dsh-sticky-note
 MerkurevSergei/dsh-notion-oauth-ui
 MerkyorLynn/dsh-live-compact
 MerlinShieh/AgentMemHub
+Merziller/dsh-video-workbench
 MeshTok/dsh-plugin-yuantoutao
 Meteor-system/dsh-codegraph
 Meteor-system/mattpocock-skills-for-dsh
@@ -4965,6 +4966,7 @@ WYR-233/dsh-memory-lite
 WYR-233/dsh-multi-tts
 WYR-233/dsh-whale-guard
 WZZNNE/DSH-CyberWorkStation
+Wahwayhale/dsh-connect-doubao
 WaldInsel/dsh-desktop-agent-bridge
 Waldsatte/dsh-theme-taojian
 WalterYOO/dsh-web-search-yuanbao
@@ -6250,6 +6252,7 @@ brokep/grok-bots-for-deepseek-harness
 brokge/gold-monitor
 broody-cascarillabark100/DeepSeek-Harness-Desktop
 bruc3van/awesome-dsh-plugin
+bruc3van/awesome-dsh-plugin-pro
 bruc3van/bruce-md2word
 bruc3van/dsh-desktop
 bruc3van/dsh-desktop-pro
@@ -10330,6 +10333,7 @@ orangeofcarl0-sys/dsh-large-proj-perf
 orangeshinee/dsh-mem0
 oranskyx/dsh-tingxue
 orfeomorello/dsh-websearch-stack
+oriliz/agent-crop
 oriliz/dsh-mcp-apps-host
 orphiczhou/dsh-region-probe
 orphiczhou/dsh-session-tree
@@ -11671,6 +11675,7 @@ tkaiz0406/dsh-subagent-route-pin
 tkhs101/dsh-official-cleanup
 tkliuxing/dsh-presets-hidden
 tkliuxing/dsh-video-forge
+tm5452/dsh-workspace-explorer
 tma1-ai/dsh-otel
 tmeeli/dsh-auto-goal-resume
 tmpdot/dsh-checkpoint-diff

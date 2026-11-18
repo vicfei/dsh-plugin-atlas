@@ -1,7 +1,9 @@
-# Security & Permissions — 1169 entries (part 2/2)
+# Security & Permissions — 1170 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-enterprise-suite](https://github.com/feely0208/dsh-enterprise-suite) — 深鲸企业审计套件：审批台账 + 决策复盘 + 审计报告 + 定时复盘，一个授权全部可用（商业授权，14 天试用） · ⭐0
+- [feely0208/dsh-industry-hr](https://github.com/feely0208/dsh-industry-hr) — 招聘场景多出来的那几项：简历个人信息、就业歧视用语、背景调查授权，别等投诉才发现 · ⭐0
 - [feely0208/dsh-industry-manufacturing](https://github.com/feely0208/dsh-industry-manufacturing) — 制造现场多出来的那几项：安全生产培训学时、特种设备登记、产品标识与危化品管理，别等检查才发现 · ⭐0
 - [feely0208/dsh-industry-realestate](https://github.com/feely0208/dsh-industry-realestate) — 房产销售多出来的那几项：广告承诺、学区表述、明码标价与预售资金监管，别等处罚才发现 · ⭐0
 - [feely0208/dsh-key-vault](https://github.com/feely0208/dsh-key-vault) — 深鲸 Key 保险箱：本机保存你自带的多个 API Key（只显示掩码、0600、不上传） · ⭐0
@@ -129,7 +131,7 @@
 - [qingyou002/dsh-auto-handoff](https://github.com/qingyou002/dsh-auto-handoff) — DSH plugin: hands a long session over to a fresh session in the same workspace on /handoff or at a token threshold, carrying the preset, mod · ⭐0
 - [QWE13-ART/dsh-tool-folder](https://github.com/QWE13-ART/dsh-tool-folder) 💤 — Fold the DSH tool surface per request + ChainGuard firewall (high-risk block + exfil-chain detection + anti-obfuscation) + BM25/bge-m3 hybri · ⭐0
 - [RafaGonzalezDev/dsh-codex-oauth](https://github.com/RafaGonzalezDev/dsh-codex-oauth) — DeepSeek Harness plugin that connects a ChatGPT plan through Sign in with ChatGPT and the official OpenAI Responses API. · ⭐0
-- [rand0wn/dsh-malware-audit](https://github.com/rand0wn/dsh-malware-audit) 💤 — DeepSeek Harness (dsh) plugin: real AST-based scan of installed plugins for malicious-intent patterns, with an optional periodic schedule an · ⭐0
+- [rand0wn/dsh-malware-audit](https://github.com/rand0wn/dsh-malware-audit) — DeepSeek Harness (dsh) plugin: real AST-based scan of installed plugins for malicious-intent patterns, with an optional periodic schedule an · ⭐0
 - [raomaiping-hash/dsh-rgate](https://github.com/raomaiping-hash/dsh-rgate) 💤 — Remote access login gate for DeepSeek Harness Web: password wall, /api gating, session cookies, Remote Access settings. · ⭐0
 - [realDGD/dsh-macos-notify](https://github.com/realDGD/dsh-macos-notify) — Native interactive macOS notifications, approvals and full question forms for DeepSeek Harness Desktop · ⭐0
 - [reg4916/dsh-bar](https://github.com/reg4916/dsh-bar) — Animated whale in the macOS menu bar for DeepSeek Harness: live session state, approvals, stop and open-session. · ⭐0
@@ -248,7 +250,6 @@
 - [yuanyiHY/dsh-rail-equalizer](https://github.com/yuanyiHY/dsh-rail-equalizer) 💤 — Make DSH's turn-navigator rail react to system audio in real time (Windows). WASAPI loopback capture via koffi - no permission prompt, no mi · ⭐0
 - [YukimuraSol/dsh-ui-block](https://github.com/YukimuraSol/dsh-ui-block) — Page block + element chip: render a ::dsh-ui <name> [res=WxH]:: line's ui-blocks file in a sandboxed canvas, and render · ⭐0
 - [yuloop/dsh-secret-vault](https://github.com/yuloop/dsh-secret-vault) — DSH plugin: hand secrets to the agent without them entering the context · ⭐0
-- [yuna78/dsh-slayer](https://github.com/yuna78/dsh-slayer) — SLAYER — a cyber foreman for DSH: two delegation presets with call-time tool guards (a fixed 8-seat crew, or up to 3 day-rate temps). · ⭐0
 - [YunpengDon/dsh-hitl](https://github.com/YunpengDon/dsh-hitl) — Human-in-the-loop gate for DSH tool calls: mount any tool behind an approve / modify / reject decision card in the DSH Web UI. · ⭐0
 - [yxiaoy6/dsh-taskbar-alert](https://github.com/yxiaoy6/dsh-taskbar-alert) — Flash the DeepSeek Harness taskbar button on Windows when an approval, a question or a plan review is waiting, or when a turn finishes. · ⭐0
 - [Zafer-Liu/dsh-vibe-assistant-bridge](https://github.com/Zafer-Liu/dsh-vibe-assistant-bridge) — DeepSeek Harness bridge plugin for Vibe Assistant: shared-memory injection, MCP observation, token usage, collection triggers, recall/skill  · ⭐0

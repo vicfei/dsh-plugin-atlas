@@ -1,8 +1,7 @@
-# Memory & Knowledge — 956 entries (part 2/2)
+# Memory & Knowledge — 953 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [vicfei/dsh-weknora-ops](https://github.com/vicfei/dsh-weknora-ops) **★** — DeepSeek Harness plugin: the WRITE path for WeKnora — document ingest, gated deletes, tag trees — under a three-layer safety model. Compleme · ⭐0
 - [vv5v5/dsh-anima-rag](https://github.com/vv5v5/dsh-anima-rag) — DSH-side port of the Anima-Memory-System retrieval core (vector + BM25, echo, rerank) for DeepSeek Harness RP sessions. Ported from Ellina's · ⭐0
 - [vv5v5/dsh-memory-archive](https://github.com/vv5v5/dsh-memory-archive) — Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually se · ⭐0
 - [wafernm-crypto/dsh-memory-library](https://github.com/wafernm-crypto/dsh-memory-library) — (no description) · ⭐0
@@ -54,7 +53,5 @@
 - [zirscard/dsh-principles-audit](https://github.com/zirscard/dsh-principles-audit) — Principle-library auditor for DeepSeek Harness: one principles_audit tool that checks a principle library for principle_id collisions, legac · ⭐0
 - [zirscard/dsh-taskboard-epic](https://github.com/zirscard/dsh-taskboard-epic) — Epic panel for DeepSeek Harness: a client-side plugin that stacks the epic cards of a dsh-taskboard project in their epic:children order and · ⭐0
 - [Zok66/dsh-facts](https://github.com/Zok66/dsh-facts) — dsh 时间感知记忆：用 SQLite 存带时间戳的事实，set 自动失效旧值，按时间过滤查询，注册为工具供 agent 主动读写，并把当前有效事实注入未来会话上下文 · ⭐0
-- [zsagi1368/deepseek-harness-DSH](https://github.com/zsagi1368/deepseek-harness-DSH) — zDSH - deepseek-harness independent enhancement distro: plugin governance, omnivision vision pipeline, cross-session memory, mobile-ready we · ⭐0
-- [zsagi1368/deepseek-harness-zDSH](https://github.com/zsagi1368/deepseek-harness-zDSH) — zDSH - deepseek-harness independent enhancement distro: plugin governance, omnivision vision pipeline, cross-session memory, mobile-ready we · ⭐0
 - [ZyxQl-Ala/dsh-decay-memory](https://github.com/ZyxQl-Ala/dsh-decay-memory) — Decay-based agent memory for DeepSeek Harness: entries gain weight when mentioned, fade and shrink when forgotten, pinned entries never deca · ⭐0
 - [mjtwt/dsh-memory-refine](https://github.com/mjtwt/dsh-memory-refine) — DSH 记忆插件：把对话提炼成记忆条目、每轮自动召回一条、记忆海可视化 · ⭐0

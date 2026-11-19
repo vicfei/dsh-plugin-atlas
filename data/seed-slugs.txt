@@ -2443,6 +2443,7 @@ Jesseovo/last30days-skill-cn
 Jessicaisleep/dsh-dsml-guard
 Jessicaisleep/dsh-wm-toolkit
 Jessie-1939/whalepal
+Jestions-dev/dsh-download-server
 Jett-Wu/deepseek-harness-launcher
 JexLau/dsh-plugin-session-bus
 JiYiqaq/dsh-desktop
@@ -6470,6 +6471,7 @@ chenjrastro-tech/github-release-download-acceleration
 chenkai2/dsh-daemon
 chenkezhen480/dsh-multimodal
 chenkezhen480/dsh-semantic-memory
+chenkezhen480/dsh-world
 chenkui-luo/awesome-dsh-submit
 chenkui-luo/dsh-plugin-restart
 chenkui-luo/dsh-session-attachment-repair
@@ -8893,6 +8895,7 @@ kyorakuyk/dsh-wallpaper
 kyoukisu/dsh-rich-ui
 kyrsieger/dsh-up-session
 l-s-c/dsh-workspace-labels
+l246804/dsh-pstack
 l2685209197/dsh-pdf-translate
 l33tdawg/dsh-workbench
 l33tdawg/dsh-workspace-mcp
@@ -9049,6 +9052,7 @@ liancha22/dsh-puzzle-mode
 liang-today/dsh-liangxiang
 liangbai250/DSH-Whale-Balance-Widget
 liangdabiao/dsh-plugin-developer-skill
+liangdabiao/dsh-realman-studio
 liangl1985/work-personal-secretary
 liangmianya/dsh-synapse
 liangxiaobing520/dsh-local-vector-memory

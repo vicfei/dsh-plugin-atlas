@@ -7,14 +7,14 @@
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) 💤 — DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。 · ⭐40
 - [AgentConnect/dsh-awiki](https://github.com/AgentConnect/dsh-awiki) — AWiki identity and messaging plugin for DeepSeek Harness · ⭐19
 - [Max-Null/dsh-chinese-thinking](https://github.com/Max-Null/dsh-chinese-thinking) — One-line fix: inject a fixed system-prompt section so the agent always thinks and replies in Chinese, whatever the user's language · 中文思考：注入 · ⭐14
-- [redfox-data/redfox-community-dsh](https://github.com/redfox-data/redfox-community-dsh) — The official bundle plugin package of DSH (DeepSeek Harness) from RedFoxHub（红狐数据）: Over 100 social media data skills (Douyin / Xiaohongshu / · ⭐12
+- [redfox-data/redfox-community-dsh](https://github.com/redfox-data/redfox-community-dsh) — The official bundle plugin package of DSH (DeepSeek Harness) from RedFoxHub（红狐数据）: Over 100 social media data skills (Douyin / Xiaohongshu / · ⭐13
 - [Solismuchengxue/dsh_plugin_swift_cycle](https://github.com/Solismuchengxue/dsh_plugin_swift_cycle) 💤 — Swift Cycle governance skill adapter for DeepSeek Harness; user-invoked, version-pinned, and offline-verifiable. · ⭐9
 - [std-microblock/orange-bot](https://github.com/std-microblock/orange-bot) — 橘波特 (Orange): a QQ group chat bot stack for DeepSeek Harness — the dsh plugin, the koishi bridge for the official QQ bot, and the crossgram  · ⭐8
 - [liliuCourier/dsh-chat-outline](https://github.com/liliuCourier/dsh-chat-outline) 💤 — 对话栏左侧常驻大纲：快速定位每次 user 提问与最后 assistant 回复（DeepSeek Harness 插件） · ⭐7
 - [jing-hy/computer-user](https://github.com/jing-hy/computer-user) — DSH plugin: Codex-style computer use for Windows - read the screen, drive mouse & keyboard via SendInput; pairs with picturereader to close  · ⭐6
+- [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐6
 - [AomiRaku/dsh-accountDisplayName-edit](https://github.com/AomiRaku/dsh-accountDisplayName-edit) — (no description) · ⭐5
 - [bescriptkiddie/dsh-wechat-collector](https://github.com/bescriptkiddie/dsh-wechat-collector) 💤 — DSH-native WeChat Official Account collector and ContentStudio handoff. · ⭐5
-- [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐5
 - [AusertDream/TravelPlanner](https://github.com/AusertDream/TravelPlanner) — 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 · ⭐4
 - [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) — DeepSeek Harness plugin that learns from coding agent retries and user corrections, then adds visible, editable directives to future convers · ⭐4
 - [ZihaoVistonWang/Stata-AI-Skill](https://github.com/ZihaoVistonWang/Stata-AI-Skill) 💤 — Stata AI Skill Native Service: Native localhost HTTP service that lets AI agents run Stata without VS Code, Node.js, or Python on the user s · ⭐4
@@ -34,7 +34,7 @@
 - [huangmiuXyz/dsh-edit-retry](https://github.com/huangmiuXyz/dsh-edit-retry) — Right-click any user message to edit it and retry from that point — a client-side plugin for DeepSeek Harness (DSH). · 右键编辑任意一条用户消息并从那里重试。 · ⭐0
 - [IHS470/dsh-global-rules](https://github.com/IHS470/dsh-global-rules) — DSH plugin: one user-owned rule list, injected into every request system prompt, so the agent has to walk the rules before answering. · ⭐0
 - [kouzerror/dsh-retry](https://github.com/kouzerror/dsh-retry) — Native 'Restart DeepSeek Harness' action for the Windows tray menu and account menu. 给 DSH 桌面端加真正的重启入口。 · ⭐0
-- [M-Abozaid/limonene-mcp](https://github.com/M-Abozaid/limonene-mcp) — Connect your Amazon seller account to ChatGPT, Claude and other AI assistants. Read-only MCP connector for sales, Buy Box, FBA inventory, al · ⭐0
+- [M-Abozaid/limonene-mcp](https://github.com/M-Abozaid/limonene-mcp) 💤 — Connect your Amazon seller account to ChatGPT, Claude and other AI assistants. Read-only MCP connector for sales, Buy Box, FBA inventory, al · ⭐0
 - [oopsdoes/dsh-welcome-back](https://github.com/oopsdoes/dsh-welcome-back) — A DSH plugin that welcomes users back to today's active conversations after a configurable idle period. · ⭐0
 - [ShikangPang/jizuo-creator-account](https://github.com/ShikangPang/jizuo-creator-account) — 即作账号插件：DeepSeek Harness 浏览器登录、账号权益与模型接入 · ⭐0
 - [Stellight/dsh-deepseek-balance](https://github.com/Stellight/dsh-deepseek-balance) — DeepSeek Harness dynamic Cordis plugin: real-time DeepSeek account balance + official top-up entry · ⭐0

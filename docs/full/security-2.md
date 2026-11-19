@@ -2,6 +2,11 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-cn-data-export](https://github.com/feely0208/dsh-cn-data-export) — 数据出境检查：查代码与配置里的境外数据出口、个人信息外发、缺安全评估说明。 · ⭐0
+- [feely0208/dsh-cn-filing](https://github.com/feely0208/dsh-cn-filing) — 备案公示检查：查应用里有没有 ICP/APP 备案号、隐私政策入口、运营者信息。 · ⭐0
+- [feely0208/dsh-cn-log-retention](https://github.com/feely0208/dsh-cn-log-retention) — 日志留存合规：检查日志是否开启、是否记了该记的、是否留够法定 6 个月。 · ⭐0
+- [feely0208/dsh-cn-mlps](https://github.com/feely0208/dsh-cn-mlps) — 等保对照：按 GB/T 22239-2019 找出代码与配置里可静态发现的等保项。 · ⭐0
+- [feely0208/dsh-compliance-doc](https://github.com/feely0208/dsh-compliance-doc) — 一份能交出去的自查表、整改说明和合规证明 · ⭐0
 - [feely0208/dsh-enterprise-suite](https://github.com/feely0208/dsh-enterprise-suite) — 深鲸企业审计套件：审批台账 + 决策复盘 + 审计报告 + 定时复盘，一个授权全部可用（商业授权，14 天试用） · ⭐0
 - [feely0208/dsh-industry-hr](https://github.com/feely0208/dsh-industry-hr) — 招聘场景多出来的那几项：简历个人信息、就业歧视用语、背景调查授权，别等投诉才发现 · ⭐0
 - [feely0208/dsh-industry-manufacturing](https://github.com/feely0208/dsh-industry-manufacturing) — 制造现场多出来的那几项：安全生产培训学时、特种设备登记、产品标识与危化品管理，别等检查才发现 · ⭐0
@@ -87,7 +92,6 @@
 - [mafeis/dsh-image-guard](https://github.com/mafeis/dsh-image-guard) 💤 — DSH plugin: trims historical images to the provider image budget before sending, learns the image cap from HTTP 400 responses, and retries w · ⭐0
 - [MagicTangOps/dsh-insurance-advisor](https://github.com/MagicTangOps/dsh-insurance-advisor) — Insurance advisor agent preset for DeepSeek Harness: suitability matching, policy ledger and sales-recording checks for individual agents (个 · ⭐0
 - [Making-acid/dsh-approval-preflight](https://github.com/Making-acid/dsh-approval-preflight) — Plan-first permission preflight for DeepSeek Harness: batch-grant coarse permission classes once, resolve covered approvals instantly, and l · ⭐0
-- [malko/aibox](https://github.com/malko/aibox) — Your AI, in its own box. · ⭐0
 - [maozhuoshushu/dsh-local-host-guard](https://github.com/maozhuoshushu/dsh-local-host-guard) — DSH 宿主内哨兵：同步调用打点 + 主线程卡死取证 + 内存三闸（写闸 / 冷回填闸 / 闲置会话下放）+ 队列哨兵。零依赖，全中文。 · ⭐0
 - [MaRi23333/dsh-serverchan-watchdog](https://github.com/MaRi23333/dsh-serverchan-watchdog) — DeepSeek Harness 的 Server酱推送插件：审批、计划评审或问答超时未处理时，发送微信/Server酱³ App 提醒。第三方非官方项目。 · ⭐0
 - [Mark-mph/dsh-kb-curator](https://github.com/Mark-mph/dsh-kb-curator) — Bundles the kb-curator skill: a local three-layer knowledge base engine for DeepSeek Harness that refuses to index anything you have not app · ⭐0
@@ -113,9 +117,6 @@
 - [OZONGO/dsh-agents-inits](https://github.com/OZONGO/dsh-agents-inits) — Run the AGENTS.md authoring workflow inside a subagent, so no instruction body enters the main conversation. · ⭐0
 - [OZONGO/dsh-keyboard-shortcut](https://github.com/OZONGO/dsh-keyboard-shortcut) — A Keyboard Shortcuts settings page for DeepSeek Harness (DSH), with permission-mode cycling, reasoning-effort stepping, prompt navigation, a · ⭐0
 - [PangYiMing/dsh-port-guard](https://github.com/PangYiMing/dsh-port-guard) 💤 — DSH plugin: triage port conflicts (reuse / switch / precise kill) — 端口占用处置 · ⭐0
-- [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) — [FROZEN 2026-10-31] Read-only MCP server over the dsh-plugin-certification registry: get_certification, list_certified, certification_spec. · ⭐0
-- [PerryLink/dsh-guard-plan-qc](https://github.com/PerryLink/dsh-guard-plan-qc) — 劳保用品配置核对：按公开配备标准核对品名规格与配置数量，仅提示差异，不作出定性结论。 · ⭐0
-- [PerryLink/dsh-policy-brief-draft](https://github.com/PerryLink/dsh-policy-brief-draft) — DeepSeek Harness 插件 — 政策简报核对：依据《党政机关公文处理工作条例》。仅提示差异，不作出定性结论。 · ⭐0
 - [Phocinae/dsh-phocinae](https://github.com/Phocinae/dsh-phocinae) — Phocinae decision plugin bundle for DeepSeek Harness (dsh): phocinae_ask tool + approval gate · ⭐0
 - [Physicolor/dsh-design-resources](https://github.com/Physicolor/dsh-design-resources) — DeepSeek Design Resources — the interface spec, the reusable-source knowledge base and a live component gallery for DeepSeek Harness plugin  · ⭐0
 - [PlasmaPerfuma/dsh-notify-card](https://github.com/PlasmaPerfuma/dsh-notify-card) — Standalone approval window for DeepSeek Harness — pops up when you're away, hands back to DSH's native card when you return, follows your DS · ⭐0
@@ -149,7 +150,6 @@
 - [sadnessXU/dsh-pet-game-guard](https://github.com/sadnessXU/dsh-pet-game-guard) — Hide dsh-pet while gaming (Windows) · ⭐0
 - [saichao/dsh-clickhouse](https://github.com/saichao/dsh-clickhouse) — ClickHouse query tools for DSH / DeepSeek Harness: schema exploration plus guarded read-only SQL. 带只读护栏的 ClickHouse 数据问答插件，零运行时依赖。 · ⭐0
 - [sanshanya/dsh-dot-mcp](https://github.com/sanshanya/dsh-dot-mcp) — MCP bridge that exposes DeepSeek Harness (DSH) sessions, native goals, approvals and results to an MCP client over the official protocol: 21 · ⭐0
-- [sashankh/dsh-taintguard](https://github.com/sashankh/dsh-taintguard) 💤 — Indirect prompt-injection guard for DeepSeek Harness: taints tool output by origin, gates privileged calls that follow untrusted content, an · ⭐0
 - [SeasonTemple/dsh-decision-gate](https://github.com/SeasonTemple/dsh-decision-gate) — A decision gate for DSH — ask five questions before every shell command, then allow, ask, or deny. · ⭐0
 - [secretLjp/dsh-weave](https://github.com/secretLjp/dsh-weave) 💤 — Harness-native conversation branches and explicit semantic harvests for DeepSeek Harness · ⭐0
 - [secretxuan/oh-my-dsh](https://github.com/secretxuan/oh-my-dsh) 💤 — Agent Teams for DeepSeek Harness with native-vision Windows computer-use · ⭐0
@@ -220,7 +220,7 @@
 - [wufengwind/dsh-plugin-dm-ops](https://github.com/wufengwind/dsh-plugin-dm-ops) — Dameng inspection, security and recovery-condition assessment for DeepSeek Harness · ⭐0
 - [wxyzh/dsh-auth-proxy](https://github.com/wxyzh/dsh-auth-proxy) 💤 — (no description) · ⭐0
 - [WYR-233/dsh-whale-guard](https://github.com/WYR-233/dsh-whale-guard) — DSH 防呆插件：safe_kill 工具（自动排除自身与祖先进程链）+ bash 命令预检 + 可扩展规则库。Zero-dependency safety guard for DeepSeek Harness. · ⭐0
-- [x102201/dsh-helper-plugin-command-ask](https://github.com/x102201/dsh-helper-plugin-command-ask) — dsh-helper plugin: a Cursor-style /ask mode for DeepSeek Harness — /ask <question> answers read-only for one turn (cited, no edits, enforced · ⭐0
+- [x102201/dsh-helper-plugin-command-ask](https://github.com/x102201/dsh-helper-plugin-command-ask) 💤 — dsh-helper plugin: a Cursor-style /ask mode for DeepSeek Harness — /ask <question> answers read-only for one turn (cited, no edits, enforced · ⭐0
 - [x2802490130-prog/dsh-guard](https://github.com/x2802490130-prog/dsh-guard) 💤 — DSH 开发配套守护：滚动快照、失败自动回退、启动救援、设置页管理面板。 · ⭐0
 - [xevil3301/dsh-chatlock](https://github.com/xevil3301/dsh-chatlock) — DSH 聊天锁 / 保险箱：给会话上密码锁，把目录加密成保险箱 · ⭐0
 - [XiaoSHang05/dsh-rice-guard](https://github.com/XiaoSHang05/dsh-rice-guard) — A passive watchdog for DeepSeek Harness: watches a turn's thinking and text streams and cancels it when the model starts repeating itself. · ⭐0

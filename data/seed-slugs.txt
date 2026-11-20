@@ -862,6 +862,7 @@ Asteroid-Code-Channel/dsh-workspace-atlas
 Astervolans/dsh-literature-search
 Astervolans/dsh-opencode-go-usage
 Astro-Han/pawwork
+Asuta/dsh-cdx-plus
 Asza-other/dsh-narrator
 Athosoo/dsh-git-graph-sidebar
 AtinyFurina/dsh-memory-triage
@@ -2157,6 +2158,7 @@ HiAi-gg/docsmint
 HiQ-AI/dingtalk-dsh-assistant
 HiSeax/dsh-agent-outputs-reader
 HiSeax/dsh-better-model-setting
+HiSeax/dsh-windows-superagent
 HiWhaleW/dsh-toolbox
 HiccupGeng/dsh-briefing-skill
 HiccupGeng/dsh-doc-skill
@@ -5305,6 +5307,7 @@ Yikeqm/dsh-wb-credit-fallback
 Yiklek/dsh-settings-manager
 Yiklek/dsh-web-profile
 Yingmoon0715/yingmoon-plugins
+YinkaiYu/chat-in-dsh
 Yinxe/deepseek-harness-plugins
 Yinxe/dsh-luncher
 Yinxe/dsh-starter
@@ -5732,6 +5735,7 @@ ai-eks/dsh-auth-tunnel
 ai-eks/dsh-docking-layout
 ai-fu-cn/dsh-plugin-memos-code-retrospect
 ai-thinkshare/dsh-workbench
+ai-timon/timon
 ai-tools-mtl/Aurify
 ai-v5/LLMAgentChatRoom
 ai-v5/LLMDSHPlugin_token-usage
@@ -6508,6 +6512,7 @@ cherrchen/dsh-plugin-git
 cherrchen/dsh-plugin-multi-root-workspace
 cherrchen/dsh-theme-studio
 cheshireez/dsh-skill-hub
+cheso-ai-platform/dsh-cheso-design
 chiang21fcb/cn-linebreak
 chiang21fcb/dsh-ppt-guider
 chichibunoc/dsh-anima-draw
@@ -8673,6 +8678,7 @@ kapelame/deepseek-harness-leetcode
 karoc/dsh-model-reasoning
 kasparovabi/dsh-studio
 katsos/dsh-claude-cli
+kaust-ark/ARK
 kazecreator/dsh-settings-pro
 kaziii/dsh-github-connector
 kc0ed/dsh-bottom-bar
@@ -8701,6 +8707,7 @@ kelearns/dsh-navigation-bar
 kelearns/dsh-token-usage
 keleus/deepseek-pet
 keli-wen/agy-staff
+keli-wen/cospan
 keller-52/bilibili-deepseek
 keman-ai/dsh-opencode-zen
 keman-ai/dsh-pocket
@@ -10216,6 +10223,7 @@ omdsh-dev/dsh-daily-fortune
 omdsh-dev/dsh-daily-progress
 omdsh-dev/dsh-data-agent
 omdsh-dev/dsh-deep-research
+omdsh-dev/dsh-ego-browser
 omdsh-dev/dsh-ernie-image
 omdsh-dev/dsh-file-trace
 omdsh-dev/dsh-fun-ticker

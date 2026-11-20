@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [webkubor/dsh-museav-assets](https://github.com/webkubor/dsh-museav-assets) — DeepSeek Harness 素材浏览插件：按工作区查看 MUSE AV 素材与出图记录，复制素材直链。DSH asset browser for MUSE AV workspaces, image libraries and generation history. · ⭐1
 - [WelY1/dsh-topbar](https://github.com/WelY1/dsh-topbar) — Per-session status chips in the GNOME top bar for DeepSeek Harness. · ⭐1
 - [wenhao4126/dsh-session-delete](https://github.com/wenhao4126/dsh-session-delete) 💤 — (no description) · ⭐1
 - [Whale-Zhang/dsh-cron-tasks](https://github.com/Whale-Zhang/dsh-cron-tasks) 💤 — Scheduled tasks for DeepSeek Harness: sidebar jobs, isolated run history, cron/at schedules. · ⭐1
@@ -198,7 +199,6 @@
 - [guo120629-dotcom/dsh-send-timestamp](https://github.com/guo120629-dotcom/dsh-send-timestamp) — Per-conversation timestamp toggle for the dsh Web composer: each submitted message is followed by a hidden context message carrying the curr · ⭐0
 - [guomi6450/dsh-folder-timemachine](https://github.com/guomi6450/dsh-folder-timemachine) — 给任意文件夹留历史版本、随时回到过去——像 Git 一样有版本历史，但不需要懂 Git，游戏存档 / 软件配置 / 散落文档都能用。实时（改动静默 8 秒）或定时自动存档，按内容去重、内容没变不产生空版本、空文件夹也记录；每次恢复前自动存安全点，所以恢复本身也可撤销。DeepSe · ⭐0
 - [HABIDSKOFT/dsh-turn-usage](https://github.com/HABIDSKOFT/dsh-turn-usage) 💤 — A dsh plugin for recording tokens and costs in every requests and let them displayed. · ⭐0
-- [hakulat2023/dsh-session-delete](https://github.com/hakulat2023/dsh-session-delete) — Session deletion for DeepSeek Harness: recoverable trash-based delete, a sidebar menu row, and session_delete / session_restore agent tools. · ⭐0
 - [hansomgar/dsh-recent-usage-metrics](https://github.com/hansomgar/dsh-recent-usage-metrics) — Geek-mode request metrics for DeepSeek Harness: live TTFT / token-speed / token readout in the composer status row, plus a frosted-glass his · ⭐0
 - [haotian-lu-prog/dsh-archived-sessions-manager](https://github.com/haotian-lu-prog/dsh-archived-sessions-manager) — DSH 已归档会话管理器：插件 + RPC/端到端工具 · ⭐0
 - [haruri03/dsh-todo-ledger](https://github.com/haruri03/dsh-todo-ledger) — todo-ledger for DeepSeek Harness: persistent task state, 12 native tools, and cross-session context in a repo-local _todo/ directory. · ⭐0
@@ -259,7 +259,7 @@
 - [JuneLearn/dsh-session-import](https://github.com/JuneLearn/dsh-session-import) 💤 — DeepSeek Harness 会话导入与校验插件 | Import and verify DSH session exports with validation, state sync, rollback protection, and an in-app UI. · ⭐0
 - [jusong/dsh-codex-pets](https://github.com/jusong/dsh-codex-pets) — macOS always-on-top desktop pet for DSH Desktop: DeepSeek whale, Codex/codex-pets.net skins, session ball, right-click/shortcut new-session  · ⭐0
 - [jyhn-hunao/dsh-session-cost](https://github.com/jyhn-hunao/dsh-session-cost) 💤 — (no description) · ⭐0
-- [kai-GitHubaccount/dsh-usage-panel](https://github.com/kai-GitHubaccount/dsh-usage-panel) — DeepSeek 余额 + Token 用量面板（DSH Web）：三级预警、自定义阈值、一键充值、缓存命中率 ｜ Balance & usage panel for DeepSeek Harness · ⭐0
+- [kai-GitHubaccount/dsh-usage-panel](https://github.com/kai-GitHubaccount/dsh-usage-panel) 💤 — DeepSeek 余额 + Token 用量面板（DSH Web）：三级预警、自定义阈值、一键充值、缓存命中率 ｜ Balance & usage panel for DeepSeek Harness · ⭐0
 - [kanoonak/dsh-whale-catcher](https://github.com/kanoonak/dsh-whale-catcher) — DSH Web 小游戏：左下角会有一枚按钮，点开就可以玩捞 小鲸鱼抓token 的小游戏（非官方粉丝作品） · ⭐0
 - [keepview/dsh-lark](https://github.com/keepview/dsh-lark) 💤 — Minimal Lark/Feishu gateway plugin for DeepSeek Harness (dsh) — chat with your agent from Feishu, one topic = one session. 极简 DeepSeek Harne · ⭐0
 - [kermars39-web/dsh-conversation-import](https://github.com/kermars39-web/dsh-conversation-import) — Import a local Codex conversation thread into a DeepSeek Harness Session, filed under its original working directory, with optional auto-syn · ⭐0
@@ -419,8 +419,8 @@
 - [rhl88/dsh-session-delete](https://github.com/rhl88/dsh-session-delete) — DeepSeek Harness（DSH）插件：在侧边栏会话菜单里加入删除会话（永久移除会话记录与完整历史，补足只能归档的限制）。 · ⭐0
 - [road-kid/dsh-terminal-shell](https://github.com/road-kid/dsh-terminal-shell) — DSH plugin: switch the session terminal tool from pwsh to the local Git Bash / CMD on Windows. · ⭐0
 - [rpegorov/harness-review](https://github.com/rpegorov/harness-review) — A fortnightly self-review of your coding-agent sessions (Claude Code, Codex): what works in your skills, hooks and rules, what needs attenti · ⭐0
-- [Ruiming-cn/dsh-ask-in-sidebar](https://github.com/Ruiming-cn/dsh-ask-in-sidebar) 💤 — Ask about selected assistant text in an ephemeral DSH Web sidebar using a snapshot of the main conversation. · ⭐0
-- [Ruiming-cn/dsh-better-at](https://github.com/Ruiming-cn/dsh-better-at) 💤 — Caches DSH Web file and session reference indexes for local @ filtering while preserving native mention insertion. · ⭐0
+- [Ruiming-cn/dsh-ask-in-sidebar](https://github.com/Ruiming-cn/dsh-ask-in-sidebar) — Ask a sidebar assistant about selected assistant text: choose how much of the main conversation to reuse, then stop, copy or regenerate the  · ⭐0
+- [Ruiming-cn/dsh-better-at](https://github.com/Ruiming-cn/dsh-better-at) — Custom @ search scope for the DSH Web composer: keeps archived, stale and unrelated-subagent sessions out of the @ menu, switches file paths · ⭐0
 - [Ruiming-cn/dsh-more-session-operations](https://github.com/Ruiming-cn/dsh-more-session-operations) 💤 — DeepSeek Harness Web sidebar session-row menu enhancements: mark unread via the official completed-reminder dot, copy session ID, delete ses · ⭐0
 - [Ruler4396/dsh-shredder](https://github.com/Ruler4396/dsh-shredder) — dsh 插件：在原生会话菜单里给已归档的会话加一枚红色「彻底删除」行，不额外做归档面板 / dsh plugin: one red delete row in the native session menu, for archived sessions only · ⭐0
 - [ryanxie113/dsh-solpi](https://github.com/ryanxie113/dsh-solpi) 💤 — Four harness efficiency mechanisms (Action Fusion, ObservationPack, Evidence-Preserving Reducer, Online Context Compact) as a DeepSeek Harne · ⭐0
@@ -444,7 +444,7 @@
 - [shrekcg/dsh-turn-rail](https://github.com/shrekcg/dsh-turn-rail) — Conversation turn rail for the DSH Web UI: one tick per user message, hover to preview, click to jump, plus a scroll-position indicator. 会话左 · ⭐0
 - [Shuaige-Da/dsh-cost-pill](https://github.com/Shuaige-Da/dsh-cost-pill) — Writes the session's estimated cost into the composer token-usage pill and prices every bucket in the usage dialogs, using DeepSeek's offici · ⭐0
 - [Shuffle-1992/dsh-browser-kit](https://github.com/Shuffle-1992/dsh-browser-kit) — DSH built-in browser enhancement kit: element annotations (multi-window shared sessions), screenshot feedback, device traffic observation, a · ⭐0
-- [singei8/DSH-TOKEN-feiyong](https://github.com/singei8/DSH-TOKEN-feiyong) — DSH（DeepSeek Harness）动态 Cordis 计费插件：按官方价目表逐笔计算 token 花费（缓存命中 / 未命中 / 输出），高峰低谷分时计价，含账户余额、单次与本对话统计，数据本地持久化。 · ⭐0
+- [singei8/DSH-TOKEN-feiyong](https://github.com/singei8/DSH-TOKEN-feiyong) 💤 — DSH（DeepSeek Harness）动态 Cordis 计费插件：按官方价目表逐笔计算 token 花费（缓存命中 / 未命中 / 输出），高峰低谷分时计价，含账户余额、单次与本对话统计，数据本地持久化。 · ⭐0
 - [sixzjd/dsh-usage-dash-board](https://github.com/sixzjd/dsh-usage-dash-board) — Local usage statistics for DeepSeek Harness: token consumption, request count, cache hit rate and estimated cost as a native settings sectio · ⭐0
 - [SkuraSshly/dsh-done-badge](https://github.com/SkuraSshly/dsh-done-badge) 💤 — DeepSeek Harness (DSH) task completion badge: native Windows taskbar counter (ITaskbarList3) while the window is away, auto-clears on return · ⭐0
 - [skystart233-code/dsh-codex-usage-board](https://github.com/skystart233-code/dsh-codex-usage-board) — 🫡 把 DSH 挤成 Codex 的形状：设置页里的用量看板——Token 热力图、常用工具、技能与近 30 天明细，数据来自本机会话日志。 · ⭐0

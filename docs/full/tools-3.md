@@ -209,7 +209,7 @@
 - [p56568833/dsh-plugin-groups](https://github.com/p56568833/dsh-plugin-groups) — Category tabs for the DeepSeek Harness Plugins page's Installed list, with patch plugins nested under their parent. · ⭐0
 - [panando/dsh-pua](https://github.com/panando/dsh-pua) — DSH PUA 修订版（基于 @michengai/dsh-pua v0.3.22）：解除上游全局总闸，让「入口常显」与「功能默认关闭」共存——输入栏菜单一键开关 PUA，界面紧凑化。 · ⭐0
 - [pandarayc/dsh-eli5](https://github.com/pandarayc/dsh-eli5) — 讲人话（dsh-eli5）：DSH 划词解释插件 —— 用最直白的话说明白它是什么，必要时只读工作区，不写入主对话上下文 · ⭐0
-- [PangXitong/dsh-restart-button](https://github.com/PangXitong/dsh-restart-button) — 在Deepseek Harness的设置中新增一个关闭/重启按钮 · ⭐0
+- [PangXitong/dsh-restart-button](https://github.com/PangXitong/dsh-restart-button) 💤 — 在Deepseek Harness的设置中新增一个关闭/重启按钮 · ⭐0
 - [perdakovich/dsh-prompt-edit](https://github.com/perdakovich/dsh-prompt-edit) — The pencil DSH forgot to ship: suckless prompt editing, engineered to feel like it was always there. · ⭐0
 - [persevere-dsh/perse-updater](https://github.com/persevere-dsh/perse-updater) 💤 — perse-updater — carry DSH to its next version, safely. (Part of Persevere with DSH; perse = persevere) · ⭐0
 - [phfb/dsh-qq-bot](https://github.com/phfb/dsh-qq-bot) — 把 QQ 私聊接进 DeepSeek Harness：私聊陪伴向的 DSH 插件（dsh-qq-bot + dsh-alive） · ⭐0
@@ -306,7 +306,7 @@
 - [spidu-lee/dsh-refresh](https://github.com/spidu-lee/dsh-refresh) — (no description) · ⭐0
 - [sssueason/dsh-pwsh-progress](https://github.com/sssueason/dsh-pwsh-progress) — (no description) · ⭐0
 - [starkingcn/dsh-story](https://github.com/starkingcn/dsh-story) — (no description) · ⭐0
-- [StarPivotNet/dsh-plugins-public](https://github.com/StarPivotNet/dsh-plugins-public) — Installable DeepSeek Harness plugin marketplace (Settings → Plugins) · ⭐0
+- [StarPivotNet/dsh-plugins-public](https://github.com/StarPivotNet/dsh-plugins-public) 💤 — Installable DeepSeek Harness plugin marketplace (Settings → Plugins) · ⭐0
 - [StefanIsMe/dsh-updater-plugin](https://github.com/StefanIsMe/dsh-updater-plugin) 💤 — Never lose a draft. Stay up to date in one click — draft-safe self-updater for DeepSeek Harness · ⭐0
 - [Stella-Mira/muse_galaxy](https://github.com/Stella-Mira/muse_galaxy) — DSH 采集器插件：把本地文件/网络资源/直播流解码成 JPEG 帧 + 16k PCM 推给 muse_vtuber 的采集口（含 B 站视频与直播，断流自动换节点重连） · ⭐0
 - [SugarFatFree/dsh-agent-extension](https://github.com/SugarFatFree/dsh-agent-extension) — DeepSeek Harness plugin for workspace commands, skills, and path-scoped rules. · ⭐0

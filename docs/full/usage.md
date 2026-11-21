@@ -2,17 +2,17 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — MCP-серверы и сравнение цен без API-ключей для 12 площадок РФ и Китая (Wildberries / WB, Ozon, Яндекс Маркет, Авито, AliExpress, Taobao, DNS · ⭐194
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — MCP-серверы и сравнение цен без API-ключей для 12 площадок РФ и Китая (Wildberries / WB, Ozon, Яндекс Маркет, Авито, AliExpress, Taobao, DNS · ⭐198
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — 一个能帮你省钱的插件！缓存其实比你想象的贵！换窗口可以省缓存钱，但换窗口有顾虑，或许你懒得重新描述项目和规则，或者你还需要那个上下文。所以这个插件，就是为了告诉你，当前轮，纯粹上下文缓存的部分，到底花了你多少钱。这样你才心里有个底，判断什么时候该换窗口。 在dsh-plugin标 · ⭐49
 - [Cassius0924/dsh-usage-dashboard](https://github.com/Cassius0924/dsh-usage-dashboard) — DeepSeek 额度与用量仪表盘 — DSH (DeepSeek Harness) 动态 Cordis 插件 · ⭐13
 - [Xenia0922/dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) 💤 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) · ⭐12
 - [940842546/dsh-usage-billing](https://github.com/940842546/dsh-usage-billing) — (no description) · ⭐9
 - [baiye1997/MEB-DSH](https://github.com/baiye1997/MEB-DSH) — 工程造价人的 DSH 工作台：台账、计算、图纸与项目助手。 · ⭐7
+- [JasperPengC/agent-blackbox](https://github.com/JasperPengC/agent-blackbox) — AI 编程 agent 的飞行记录仪：本地优先，回放、归因与对比 DSH / Claude Code / Codex / ACP 会话。零运行时依赖，无遥测。 · ⭐7
 - [Minokun/dsh-quota](https://github.com/Minokun/dsh-quota) — (no description) · ⭐7
 - [TencentCloud/cloudq-for-dsh](https://github.com/TencentCloud/cloudq-for-dsh) — CloudQ integration for DeepSeek Harness, providing multi-cloud architecture governance, AIOps, risk inspection, usage, artifacts, and archit · ⭐7
 - [Yinxe/deepseek-harness-plugins](https://github.com/Yinxe/deepseek-harness-plugins) — DeepSeek Harness (DSH) plugins monorepo (pnpm + TypeScript) · ⭐7
 - [fancr-code/dsh-plugin-usage-meter](https://github.com/fancr-code/dsh-plugin-usage-meter) — DeepSeek Harness 网页插件：API 用量/费用/余额仪表 — 当日/近7天按模型堆叠柱状图、预算提醒、跨会话账本。 · ⭐6
-- [JasperPengC/agent-blackbox](https://github.com/JasperPengC/agent-blackbox) — AI 编程 agent 的飞行记录仪：本地优先，回放、归因与对比 DSH / Claude Code / Codex / ACP 会话。零运行时依赖，无遥测。 · ⭐6
 - [mike-lee0120/dsh-cost-dashboard](https://github.com/mike-lee0120/dsh-cost-dashboard) — (no description) · ⭐5
 - [Sev7een/ds-api-usage](https://github.com/Sev7een/ds-api-usage) 💤 — (no description) · ⭐5
 - [wawo77/dsh-opencode-go-usage](https://github.com/wawo77/dsh-opencode-go-usage) 💤 — dsh的桌宠插件，爱吃白饭的可爱大肥鱼 · ⭐5
@@ -73,7 +73,7 @@
 - [hsthanb4/dsh-magpie-usage](https://github.com/hsthanb4/dsh-magpie-usage) — DeepSeek Harness (DSH) 插件：将 Magpie 本地网关的用量与配额进度圆环嵌入 DSH 输入框底部状态栏（与上下文比例并列） · ⭐0
 - [i1537725423-dotcom/dsh-plugin-task-budget](https://github.com/i1537725423-dotcom/dsh-plugin-task-budget) — 任务预算：给 DeepSeek Harness 每一轮对话设人民币花费上限，默认 5 元，到线即停。 · ⭐0
 - [jwilson411/dsh-spend-receipt](https://github.com/jwilson411/dsh-spend-receipt) 💤 — A cache-aware JSONL cost receipt plugin for DeepSeek Harness. · ⭐0
-- [jwilson411/dsh-tool-quota](https://github.com/jwilson411/dsh-tool-quota) — DeepSeek Harness plugin: per-tool call and result-byte caps · ⭐0
+- [jwilson411/dsh-tool-quota](https://github.com/jwilson411/dsh-tool-quota) 💤 — DeepSeek Harness plugin: per-tool call and result-byte caps · ⭐0
 - [kongshan-zhuyu/dsh-balance-quota](https://github.com/kongshan-zhuyu/dsh-balance-quota) 💤 — 一块可以配置余额、监测模型监控状态、以及配置模型多模态设置的插件 · ⭐0
 - [liujianqiao701/dsh-cost-today](https://github.com/liujianqiao701/dsh-cost-today) — DSH 今日花费插件：读 dsh-cost-meter 的账本，把「今天花了多少钱」显示在输入框下方与会话头部 | Daily spend for DeepSeek Harness, read from the cost-meter ledger · ⭐0
 - [ljr282341583/dsh-convo-cost](https://github.com/ljr282341583/dsh-convo-cost) — (no description) · ⭐0

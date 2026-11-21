@@ -1,4 +1,4 @@
-# Security & Permissions — 1170 entries (part 2/2)
+# Security & Permissions — 1169 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -24,7 +24,7 @@
 - [guokecloud/dsh-session-janitor](https://github.com/guokecloud/dsh-session-janitor) — DSH session cleaner: a sidebar page listing session records and archive caches, with a restorable recycle bin and an in-use guard. · ⭐0
 - [gyyxs88/dsh-session-control](https://github.com/gyyxs88/dsh-session-control) — Authorized, durable cross-session control for DeepSeek Harness · ⭐0
 - [Hakunm/dsh-approve-for-me](https://github.com/Hakunm/dsh-approve-for-me) 💤 — 为DeepSeek Harness添加“代我审核”功能，让 AI 替你审查 DSH 的敏感操作，而不是直接交出全部权限。Fail-closed automatic approval for DeepSeek Harness with selectable reviewer mod · ⭐0
-- [harmless0819-dev/dsh-agent-chat](https://github.com/harmless0819-dev/dsh-agent-chat) — Turn-injection message channel between DSH agents on two machines: messages land in a log and are injected as context at the next agent step · ⭐0
+- [harmless0819-dev/dsh-agent-chat](https://github.com/harmless0819-dev/dsh-agent-chat) 💤 — Turn-injection message channel between DSH agents on two machines: messages land in a log and are injected as context at the next agent step · ⭐0
 - [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) 💤 — Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. · ⭐0
 - [hasan-aghayev/dsh-session-resilience](https://github.com/hasan-aghayev/dsh-session-resilience) — Safe DSH restarts, token-aware reconnect, and policy-based recovery for DSH 0.2+ · ⭐0
 - [Hashing2030/dsh-bulwark](https://github.com/Hashing2030/dsh-bulwark) — DSH plugin: enforce AI rules and protect tools/paths from accidental modification. · ⭐0
@@ -198,7 +198,6 @@
 - [valing1837/dsh-plugin-github](https://github.com/valing1837/dsh-plugin-github) — Host-only GitHub integration for DeepSeek Harness: 29 agent tools for repositories, pull requests, issues and reviews, a write-approval gate · ⭐0
 - [vclike/dsh-github-companion](https://github.com/vclike/dsh-github-companion) — DeepSeek Harness 插件：AI 操作 GitHub 的完整集成——33 个 REST/GraphQL 工具 + 进程内权限门 + 成本纪律 companion skill — DeepSeek Harness plugin: complete GitHub inte · ⭐0
 - [Very12345/dsh-computer-use-windows](https://github.com/Very12345/dsh-computer-use-windows) — Windows desktop computer use for DSH: bound windows, observations, verified input, native approvals and stop controls · ⭐0
-- [Viger1/dsh-pilot](https://github.com/Viger1/dsh-pilot) 💤 — ✋ Hands for your DeepSeek Harness agent — autonomous browser operation by accessibility refs, with a permission model that follows your dsh  · ⭐0
 - [vinokok/dsh-external-access-guide](https://github.com/vinokok/dsh-external-access-guide) 💤 — 远程 VPS 上部署 DSH 并通过 HTTPS 安全开放外网访问 | Deploy DSH on a remote VPS and expose it securely over HTTPS · ⭐0
 - [Vladimir-Kryshchenko/dsh-route-fence-linter](https://github.com/Vladimir-Kryshchenko/dsh-route-fence-linter) 💤 — Static linter for DeepSeek Harness plugin HTTP routes: every webServer route bypasses the /api gateway's trust check and must pin the Host t · ⭐0
 - [wang678678/dsh-local-plugins](https://github.com/wang678678/dsh-local-plugins) — Local DSH plugins: knowledge-base picker, workspace directory flow, doc-routing guard, market autogroup · ⭐0

@@ -1,7 +1,10 @@
-# Tools & Integrations — 2327 entries (part 3/3)
+# Tools & Integrations — 2331 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Huang-zhishi/dsh-plugin-call-trace](https://github.com/Huang-zhishi/dsh-plugin-call-trace) 💤 — (no description) · ⭐0
+- [huanleyabo/dsh-selection-translate](https://github.com/huanleyabo/dsh-selection-translate) — dsh插件，用于直接对客户端内或网页内的文字划线翻译 · ⭐0
+- [hunyu-feng/dsh-video-digest](https://github.com/hunyu-feng/dsh-video-digest) — DSH plugin: turn a video link (Bilibili / YouTube / any page) into a transcript-backed summary, and say plainly what evidence it used. · ⭐0
 - [HYClub/dsh-ufo](https://github.com/HYClub/dsh-ufo) — 美国空军蓝皮书（1947–1969，12,618 起）、法国 GEIPAN 的三千余宗案卷、英国国防部 DEFE 24、巴西国家档案馆，以及 NUFORC 的十六万条民间目击——一个入口都调得到。 · ⭐0
 - [hyyhf/mindgarden](https://github.com/hyyhf/mindgarden) 💤 — a deepseek harness plugin · ⭐0
 - [hzys7/dsh-prompt-expander](https://github.com/hzys7/dsh-prompt-expander) — (no description) · ⭐0
@@ -202,7 +205,7 @@
 - [nuolingmo/dsh-market-notes](https://github.com/nuolingmo/dsh-market-notes) — ? dshmarket ???????????????????Auto-writes short plain-Chinese notes for installed dshmarket plugins that have none. · ⭐0
 - [oliblue-evan/dsh-peakclock](https://github.com/oliblue-evan/dsh-peakclock) — 峰谷倒计时：在 DSH 模型名称中显示 DeepSeek 峰谷状态与倒计时，支持实时预览与紧凑设置。 · ⭐0
 - [onesmash/dsh-reflex](https://github.com/onesmash/dsh-reflex) — (no description) · ⭐0
-- [OnTheWay111/dsh-plugin-path-completion](https://github.com/OnTheWay111/dsh-plugin-path-completion) — deepseek harness path completion（deepseek harness @文件名自动补齐和发现） · ⭐0
+- [OnTheWay111/dsh-plugin-path-completion](https://github.com/OnTheWay111/dsh-plugin-path-completion) 💤 — deepseek harness path completion（deepseek harness @文件名自动补齐和发现） · ⭐0
 - [oopsylol/dsh-waaagh-ork](https://github.com/oopsylol/dsh-waaagh-ork) — (no description) · ⭐0
 - [oppnc/dsh-kernel-codex](https://github.com/oppnc/dsh-kernel-codex) 💤 — Codex CLI written in DSH form: the OpenAI Codex tool surface re-registered as native DeepSeek Harness tools. · ⭐0
 - [P1gG0dG0d/dsh-done-alert](https://github.com/P1gG0dG0d/dsh-done-alert) — (no description) · ⭐0
@@ -285,7 +288,7 @@
 - [ShiTan-677/dsh-plugins](https://github.com/ShiTan-677/dsh-plugins) — Self-maintained DeepSeek Harness plugins: one repo, one CI, one npm package per plugin with its own version. · ⭐0
 - [shizhanyu13/dsh-waom](https://github.com/shizhanyu13/dsh-waom) 💤 — @shizhanyu13/dsh-waom — DSH plugin: autonomous-ops (WAOM). Monitor / decide / drive a subagent fix / evaluate independently (GAN). dsh-plugi · ⭐0
 - [simikangtao/dsh-storyboard](https://github.com/simikangtao/dsh-storyboard) 💤 — Doubao-style end-of-chat storyboard card for DeepSeek Harness: lightweight, zero-dependency HTML/SVG visual summary at the end of substantiv · ⭐0
-- [sindo-s/dsh-qq-bot](https://github.com/sindo-s/dsh-qq-bot) — DeepSeek Harness plugin bridging QQ official Bot API to dsh agents (no third-party bot framework) · ⭐0
+- [sindo-s/dsh-qq-bot](https://github.com/sindo-s/dsh-qq-bot) 💤 — DeepSeek Harness plugin bridging QQ official Bot API to dsh agents (no third-party bot framework) · ⭐0
 - [SJCxuanyi/dsh-ai-assistant](https://github.com/SJCxuanyi/dsh-ai-assistant) — (no description) · ⭐0
 - [sky1ine139/dsh-plugin-screenshot-ask](https://github.com/sky1ine139/dsh-plugin-screenshot-ask) — DSH 截图提问插件：原生框选截图直接进输入框，全程不落盘（DeepSeek Harness plugin, Windows） · ⭐0
 - [slinxiaosun-blip/ai-passport-dsh](https://github.com/slinxiaosun-blip/ai-passport-dsh) — DSH Passport：把 AI Passport 变成 DeepSeek Harness 的随身任务终端（固件端） · ⭐0
@@ -325,6 +328,7 @@
 - [Tangcuyu4/dsh-ciku-pack](https://github.com/Tangcuyu4/dsh-ciku-pack) — DSH 词库插件：收录用户情绪脏话与攻击性口气词当斗嘴弹药，弹药清单每轮自动注入 · ⭐0
 - [taskschd1145/deepseek-harness-clean](https://github.com/taskschd1145/deepseek-harness-clean) 💤 — 一个"三无"DSH桌面子端：打开它，就等于在浏览器里打DSH， 只不过它是一个带托盘图标、全原生的 Windows 窗口。 · ⭐0
 - [tcgbp/dsh-flash](https://github.com/tcgbp/dsh-flash) — (no description) · ⭐0
+- [tdcq9594/dsh-roost](https://github.com/tdcq9594/dsh-roost) — DSH 插件：让 AI 通过 Roost 住进 QQ —— 官方接口，不用 hook 客户端 · ⭐0
 - [TheHeartFickle/dsh-conversation-folding](https://github.com/TheHeartFickle/dsh-conversation-folding) 💤 — DSH 对话流渲染增强插件 —— 折叠过程，保留正文，长对话更清爽。 · ⭐0
 - [TheHeartFickle/dsh-one-dark-pro](https://github.com/TheHeartFickle/dsh-one-dark-pro) — DSH（DeepSeek Harness）主题插件：注册 One Dark Pro 配色，并把「外观」设置里的主题添加 One Dark Pro。 · ⭐0
 - [thynon/dsh-at-plugins](https://github.com/thynon/dsh-at-plugins) — DSH 插件：@ 一下就能选插件（系统/用户分组），会话按文件夹归类，分组标题可折叠 | DeepSeek Harness plugin that @-mentions installed plugins · ⭐0
@@ -357,7 +361,7 @@
 - [uckkk/dsh-photography](https://github.com/uckkk/dsh-photography) 💤 — 摄影基础参考 · ⭐0
 - [uckkk/dsh-text-diff](https://github.com/uckkk/dsh-text-diff) 💤 — 行级文本 diff · ⭐0
 - [uckkk/dsh-text-wrap](https://github.com/uckkk/dsh-text-wrap) 💤 — 文本换行 · ⭐0
-- [Underwater008/deepshell](https://github.com/Underwater008/deepshell) — A native macOS shell for the official DeepSeek Harness. No Electron, no telemetry, no vendor gateway — ~150 lines of Swift + one bash script · ⭐0
+- [Underwater008/deepshell](https://github.com/Underwater008/deepshell) 💤 — A native macOS shell for the official DeepSeek Harness. No Electron, no telemetry, no vendor gateway — ~150 lines of Swift + one bash script · ⭐0
 - [underworld-oddball/dsh-volume-knob](https://github.com/underworld-oddball/dsh-volume-knob) — Read the newest turn aloud from the DSH composer · ⭐0
 - [uptoheart/dsh-file-bookmark](https://github.com/uptoheart/dsh-file-bookmark) — Manage frequently used file bookmarks in DeepSeek Harness, supporting bookmark saving, listing and navigation. It also allows creation of fr · ⭐0
 - [Utmotc/dsh-balance-card](https://github.com/Utmotc/dsh-balance-card) — 在DSH左侧启用一个余额监测卡片 · ⭐0

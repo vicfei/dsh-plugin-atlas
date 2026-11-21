@@ -1,7 +1,10 @@
-# UI & Themes — 2416 entries (part 3/3)
+# UI & Themes — 2418 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [comer2031/dsh-desktop-auto-restart](https://github.com/comer2031/dsh-desktop-auto-restart) — (no description) · ⭐0
+- [ComlaiGonnann/dsh-codex-rail](https://github.com/ComlaiGonnann/dsh-codex-rail) — Transforms DSH sidebar into a dual-column Codex interface with Activity Bar · ⭐0
+- [Couioly/plugin-audio-alert](https://github.com/Couioly/plugin-audio-alert) 💤 — 给DeepSeek Harness (DSH)的审批语音告警插件：当 DSH 遇到需要人工审核/审批时，用电脑 TTS 自动语音呼叫你——把"需要你审核"的内容念出来，同时照常在网页上弹出审批按钮让你点。 · ⭐0
 - [cozylove-girl/dsh-appearance-master](https://github.com/cozylove-girl/dsh-appearance-master) — DSH 外观总控：皮肤 / 主题 / 背景动画 / 装饰件分层管理，一层一个开关（DeepSeek Harness appearance switcher） · ⭐0
 - [crwsr124/dsh-mobile-layout](https://github.com/crwsr124/dsh-mobile-layout) — DeepSeek Harness Web 移动端体验套件：手机端阅读布局 + 极光玻璃换肤（文字对比度自动适配）+ 文件浏览器页签 + abort 自愈。零依赖，一个插件让 dsh web 在手机上好看好用。 · ⭐0
 - [crystalWinter666/dsh-header-status](https://github.com/crystalWinter666/dsh-header-status) 💤 — Move the info bar at the bottom of the chat to next to the title · ⭐0
@@ -468,7 +471,7 @@
 - [tonyous/DSH-AMP-Radio](https://github.com/tonyous/DSH-AMP-Radio) — AMP Radio + AMP Bar for DeepSeek Harness: internet radio with a live visualiser, and every chat stat in one tidy bar (top or bottom, each on · ⭐0
 - [Trisia/dsh-dafeiyu-notice](https://github.com/Trisia/dsh-dafeiyu-notice) — 大肥鱼你做完了就叫我 · ⭐0
 - [Tsunamistr/dsh-opencode-go-usage](https://github.com/Tsunamistr/dsh-opencode-go-usage) 💤 — DeepSeek Harness Web GUI 插件：右下角悬浮卡片实时显示 OpenCode Go 用量（5h/每周/每月），30 秒自动刷新。再开发自 xiaoqi20/dsh-opencode-go-usage · ⭐0
-- [TTH23/DSH_DESK](https://github.com/TTH23/DSH_DESK) — DeepSeek Harness 桌面托盘程序：接入QQbot、多窗口优化、自动部署、内嵌启动 · ⭐0
+- [TTH23/DSH_DESK](https://github.com/TTH23/DSH_DESK) 💤 — DeepSeek Harness 桌面托盘程序：接入QQbot、多窗口优化、自动部署、内嵌启动 · ⭐0
 - [tttnny/DSH-Launcher](https://github.com/tttnny/DSH-Launcher) — A desktop launcher for running multiple DeepSeek Harness (DSH) versions and instances side by side. 多版本、多实例的 DeepSeek Harness (DSH) 桌面启动器。 · ⭐0
 - [tuibe/dsh-deepseek-theme-studio](https://github.com/tuibe/dsh-deepseek-theme-studio) — DSH Web GUI client theme plugin — frosted glass / fluid / quantised effects in DeepSeek's visual language. 100 adjustable parameters. · ⭐0
 - [tydm2/code-forge-skill](https://github.com/tydm2/code-forge-skill) 💤 — 编码多智能体工作流接线技能（1 个大脑 + 4 个专精：架构/编码/自检/审查），可与 workflow-builder 工作流技能联合使用 · ⭐0
@@ -594,7 +597,6 @@
 - [zeronesun/dsh-web-manager](https://github.com/zeronesun/dsh-web-manager) — 这是一个便捷的 Shell 脚本，用于管理 DeepSeek Harness (DSH) Web 服务的完整生命周期（启动、停止、重启、状态查看）。`dsh-web-manager` is a lightweight Shell script for managing the f · ⭐0
 - [zhanggeng0806/dsh-ui-plugins](https://github.com/zhanggeng0806/dsh-ui-plugins) 💤 — DeepSeek Harness Web GUI plugins: conversation jump rail + interactive starfield background · ⭐0
 - [Zhanggp98/dsh-desktop](https://github.com/Zhanggp98/dsh-desktop) 💤 — DeepSeek Harness 桌面客户端：Electron 套壳，内置 Node 与 dsh（零下载零依赖），自绘标题栏、左侧导航栏、托盘常驻、插件/MCP/Skills 图形化管理 · ⭐0
-- [ZhaoZiyangShaanxi/dsh-netease-music](https://github.com/ZhaoZiyangShaanxi/dsh-netease-music) — DSH plugin: NetEase Cloud Music player (mini bar, liquid glass card, vinyl view, auto login via local client, client sync) · ⭐0
 - [zhenghaoyang24/dsh-desktop](https://github.com/zhenghaoyang24/dsh-desktop) 💤 — DeepSeek Harness desktop.DeepSeek Harness 桌面端。 · ⭐0
 - [zhengjy01/dsh-flomo](https://github.com/zhengjy01/dsh-flomo) — Send notes and memos to flomo (浮墨笔记) from DeepSeek Harness: flomo_send / flomo_config / flomo_status agent tools · ⭐0
 - [zhengqiuyang/dsh-trust-panel](https://github.com/zhengqiuyang/dsh-trust-panel) — Plain-language trust dashboard for the DeepSeek Harness trust family: nine channels, one status light, zero jargon · ⭐0

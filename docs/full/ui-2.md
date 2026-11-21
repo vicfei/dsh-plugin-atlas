@@ -1,7 +1,12 @@
-# UI & Themes — 2416 entries (part 2/3)
+# UI & Themes — 2418 entries (part 2/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [AythyaCrispus/dsh-minimal-msys2](https://github.com/AythyaCrispus/dsh-minimal-msys2) 💤 — Windows Minimal Mode: persistent bash + str_replace_editor dsh plugin — registers an agent preset, provides a working persistent-bash backen · ⭐2
+- [azazo1/dsh-think-window](https://github.com/azazo1/dsh-think-window) — DSH web plugin: cap expanded thinking blocks with a bounded scroll window. · ⭐2
+- [BarneyZhaoooo/dsh-theme-native](https://github.com/BarneyZhaoooo/dsh-theme-native) — A small, native theme plugin for the DeepSeek Harness Web GUI. · ⭐2
+- [bauerelizabeth07139/nai](https://github.com/bauerelizabeth07139/nai) — Nai (奶蛙) mascot appearance layer for the DeepSeek Harness Web GUI: chat wallpaper with opacity, blur and scrim controls, an avatar brand mar · ⭐2
+- [better-er/dsh-notify-ding](https://github.com/better-er/dsh-notify-ding) — 「DSH·通知叮咚」：agent 提问或跑完一轮时弹出系统通知并让宿主播放 Windows 内置提示音。标准可安装的 dsh 客户端插件。 · ⭐2
 - [bobleer/deepseek-harness-gui](https://github.com/bobleer/deepseek-harness-gui) 💤 — Tauri desktop shell for DeepSeek Harness. Made by BitFun. · ⭐2
 - [Bobnemimimmi/dsh-always-status-bar](https://github.com/Bobnemimimmi/dsh-always-status-bar) — 始终显示消息下的 action row，无需鼠标悬停 · ⭐2
 - [bululuburuarua666/dsh-herald](https://github.com/bululuburuarua666/dsh-herald) 💤 — 🔔 Herald 传令官 — DSH 三通道任务通知：页内浮层、浏览器横幅、宿主直发系统通知（浏览器关闭也送达） | Tri-channel task notifications for DeepSeek Harness: in-page toasts, browser ban · ⭐2
@@ -17,6 +22,8 @@
 - [c-ling/dsh-plugin-peak-pricing](https://github.com/c-ling/dsh-plugin-peak-pricing) — DeepSeek 峰谷定价时段徽章（DSH 双面插件，纯 UI、无状态、无网络请求） · ⭐2
 - [cnskycn/deepseek-harness-desktop](https://github.com/cnskycn/deepseek-harness-desktop) — Desktop app wrapper for DeepSeek Harness (dsh) Web UI - one-click Windows installer · ⭐2
 - [cocofhu/dsh-testsuite](https://github.com/cocofhu/dsh-testsuite) — testsuite of dsh plugins · ⭐2
+- [CodePrometheus/chopin-ai](https://github.com/CodePrometheus/chopin-ai) — A coding agent built to improve itself, through a mutable layer that only a sealed evaluator can change. · ⭐2
+- [comfylies/dsh-png-pet](https://github.com/comfylies/dsh-png-pet) — A Windows desktop pet companion for DeepSeek Harness (DSH PNG pet). · ⭐2
 - [Como44/dsh-zh-more](https://github.com/Como44/dsh-zh-more) 💤 — DSH 中文增强补全：斜杠命令名与插件清单卡片中文化，支持三种显示模式（只显示中文/中英都显示/不翻译）。Chinese-first plugin for DSH: translates slash-command names and plugin-inventory cards · ⭐2
 - [CosmoSail/dsh-bloomglass](https://github.com/CosmoSail/dsh-bloomglass) — 十套中国传统色系 + 磨砂壁纸玻璃的 DeepSeek Harness Web 主题；已适配 DS Bot（Bot 团队）界面：侧边栏、Bot / 群聊会话、消息气泡、面板与弹层 · ⭐2
 - [crease123/dsh-journal-calendar](https://github.com/crease123/dsh-journal-calendar) — Daily journal for DeepSeek Harness: the agent records what you did and what you plan to do into one JSON file per day, and the right sidebar · ⭐2
@@ -29,7 +36,6 @@
 - [dataizu/dsh-whale-aqua-theme](https://github.com/dataizu/dsh-whale-aqua-theme) — 「鲸蓝戏水」macOS theme + swimming whale aquarium background for the DeepSeek Harness Web GUI (dsh-plugin) · ⭐2
 - [datit309/dsh-live-inspector](https://github.com/datit309/dsh-live-inspector) — Auto-monitor and reveal active file operations and changes in DeepSeek Harness (DSH) right sidebar · ⭐2
 - [datuloar/dsh-computer-use-win](https://github.com/datuloar/dsh-computer-use-win) — Windows computer use for DeepSeek Harness agents screenshot, click, type, scroll, with an on-screen indicator the human can see · ⭐2
-- [developerdh/dsh-jenkins-panel](https://github.com/developerdh/dsh-jenkins-panel) — 面向 Jenkins 的 DeepSeek Harness (dsh) 插件：让 dsh 里的 AI 直接触发、跟踪、排查 Jenkins 构建，并提供一个 dsh 官方右侧栏可视化面板。 · ⭐2
 - [Dingpenghui-good/dsh-conversation-language](https://github.com/Dingpenghui-good/dsh-conversation-language) — DSH plugin for switching conversation language between Chinese and English · ⭐2
 - [Dkrillex/dsh-macos-pet](https://github.com/Dkrillex/dsh-macos-pet) 💤 — (no description) · ⭐2
 - [drscrewdriver/dsh-docx-sidebar](https://github.com/drscrewdriver/dsh-docx-sidebar) — DSH web plugin (dsh-better-sidebar consumer): read .docx documents in the right sidebar — headings, lists, tables, inline images — with a se · ⭐2
@@ -60,6 +66,7 @@
 - [gongyijie85/dsh-repo-setup](https://github.com/gongyijie85/dsh-repo-setup) — Repo bootstrap guidance for DeepSeek Harness: read-only repo_setup_scan tool — claude-code-setup counterpart · ⭐2
 - [GuanYang14700/dsh-hermes-panel](https://github.com/GuanYang14700/dsh-hermes-panel) — Hermes in the DSH sidebar: gateway + dashboard control, Hermes own health report, and the DSH <-> Hermes bridge. Generated mirror of plugins · ⭐2
 - [guo-ziao/dsh-interrupt-button](https://github.com/guo-ziao/dsh-interrupt-button) 💤 — Green interrupt button for DeepSeek Harness WebUI: silently stops a running agent, which then summarizes progress and asks for new requireme · ⭐2
+- [Han-1413141/dsh-autocompose](https://github.com/Han-1413141/dsh-autocompose) — Task-aware plugin composition for DeepSeek Harness, with native Web UI and isolated task execution · ⭐2
 - [Han-1413141/dsh-pnpm-build-control](https://github.com/Han-1413141/dsh-pnpm-build-control) — DSH 插件：在添加插件页面统一开关所有配置的 pnpm 构建脚本审批，首次关闭显示风险确认。 · ⭐2
 - [Han-1413141/dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — DeepSeek Harness Desktop and Web plugin: collapse thinking, tool cards and process groups with one click or a customizable hotkey. 中文 / Engl · ⭐2
 - [hawkongz/dsh-task-reminder](https://github.com/hawkongz/dsh-task-reminder) — Conversation task-completion reminders for the DeepSeek Harness Web UI: reminder card, four Web Audio chimes, and system notifications · ⭐2
@@ -117,7 +124,6 @@
 - [MashedPotato817/dsh-tui](https://github.com/MashedPotato817/dsh-tui) — Terminal client for DeepSeek Harness: Claude Code-style agent conversation with Vim modal input and a HUD, over the one DSH HTTP contract. · ⭐2
 - [Matthew-Laplace/dsh-ark-pet](https://github.com/Matthew-Laplace/dsh-ark-pet) — DSH 方舟桌宠：干员库按需下载、自定义 Codex 图集与普通图片导入。Arknights library and custom image pets for DeepSeek Harness. · ⭐2
 - [maxmilian/dsh-sonarqube](https://github.com/maxmilian/dsh-sonarqube) — Read-only SonarQube Community Build tools for DeepSeek Harness · ⭐2
-- [mcdottok/dsh-vscode-connect](https://github.com/mcdottok/dsh-vscode-connect) — 配合 vscode 扩展 vscode-dsh 连接 DSH 与 VS Code，支持 Windows 本机自动连接，在编辑器中接续同一会话， 提供类似 codex、 claude code 的 vscode 插件体验。 · ⭐2
 - [megatronyy/dsh-skin-background](https://github.com/megatronyy/dsh-skin-background) 💤 — Image-background skin plugin for DeepSeek Harness (dsh): shipped + user wallpapers, custom image URLs, live dim/blur controls · ⭐2
 - [mengqinlol/dsh-mobile-shell](https://github.com/mengqinlol/dsh-mobile-shell) — Mobile shell layer for the DeepSeek Harness Web GUI: drawer overlay, page lock, no iOS focus zoom, keyboard-aware composer, crypto.randomUUI · ⭐2
 - [meow09nine/dsh-suinian](https://github.com/meow09nine/dsh-suinian) — 碎念 suinian：DSH agent 主动给用户发 QQ 消息（随机心跳 + 事件触发 + qq_send 工具） · ⭐2
@@ -132,6 +138,7 @@
 - [NamesMT/dsh-home-hosted](https://github.com/NamesMT/dsh-home-hosted) — DeepSeek Harness (dsh) plugin: start your dsh web server automatically at boot, and manage home-hosted's panel and servers from inside dsh. · ⭐2
 - [nobu121/dsh-go](https://github.com/nobu121/dsh-go) — DeepSeek Harness 的 4MB 原生窗口。官方 UI，和 dsh 共用 ~/.dsh。 / 4MB native window, official UI only, shares ~/.dsh with the CLI. · ⭐2
 - [NormanFxxkingRockwell/harmonyos-dev-mcp-for-dsh](https://github.com/NormanFxxkingRockwell/harmonyos-dev-mcp-for-dsh) 💤 — DeepSeek Harness plugin: bridges the harmonyos-dev-mcp Python MCP server into DSH as mcp__harmonyos__* tools - HarmonyOS device discovery, b · ⭐2
+- [ntesicn/dsh-screenshot-xn](https://github.com/ntesicn/dsh-screenshot-xn) — Full-screen screenshot panel for DSH: marquee select, annotate, insert/copy/save, with offline OCR and translation. · ⭐2
 - [Odefined/dsh-mobile-webui](https://github.com/Odefined/dsh-mobile-webui) 💤 — Mobile-viewport fixes for the dsh web GUI (client plugin) · ⭐2
 - [oioiphainon/dsh-widget](https://github.com/oioiphainon/dsh-widget) — 大肥鱼桌面挂件 · 打开 DSH 就出现的任务进度悬浮鱼（透明置顶窗；可选开机自启、可选 DSH 退出后保留；右键可一键隐藏；含审批提醒） · ⭐2
 - [omdsh-dev/dsh-fun-weather](https://github.com/omdsh-dev/dsh-fun-weather) 💤 — DSH weather tab and weather-following themes powered by Open-Meteo · ⭐2
@@ -140,8 +147,7 @@
 - [oxlyn/dsh-flyout-sidebar](https://github.com/oxlyn/dsh-flyout-sidebar) — deepseek harness flyout sidebar · ⭐2
 - [PaleSkiff/DeepSeek_Harness_Launcher-DSHL](https://github.com/PaleSkiff/DeepSeek_Harness_Launcher-DSHL) 💤 — Windows 桌面启动器，一键启动/停止/重启/监控 DeepSeek Harness 本地服务。Windows desktop launcher for DeepSeek Harness local service. · ⭐2
 - [Pegasus-Yang/DSH-Test-Plugin](https://github.com/Pegasus-Yang/DSH-Test-Plugin) — 在 DeepSeek Harness（DSH）的当前对话 中完成测试规划、UI/API 操作、证据采集、确定性断言和报告生成的插件。 · ⭐2
-- [PerryLink/dsh-bid-health-check](https://github.com/PerryLink/dsh-bid-health-check) — 读 RequirementsPack 与投标文件，报告哪些要求看起来有响应、哪些没有、哪些根本定位不到。 · ⭐2
-- [PerryLink/dsh-eia-guide-check](https://github.com/PerryLink/dsh-eia-guide-check) — 给环评工程师/EHS：核对环评（环境影响评价/EIA）的要素、导则名称与执行标准是否匹配。 EIA technical guideline applicability check. · ⭐2
+- [PerryLink/dsh-tender-requirements](https://github.com/PerryLink/dsh-tender-requirements) — 从招标文件抽取关键信息：前附表的时间与保证金、投标文件组成与份数，并逐项报告是否检索到。 · ⭐2
 - [Plocr/dsh-desktop](https://github.com/Plocr/dsh-desktop) — DeepSeek Harness 桌面工作台：Electron 原生壳 + 内嵌 harness 运行时（离线、免装 Node），壳仅保留桌面原生能力，与 harness 间以 bridge 插件通信 · ⭐2
 - [pwping/moyu_games](https://github.com/pwping/moyu_games) 💤 — 一款Deepseek Harness Web UI 的摸鱼游戏插件，执行任务时,在右下角位置弹窗游戏窗口，任务执行时间玩玩益智游戏 · ⭐2
 - [qingtan-labs/deepseek-harness-macos](https://github.com/qingtan-labs/deepseek-harness-macos) — A native macOS Dock and menu bar controller for DeepSeek Harness (DSH) with single-page reuse, service health checks, and an optional in-app · ⭐2
@@ -292,7 +298,7 @@
 - [AngleNaris/fanframe](https://github.com/AngleNaris/fanframe) — 繁界 - 意思是“繁星的域界”，这个插件通过对DSH桌面版的UI界面进行轻度的打磨，带来更舒适的日常交互体验。我为DSH带来了放置图标的统一侧边栏，给对话列表充足的空间，同时避免插件喜欢随意摆放自己的图标造成的混乱。此外，为对话正文增加了染色处理，让文字阅读更轻松愉快。最后，通过 · ⭐1
 - [anyuinlara-bit/dsh-BFF-pet](https://github.com/anyuinlara-bit/dsh-BFF-pet) 💤 — DSH 桌面宠物插件 🐾 透明悬浮窗 + WebM 动画，由 Agent 真实状态驱动的 Windows 桌宠。纯 Windows / WSL 均支持，自动识别 Electron 环境。 · ⭐1
 - [apex-mochen/dsh-todo-continuity](https://github.com/apex-mochen/dsh-todo-continuity) 💤 — Keeps an unfinished task list visible across turns. · 让没做完的任务清单跨回合保留。 · ⭐1
-- [AphyTOT/dsh-plugin-preflight](https://github.com/AphyTOT/dsh-plugin-preflight) — Preflight checks for DeepSeek Harness plugins: verifies the dsh.bundle manifest, cordis.patch.yml wiring, client bundle shape, and peer rang · ⭐1
+- [AphyTOT/dsh-plugin-preflight](https://github.com/AphyTOT/dsh-plugin-preflight) 💤 — Preflight checks for DeepSeek Harness plugins: verifies the dsh.bundle manifest, cordis.patch.yml wiring, client bundle shape, and peer rang · ⭐1
 - [architect-xyz/liquid-dsh-plugin](https://github.com/architect-xyz/liquid-dsh-plugin) — Deepseek Harness Plugin of Liquid Inference · ⭐1
 - [asd13006/dsh-multi-lang-ui](https://github.com/asd13006/dsh-multi-lang-ui) 💤 — Multi-language UI plugin for DeepSeek Harness: 繁體中文 / 日本語 / 한국어 / Français / Deutsch / Español language options with hand-polished translati · ⭐1
 - [asxiuxiu/dsh-quick-open](https://github.com/asxiuxiu/dsh-quick-open) — DSH Web GUI plugin: VSCode-style Ctrl+P quick open — indexed workspace file search, sidebar editor open, conversation reference insert · ⭐1
@@ -342,7 +348,6 @@
 - [CloudSen/dsh-umbrella-theme](https://github.com/CloudSen/dsh-umbrella-theme) — Umbrella Corporation theme for DeepSeek Harness: black-and-red dark scheme, grey-and-white light scheme, a spinning umbrella watermark and a · ⭐1
 - [cm860712ch-cloud/dsh-quick-input](https://github.com/cm860712ch-cloud/dsh-quick-input) — 应声 · 快捷输入：输入框左侧的九宫格快捷短语面板。9-grid quick-phrase pad docked left of the composer. · ⭐1
 - [Cnkore007/dsh-Desktop-Client](https://github.com/Cnkore007/dsh-Desktop-Client) — Modern desktop client for DeepSeek Harness (dsh) with full runtime i18n and ecosystem support · ⭐1
-- [CodePrometheus/chopin-ai](https://github.com/CodePrometheus/chopin-ai) — A coding agent built to improve itself, through a mutable layer that only a sealed evaluator can change. · ⭐1
 - [crossoverthere/dsh-whale-desktop](https://github.com/crossoverthere/dsh-whale-desktop) — 桌面级鲸鱼娘桌宠：基于dsh-whale-widget（DSH 插件版），做成透明置顶、可点击穿透的 Windows 桌面挂件（Electron） · ⭐1
 - [c-v-c-v/dsh-chat-nav](https://github.com/c-v-c-v/dsh-chat-nav) 💤 — DeepSeek Harness 聊天快捷导航插件（ChatGPT 式悬停滑出）· A DeepSeek Harness chat quick-nav plugin (ChatGPT-style hover slide-out) · ⭐1
 - [cxv117793-blip/dsh-sidebar-overflow](https://github.com/cxv117793-blip/dsh-sidebar-overflow) — DeepSeek Harness plugin: pick which left-sidebar entries stay visible, collect the rest into a More menu. 把 DSH 左侧边栏按钮收进「更多」，逐项自选。 · ⭐1
@@ -372,7 +377,7 @@
 - [dsh-mixxed/dsh-client-ui-settings-skills](https://github.com/dsh-mixxed/dsh-client-ui-settings-skills) 💤 — A customized DeepSeek Harness skill setting UI plugin. · ⭐1
 - [dyx003/dsh-client-ui-aqua-patched](https://github.com/dyx003/dsh-client-ui-aqua-patched) — An adapted Aqua theme for DeepSeek Harness 0.2.1-rc.2, fixing desktop layouts and Windows titlebar controls, with floating glass sidebars in · ⭐1
 - [ecbob/dsh-window-size-keeper](https://github.com/ecbob/dsh-window-size-keeper) — Keeps the DSH desktop window the size you left it: host half + a settings-page section, zero external dependencies. · ⭐1
-- [EdwardXiao-bit/dsh-run-button](https://github.com/EdwardXiao-bit/dsh-run-button) — Adds a Run button to shell code blocks in DSH replies, executing the command on the host and streaming its output to a dock or a bottom-pane · ⭐1
+- [EdwardXiao-bit/dsh-run-button](https://github.com/EdwardXiao-bit/dsh-run-button) 💤 — Adds a Run button to shell code blocks in DSH replies, executing the command on the host and streaming its output to a dock or a bottom-pane · ⭐1
 - [EiffelBS/dsh-plugin-ideas-manager](https://github.com/EiffelBS/dsh-plugin-ideas-manager) — Capture ideas, anywhere: the Ideas manager brings an idea backlog straight into the DSH Web GUI. · ⭐1
 - [EIGHTfs/dsh-theme-mediascape](https://github.com/EIGHTfs/dsh-theme-mediascape) — (no description) · ⭐1
 - [eloimovo/better-dsh-codex-effort-slider](https://github.com/eloimovo/better-dsh-codex-effort-slider) — (no description) · ⭐1
@@ -419,7 +424,6 @@
 - [gulagala001/dsh-theme-plugin](https://github.com/gulagala001/dsh-theme-plugin) — DSH 主题和外观管理：从主题市场一键安装，出问题自动恢复，另附 AI 修复说明。 Themes and appearance for DeepSeek Harness: one-click installs from theme markets, automatic recov · ⭐1
 - [guooo1380/dsh-team-panel](https://github.com/guooo1380/dsh-team-panel) — (no description) · ⭐1
 - [H2CO3w/dsh-theme-frost](https://github.com/H2CO3w/dsh-theme-frost) — DSH (DeepSeek Harness) plugin — turn an image folder into a frosted-glass global wallpaper, keeping the official palette. 一个 DSH壁纸插件。 · ⭐1
-- [Han-1413141/dsh-autocompose](https://github.com/Han-1413141/dsh-autocompose) — Task-aware plugin composition for DeepSeek Harness, with native Web UI and isolated task execution · ⭐1
 - [Han-1413141/dsh-visual-edit](https://github.com/Han-1413141/dsh-visual-edit) — Point at a webpage, give your DeepSeek Harness agent feedback, and compare the result. Local Vite + React visual editing sidebar. · ⭐1
 - [HanLoney/DeepSeek-Harness-Independent-Desktop](https://github.com/HanLoney/DeepSeek-Harness-Independent-Desktop) — Independent, highly customizable Electron desktop edition of DeepSeek Harness · ⭐1
 - [HaoKuo/DSH-Paper-DeepRead](https://github.com/HaoKuo/DSH-Paper-DeepRead) — DSH-Paper-DeepRead — DeepSeek Harness (dsh) plugin: bundle the 文献精读库 paper library + paper-deepread-html deep-read skill. Browse reports, up · ⭐1
@@ -585,7 +589,6 @@
 - [nickfast2025/dsh-sky-window](https://github.com/nickfast2025/dsh-sky-window) — A living sky for DeepSeek Harness — 给工作区一扇流动的天空。 · ⭐1
 - [ningbonb/dsh-web-desktop](https://github.com/ningbonb/dsh-web-desktop) 💤 — Electron launcher for DeepSeek Harness Web profiles / DeepSeek Harness Web Profile 的 Electron 桌面启动器 · ⭐1
 - [niubi6668889595/dsh-autoupdater](https://github.com/niubi6668889595/dsh-autoupdater) — Scheduled idle-gated auto-update for DeepSeek Harness: DSH itself + installed plugins. Four schedule modes, bidirectional whitelist, web pan · ⭐1
-- [ntesicn/dsh-screenshot-xn](https://github.com/ntesicn/dsh-screenshot-xn) — Full-screen screenshot panel for DSH: marquee select, annotate, insert/copy/save, with offline OCR and translation. · ⭐1
 - [objectivex666/dsh-settings-search](https://github.com/objectivex666/dsh-settings-search) — A plugin that adds a search box to the DSH settings panel. · ⭐1
 - [Ollyactinoid423/DSHDesktop](https://github.com/Ollyactinoid423/DSHDesktop) — 包装 DeepSeek Harness 官方 Web UI 为 Windows 桌面应用，免终端安装即用，保留原生配置与插件。 · ⭐1
 - [omdsh-dev/dsh-tool-tariff](https://github.com/omdsh-dev/dsh-tool-tariff) 💤 — DSH peak/off-peak tariff, DeepSeek API balance, reminder, and Web status badge plugin · ⭐1
@@ -595,7 +598,6 @@
 - [Pasumao/dsh-plugin-choice-refresh](https://github.com/Pasumao/dsh-plugin-choice-refresh) 💤 — DSH 选择增强插件：「重新生成选项」/「更多选项」按钮。Choice refresh (regenerate / more options) for DeepSeek Harness (dsh). · ⭐1
 - [PCYBlurF/dsh-fish-buddy](https://github.com/PCYBlurF/dsh-fish-buddy) — DSH 大肥鱼 · DeepSeek Harness 桌面鲸鱼娘进度挂件 · ⭐1
 - [penguin-oo/dsh-pathlink](https://github.com/penguin-oo/dsh-pathlink) — Ctrl+click file paths and links in DeepSeek Harness chat: paths open their folder in the OS file manager, links open in a new browser tab. · ⭐1
-- [PerryLink/dsh-tender-requirements](https://github.com/PerryLink/dsh-tender-requirements) — 从招标文件抽取关键信息：前附表的时间与保证金、投标文件组成与份数，并逐项报告是否检索到。 · ⭐1
 - [pick1e-morty/dsh-suggest-reply](https://github.com/pick1e-morty/dsh-suggest-reply) 💤 — 帮我想想 —— 一个基于 DSH-better-sidebar 的侧边栏 tab：用你自己写的 system prompt 对主对话最新一条 AI 回复生成候选回复，点击直填输入框。 · ⭐1
 - [PlutoKeating/TaiChiOS](https://github.com/PlutoKeating/TaiChiOS) — TaiChiOS — AI-native operating system with Cordis, DeepSeek Harness, and reversible plugins. Official: https://taichios.plutokeating.beer · ⭐1
 - [ptonlix/dsh-forge](https://github.com/ptonlix/dsh-forge) — building an auditable desktop distribution around DeepSeek Harness (DSH). · ⭐1
@@ -707,7 +709,7 @@
 - [xiaohui5206/DSH-ReasoningEffort-Fix](https://github.com/xiaohui5206/DSH-ReasoningEffort-Fix) 💤 — 针对DSH：添加第三方API时无法调节思考强度问题（DeepSeek Harness小完善计划其二）· Agent Skill 维修手册 · ⭐1
 - [xiaohui5206/DSH-Vision-Unblock](https://github.com/xiaohui5206/DSH-Vision-Unblock) 💤 — 针对DSH：添加第三方模型时，模型被默认没有视觉能力的问题（DeepSeek Harness小完善计划其三 · DSH视觉封禁解禁）· Agent Skill 维修手册 · ⭐1
 - [xiaoyuink/dsh-image-create](https://github.com/xiaoyuink/dsh-image-create) — (no description) · ⭐1
-- [xiaoyuink/dsh-workbench](https://github.com/xiaoyuink/dsh-workbench) — DSH Web 插件：把资源管理器 / 浏览器 / 真实终端 / 后台任务注册成官方右侧 Sidebar 标签页（含 Office/TIFF/HEIC/PSD 预览与编辑）；旧 DSH 自动回退中部栏 · ⭐1
+- [xiaoyuink/dsh-workbench](https://github.com/xiaoyuink/dsh-workbench) 💤 — DSH Web 插件：把资源管理器 / 浏览器 / 真实终端 / 后台任务注册成官方右侧 Sidebar 标签页（含 Office/TIFF/HEIC/PSD 预览与编辑）；旧 DSH 自动回退中部栏 · ⭐1
 - [xiaozuishuai-eng/prompt_optimize_dsh](https://github.com/xiaozuishuai-eng/prompt_optimize_dsh) 💤 — DeepSeek Harness (DSH) 提示词优化器插件：一句口语化需求 → 结构化高质量提示词，结果自动填入会话输入框。复用 DSH 内置模型路由，零 API Key 管理。 · ⭐1
 - [xiaxingtianxia2-glitch/dsh-auto-exit](https://github.com/xiaxingtianxia2-glitch/dsh-auto-exit) 💤 — DSH plugin: exit the CLI process automatically when the Web UI closes (equivalent to Ctrl+C). Install via `dsh plugin --profile web add dsh- · ⭐1
 - [xieani090612/dsh-remote-panel](https://github.com/xieani090612/dsh-remote-panel) — DSH（DeepSeek Harness）插件：探测本机 WSL 发行版与远程 SSH 机器 注：主要部分均为ai编写 · ⭐1
@@ -760,6 +762,7 @@
 - [zhang-tod/dsh-win-notify](https://github.com/zhang-tod/dsh-win-notify) — Windows native toast notifications plugin for DeepSeek Harness (DSH): agent turn done, subagent done, background job done - click to open th · ⭐1
 - [zhangyuzhangyu233/dsh-coderipple](https://github.com/zhangyuzhangyu233/dsh-coderipple) — Nine switchable code-art backgrounds for the DeepSeek Harness Web UI: ambient code field, whale, portraits (Alan Turing EN/ZH), 3D globe, ea · ⭐1
 - [ZhaoAndy821/dsh-motion-background](https://github.com/ZhaoAndy821/dsh-motion-background) — DSH WebUI 的动态背景插件：着色器型（GLSL 实时演算）与媒体型（MP4/WebM/GIF/图片）两类效果，每个效果是 mods/ 下的一个文件夹。Dynamic backdrops for the DeepSeek Harness WebUI. · ⭐1
+- [ZhaoZiyangShaanxi/dsh-netease-music](https://github.com/ZhaoZiyangShaanxi/dsh-netease-music) — DSH plugin: NetEase Cloud Music player (mini bar, liquid glass card, vinyl view, auto login via local client, client sync) · ⭐1
 - [zhdzh-good/multi-role-groupchat](https://github.com/zhdzh-good/multi-role-groupchat) — Multi-role group chat plugin for DeepSeek Harness Web GUI: smart addressee routing, probabilistic bystanders, character/group JSON import-ex · ⭐1
 - [zhengjy01/dsh-start](https://github.com/zhengjy01/dsh-start) 💤 — One-click start/stop launcher for DeepSeek Harness (DSH) Web on macOS: terminal script (start/stop/status/daemon) + Dock-able DSH.app · ⭐1
 - [zhqowo/dsh-whale-tray](https://github.com/zhqowo/dsh-whale-tray) — 🐳 大肥鱼 — DeepSeek Harness (dsh) launcher: Windows system tray + macOS menu bar. Start/stop the dsh service, summon the Web UI, restart, top  · ⭐1
@@ -842,7 +845,7 @@
 - [aytacbilgisayar-hub/dsh-locale-tr](https://github.com/aytacbilgisayar-hub/dsh-locale-tr) — Turkish (Türkçe) language pack for DeepSeek Harness (dsh) — client plugin registering the tr UI locale. · ⭐0
 - [azkbzxf/dsh-vscode-scrollbar](https://github.com/azkbzxf/dsh-vscode-scrollbar) — DSH plugin: restyles the conversation scrollbar to match the Visual Studio Code editor (14px, flat translucent thumb, light and dark themes) · ⭐0
 - [B612wang/dsh-ui-transparency](https://github.com/B612wang/dsh-ui-transparency) — Minimalist window transparency for DeepSeek Harness: one sidebar button and a 0-90% slider that set the whole window opacity. Windows only. · ⭐0
-- [baikangwang/dsh-ide-ui](https://github.com/baikangwang/dsh-ide-ui) — (no description) · ⭐0
+- [baikangwang/dsh-ide-ui](https://github.com/baikangwang/dsh-ide-ui) 💤 — (no description) · ⭐0
 - [bailong-Hakuryu/dsh-engineering-control-plane](https://github.com/bailong-Hakuryu/dsh-engineering-control-plane) — DeepSeek Harness 工程任务编排与发布门禁插件，支持 /mission 指令、任务路由、计划执行、验证和状态跟踪。 | Engineering mission orchestration and release-gate plugin for DeepSeek Ha · ⭐0
 - [bainianlaoyao/easy-archive](https://github.com/bainianlaoyao/easy-archive) 💤 — DSH web plugin: two-step inline archive on workspace sidebar rows — one click arms a red confirm, the second archives; archive is no longer  · ⭐0
 - [batteryshark/orchestra-next](https://github.com/batteryshark/orchestra-next) — Durable agent runs for local fleets, built on the DeepSeek Harness (dsh). Streamlined Orchestra rewrite: one execution path, stdlib Python,  · ⭐0
@@ -899,6 +902,3 @@
 - [clarknu/dsh-tray](https://github.com/clarknu/dsh-tray) 💤 — System-tray launcher for DeepSeek Harness instances on Windows: hidden console, per-instance start/stop/restart, port-status menu, and autos · ⭐0
 - [CNSeniorious000/dsh-generative-ui](https://github.com/CNSeniorious000/dsh-generative-ui) — Generative UI for DeepSeek Harness — the agent writes TSX and the web UI compiles every frame as it streams, so a card renders while its JSX · ⭐0
 - [ColorlessBoy/dsh-opencode-usage](https://github.com/ColorlessBoy/dsh-opencode-usage) — See your OpenCode Go quota before it runs out — one quiet pill in the DeepSeek Harness Web composer dock. · ⭐0
-- [comer2031/dsh-desktop-auto-restart](https://github.com/comer2031/dsh-desktop-auto-restart) — (no description) · ⭐0
-- [ComlaiGonnann/dsh-codex-rail](https://github.com/ComlaiGonnann/dsh-codex-rail) — Transforms DSH sidebar into a dual-column Codex interface with Activity Bar · ⭐0
-- [Couioly/plugin-audio-alert](https://github.com/Couioly/plugin-audio-alert) 💤 — 给DeepSeek Harness (DSH)的审批语音告警插件：当 DSH 遇到需要人工审核/审批时，用电脑 TTS 自动语音呼叫你——把"需要你审核"的内容念出来，同时照常在网页上弹出审批按钮让你点。 · ⭐0

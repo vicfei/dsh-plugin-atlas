@@ -543,6 +543,7 @@ AI-Galaxy-GPU/dsh-sound
 AI-Scarlett/DSH_CLIAPI
 AI-Scarlett/build-dsh-plugin
 AI4XE/Parallax
+AI4XE/ai4ai
 AIBanlv/AIBanlv-Bot
 AIR-pixel/air-pixel-liquid-glass
 AIRIKE1/dsh-ide-panels
@@ -1440,6 +1441,7 @@ Dengzi555/dsh-quotalk
 Denis-Tang/dsh-agent-board
 Depar7ure/dsh-desktop-web-refresh
 DepressionL/fortune-assistant
+Derek-Y-JQ/knowledge-galaxy
 Destinhue/dsh-video-vision
 DevRico003/dsh-verifier-gate
 DevViking-Persike/dsh-cliproxy
@@ -2067,6 +2069,7 @@ Han-1413141/dsh-ui-hub
 Han-1413141/dsh-visual-edit
 Han-1413141/dsh-wsl-native
 Han-Yao94/dsh-session-toolkit
+HanKuCha/DSH-Fujiang-Unrestricted
 HanLoney/CodexShift
 HanLoney/DeepSeek-Harness-Independent-Desktop
 HanMaXiao/dsh-hub
@@ -7743,6 +7746,7 @@ guo6x/dsh-housekeeper
 guo6x/dsh-palate
 guo6x/dsh-pilot
 guo6x/dsh-shipcheck
+guohwa/dsh-plugin-image-workbench
 guojinpeng/dsh-cost-meter
 guojinpeng/dsh-git4idea
 guokecloud/dsh-session-janitor
@@ -9856,6 +9860,7 @@ mo-n/dsh-provider-qoder
 moX1-2/gemini-dsh-bug-fix
 moazzamak/dsh-voice-input
 mochgolf/dsh-deepseek-vision-router
+mochi-fish/dsh-fish
 mocilukalbj/dsh-open-code-review
 modbusLV/dsh-academic-research-skills
 modelbus/deepseek-harness-pro

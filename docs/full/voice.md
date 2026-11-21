@@ -5,12 +5,12 @@
 - [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐133
 - [Fishsb/dsh-voice-prompt-enhancer](https://github.com/Fishsb/dsh-voice-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐133
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) 💤 — DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续） · ⭐75
-- [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图） · ⭐72
+- [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图） · ⭐74
 - [beiyege-01/dsh-voice-ai-girlfriend-plugin](https://github.com/beiyege-01/dsh-voice-ai-girlfriend-plugin) — (no description) · ⭐61
-- [SAOS-3624/dsh-watch-together](https://github.com/SAOS-3624/dsh-watch-together) — 陪看：和智能体一起看视频 —— 跟着真实播放位置，每段结束前把分镜画面 + 带秒台词交过去；悬浮窗里能出声，也听得见房间。A DSH plugin that watches a video together, in sync with the real playback: a s · ⭐53
-- [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing. · ⭐50
+- [SAOS-3624/dsh-watch-together](https://github.com/SAOS-3624/dsh-watch-together) — 陪看：和智能体一起看视频 —— 跟着真实播放位置，每段结束前把分镜画面 + 带秒台词交过去；悬浮窗里能出声，也听得见房间。A DSH plugin that watches a video together, in sync with the real playback: a s · ⭐55
+- [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing. · ⭐52
 - [ALittleLov/dsh-soundcheck](https://github.com/ALittleLov/dsh-soundcheck) — 让文本模型读懂一首歌：本地音乐分析插件，把音频拆成能量、速度、调性、密度，音频不出本机。 · ⭐31
-- [WizisCool/dsh-ears](https://github.com/WizisCool/dsh-ears) — Voice input plugin for DeepSeek Harness (DSH) with text polishing. Supports local GPU Whisper and STT(ASR) API | 一款支持润色整理的 DeepSeek Harness  · ⭐31
+- [WizisCool/dsh-ears](https://github.com/WizisCool/dsh-ears) — Voice input plugin for DeepSeek Harness (DSH) with text polishing. Supports local GPU Whisper and STT(ASR) API | 一款支持润色整理的 DeepSeek Harness  · ⭐30
 - [Alan2Z/dsh-speak](https://github.com/Alan2Z/dsh-speak) — 一种能让你的harness开口说话的方案/Make your AI harness speak — a verified voice-announcement solution · ⭐20
 - [huliux/dsh-asr-plugin](https://github.com/huliux/dsh-asr-plugin) — Unofficial local meeting transcription for DeepSeek Harness on Apple Silicon macOS — dual-track recording, live transcripts, @-referenced su · ⭐20
 - [panqing0313/dsh-plugin-weixin](https://github.com/panqing0313/dsh-plugin-weixin) — 微信（iLink）通道插件：在微信里给 DSH Agent 发消息，在本机跑会话并把回复发回微信。Text, images, files and voice notes. · ⭐20
@@ -36,11 +36,14 @@
 - [vikasranax/dsh-plugin-cats](https://github.com/vikasranax/dsh-plugin-cats) — A DeepSeek Harness plugin that fetches random cat facts from a public API. · ⭐3
 - [WaveSpeedAI/wavespeed-dsh-skill](https://github.com/WaveSpeedAI/wavespeed-dsh-skill) — WaveSpeed skill for DeepSeek Harness (dsh) — generate and edit AI image, video, audio & 3D via the wavespeed CLI · ⭐3
 - [988hj7tczd-oss/dsh-invoice-tools](https://github.com/988hj7tczd-oss/dsh-invoice-tools) 💤 — DSH native tools: parse Chinese e-invoice PDFs into structured JSON with amount cross-check, and generate expense reports (Markdown / xlsx) · ⭐2
+- [AIcivilization/dsh-audiobook](https://github.com/AIcivilization/dsh-audiobook) — Turn any book into an audiobook inside DeepSeek Harness (dsh) · 搜书听：导入一本书，在 DSH 里读给你听 · ⭐2
+- [AIcivilization/dsh-tingdong](https://github.com/AIcivilization/dsh-tingdong) — 听懂：把英文有声读物（MP3）或英文文档变成听力课——本机识别每一句、AI 朗读翻译、精听与间隔复习，练到一听就懂。DeepSeek Harness (dsh) 插件 | Turn English audiobooks into listening lessons for dsh · ⭐2
 - [ggfgfgf-on/dsh-voice-dialog](https://github.com/ggfgfgf-on/dsh-voice-dialog) — Continuous voice dialog for DeepSeek Harness: one microphone, auto-read replies, soft steering interruptions · ⭐2
 - [jonah791/dsh-video-studio](https://github.com/jonah791/dsh-video-studio) — DSH 视频工作台插件：把视频工厂（TTS/配乐/混音/Remotion 渲染/多级质检/主题脚手架）封装为工具面，支撑创作任意视频 · ⭐2
 - [liceses/dsh-ds-tts](https://github.com/liceses/dsh-ds-tts) — 用 DeepSeek 官方朗读音色朗读 / 导出 / 接口化 · ⭐2
 - [MaRi23333/dsh-fish-tts](https://github.com/MaRi23333/dsh-fish-tts) — Fish Audio TTS plugin for DeepSeek Harness — per-reply read-aloud, auto-read toggle, BYOK, third-party. 语音合成插件：逐条朗读、自动朗读；仅支持 Fish Audio API， · ⭐2
 - [omdsh-dev/dsh-fun-typewriter](https://github.com/omdsh-dev/dsh-fun-typewriter) 💤 — DSH Typewriter: WebAudio typing ambience with a plugin-owned settings API and zero audio assets · ⭐2
+- [PerryLink/dsh-invoice-ledger](https://github.com/PerryLink/dsh-invoice-ledger) — 核对发票台账：重复报销、价税勾稽、抬头、日期、模板占位符，输出异常清单与规范化台账。 · ⭐2
 - [173787247/dsh-wsl-media](https://github.com/173787247/dsh-wsl-media) — Local media/doc pipeline: ffprobe, extract, thumbnail, PDF, ASR, pandoc, OCR, exif. · ⭐1
 - [2021Heei/dsh-tts-flash](https://github.com/2021Heei/dsh-tts-flash) 💤 — 给 DeepSeek Harness 的语音朗读插件：AI 回复流式 TTS 朗读，思考等待期还有趣味语音短语反馈。Edge TTS 开箱即用，支持任意 OpenAI 兼容云端引擎。 · ⭐1
 - [anweat/dsh-voice-webspeech](https://github.com/anweat/dsh-voice-webspeech) 💤 — (no description) · ⭐1
@@ -51,7 +54,6 @@
 - [kinglhy2006/dsh-voice-bridge](https://github.com/kinglhy2006/dsh-voice-bridge) — 贾维斯式语音助手 for DSH：本地唤醒词「贾维斯」+ 中文识别 + 语音朗读回答 · ⭐1
 - [lhenlihai-hub/dsh-voice-input](https://github.com/lhenlihai-hub/dsh-voice-input) 💤 — (no description) · ⭐1
 - [lihanhong2002/dsh-minimax-multimodal](https://github.com/lihanhong2002/dsh-minimax-multimodal) — MiniMax multimodal tools for DeepSeek Harness: image understanding, image generation, speech synthesis, and transcription. · ⭐1
-- [PerryLink/dsh-invoice-ledger](https://github.com/PerryLink/dsh-invoice-ledger) — 核对发票台账：重复报销、价税勾稽、抬头、日期、模板占位符，输出异常清单与规范化台账。 · ⭐1
 - [pinch-eng/dsh-audio-dub](https://github.com/pinch-eng/dsh-audio-dub) 💤 — Dub video and audio into 10 languages with voice cloning, from a DeepSeek Harness agent | DSH 视频/音频配音插件 · ⭐1
 - [ryasrk/dsh-awesome-skills](https://github.com/ryasrk/dsh-awesome-skills) — Plugin Skills for agents · ⭐1
 - [tangjx2007/dsh-audio-cue](https://github.com/tangjx2007/dsh-audio-cue) 💤 — dsh-plugin · ⭐1
@@ -59,8 +61,6 @@
 - [yinque91/dsh-live-narrator](https://github.com/yinque91/dsh-live-narrator) — 小嘴 · 实时解说 —— DeepSeek Harness 输入框下方的语音解说插件 · ⭐1
 - [qidianling/QDLS](https://github.com/qidianling/QDLS) — 本地零样本 AI 翻唱工作台：一句话点歌，用自己的音色唱，去伴奏，直出 QQ/AstrBot 语音（禁止商用） · ⭐1
 - [2757571500/dsh-voice](https://github.com/2757571500/dsh-voice) 💤 — dsh-voice · ⭐0
-- [AIcivilization/dsh-audiobook](https://github.com/AIcivilization/dsh-audiobook) — Turn any book into an audiobook inside DeepSeek Harness (dsh) · 搜书听：导入一本书，在 DSH 里读给你听 · ⭐0
-- [AIcivilization/dsh-tingdong](https://github.com/AIcivilization/dsh-tingdong) — 听懂：把英文有声读物（MP3）或英文文档变成听力课——本机识别每一句、AI 朗读翻译、精听与间隔复习，练到一听就懂。DeepSeek Harness (dsh) 插件 | Turn English audiobooks into listening lessons for dsh · ⭐0
 - [AKS1st/dock-media](https://github.com/AKS1st/dock-media) — Media player for the DSH dock: plays audio (music player) and video (fullscreen) files, streamed over HTTP Range. · ⭐0
 - [daixin315/dsh-xiaoshuang](https://github.com/daixin315/dsh-xiaoshuang) 💤 — 小双 for DeepSeek Harness — 六层记忆人格插件 + 浮动视频形象（跟随 agent 状态表演 + TTS） · ⭐0
 - [Easyhoov/dsh-mimo-asr](https://github.com/Easyhoov/dsh-mimo-asr) — Xiaomi MiMo (mimo-v2.5-asr) cloud recognizer for DSH - serves the speech/* Remote used by the DSH Go composer microphone · ⭐0

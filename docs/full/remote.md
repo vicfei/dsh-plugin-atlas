@@ -4,10 +4,10 @@
 
 - [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) — Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole resear · ⭐571
 - [uumit-ai/dsh-uumit-remote](https://github.com/uumit-ai/dsh-uumit-remote) — (no description) · ⭐531
-- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) — DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行） · ⭐184
-- [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) — 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app · ⭐165
+- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) — DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行） · ⭐208
+- [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) — 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app · ⭐164
 - [SCSpotato/dsh-remote](https://github.com/SCSpotato/dsh-remote) 💤 — Native Android client to remotely control DeepSeek Harness (DSH) from your phone · ⭐95
-- [xiazhi88/dshgo](https://github.com/xiazhi88/dshgo) 💤 — DSH Go —— 在手机/平板上用 DeepSeek Harness。Android App + 让电脑可达的 DSH 插件。 · ⭐65
+- [xiazhi88/dshgo](https://github.com/xiazhi88/dshgo) 💤 — DSH Go —— 在手机/平板上用 DeepSeek Harness。Android App + 让电脑可达的 DSH 插件。 · ⭐68
 - [caoyiwei850/dsh-ssh-ops](https://github.com/caoyiwei850/dsh-ssh-ops) — DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。 · ⭐60
 - [chenw2759-wq/dsh-IDE](https://github.com/chenw2759-wq/dsh-IDE) 💤 — dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服 · ⭐44
 - [Thanksgiver233/dsh-mobile](https://github.com/Thanksgiver233/dsh-mobile) 💤 — DeepSeek Harness Mobile 是 DeepSeek Harness 的 Android 原生应用，将原本仅支持 PC 浏览器的 AI Agent 框架完整迁移至移动端。采用 Kotlin + Jetpack Compose 开发，内置 Node.js ARM64 · ⭐34
@@ -40,6 +40,7 @@
 - [s17179XTY/dsh-mobile](https://github.com/s17179XTY/dsh-mobile) 💤 — dsh-mobile — 用於 DeepSeek Harness 的手机連接 · ⭐3
 - [173787247/dsh-remote-ssh](https://github.com/173787247/dsh-remote-ssh) — DeepSeek Harness plugin: dsh-remote-ssh · ⭐2
 - [agent-mobile/dsh-mobile](https://github.com/agent-mobile/dsh-mobile) 💤 — Flutter mobile app + Dart wire-protocol SDK for the DeepSeek Harness (dsh) · ⭐2
+- [Autumn984/dsh-remote](https://github.com/Autumn984/dsh-remote) — DeepSeek Harness 手机远程控制插件：扫码即用，局域网 / IPv6 / Cloudflare 隧道三通道，令牌鉴权 · ⭐2
 - [better-er/dsh-remote-file-system](https://github.com/better-er/dsh-remote-file-system) — 「DSH·远程文件系统」：给模型提供 read_remote、write_remote、edit_remote 三个工具，经 ssh 读写远程主机文件；write_remote 只允许新建。 · ⭐2
 - [Blank-not-black/dsh-remote-plugin](https://github.com/Blank-not-black/dsh-remote-plugin) — DSH Remote 插件独立包：DSH 原生侧边栏入口 + 右侧抽屉管理页；内置网关随 DSH 自动启停 · ⭐2
 - [DobyChao/dsh-workspace-enhancement](https://github.com/DobyChao/dsh-workspace-enhancement) — DeepSeek Harness plugin: local and remote (SSH) workspaces in one place. Remote execution uses a single SSH connection (multi-hop jumps allo · ⭐2
@@ -53,7 +54,6 @@
 - [173787247/dsh-wsl-ssh-agent](https://github.com/173787247/dsh-wsl-ssh-agent) — Hint how to forward Windows OpenSSH agent into WSL. · ⭐1
 - [april-jk/dsh-mobile](https://github.com/april-jk/dsh-mobile) 💤 — Flutter mobile remote control for DeepSeek Harness · ⭐1
 - [ASAKAFENG/dsh-qq-remote](https://github.com/ASAKAFENG/dsh-qq-remote) 💤 — (no description) · ⭐1
-- [Autumn984/dsh-remote](https://github.com/Autumn984/dsh-remote) — DeepSeek Harness 手机远程控制插件：扫码即用，局域网 / IPv6 / Cloudflare 隧道三通道，令牌鉴权 · ⭐1
 - [chs-1108/dsh-phone-bridge](https://github.com/chs-1108/dsh-phone-bridge) — DSH plugin: talk to your DeepSeek Harness from your phone. Send text and photos, read replies as they stream — across any network via your o · ⭐1
 - [ddtcorex/dsh-maestro-remote](https://github.com/ddtcorex/dsh-maestro-remote) — Remote access for DeepSeek Harness: cloudflared tunnel, LAN and public proxies with a PIN gate, QR pairing and Maestro PWA branding · ⭐1
 - [dmz2922990/dsh-ssh](https://github.com/dmz2922990/dsh-ssh) — Deepseek harness SSH插件 · ⭐1
@@ -103,7 +103,7 @@
 - [onesmash/dsh-remote-bot-bridge](https://github.com/onesmash/dsh-remote-bot-bridge) — (no description) · ⭐0
 - [tarraencompassing61/dsh-lark-bot](https://github.com/tarraencompassing61/dsh-lark-bot) — Bridge DeepSeek Harness into Feishu / Lark—drive your local coding agent from mobile, group chats, and topics with conversations, tasks, car · ⭐0
 - [taxah92/dsh-pve-vm](https://github.com/taxah92/dsh-pve-vm) — Proxmox VE VM control for DeepSeek Harness: see and click inside a VM console over VNC, plus commands, files and Unicode text through the QE · ⭐0
-- [tsukii12/dsh-remote-portal](https://github.com/tsukii12/dsh-remote-portal) — Remote access for DeepSeek Harness: scan-to-pair on your LAN, and public access through a relay you run yourself. 为 DeepSeek Harness 添加远程访问： · ⭐0
+- [tsukii12/dsh-remote-portal](https://github.com/tsukii12/dsh-remote-portal) — Remote access for DeepSeek Harness — over your LAN or through your own server. 为 DeepSeek Harness 提供远程能力：局域网或公网远程访问。 · ⭐0
 - [weiweisudo/juzi-remote-shell](https://github.com/weiweisudo/juzi-remote-shell) — DSH 远程机器插件（P0）：被控端主动出站、非交互命令执行，后续加 PTY 与文件传输 · ⭐0
 - [yangbobo2021/relay-dsh-plugin-files](https://github.com/yangbobo2021/relay-dsh-plugin-files) 💤 — Workspace file explorer side-view plugin for DeepSeek Harness Workbench. · ⭐0
 - [yangbobo2021/relay-dsh-plugin-monitor-process](https://github.com/yangbobo2021/relay-dsh-plugin-monitor-process) 💤 — Identity-safe process monitoring capability for Relay on DeepSeek Harness. · ⭐0

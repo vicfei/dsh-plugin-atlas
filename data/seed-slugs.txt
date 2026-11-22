@@ -252,6 +252,7 @@
 2048lr/dsh-feishu
 2095945715a-source/dsh-basketball-pet
 2123043818/dsh-sidebar-enhance
+214140846/browser-hands
 2151649856sjs-create/joycode-proxy
 2151649856sjs-create/qoder-proxy
 2160039878-cyber/dsh-plugin-market
@@ -1703,6 +1704,7 @@ FallnStrelitzia/dsh-chat-settings
 Fan-sx/dsh-session-focus
 FanXi1230/fanxi
 Fanch-hui/codex-bridge
+Fanqi89/dsh-craft-anything
 Fantasality/astrbot_plugin_dsh_bridge
 Fantasality/dsh-origin-plugin
 Fantasia-Infinity/dsh-agent-society-combo
@@ -2471,6 +2473,7 @@ JiewiW/dsh-step-governor
 JimChen-g/dsh-action-outbox
 JimChen-g/dsh-frontier-repro
 JimLiu/baoyu-design
+JimLiu/open-artifact
 JimLiu/open-artifacts
 Jimmy0123-ux/dsh-token-pet
 Jimmyzwang-cloud/dsh-inkscreen-theme
@@ -2750,6 +2753,7 @@ LINinLIN-0079/godot-imagegen
 LIU118117/dsh-love
 LIU118117/dsh-voice
 LIU20030725/dsh-skill-manager
+LIUFelix2004/dsh-workbuddy
 LJH-snow/dsh-tool-dockerhub
 LJH-snow/dsh-tool-github
 LJH-snow/dsh-tool-linear
@@ -3564,6 +3568,7 @@ NickyWooden/dsh-halo
 NickyWooden/dsh-scrapling
 Nigel211/dsh-text2img-compress
 Nigheart/dsh-mcp-relay
+NightFrost42/dsh-compaction-weave
 NightPainters/DSH-Ling
 NightsVesa/dsh-input-history
 Nihao7-L/dsh-prompt-chain
@@ -7209,6 +7214,7 @@ edisontaisite/codex-harness-control
 edisonzerolam/team-orchestration-skill
 edusrez/dsh-smart-restart
 edusrez/dsh-tool-web-enhanced
+edward-polat/final-cut-win
 edwardmackiezyv885-art/lbwapi-workbench
 edwardyang0011/dsh-ui-skins
 edynasty/dsh-opencode-go-provider
@@ -8637,6 +8643,7 @@ k-ying/dsh-vsceditor
 k0ndrateff/dsh-plugins
 k2d5rqjpkg-art/dsh-auto-vision
 k53689649-lab/dsh-splash-gojo
+kadaliao/dsh-bots
 kaelorvyn/dsh-mobile
 kagura-agent/dsh-migrate-openclaw
 kagurazakayashi/dsh-delete-session
@@ -10310,6 +10317,7 @@ onesmash/dsh-reflex
 onesmash/dsh-remote-bot-bridge
 onewilk/dsh-updater
 only-one-over/robocasa-control
+onlyLT/wow-gongwen-writing
 onlyforchris/agent-hub
 onlyqzq/dsh-riskproof
 ook826092-cloud/dsh-mobile-css

@@ -3,18 +3,18 @@
 > live data · full category export · [back to atlas](../../README.md)
 
 - [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader) — 电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。 · ⭐557
-- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐268
-- [lizi600jin/dsh-ensp](https://github.com/lizi600jin/dsh-ensp) — Automate Huawei eNSP labs: generate .topo files, start and stop devices, and push configuration one command at a time with per-command error · ⭐160
+- [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系 · ⭐269
+- [lizi600jin/dsh-ensp](https://github.com/lizi600jin/dsh-ensp) — Automate Huawei eNSP labs: generate .topo files, start and stop devices, and push configuration one command at a time with per-command error · ⭐184
 - [automagik-si/omni](https://github.com/automagik-si/omni) — Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform · ⭐70
-- [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) — DeepSeek Harness 原生风格提示音插件 · ⭐38
-- [temotee2103/dsh-overdrive](https://github.com/temotee2103/dsh-overdrive) 💤 — The OpenClaw of DeepSeek Harness — turn DSH into a multi-platform chat agent with in-chat trajectory tracing, subagents & cron, and one-comm · ⭐23
+- [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) — DeepSeek Harness 原生风格提示音插件 · ⭐40
+- [temotee2103/dsh-overdrive](https://github.com/temotee2103/dsh-overdrive) 💤 — The OpenClaw of DeepSeek Harness — turn DSH into a multi-platform chat agent with in-chat trajectory tracing, subagents & cron, and one-comm · ⭐24
 - [S3K926/dsh-selfwake](https://github.com/S3K926/dsh-selfwake) — DSH（DeepSeek Harness）插件：到点主动开口 —— 五道闸（间隔／安静／未回话上限／静默时段）过了就挑一条开口，优先投进活跃会话，投不进发系统通知 ＋ 写日志。MIT。 · ⭐21
 - [610la/dsh-notification-center](https://github.com/610la/dsh-notification-center) 💤 — DSH 通知中心插件：对话/任务完成、报错、等待批准等事件触发浏览器通知 + 21 种匹配音效 · ⭐15
 - [wsz987/dsh-channels](https://github.com/wsz987/dsh-channels) 💤 — 把微信 / QQ / 钉钉 / 飞书 / Telegram 接入 DeepSeek Harness：统一配置、扫码授权，直接在各 IM 与 Agent 对话；支持图片与文件收发，Agent 可读取 PDF、DOCX、XLSX 和文本内容。 · ⭐15
 - [SeverusZh/dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — (no description) · ⭐12
 - [Carl-5535/dsh-wechat-gateway](https://github.com/Carl-5535/dsh-wechat-gateway) — 微信 × DeepSeek Harness (DSH)：进程内插件，扫码即用，双向消息/文件，wechat_notify 主动推送 · ⭐10
 - [ly6170/dsh-messager](https://github.com/ly6170/dsh-messager) — 适用于Deepseek Harness的消息提醒信使，可使用飞书、企业微信、钉钉、Telegram、Discord进行通知推送 · ⭐10
-- [MichengAI/dsh-codex-pet](https://github.com/MichengAI/dsh-codex-pet) — DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-b · ⭐9
+- [MichengAI/dsh-codex-pet](https://github.com/MichengAI/dsh-codex-pet) — DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-b · ⭐10
 - [ROYLeXJ/dsh-notify-tray](https://github.com/ROYLeXJ/dsh-notify-tray) — DeepSeek Harness 通知 + 状态栏插件：系统通知、macOS/Windows/Linux 托盘图标、任务进度与花费 · ⭐9
 - [wssfk12138/dsh-wechat-notify](https://github.com/wssfk12138/dsh-wechat-notify) — DeepSeek Harness 插件：为 agent 新增 wechat_notify 工具，让 AI 通过本机 ClawBot 微信通道主动给你发通知（任务完成 / 需决策时），中文可靠、掉线自提示。 · ⭐9
 - [SciF-Lin/dsh-notify-sound-plus](https://github.com/SciF-Lin/dsh-notify-sound-plus) — DSH 提示音插件：任务完成/需要回答/需要授权/出错四类事件的 Web Audio 实时合成提示音，可在通用设置里逐事件选音、上传自定义音频，对话左下角有临时静音喇叭；兼容桌面端与网页端 · ⭐8

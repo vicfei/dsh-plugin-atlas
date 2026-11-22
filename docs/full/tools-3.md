@@ -1,8 +1,7 @@
-# Tools & Integrations — 2331 entries (part 3/3)
+# Tools & Integrations — 2330 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Huang-zhishi/dsh-plugin-call-trace](https://github.com/Huang-zhishi/dsh-plugin-call-trace) 💤 — (no description) · ⭐0
 - [huanleyabo/dsh-selection-translate](https://github.com/huanleyabo/dsh-selection-translate) — dsh插件，用于直接对客户端内或网页内的文字划线翻译 · ⭐0
 - [hunyu-feng/dsh-video-digest](https://github.com/hunyu-feng/dsh-video-digest) — DSH plugin: turn a video link (Bilibili / YouTube / any page) into a transcript-backed summary, and say plainly what evidence it used. · ⭐0
 - [HYClub/dsh-ufo](https://github.com/HYClub/dsh-ufo) — 美国空军蓝皮书（1947–1969，12,618 起）、法国 GEIPAN 的三千余宗案卷、英国国防部 DEFE 24、巴西国家档案馆，以及 NUFORC 的十六万条民间目击——一个入口都调得到。 · ⭐0
@@ -296,7 +295,7 @@
 - [sniperdown/dsh-host-fs](https://github.com/sniperdown/dsh-host-fs) — (no description) · ⭐0
 - [snow930/dsh-self-upgrade](https://github.com/snow930/dsh-self-upgrade) 💤 — (no description) · ⭐0
 - [sodakitten/dsh-bg](https://github.com/sodakitten/dsh-bg) — Local-only background plugin for DeepSeek Harness: visual framing, interface transparency, background carousel. Fork of beauticode-dsh. · ⭐0
-- [SodaZheng/dsh-totp](https://github.com/SodaZheng/dsh-totp) — 为 DeepSeek Harness 加一道由你掌控的访问验证。An access-verification step for DeepSeek Harness, under your control. · ⭐0
+- [SodaZheng/dsh-totp](https://github.com/SodaZheng/dsh-totp) 💤 — 为 DeepSeek Harness 加一道由你掌控的访问验证。An access-verification step for DeepSeek Harness, under your control. · ⭐0
 - [SOH4C4759/dsh-math-copy](https://github.com/SOH4C4759/dsh-math-copy) — 把 DSH 回答里的数学公式复制成可在 Obsidian / LaTeX 中重新渲染的 TeX：悬停公式复制、选中带公式的文本时还原源码。 · ⭐0
 - [sojo-negai/dsh-prompt-refine](https://github.com/sojo-negai/dsh-prompt-refine) 💤 — DSH 提示词优化插件 —— 发送前点一下 ✨,模型结合上下文给出「补丁式」建议,勾选回填,不抢发送权。 · ⭐0
 - [soliecho/dsh-anime-follow](https://github.com/soliecho/dsh-anime-follow) — DeepSeek Harness 插件：搜索番剧、订阅字幕组，自动用 qBittorrent 下载并按模板归档 · ⭐0
@@ -312,7 +311,7 @@
 - [StarPivotNet/dsh-plugins-public](https://github.com/StarPivotNet/dsh-plugins-public) 💤 — Installable DeepSeek Harness plugin marketplace (Settings → Plugins) · ⭐0
 - [StefanIsMe/dsh-updater-plugin](https://github.com/StefanIsMe/dsh-updater-plugin) 💤 — Never lose a draft. Stay up to date in one click — draft-safe self-updater for DeepSeek Harness · ⭐0
 - [Stella-Mira/muse_galaxy](https://github.com/Stella-Mira/muse_galaxy) — DSH 采集器插件：把本地文件/网络资源/直播流解码成 JPEG 帧 + 16k PCM 推给 muse_vtuber 的采集口（含 B 站视频与直播，断流自动换节点重连） · ⭐0
-- [SugarFatFree/dsh-agent-extension](https://github.com/SugarFatFree/dsh-agent-extension) — DeepSeek Harness plugin for workspace commands, skills, and path-scoped rules. · ⭐0
+- [SugarFatFree/dsh-agent-extension](https://github.com/SugarFatFree/dsh-agent-extension) 💤 — DeepSeek Harness plugin for workspace commands, skills, and path-scoped rules. · ⭐0
 - [sugarmaster666/dsh-persona-forge](https://github.com/sugarmaster666/dsh-persona-forge) — 给 DeepSeek Harness 用的角色扮演提示词改写插件：在输入框选一张角色卡，草稿就会由 harness 的模型改写成该角色的口吻（跟随当前会话正在使用的模型），然后直接发出或先人工审查。零依赖、零构建。 · ⭐0
 - [Suguyun/dsh-bili-miniplay](https://github.com/Suguyun/dsh-bili-miniplay) 💤 — 跨平台 fork of dsh-bili-widget：DSH B站悬浮看片小窗（Node 原生 fetch，macOS/Linux/Windows 通用） · ⭐0
 - [sujalmandal/dsh-tab-plan-toggle](https://github.com/sujalmandal/dsh-tab-plan-toggle) — Toggle DeepSeek Harness plan mode with Tab in the composer · ⭐0
@@ -404,7 +403,7 @@
 - [wojiao42/dsh-space-optimizer](https://github.com/wojiao42/dsh-space-optimizer) — DSH 侧栏空间账本：看清每个任务占了多少磁盘、按项回收无主垃圾；会话日志绝不被裁剪 · Per-task disk-space ledger for DeepSeek Harness · ⭐0
 - [wold9168/dotdsh](https://github.com/wold9168/dotdsh) — My deepseek harness dotfiles · ⭐0
 - [WonderfulEdge/dsh-publish-skill](https://github.com/WonderfulEdge/dsh-publish-skill) 💤 — dsh h0发版技能 · ⭐0
-- [WONGIII/dsh-effort-dial](https://github.com/WONGIII/dsh-effort-dial) — A reasoning-effort dial for the DeepSeek Harness composer: a violet particle field with meteors, magnetic level anchors and an eased circula · ⭐0
+- [WONGIII/dsh-effort-dial](https://github.com/WONGIII/dsh-effort-dial) 💤 — A reasoning-effort dial for the DeepSeek Harness composer: a violet particle field with meteors, magnetic level anchors and an eased circula · ⭐0
 - [wormggmm/dsh-booster](https://github.com/wormggmm/dsh-booster) 💤 — deepseek harness 启动器 · ⭐0
 - [wpc725562-dotcom/deepfusion](https://github.com/wpc725562-dotcom/deepfusion) 💤 — DeepFusion: DSH x Reasonix 融合 Agent 引擎 (DeepSeek-native 编排 + 前缀缓存优化) · ⭐0
 - [wrh-byte/Whale-girl-hud](https://github.com/wrh-byte/Whale-girl-hud) — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness · ⭐0
@@ -495,7 +494,7 @@
 - [zaowanshangxian/deepseek-harness-plugins](https://github.com/zaowanshangxian/deepseek-harness-plugins) — DeepSeek Harness 插件集：可独立安装的 DSH 插件，一个插件一个文件夹（含「更多表情和颜文字」） · ⭐0
 - [Z-Asset/alpharsi](https://github.com/Z-Asset/alpharsi) 💤 — (no description) · ⭐0
 - [Z-Asset/ZA_data](https://github.com/Z-Asset/ZA_data) 💤 — ZA Research data stage — data discovery and quality assessment for asset pricing + ML/DL research. · ⭐0
-- [Z-Asset/zagent](https://github.com/Z-Asset/zagent) — (no description) · ⭐0
+- [Z-Asset/zagent](https://github.com/Z-Asset/zagent) 💤 — (no description) · ⭐0
 - [Z-Asset/ZA_literature](https://github.com/Z-Asset/ZA_literature) 💤 — ZA Research literature stage — search, synthesis, and citation-chain tracking for asset pricing + ML/DL research. · ⭐0
 - [Z-Asset/ZA_report](https://github.com/Z-Asset/ZA_report) 💤 — ZA Research report stage — academic paper writing for asset pricing + ML/DL research. · ⭐0
 - [ZaVang/dsh-diorama](https://github.com/ZaVang/dsh-diorama) 💤 — (no description) · ⭐0

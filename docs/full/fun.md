@@ -2,17 +2,17 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) — 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。 · ⭐1711
-- [Miaotofu01/Study-Mate](https://github.com/Miaotofu01/Study-Mate) — 你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目 · ⭐1509
-- [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) — DeepSeek Harness 故事创作插件：集成网文写作、短剧漫剧、小说改游戏与视频解说四个可视化工作台 ｜ DeepSeek Harness plugin for novels, short dramas, games & video recaps · ⭐811
+- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) — 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。 · ⭐1725
+- [Miaotofu01/Study-Mate](https://github.com/Miaotofu01/Study-Mate) — 你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目 · ⭐1519
+- [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) — DeepSeek Harness 故事创作插件：集成网文写作、短剧漫剧、小说改游戏与视频解说四个可视化工作台 ｜ DeepSeek Harness plugin for novels, short dramas, games & video recaps · ⭐815
 - [Ayase34/gal-view](https://github.com/Ayase34/gal-view) 💤 — 把dsh会话界面切换成galgame游戏界面的插件 · ⭐219
-- [ssamurias/dsh-fish](https://github.com/ssamurias/dsh-fish) — DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。 · ⭐174
-- [mochi-fish/dsh-fish](https://github.com/mochi-fish/dsh-fish) — DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。 · ⭐174
-- [thawline/dsh-memewiki](https://github.com/thawline/dsh-memewiki) — 梗百科：6792 条梗/黑话词库，自动查梗并注入上下文，不让模型硬猜。支持一键下载社区最新词库、提交新梗，与社区共创。 · ⭐103
+- [ssamurias/dsh-fish](https://github.com/ssamurias/dsh-fish) — DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。 · ⭐178
+- [mochi-fish/dsh-fish](https://github.com/mochi-fish/dsh-fish) — DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。 · ⭐177
+- [thawline/dsh-memewiki](https://github.com/thawline/dsh-memewiki) — 梗百科：6792 条梗/黑话词库，自动查梗并注入上下文，不让模型硬猜。支持一键下载社区最新词库、提交新梗，与社区共创。 · ⭐110
 - [Gin-7/dsh-pet-remielle](https://github.com/Gin-7/dsh-pet-remielle) — (no description) · ⭐66
-- [BaronCyrus/dsh-aha-tutor](https://github.com/BaronCyrus/dsh-aha-tutor) — 开窍 · AI 私人老师：给 DeepSeek Harness 装一位私人老师，为你定制课程，在手写黑板上边写边讲。 · ⭐48
+- [BaronCyrus/dsh-aha-tutor](https://github.com/BaronCyrus/dsh-aha-tutor) — 开窍 · AI 私人老师：给 DeepSeek Harness 装一位私人老师，为你定制课程，在手写黑板上边写边讲。 · ⭐49
 - [the-beating-light-of-the-nail/dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) 💤 — 🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins · ⭐43
-- [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) — DSH 小游戏面板：208 款离线小游戏（六类分类+经典策展），跳棋竞速、迷你爬塔、传送带工厂、斗兽棋、四色地图、蚁群引路等原创机制，等模型回复时的摸鱼神器。 · ⭐37
+- [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) — DSH 小游戏面板：215 款离线小游戏（六类分类+经典策展），剪绳喂糖、找规律、小作坊经营、连锁反应、潜行渗透、押注气球等原创机制，等模型回复时的摸鱼神器。 · ⭐37
 - [ali-meoo/meoo-cli](https://github.com/ali-meoo/meoo-cli) — meoo cli 是秒悟（Meoo）官方推出的命令行工具，让 Claude Code、Codex、Cursor、Qoder等本地 agent 在帮你写完前端代码后，能直接接管「数据库、用户登录、文件存储、部署上线」的所有云端工作——你只需要在终端跑一条命令，剩下的交给 AI。 · ⭐27
 - [rongzi5/dsh-whale-pet](https://github.com/rongzi5/dsh-whale-pet) — (no description) · ⭐24
 - [yyh-001/dsh-meme-packs](https://github.com/yyh-001/dsh-meme-packs) — DSH Meme 可下载表情包图库与机器可读目录 · ⭐23
@@ -35,13 +35,13 @@
 - [a1249070611/dsh-hoi4-modding](https://github.com/a1249070611/dsh-hoi4-modding) — HOI4 模组制作全能工具包，可以制作、检查、修改自己的模组。 · ⭐3
 - [gameswu/dsh-human-coding](https://github.com/gameswu/dsh-human-coding) 💤 — DeepSeek Harness 增加古法编程模式，让模型监督你写代码！ · ⭐3
 - [hulibuld/dsh-pet-cuteness-plugin](https://github.com/hulibuld/dsh-pet-cuteness-plugin) — 由 DSH 上传：AI娘化插件 · ⭐3
-- [konglong87/dsh-input-list](https://github.com/konglong87/dsh-input-list) — DSH prompt library and reusable snippets plugin for saving, editing, and inserting prompts from the composer. · ⭐3
+- [konglong87/dsh-input-list](https://github.com/konglong87/dsh-input-list) 💤 — DSH prompt library and reusable snippets plugin for saving, editing, and inserting prompts from the composer. · ⭐3
 - [ting-good/dsh-cook-pet](https://github.com/ting-good/dsh-cook-pet) — 用于DeepSeek Harness的可爱小厨娘插件，展示任务状态，也可以点击互动 · ⭐3
 - [Ho11ow8/deepseek-harness-balance-pet](https://github.com/Ho11ow8/deepseek-harness-balance-pet) 💤 — A deepseek balance pet · ⭐2
 - [keeshakulbida948-tech/dsh-plugin-fun](https://github.com/keeshakulbida948-tech/dsh-plugin-fun) 💤 — DeepSeek Harness「阿蓝」人格插件：给 AI 注入活泼有趣、会主动发表情包的性格 · ⭐2
 - [PetCT/dsh-plugin-marketplace](https://github.com/PetCT/dsh-plugin-marketplace) 💤 — DSH 插件市场 · A plugin marketplace inside DeepSeek Harness — browse, search, favorite, one-click download community plugins · ⭐2
 - [pyyxzi/dsh-deepmoyu](https://github.com/pyyxzi/dsh-deepmoyu) — DeepMoYu 鲸鱼摸鱼 — DSH 插件：让鲸鱼娘自主刷 B站，自己搜片、读字幕、发评论、发动态、回私信，还能写日报、做视频。Fork of c1overzz/dsh-bili-scroll · ⭐2
-- [621758/dsh-whale-widget-pet-feed](https://github.com/621758/dsh-whale-widget-pet-feed) — DeepSeek Harness 余额小鲸鱼挂件非官方衍生版（基于 dsh-whale-widget 0.3.9）：新增摸头、摸头音效、互动统计和投喂按钮，其余功能原样保留。 · ⭐1
+- [621758/dsh-whale-widget-pet-feed](https://github.com/621758/dsh-whale-widget-pet-feed) 💤 — DeepSeek Harness 余额小鲸鱼挂件非官方衍生版（基于 dsh-whale-widget 0.3.9）：新增摸头、摸头音效、互动统计和投喂按钮，其余功能原样保留。 · ⭐1
 - [coldfish486/dsh-anime25d-pets](https://github.com/coldfish486/dsh-anime25d-pets) — 借助see-through，只凭一张干净背景的图像，即可获得带自动装配、发丝物理、表情动画和状态镜像的桌宠 · ⭐1
 - [Dongfang81/dsh-music](https://github.com/Dongfang81/dsh-music) 💤 — 第一款真正意义上的 AI 原生音乐播放器 🎵 在对话里说一句想听的歌，月宝 Moony 全网搜集、整理、开播；十只月亮宠物随音乐起舞。零依赖安装即用，DSH 插件。 · ⭐1
 - [Edge-HH/GrokBot_in_DeepseekHerness](https://github.com/Edge-HH/GrokBot_in_DeepseekHerness) 💤 — 将GrokBot宠物代入DSH网页端并加入拖拽效果和通知功能 · ⭐1

@@ -1,8 +1,7 @@
-# Tools & Integrations — 2331 entries (part 2/3)
+# Tools & Integrations — 2330 entries (part 2/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [maxmilian/dsh-sentry](https://github.com/maxmilian/dsh-sentry) — Read-only Sentry issue and event tools for DeepSeek Harness. · ⭐2
 - [Max-Null/dsh-capture](https://github.com/Max-Null/dsh-capture) — Dual-engine screen capture for DeepSeek Harness: box-select + red-box annotation, composer insertion (SSiD shell / plain DSH getDisplayMedia · ⭐2
 - [mhwww/DSH-Wallpaper-Engine](https://github.com/mhwww/DSH-Wallpaper-Engine) 💤 — DeepSeek Harness (dsh) 背景图片插件：内置默认图 / 自定义上传 / Wallpaper Engine 创意工坊一键应用 / 视频壁纸 ffmpeg 高清抽帧 · ⭐2
 - [MinEagle/dsh-dingtalk-self](https://github.com/MinEagle/dsh-dingtalk-self) — 以你本人钉钉身份自动回复私聊的 DeepSeek Harness 插件：按工作区绑定联系人，agent 查完资料代你答复 · ⭐2
@@ -256,7 +255,7 @@
 - [cny919191/dsh-123pan](https://github.com/cny919191/dsh-123pan) — (no description) · ⭐1
 - [cq-guojia/rulemux](https://github.com/cq-guojia/rulemux) — (no description) · ⭐1
 - [crane-you/dsh-task-plugin-scout](https://github.com/crane-you/dsh-task-plugin-scout) — Find the plugins that make a task easier — a DeepSeek Harness (DSH) plugin that ranks installed, disabled and marketplace plugins for the ta · ⭐1
-- [crazysmallbamboo/whale-widget-standalone](https://github.com/crazysmallbamboo/whale-widget-standalone) — 还在因为不能时时刻刻看到大肥鱼了而感到焦虑了吗，现在你的大肥鱼不需要打开dsh也能显示了！支持自定义图片哦~建议让你的大肥鱼来干安装这个活（） · ⭐1
+- [crazysmallbamboo/whale-widget-standalone](https://github.com/crazysmallbamboo/whale-widget-standalone) 💤 — 还在因为不能时时刻刻看到大肥鱼了而感到焦虑了吗，现在你的大肥鱼不需要打开dsh也能显示了！支持自定义图片哦~建议让你的大肥鱼来干安装这个活（） · ⭐1
 - [ctianye/dsh_gearbox](https://github.com/ctianye/dsh_gearbox) — (no description) · ⭐1
 - [CTX666666/dsh-prompt-polish](https://github.com/CTX666666/dsh-prompt-polish) — DeepSeek Harness 的提示词润色插件：在会话输入框右侧注入可逆改写控件，复用当前会话的模型选择执行旁路单轮调用，并由代码层保真校验约束改写结果逐字保留原文事实。 · ⭐1
 - [cup113/personal-track](https://github.com/cup113/personal-track) — DeepSeek Harness（DSH）插件：右侧栏每日习惯看板 + 主区域统计页。 · ⭐1
@@ -357,7 +356,7 @@
 - [hy-sde/dsh-plugins](https://github.com/hy-sde/dsh-plugins) — Standalone @hy-sde-org/dsh-* plugins for DeepSeek Harness (monorepo) · ⭐1
 - [ice5kysl/dsh-why](https://github.com/ice5kysl/dsh-why) — dsh (DeepSeek Harness) failure diagnostics CLI — why a plugin crashes the loader (missed the module table), engines.dsh mismatch, known offi · ⭐1
 - [icefall7/dsh-plugin-scout](https://github.com/icefall7/dsh-plugin-scout) 💤 — A DeepSeek Harness plugin + skill that scouts the DSH ecosystem: the core deepseek-harness repo and every dsh-plugin-tagged repository, disc · ⭐1
-- [IDKWhatID2Use/whales-launcher](https://github.com/IDKWhatID2Use/whales-launcher) — Instance and version manager launcher for DeepSeek Harness (dsh) 适用于DeepSeek Harness的实例与版本管理器 · ⭐1
+- [IDKWhatID2Use/whales-launcher](https://github.com/IDKWhatID2Use/whales-launcher) 💤 — Instance and version manager launcher for DeepSeek Harness (dsh) 适用于DeepSeek Harness的实例与版本管理器 · ⭐1
 - [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) 💤 — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质 · ⭐1
 - [iimaguest/dsh-contradictions-indicator](https://github.com/iimaguest/dsh-contradictions-indicator) — DSH plugin: 0-100 conversation coherence badge with parallel contradiction analysis · ⭐1
 - [infileap/Inimerse](https://github.com/infileap/Inimerse) — Inimerse,a new coding language · ⭐1
@@ -374,9 +373,9 @@
 - [JayYuen666/dsh-zvec-grep](https://github.com/JayYuen666/dsh-zvec-grep) — (no description) · ⭐1
 - [jhuanxx44/dsh-paste-path](https://github.com/jhuanxx44/dsh-paste-path) 💤 — DeepSeek Harness plugin: paste Finder file paths into the composer with Ctrl+V · ⭐1
 - [jide315/dsh-reasoning-language](https://github.com/jide315/dsh-reasoning-language) — Choose the language used for DSH reasoning and expand thinking rows by default. · ⭐1
-- [JiewiW/dsh-cot-anchor](https://github.com/JiewiW/dsh-cot-anchor) — 思考锚点：从模型上一段思考中提取已确立结论，在工具结果后注入，减少重复推导；并可识别打转与伪工具调用 · ⭐1
+- [JiewiW/dsh-cot-anchor](https://github.com/JiewiW/dsh-cot-anchor) — DSH 思考锚点插件（L1）：机械识别单流空转（原地重复/伪工具调用/数字流/过长思维链）即软切续跑，并提取已确立结论在工具结果后注入防重推；附内核软切移植工具 · ⭐1
 - [JimChen-g/dsh-frontier-repro](https://github.com/JimChen-g/dsh-frontier-repro) 💤 — Evidence-first frontier AI radar and reproducibility gate for DeepSeek Harness · ⭐1
-- [jimku233/dsh-copy-file](https://github.com/jimku233/dsh-copy-file) — Copy real files from DSH delivery cards to the system clipboard (CF_HDROP), with Windows-like card interaction. Pinned to DSH 0.2.0-rc.2. · ⭐1
+- [jimku233/dsh-copy-file](https://github.com/jimku233/dsh-copy-file) — Copy real files (not paths) from DSH delivery cards to the system clipboard (CF_HDROP), as one extra card action beside the shipped Open-in  · ⭐1
 - [jjjjjjjjnnjnn/dsh-triage](https://github.com/jjjjjjjjnnjnn/dsh-triage) — 分诊台 / Triage — the judgment layer for DeepSeek Harness plugins: why a plugin silently disappeared, and whether a candidate survives your exa · ⭐1
 - [jjoni12/dsh-locale-ko](https://github.com/jjoni12/dsh-locale-ko) — DeepSeek Harness(DSH) 비공식 한국어 언어팩 · Unofficial Korean language pack for DeepSeek Harness · ⭐1
 - [JoFe2/kaleidosphere-dsh-plugin](https://github.com/JoFe2/kaleidosphere-dsh-plugin) 💤 — Native KaleidoSphere database-analysis plugin for DeepSeek Harness · ⭐1
@@ -630,7 +629,7 @@
 - [zengxiaolou/dsh-paste-chip](https://github.com/zengxiaolou/dsh-paste-chip) — DSH 插件 · 长文本粘贴自动折叠成可展开的胶囊：≥400 字或 ≥12 行即折叠，悬停/点击看正文与上下文，发送时按原位展开；也接管标注浏览器、划词注释等插件写入的长文本。 · ⭐1
 - [Zenjibad/dsh-plugin-toggle](https://github.com/Zenjibad/dsh-plugin-toggle) 💤 — Enable/disable DSH plugins directly from Settings → Plugins: an additive 'Enable/Disable' tab that stops/starts loader entries live and pers · ⭐1
 - [ZeroClave/zeroclave-dsh-privacy](https://github.com/ZeroClave/zeroclave-dsh-privacy) — Privacy firewall for DeepSeek Harness: detect and redact sensitive text before sending. · ⭐1
-- [Zh0uHX/dsh-skills](https://github.com/Zh0uHX/dsh-skills) — 在 DSH 设置中搜索、安装和管理 Skills.sh 技能 · ⭐1
+- [Zh0uHX/dsh-skills](https://github.com/Zh0uHX/dsh-skills) 💤 — 在 DSH 设置中搜索、安装和管理 Skills.sh 技能 · ⭐1
 - [zhangTELL/dsh-diagram](https://github.com/zhangTELL/dsh-diagram) 💤 — DSH 插件：聊天中的 mermaid 代码块原位渲染成示意图（流程图/时序图/类图等），辅助代码审查与架构分析 · ⭐1
 - [zhangzheng25/dsh-timeline](https://github.com/zhangzheng25/dsh-timeline) 💤 — DSH 插件：极简提问时间线——每条提问一个圆点，点击跳转，悬停预览。Minimal question timeline for DeepSeek Harness. · ⭐1
 - [zhanshenovo/dsh-brake-pedal](https://github.com/zhanshenovo/dsh-brake-pedal) — DeepSeek Harness 客户端插件：给长任务一场『6 脚全力制动测试』，支架随机断在第 2–6 脚（约 1/8 不裂）。纯表演，从不接管、不拦截、不延迟任何停止动作。 · ⭐1
@@ -902,3 +901,4 @@
 - [hrygo/dsh-ptc-tool-search](https://github.com/hrygo/dsh-ptc-tool-search) — Progressive tool discovery for DeepSeek Harness PTC using the official scoped registry · ⭐0
 - [HsgtLgt/dsh-plugin-screenshot](https://github.com/HsgtLgt/dsh-plugin-screenshot) — 面向模型的「截图」工具插件（DeepSeek Harness，Windows 宿主）。 注册一个 screenshot 工具，让会话里的 AI 能真正「看见」并展示你的屏幕。 · ⭐0
 - [hu568/dsh-plugin-cluster-preset](https://github.com/hu568/dsh-plugin-cluster-preset) — DSH「集群模式」agent preset：主控智能体自主编排 5 个具名专家子智能体，附「智能体寿命论」阶段提示器 · ⭐0
+- [Huang-zhishi/dsh-plugin-call-trace](https://github.com/Huang-zhishi/dsh-plugin-call-trace) 💤 — (no description) · ⭐0

@@ -1,7 +1,10 @@
-# UI & Themes — 2418 entries (part 3/3)
+# UI & Themes — 2419 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [clarknu/dsh-tray](https://github.com/clarknu/dsh-tray) 💤 — System-tray launcher for DeepSeek Harness instances on Windows: hidden console, per-instance start/stop/restart, port-status menu, and autos · ⭐0
+- [CNSeniorious000/dsh-generative-ui](https://github.com/CNSeniorious000/dsh-generative-ui) — Generative UI for DeepSeek Harness — the agent writes TSX and the web UI compiles every frame as it streams, so a card renders while its JSX · ⭐0
+- [ColorlessBoy/dsh-opencode-usage](https://github.com/ColorlessBoy/dsh-opencode-usage) — See your OpenCode Go quota before it runs out — one quiet pill in the DeepSeek Harness Web composer dock. · ⭐0
 - [comer2031/dsh-desktop-auto-restart](https://github.com/comer2031/dsh-desktop-auto-restart) — (no description) · ⭐0
 - [ComlaiGonnann/dsh-codex-rail](https://github.com/ComlaiGonnann/dsh-codex-rail) — Transforms DSH sidebar into a dual-column Codex interface with Activity Bar · ⭐0
 - [Couioly/plugin-audio-alert](https://github.com/Couioly/plugin-audio-alert) 💤 — 给DeepSeek Harness (DSH)的审批语音告警插件：当 DSH 遇到需要人工审核/审批时，用电脑 TTS 自动语音呼叫你——把"需要你审核"的内容念出来，同时照常在网页上弹出审批按钮让你点。 · ⭐0
@@ -62,7 +65,6 @@
 - [dxsdyhm/dsh-adb-logcat](https://github.com/dxsdyhm/dsh-adb-logcat) 💤 — Android Studio-style ADB logcat viewer for the DSH Web GUI · ⭐0
 - [dytom18/dsh-plugin-voice-dictation](https://github.com/dytom18/dsh-plugin-voice-dictation) 💤 — 说话即任务：给 DSH Web GUI 加语音听写，说完自动发送给 Agent（纯前端，无需 API Key） · ⭐0
 - [EachSheep/dsh-valley-pixel-skin](https://github.com/EachSheep/dsh-valley-pixel-skin) 💤 — A cozy farm pixel skin for DeepSeek Harness Desktop and Web UI. · ⭐0
-- [Eason-22/dsh-cua-driver-indicator](https://github.com/Eason-22/dsh-cua-driver-indicator) — Precision layer for DSH's built-in Cua Driver computer control: checks the click point is not covered before clicking, verifies the click ac · ⭐0
 - [Easyhoov/deepseek-harness-desktop](https://github.com/Easyhoov/deepseek-harness-desktop) 💤 — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 · ⭐0
 - [EasyTZ/dsh-terminal-panel](https://github.com/EasyTZ/dsh-terminal-panel) 💤 — Terminal panel plugin for DeepSeek Harness (dsh) — run commands in the current workspace with streaming output · ⭐0
 - [EasyTZ/dsh-ui-balance](https://github.com/EasyTZ/dsh-ui-balance) — Balance display plugin for DeepSeek Harness (dsh) — show your DeepSeek API balance under each reply · ⭐0
@@ -241,7 +243,7 @@
 - [Link-h1j/dsh-image-canvas](https://github.com/Link-h1j/dsh-image-canvas) — DSH desktop right-sidebar infinite canvas: collect any opened image on one pannable board, annotate it, hand the notes to the Agent, and edi · ⭐0
 - [lirui1024k/dsh-browser-ops](https://github.com/lirui1024k/dsh-browser-ops) 💤 — DeepSeek Harness plugin: agent-driven real-browser control + record/replay manual flows with variable slots for test data creation. (DSH 插件： · ⭐0
 - [lishuo4096/dsh-gowin](https://github.com/lishuo4096/dsh-gowin) — DSH plugin for the Gowin 1.9 FPGA toolchain: 15 tools for environment probe, .gprj/.cst project and board-pinout audit, gw_sh batch build, p · ⭐0
-- [liudapeng0311/dsh-pwa-launcher](https://github.com/liudapeng0311/dsh-pwa-launcher) — A DSH plugin that turns the browser PWA shortcut you already have on your desktop into a real launcher: double-click starts dsh web silently · ⭐0
+- [liudapeng0311/dsh-pwa-launcher](https://github.com/liudapeng0311/dsh-pwa-launcher) 💤 — A DSH plugin that turns the browser PWA shortcut you already have on your desktop into a real launcher: double-click starts dsh web silently · ⭐0
 - [liuGuanYi-hub/dsh-desktop](https://github.com/liuGuanYi-hub/dsh-desktop) 💤 — (no description) · ⭐0
 - [liuhusk/dsh-status-card](https://github.com/liuhusk/dsh-status-card) — A permanent status card in the top-right corner of the DSH content area: turn timing, to-dos, goal, plans, changed files and subagents. · ⭐0
 - [liujianqiao701/dsh-ask-notify](https://github.com/liujianqiao701/dsh-ask-notify) — DSH web GUI plugin: a bottom-right reminder card when the agent is blocked waiting for your answer, plus a desktop notification and a flashi · ⭐0
@@ -376,7 +378,6 @@
 - [qiesh-cn/dsh-huiyou](https://github.com/qiesh-cn/dsh-huiyou) — 洄游 · DSH 会话回收站：删除的会话可搜索、恢复、彻底删除 · ⭐0
 - [qing3a/dsh-come](https://github.com/qing3a/dsh-come) 💤 — (no description) · ⭐0
 - [qingchunnh/dsh-desktop](https://github.com/qingchunnh/dsh-desktop) 💤 — DeepSeek Harness 的桌面客户端，自动检测本机运行环境，启动并连接 dsh Web UI · ⭐0
-- [QIRSHENG/dsh-tray-restart](https://github.com/QIRSHENG/dsh-tray-restart) — Adds a Restart item to the DeepSeek Harness desktop system-tray menu and re-applies the patch after every app update. · ⭐0
 - [Qiujiyuantiantian/dsh-pavement-skid-resistance](https://github.com/Qiujiyuantiantian/dsh-pavement-skid-resistance) — 中：把一本 591 页的抗滑专著蒸馏成 76 张能力卡，专治“口径混用”，并拒绝在没有依据时报数。 En: 76 capability cards from a 591-page skid-resistance monograph — built to catch mixed c · ⭐0
 - [QuentinCrane/dsh-combo](https://github.com/QuentinCrane/dsh-combo) — PowerMode-style tool-call combo feedback for DeepSeek Harness Web and Desktop, with a countdown, four effects and live customization. · ⭐0
 - [Qulierm/dsh-macos-settings-shortcut](https://github.com/Qulierm/dsh-macos-settings-shortcut) — (no description) · ⭐0

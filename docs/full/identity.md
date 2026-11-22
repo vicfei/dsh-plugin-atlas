@@ -3,15 +3,15 @@
 > live data · full category export · [back to atlas](../../README.md)
 
 - [thibautrey/multivibe](https://github.com/thibautrey/multivibe) — OpenAI-compatible multi-account Codex and vibe coding proxy · ⭐61
-- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐49
+- [aa2246740/dsh-skillhub](https://github.com/aa2246740/dsh-skillhub) — DSH manager for user Skills already on disk in Agent home and DSH home · ⭐50
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) 💤 — DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。 · ⭐40
 - [AgentConnect/dsh-awiki](https://github.com/AgentConnect/dsh-awiki) — AWiki identity and messaging plugin for DeepSeek Harness · ⭐19
 - [Max-Null/dsh-chinese-thinking](https://github.com/Max-Null/dsh-chinese-thinking) — One-line fix: inject a fixed system-prompt section so the agent always thinks and replies in Chinese, whatever the user's language · 中文思考：注入 · ⭐14
 - [redfox-data/redfox-community-dsh](https://github.com/redfox-data/redfox-community-dsh) — The official bundle plugin package of DSH (DeepSeek Harness) from RedFoxHub（红狐数据）: Over 100 social media data skills (Douyin / Xiaohongshu / · ⭐13
 - [Solismuchengxue/dsh_plugin_swift_cycle](https://github.com/Solismuchengxue/dsh_plugin_swift_cycle) 💤 — Swift Cycle governance skill adapter for DeepSeek Harness; user-invoked, version-pinned, and offline-verifiable. · ⭐9
 - [std-microblock/orange-bot](https://github.com/std-microblock/orange-bot) — 橘波特 (Orange): a QQ group chat bot stack for DeepSeek Harness — the dsh plugin, the koishi bridge for the official QQ bot, and the crossgram  · ⭐8
+- [jing-hy/computer-user](https://github.com/jing-hy/computer-user) — DSH plugin: Codex-style computer use for Windows - read the screen, drive mouse & keyboard via SendInput; pairs with picturereader to close  · ⭐7
 - [liliuCourier/dsh-chat-outline](https://github.com/liliuCourier/dsh-chat-outline) 💤 — 对话栏左侧常驻大纲：快速定位每次 user 提问与最后 assistant 回复（DeepSeek Harness 插件） · ⭐7
-- [jing-hy/computer-user](https://github.com/jing-hy/computer-user) — DSH plugin: Codex-style computer use for Windows - read the screen, drive mouse & keyboard via SendInput; pairs with picturereader to close  · ⭐6
 - [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐6
 - [AomiRaku/dsh-accountDisplayName-edit](https://github.com/AomiRaku/dsh-accountDisplayName-edit) — (no description) · ⭐5
 - [bescriptkiddie/dsh-wechat-collector](https://github.com/bescriptkiddie/dsh-wechat-collector) 💤 — DSH-native WeChat Official Account collector and ContentStudio handoff. · ⭐5

@@ -1,4 +1,4 @@
-# Security & Permissions — 1169 entries (part 2/2)
+# Security & Permissions — 1168 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -114,7 +114,6 @@
 - [oh-summy/dsh-remote-control](https://github.com/oh-summy/dsh-remote-control) — Secure remote access for DeepSeek Harness (DSH): Cloudflare Tunnel + password gate + Feishu notifications. macOS first, Linux first-class. · ⭐0
 - [oksure/dsh-mobile-comfort](https://github.com/oksure/dsh-mobile-comfort) — Touch-device comfort fixes for the DeepSeek Harness web client: ghost tooltip suppression + touch-action policy · ⭐0
 - [Olympianz/dsh-xiaomili](https://github.com/Olympianz/dsh-xiaomili) 💤 — 小米粒（dsh-xiaomili）—— 常驻 chatbox 右侧的金毛秘书插件：实时旁听对话、识别意图、提取关键词/概念、自动生成秘书简报，记忆可持久化。 · ⭐0
-- [OZONGO/dsh-agents-inits](https://github.com/OZONGO/dsh-agents-inits) — Run the AGENTS.md authoring workflow inside a subagent, so no instruction body enters the main conversation. · ⭐0
 - [OZONGO/dsh-keyboard-shortcut](https://github.com/OZONGO/dsh-keyboard-shortcut) — A Keyboard Shortcuts settings page for DeepSeek Harness (DSH), with permission-mode cycling, reasoning-effort stepping, prompt navigation, a · ⭐0
 - [PangYiMing/dsh-port-guard](https://github.com/PangYiMing/dsh-port-guard) 💤 — DSH plugin: triage port conflicts (reuse / switch / precise kill) — 端口占用处置 · ⭐0
 - [Phocinae/dsh-phocinae](https://github.com/Phocinae/dsh-phocinae) — Phocinae decision plugin bundle for DeepSeek Harness (dsh): phocinae_ask tool + approval gate · ⭐0
@@ -166,7 +165,7 @@
 - [SOH4C4759/dsh-plugin-cicd](https://github.com/SOH4C4759/dsh-plugin-cicd) — 发布台 (Release Console) for DeepSeek Harness: a sidebar entry and a main-panel page showing each repository's latest CI run, its releases, and · ⭐0
 - [solstice621/dsh-openai-auth](https://github.com/solstice621/dsh-openai-auth) — OpenAI / Codex ChatGPT subscription auth for DeepSeek Harness Desktop, with native account and quota UI. · ⭐0
 - [solstice621/dsh-opencode-go-auth](https://github.com/solstice621/dsh-opencode-go-auth) — OpenCode Go / Go Plus subscription auth for DeepSeek Harness Desktop, with native account, usage and model-sync UI. · ⭐0
-- [sperictao/dsh-auth-tailscale](https://github.com/sperictao/dsh-auth-tailscale) — Tailscale identity and capability authorization adapter for DeepSeek Harness · ⭐0
+- [sperictao/dsh-auth-tailscale](https://github.com/sperictao/dsh-auth-tailscale) 💤 — Tailscale identity and capability authorization adapter for DeepSeek Harness · ⭐0
 - [stadeummwt/dsh-supreme](https://github.com/stadeummwt/dsh-supreme) 💤 — (no description) · ⭐0
 - [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
 - [stushansusu/dsh-delete-guard](https://github.com/stushansusu/dsh-delete-guard) — DSH plugin: meters AI deletions per session, terminates the call once the cumulative size passes a threshold, then asks the user with the li · ⭐0
@@ -184,7 +183,7 @@
 - [TINGOD2006/dsh-scratch-vault](https://github.com/TINGOD2006/dsh-scratch-vault) — Codex-style scratch execution for DeepSeek Harness: operation scripts run from a session scratch root and are collected into a plugin-owned  · ⭐0
 - [Tisitan/dsh-tool-guard](https://github.com/Tisitan/dsh-tool-guard) 💤 — Preset-agnostic global tool masking for DeepSeek Harness — presentation-layer filtering, execution-layer guard veto, self-protection gate an · ⭐0
 - [tonylee2022/dsh-xai-oauth](https://github.com/tonylee2022/dsh-xai-oauth) — xAI (Grok/X subscription) OAuth login plugin for DeepSeek Harness — device-code auth, token refresh, no API key needed · ⭐0
-- [Top-Celestial-Company-Ltd/dsh-dros-vajraclaw](https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw) — ⚡ DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin · ⭐0
+- [Top-Celestial-Company-Ltd/dsh-dros-vajraclaw](https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw) 💤 — ⚡ DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin · ⭐0
 - [ttxs69/hermes-continue-hook](https://github.com/ttxs69/hermes-continue-hook) — Stop the agent from asking permission for things it should just do — conditional continuation for Claude Code, Codex, Qwen Code, Cursor, Cop · ⭐0
 - [uckkk/dsh-jwt-uckkk](https://github.com/uckkk/dsh-jwt-uckkk) 💤 — @{name=dsh-jwt-uckkk; version=0.1.0; description=JWT 解码：解析 header/payload，判断过期（不验签）; type=module; main=lib/index.js; exports=; files=System. · ⭐0
 - [uckkk/dsh-license-guard](https://github.com/uckkk/dsh-license-guard) 💤 — 依赖许可证合规：扫描 node_modules 许可证、归一化 SPDX、分类并做发布前合规校验 · ⭐0
@@ -255,7 +254,7 @@
 - [zcmilan/lelogin-skill](https://github.com/zcmilan/lelogin-skill) — LeLogin skill plugin for DeepSeek Harness: credential injection and authenticated business applications without exposing plaintext secrets. · ⭐0
 - [zeroed-07/dsh-memory-guard](https://github.com/zeroed-07/dsh-memory-guard) — Local-only memory guard for DeepSeek Harness: heap and session-log monitoring, oversized tool-argument interception, dry-run session vacuum. · ⭐0
 - [zhangmiao03/cloakpack](https://github.com/zhangmiao03/cloakpack) 💤 — Safety-pack your secrets before they leave the machine: a git pre-push guard that blocks credential leaks, plus one-command pack/unpack. Bui · ⭐0
-- [zhangnan/dsh-chatgpt-oauth](https://github.com/zhangnan/dsh-chatgpt-oauth) — ChatGPT OAuth login and Codex usage for DeepSeek Harness · ⭐0
+- [zhangnan/dsh-chatgpt-oauth](https://github.com/zhangnan/dsh-chatgpt-oauth) 💤 — ChatGPT OAuth login and Codex usage for DeepSeek Harness · ⭐0
 - [zhangxiubo/dsh-llm-chatgpt-oauth](https://github.com/zhangxiubo/dsh-llm-chatgpt-oauth) 💤 — ChatGPT Plus/Pro OAuth model provider for DeepSeek Harness using pi-ai openai-codex. · ⭐0
 - [zhao-wuyan/dsh-maestro-runtime](https://github.com/zhao-wuyan/dsh-maestro-runtime) 💤 — DSH host plugin for maestro-flow: guard, context, KG sync, delegate/team/coordinator runtime · ⭐0
 - [zhaoxuejie/dsh-plugin-tool-guard](https://github.com/zhaoxuejie/dsh-plugin-tool-guard) 💤 — DeepSeek Harness 工具调用安全守卫（防火墙）插件：危险命令拦截、路径白名单、敏感文件黑名单、人工审批与审计 · ⭐0

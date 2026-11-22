@@ -1,7 +1,11 @@
-# Models & Providers — 1820 entries (part 3/3)
+# Models & Providers — 1824 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [ZelotsNullzwei/whale-pod](https://github.com/ZelotsNullzwei/whale-pod) — DSH 插件：给 QQ 群加个会看场合的聊天机器人（自备 OneBot v11 协议端，兼容 OpenAI 协议） · ⭐0
+- [zhangzhenwen1/dsh-task-effort](https://github.com/zhangzhenwen1/dsh-task-effort) — Auto-adjust model reasoning effort per task with DeepSeek peak-pricing-period capping: off/low/high/max classification, [effort=...] markers · ⭐0
+- [ZhaoHanshao/dsh-plugin-mcp-toggles](https://github.com/ZhaoHanshao/dsh-plugin-mcp-toggles) — Turn installed MCP servers on or off per conversation, from a picker in the session header. · ⭐0
+- [ZhaoZiyangShaanxi/dsh-codex-plus](https://github.com/ZhaoZiyangShaanxi/dsh-codex-plus) — ChatGPT / Codex subscription quota console for DeepSeek Harness: real quota windows, reset cards, model catalog. · ⭐0
 - [zhiwuli0228/dsh-image-router](https://github.com/zhiwuli0228/dsh-image-router) — DeepSeek Harness plugin: digest prompt images through a vision model and expose a describe_image tool — without ever changing the session's  · ⭐0
 - [zhonglike/dsh-bot](https://github.com/zhonglike/dsh-bot) — Multi-zone professional model routing plugin for DeepSeek Harness (Cordis) · ⭐0
 - [ZhouXuan-Yu/dsh-model-rotation](https://github.com/ZhouXuan-Yu/dsh-model-rotation) — Multi-source model rotation plugin for DeepSeek Harness — group models by source, order them (manual/auto), preset model + reasoning effort, · ⭐0

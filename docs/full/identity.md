@@ -14,8 +14,8 @@
 - [liliuCourier/dsh-chat-outline](https://github.com/liliuCourier/dsh-chat-outline) 💤 — 对话栏左侧常驻大纲：快速定位每次 user 提问与最后 assistant 回复（DeepSeek Harness 插件） · ⭐7
 - [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐6
 - [AomiRaku/dsh-accountDisplayName-edit](https://github.com/AomiRaku/dsh-accountDisplayName-edit) — (no description) · ⭐5
+- [AusertDream/TravelPlanner](https://github.com/AusertDream/TravelPlanner) — 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 · ⭐5
 - [bescriptkiddie/dsh-wechat-collector](https://github.com/bescriptkiddie/dsh-wechat-collector) 💤 — DSH-native WeChat Official Account collector and ContentStudio handoff. · ⭐5
-- [AusertDream/TravelPlanner](https://github.com/AusertDream/TravelPlanner) — 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 · ⭐4
 - [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) — DeepSeek Harness plugin that learns from coding agent retries and user corrections, then adds visible, editable directives to future convers · ⭐4
 - [ZihaoVistonWang/Stata-AI-Skill](https://github.com/ZihaoVistonWang/Stata-AI-Skill) 💤 — Stata AI Skill Native Service: Native localhost HTTP service that lets AI agents run Stata without VS Code, Node.js, or Python on the user s · ⭐4
 - [PandaBlessing/dsh-user-sync](https://github.com/PandaBlessing/dsh-user-sync) — DeepSeek Harness（DSH）的用户级配置同步插件 · ⭐2

@@ -1,7 +1,8 @@
-# Security & Permissions — 1168 entries (part 2/2)
+# Security & Permissions — 1169 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-ci-guard](https://github.com/feely0208/dsh-ci-guard) — 扫 GitHub Actions 工作流，找出可被利用的配置 —— 供应链攻击的主要入口 · ⭐0
 - [feely0208/dsh-cn-data-export](https://github.com/feely0208/dsh-cn-data-export) — 数据出境检查：查代码与配置里的境外数据出口、个人信息外发、缺安全评估说明。 · ⭐0
 - [feely0208/dsh-cn-filing](https://github.com/feely0208/dsh-cn-filing) — 备案公示检查：查应用里有没有 ICP/APP 备案号、隐私政策入口、运营者信息。 · ⭐0
 - [feely0208/dsh-cn-log-retention](https://github.com/feely0208/dsh-cn-log-retention) — 日志留存合规：检查日志是否开启、是否记了该记的、是否留够法定 6 个月。 · ⭐0
@@ -77,6 +78,7 @@
 - [Liyuk/dsh-quota-router](https://github.com/Liyuk/dsh-quota-router) 💤 — Policy-only multi-source quota router for DeepSeek Harness: deterministic task profiles, ordered candidate chains, health-aware fallback, su · ⭐0
 - [LJH-snow/dsh-tool-redis](https://github.com/LJH-snow/dsh-tool-redis) — Redis inspection and guarded write tools for DeepSeek Harness · ⭐0
 - [lll-77777777/dsh-wechat-approvals](https://github.com/lll-77777777/dsh-wechat-approvals) — DSH 微信插件 fork：桌面会话审批转发微信 + 双端批准 + 任务完成通知 (dsh-wechat-plugin 0.43.1 fork) · ⭐0
+- [lone-wolf-akela/dsh-sandboxie-redirect](https://github.com/lone-wolf-akela/dsh-sandboxie-redirect) — DSH bundle: a copy-on-write permission preset that runs shell commands in a per-workspace Sandboxie box · ⭐0
 - [longisland-icetea/dsh-lan-access](https://github.com/longisland-icetea/dsh-lan-access) 💤 — Open the DeepSeek Harness Web GUI's LAN access fences: serve on all interfaces, trust only the configured LAN authorities, and choose them f · ⭐0
 - [lornwolf/dsh-claude-subscription](https://github.com/lornwolf/dsh-claude-subscription) — Use a Claude Pro/Max subscription inside DeepSeek Harness: OAuth login, multi-account vault, quota cards and a settings panel. · ⭐0
 - [LPX-E5BD8/dsh-plugin-lark](https://github.com/LPX-E5BD8/dsh-plugin-lark) — Feishu/Lark bridge for DeepSeek Harness with streaming Card 2.0, tool approvals, and session routing · ⭐0
@@ -152,7 +154,7 @@
 - [SeasonTemple/dsh-decision-gate](https://github.com/SeasonTemple/dsh-decision-gate) — A decision gate for DSH — ask five questions before every shell command, then allow, ask, or deny. · ⭐0
 - [secretLjp/dsh-weave](https://github.com/secretLjp/dsh-weave) 💤 — Harness-native conversation branches and explicit semantic harvests for DeepSeek Harness · ⭐0
 - [secretxuan/oh-my-dsh](https://github.com/secretxuan/oh-my-dsh) 💤 — Agent Teams for DeepSeek Harness with native-vision Windows computer-use · ⭐0
-- [shaomingbo/dsh-subscription-search](https://github.com/shaomingbo/dsh-subscription-search) — ChatGPT/Grok subscription OAuth, model routes, and ChatGPT to Grok to Exa to DeepSeek web-search fallback for DeepSeek Harness · ⭐0
+- [shaomingbo/dsh-subscription-search](https://github.com/shaomingbo/dsh-subscription-search) 💤 — ChatGPT/Grok subscription OAuth, model routes, and ChatGPT to Grok to Exa to DeepSeek web-search fallback for DeepSeek Harness · ⭐0
 - [shark-QAQ/SCG-Suite](https://github.com/shark-QAQ/SCG-Suite) — Session-level security guardrail for autonomous coding agents on DeepSeek Harness · ⭐0
 - [shizhanyu13/dsh-ironbound-policy](https://github.com/shizhanyu13/dsh-ironbound-policy) 💤 — @shizhanyu13/dsh-ironbound-policy — DSH plugin: Ironbound hard-gate guard. Blocks dangerous shell commands before they reach a tool, with a  · ⭐0
 - [shuxue6662-a11y/dsh-risk-guard](https://github.com/shuxue6662-a11y/dsh-risk-guard) 💤 — Zero-interruption audit + fuse blocking plugin for DeepSeek Harness / 零打扰 Agent 审计与保险丝拦截插件 · ⭐0
@@ -242,7 +244,6 @@
 - [Yersi88/dsh-ollama-tool-guard](https://github.com/Yersi88/dsh-ollama-tool-guard) — Scores every DSH tool call with a local Ollama decision model before it runs - risky calls become an approval prompt, an unreachable model s · ⭐0
 - [YE-ZINAN/dsh-lan-gate](https://github.com/YE-ZINAN/dsh-lan-gate) — LAN gateway for DeepSeek Harness. Use your desktop DSH from a phone or iPad over Wi-Fi, with per-device approval and a mobile layout. Nothin · ⭐0
 - [yffo/dsh-engramory-recall](https://github.com/yffo/dsh-engramory-recall) — Local-first memory for DeepSeek Harness: per-turn BM25 recall you can audit — open-rate ledger, memory report, fail-closed write guard, 14-c · ⭐0
-- [yffo/tabellio-dsh](https://github.com/yffo/tabellio-dsh) — tabellio-dsh — memory for DeepSeek Harness: candidates first, you approve, recall with receipts. · ⭐0
 - [yonking305/arc-vista](https://github.com/yonking305/arc-vista) — 面向 Git 仓库的本地优先架构观测台——架构图、安全守护、业务知识图谱、复杂度与分支风险对比。 · ⭐0
 - [youchen-yc/dsh-security-judge](https://github.com/youchen-yc/dsh-security-judge) — 代码安全防御规则评审判官：自动识别做代码的会话，按《代码安全防御架构规则》强制评审并门禁，需要 1/2/多种架构推荐与冲突检查，发布含 SBOM 与签名。 · ⭐0
 - [yuanyiHY/dsh-rail-equalizer](https://github.com/yuanyiHY/dsh-rail-equalizer) 💤 — Make DSH's turn-navigator rail react to system audio in real time (Windows). WASAPI loopback capture via koffi - no permission prompt, no mi · ⭐0

@@ -2,8 +2,9 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Vincent-chk/dsh-plugin-auxiliary-chat](https://github.com/Vincent-chk/dsh-plugin-auxiliary-chat) — Sidebar auxiliary chat for DeepSeek Harness (DSH): right-column panel hosting temporary auxiliary sessions that one-way mirror the main sess · ⭐1
+- [VioletScar-Hui/dsh-chat-history](https://github.com/VioletScar-Hui/dsh-chat-history) 💤 — 给 DSH 聊天输入框加上 CLI 风格历史记忆：上下键召回之前发送过的内容（纯客户端插件，重启不丢） · ⭐1
 - [vrvtvy/dsh-cache-hit-precision](https://github.com/vrvtvy/dsh-cache-hit-precision) — Precise three-decimal cache-hit readout for the DeepSeek Harness (DSH) Web composer stats row. 将 DSH Web 统计行的缓存命中率原位精化到三位小数。 · ⭐1
-- [wangqingdhuo/dsh-opencode-acp](https://github.com/wangqingdhuo/dsh-opencode-acp) — Run opencode as an ACP subagent in DeepSeek Harness — delegation tool, settings page, run history. · ⭐1
 - [wangxing-git/dsh-tool-session](https://github.com/wangxing-git/dsh-tool-session) — DeepSeek Harness 会话管理工具插件，为模型提供会话创建/重命名/归档/切换/列表/查询工具，支持沙箱提权审批与 UI 会话切换。 · ⭐1
 - [webkubor/dsh-museav-assets](https://github.com/webkubor/dsh-museav-assets) — DeepSeek Harness 素材浏览插件：按工作区查看 MUSE AV 素材与出图记录，复制素材直链。DSH asset browser for MUSE AV workspaces, image libraries and generation history. · ⭐1
 - [WelY1/dsh-topbar](https://github.com/WelY1/dsh-topbar) — Per-session status chips in the GNOME top bar for DeepSeek Harness. · ⭐1
@@ -147,7 +148,7 @@
 - [d0ublecl1ck/dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — Search inside the DeepSeek Harness New-Session workspace picker: pinyin initials, full pinyin spelling and substring matching. / 在「新建会话」的工作区 · ⭐0
 - [d0ublecl1ck/dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — DSH 侧边栏的未读 + 待办 + 状态读数中枢：跨重启也不丢的未读，⌘⇧J / ⌘⇧I 顺序定位，⌘⇧K 弹出未读与待决策总览；六项会话状态读数每个图标可点，点了跳到下一个同类会话。 · ⭐0
 - [dadgrand/dsh-agent-teams-dashboard](https://github.com/dadgrand/dsh-agent-teams-dashboard) — AgentTeams dashboard for the DSH Web UI: teams, token spend (USD/RUB), work time and archive. · ⭐0
-- [DanZai233/dsh-webask](https://github.com/DanZai233/dsh-webask) — Send one-liner questions to DeepSeek's web chat instead of burning your DSH context. Composer button + global hotkey palette, with history. · ⭐0
+- [DanZai233/dsh-webask](https://github.com/DanZai233/dsh-webask) 💤 — Send one-liner questions to DeepSeek's web chat instead of burning your DSH context. Composer button + global hotkey palette, with history. · ⭐0
 - [Daviszhou212/dsh-cost-pill](https://github.com/Daviszhou212/dsh-cost-pill) — DSH web plugin: session API cost + account balance, as a pill merged into the official composer stats row (费用 · 余额 · 缓存命中). · ⭐0
 - [Deanyu148/dsh-balance-inquiry](https://github.com/Deanyu148/dsh-balance-inquiry) — 余额看板，可以添加多个按量计费/Token plan，同时查询余额。| Balance dashboard, allowing the addition of multiple pay-as-you-go/Token plans, while simultaneously che · ⭐0
 - [deluo/dsh-usage-display](https://github.com/deluo/dsh-usage-display) 💤 — 在 dsh（DeepSeek Harness）会话头部展示模型厂商余额/用量徽标的插件：内置 DeepSeek 余额、MiniMax Token Plan 与智谱 GLM Coding Plan 配额，适配器架构支持接入更多厂商；host 侧按轮次取数，经 SSE 同步到浏览器。 · ⭐0
@@ -224,7 +225,6 @@
 - [hunyu-feng/dsh-usage-pulse](https://github.com/hunyu-feng/dsh-usage-pulse) — DSH Web UI plugin: live DeepSeek peak / off-peak pricing, token spend and hourly usage bars in the composer dock. · ⭐0
 - [HuskkyQ/dsh-doki](https://github.com/HuskkyQ/dsh-doki) — Composer typing statistics for DeepSeek Harness — typing time, cumulative characters and thinking time as a pill next to the session/token s · ⭐0
 - [HYBB-rash/dsh-plugins](https://github.com/HYBB-rash/dsh-plugins) — Personal DeepSeek Harness plugins for Telegram, scheduling, assistant responsibilities, X feeds, and UI experiments. · ⭐0
-- [hy-sde/dsh-zstd-frame](https://github.com/hy-sde/dsh-zstd-frame) — Zstandard frame primitives (scan / compress / decompress / multi-frame decoder) shared by the DeepSeek Harness session persistence backend a · ⭐0
 - [hzh5021/dsh-qq](https://github.com/hzh5021/dsh-qq) — Bridges a OneBot QQ bot into DSH: the owner's direct messages open a session on the same home, answers go back to QQ, and files named with [ · ⭐0
 - [Iambatman1928/dsh-xingye](https://github.com/Iambatman1928/dsh-xingye) — Chat agent for a DeepSeek Harness session: characters and personas, several archive threads per character, an undoable/rewindable local tran · ⭐0
 - [ice-ai-lab/dsh-plugin-codex-ui](https://github.com/ice-ai-lab/dsh-plugin-codex-ui) 💤 — Codex-style sidebar skin for the DeepSeek Harness Web GUI: a Projects + Recents browser, a New chat row that starts a session without pickin · ⭐0

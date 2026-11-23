@@ -3278,6 +3278,7 @@ MingYU-kalo/dsh-https-fix
 Minggle/dsh-token-breakdown-stats
 Minglink/dsh-infinite-gen-2
 Minglink/dsh-infinite-gen-4
+Minglink/dsh-jailbreak-workflow
 Minglink/wanxiang-knowledge
 MingoYung/dsh-Xiangxu-Persona
 MingoYung/dsh-awakening
@@ -4020,6 +4021,7 @@ QuantumKuba/dsh-graphify-plugin
 QuantumKuba/dsh-webstack
 QuaonY/dsh-mem-weave
 QuentinCrane/dsh-combo
+QuestMeet/questmeet-skill
 Quinn2006/dsh-guise
 Qulierm/dsh-macos-settings-shortcut
 Qulierm/orbital-agents
@@ -5338,6 +5340,7 @@ YokosWY/dsh-clarify-tier
 YokosWY/dsh-guard
 YongjianWan/dsh-loadout
 YooRarely/dsh-open-explorer
+Yornii/dsh-session-unfold
 YottaMeta/yotta-skills-plugin
 YouHui1/dsh-image-skin
 YouHui1/dsh-sessions-diagnosis
@@ -9016,6 +9019,7 @@ lengquan88/dsh-dual-auto
 lengyeyu123/dsh-stock-ticker
 lengzhanbao/dsh-raiden-theme
 lengzhanbao/dsh-taffy-theme
+lennney/stop-that-shit
 lenrendre/dsh-screenshot-native
 leo666-cloud/dsh-miniprogram-helper
 leoainc-ops/dsh-history-keeper
@@ -9991,6 +9995,7 @@ muyuanjin/dsh-ptc-plus
 muzapar00/united_nation_skin_deepseek_harness
 muzyLink/dsh-subagent-profile
 mvalentsev/dsh-wsl-projects
+mvanhorn/last30days-skill
 mwk719/dsh-skill-center
 my-dsh-plugin/agent-mode-switcher
 my-dsh-plugin/dsh-desktop-pack
@@ -10869,6 +10874,7 @@ romany-saad/dsh-plugins
 rongxingda/dsh-prompt-enhance
 rongyishuaige7/dsh-stats
 rongzi5/dsh-whale-pet
+roost-qq/dsh-roost
 rootkiller6788/dsh-flow
 rootkiller6788/dsh-launcher
 rootryanlau-art/dsh-voice-transcribe

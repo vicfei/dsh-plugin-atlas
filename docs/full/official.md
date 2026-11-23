@@ -2,9 +2,9 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · ⭐285338
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) — Integrate the DeepSeek API into popular software · ⭐39994
-- [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) 💤 — (no description) · ⭐6471
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · ⭐285911
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) — Integrate the DeepSeek API into popular software · ⭐40004
+- [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) 💤 — (no description) · ⭐6473
 - [runzhliu/deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) — Community Docker and Kubernetes packaging for DeepSeek Harness (@deepseek-ai/dsh), with a hardened image, Compose stack, Helm chart, Web UI, · ⭐187
 - [imlishiyuan/deepseek-harness-zh-cn](https://github.com/imlishiyuan/deepseek-harness-zh-cn) — 让 DeepSeek Harness 的推理（reasoning）与输出默认使用简体中文的中文插件。A Chinese-first plugin that makes [DeepSeek Harness](https://github.com/deepseek-ai/deepse · ⭐32
 - [Ramenne/DeepSeek-Harness-Gov](https://github.com/Ramenne/DeepSeek-Harness-Gov) 💤 — DeepSeek Harness 政务版：基于 deepseek-ai/deepseek-harness 的政务办事 WebUI 与红头公文插件 · ⭐14
@@ -16,7 +16,7 @@
 - [MicroHEROX/dsh-exa-mcp](https://github.com/MicroHEROX/dsh-exa-mcp) — Exa Search MCP for DeepSeek Harness: mounts the remote Exa MCP endpoint (https://mcp.exa.ai/mcp) through the in-box @deepseek-ai/dsh-mcp-cli · ⭐4
 - [Myoontyee/deepseek-harness-desktop](https://github.com/Myoontyee/deepseek-harness-desktop) 💤 — DeepSeek Harness 桌面端：下载即用，自动保持最新版。Tauri + WebView2 shell with bundled Node/pnpm, auto-updates from deepseek-ai/deepseek-harness. · ⭐3
 - [a1113622001/dsh-auto-update](https://github.com/a1113622001/dsh-auto-update) 💤 — DeepSeek Harness (cordis) plugin: self-update for the harness launcher - checks npm for a newer @deepseek-ai/dsh, stages it, and applies it  · ⭐2
-- [maxwell-nc/DeepseekHarnessDesktopLite](https://github.com/maxwell-nc/DeepseekHarnessDesktopLite) — Windows desktop shell for DeepSeek Harness (@deepseek-ai/dsh) — wraps the web UI into a single portable .exe with a system tray, a plugin ma · ⭐2
+- [maxwell-nc/DeepseekHarnessDesktopLite](https://github.com/maxwell-nc/DeepseekHarnessDesktopLite) 💤 — Windows desktop shell for DeepSeek Harness (@deepseek-ai/dsh) — wraps the web UI into a single portable .exe with a system tray, a plugin ma · ⭐2
 - [Zenjibad/dsh-mcp-toggle](https://github.com/Zenjibad/dsh-mcp-toggle) — Enable/disable MCP servers directly from DSH Settings: a 'MCP Servers' page that stops/starts each @deepseek-ai/dsh-mcp-client connection li · ⭐2
 - [Antony-Jia/deepseek-harness-desktop](https://github.com/Antony-Jia/deepseek-harness-desktop) 💤 — DSH Desktop is a thin Windows/Tauri shell around the @deepseek-ai/dsh npm runtime. It manages the runtime process and desktop experience wit · ⭐1
 - [ch1bug/dsh-shell-host](https://github.com/ch1bug/dsh-shell-host) — DSH bundle: native MSYS2 (UCRT64) bash for the DSH shell seam — fork of @deepseek-ai/dsh-bash-local with configurable bash path · ⭐1

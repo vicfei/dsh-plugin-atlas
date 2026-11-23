@@ -1,7 +1,8 @@
-# Tools & Integrations — 2330 entries (part 3/3)
+# Tools & Integrations — 2329 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Huang-zhishi/dsh-plugin-call-trace](https://github.com/Huang-zhishi/dsh-plugin-call-trace) 💤 — (no description) · ⭐0
 - [huanleyabo/dsh-selection-translate](https://github.com/huanleyabo/dsh-selection-translate) — dsh插件，用于直接对客户端内或网页内的文字划线翻译 · ⭐0
 - [hunyu-feng/dsh-video-digest](https://github.com/hunyu-feng/dsh-video-digest) — DSH plugin: turn a video link (Bilibili / YouTube / any page) into a transcript-backed summary, and say plainly what evidence it used. · ⭐0
 - [HYClub/dsh-ufo](https://github.com/HYClub/dsh-ufo) — 美国空军蓝皮书（1947–1969，12,618 起）、法国 GEIPAN 的三千余宗案卷、英国国防部 DEFE 24、巴西国家档案馆，以及 NUFORC 的十六万条民间目击——一个入口都调得到。 · ⭐0
@@ -19,7 +20,7 @@
 - [InformationDS/DSHAIKanBan](https://github.com/InformationDS/DSHAIKanBan) — AIKanBan 产品需求（PRD）：Deepseek Harness 桌面版的项目看板与跨对话交接。20 个功能小 PRD、公共规则与 106 个验收场景；实施代码保留在 archive 分支。 · ⭐0
 - [instpe/dsh-self-restart](https://github.com/instpe/dsh-self-restart) — DSH 插件：会话智能体自重启宿主进程，并在重启后向原会话投递一条消息 · ⭐0
 - [Isanti2016/dsh-console](https://github.com/Isanti2016/dsh-console) 💤 — (no description) · ⭐0
-- [isomoes/dsh-config](https://github.com/isomoes/dsh-config) 💤 — DeepSeek Harness (dsh) configuration · ⭐0
+- [isomoes/dsh-config](https://github.com/isomoes/dsh-config) — DeepSeek Harness (dsh) configuration · ⭐0
 - [itchenshi/dsh-keys-setting](https://github.com/itchenshi/dsh-keys-setting) — DeepSeek Harness plugin: choose whether Enter / Shift+Enter / Ctrl/Cmd+Enter sends the message or inserts a line break · ⭐0
 - [it-glen/dsh-custom-fonts](https://github.com/it-glen/dsh-custom-fonts) — deepseek-harness的修改字体插件 · ⭐0
 - [IT-lu/dsh-imbot](https://github.com/IT-lu/dsh-imbot) 💤 — (no description) · ⭐0
@@ -41,7 +42,7 @@
 - [JessenReinhart/dsh-plugin-btw](https://github.com/JessenReinhart/dsh-plugin-btw) — DeepSeek Harness plugin: /btw and /side side-question slash commands · ⭐0
 - [JessenReinhart/dsh-poke-todo](https://github.com/JessenReinhart/dsh-poke-todo) — Port of jcode's auto-poke incomplete-todos feature as a Cordis plugin for DeepSeek Harness. · ⭐0
 - [jiangrz77/DSHLauncher](https://github.com/jiangrz77/DSHLauncher) 💤 — (no description) · ⭐0
-- [jimmyzhang219/dsh-plan-and-execute](https://github.com/jimmyzhang219/dsh-plan-and-execute) — DeepSeek Harness (dsh) 的 Plan-and-Execute 编排插件 · ⭐0
+- [jimmyzhang219/dsh-plan-and-execute](https://github.com/jimmyzhang219/dsh-plan-and-execute) 💤 — DeepSeek Harness (dsh) 的 Plan-and-Execute 编排插件 · ⭐0
 - [JinSuperOfficial/dsh-proxy-switcher](https://github.com/JinSuperOfficial/dsh-proxy-switcher) — 一款为 dsh 打造的代理热切换插件。支持在设置界面实时切换直连/系统/自定义代理，无需重启 dsh，彻底告别修改代理必须重启的烦恼 · ⭐0
 - [JinYihang1011/dsh-plugins](https://github.com/JinYihang1011/dsh-plugins) — DSH 本地插件集：虎符咒（插件共存领地体检）、界面微调、Windows 通知、会话操作、界面菜单。每个插件一个子目录，各带自测。 · ⭐0
 - [jo32/dsh-hackernews-reader](https://github.com/jo32/dsh-hackernews-reader) 💤 — A dsh-plugin Hacker News reader with app-scoped AI conversations for DeepDeck. · ⭐0
@@ -61,7 +62,7 @@
 - [kekydream/dsh-meeting-room](https://github.com/kekydream/dsh-meeting-room) — (no description) · ⭐0
 - [kgwdonkey/dsh-header-controls](https://github.com/kgwdonkey/dsh-header-controls) 💤 — DeepSeek Harness 会话右上角电源控制插件：「重启 / 注销」胶囊按钮，与官方版式一致（Power controls for the DSH conversation header） · ⭐0
 - [kialajin-l/DSH_Plus](https://github.com/kialajin-l/DSH_Plus) — Personal plugin collection for DeepSeek Harness (DSH) · ⭐0
-- [Kindlylol/dsh-tray-launcher](https://github.com/Kindlylol/dsh-tray-launcher) — A lightweight Windows tray launcher for DeepSeek Harness running on native Windows Node.js. · ⭐0
+- [Kindlylol/dsh-tray-launcher](https://github.com/Kindlylol/dsh-tray-launcher) 💤 — A lightweight Windows tray launcher for DeepSeek Harness running on native Windows Node.js. · ⭐0
 - [kkhsu/dsh-conversation-icons](https://github.com/kkhsu/dsh-conversation-icons) — dsh-conversation-icons · ⭐0
 - [kkomia/dsh-code-team](https://github.com/kkomia/dsh-code-team) — (no description) · ⭐0
 - [KouzakiUmi/dsh-prompt-zh](https://github.com/KouzakiUmi/dsh-prompt-zh) — DeepSeek Harness 插件：将系统提示词本地化为简体中文，并按会话当前可见工具裁剪相关指引；保留英文工具 schema。 · ⭐0
@@ -110,7 +111,7 @@
 - [LJH-snow/dsh-tool-pagerduty](https://github.com/LJH-snow/dsh-tool-pagerduty) — (no description) · ⭐0
 - [LJH-snow/dsh-tool-sql](https://github.com/LJH-snow/dsh-tool-sql) — (no description) · ⭐0
 - [LJH-snow/dsh-tool-zendesk](https://github.com/LJH-snow/dsh-tool-zendesk) — (no description) · ⭐0
-- [ljsysfurryACE/dsh-plugin-story](https://github.com/ljsysfurryACE/dsh-plugin-story) — 入选 DeepSeek Harness 官方精选列表的三个插件：记忆/压缩/主动调度 完整技术文章 · ⭐0
+- [ljsysfurryACE/dsh-plugin-story](https://github.com/ljsysfurryACE/dsh-plugin-story) 💤 — 入选 DeepSeek Harness 官方精选列表的三个插件：记忆/压缩/主动调度 完整技术文章 · ⭐0
 - [ljxdsg12/dsh-composer-polish](https://github.com/ljxdsg12/dsh-composer-polish) — Polish button for the DeepSeek Harness composer: rewrite your draft prompt, then cancel back to the original text. · ⭐0
 - [LJXDSG12/dsh-liuyao](https://github.com/LJXDSG12/dsh-liuyao) — 六爻 · ⭐0
 - [lkdx0220/dsh-ai-code-quality](https://github.com/lkdx0220/dsh-ai-code-quality) — (no description) · ⭐0
@@ -144,7 +145,7 @@
 - [magian1127/deepseek-harness-hashline](https://github.com/magian1127/deepseek-harness-hashline) — DeepSeek Harness hashline - 哈希锚点编辑 · ⭐0
 - [MagneticLine/dsh-cyber-amber](https://github.com/MagneticLine/dsh-cyber-amber) — Download videos and create size-limited Gifski GIFs in DeepSeek Harness on Windows x64. · ⭐0
 - [maqian1632/dsh-tray-restart](https://github.com/maqian1632/dsh-tray-restart) — Adds a “Restart DeepSeek Harness” item to the Windows system tray menu. · ⭐0
-- [Martlet-Tech/dsh-open-folder-fix](https://github.com/Martlet-Tech/dsh-open-folder-fix) — (no description) · ⭐0
+- [Martlet-Tech/dsh-open-folder-fix](https://github.com/Martlet-Tech/dsh-open-folder-fix) 💤 — (no description) · ⭐0
 - [maryasov/dsh-plugins-hub](https://github.com/maryasov/dsh-plugins-hub) — (no description) · ⭐0
 - [MasterBenC/shangshi-dsh](https://github.com/MasterBenC/shangshi-dsh) 💤 — Shangshi DeepSeek Harness plugin for local Qimen business timing. · ⭐0
 - [MeganeOnly/meganeonly-dsh-plugins](https://github.com/MeganeOnly/meganeonly-dsh-plugins) — MeganeOnly's DSH persistent plugins · ⭐0
@@ -280,7 +281,6 @@
 - [Sheep1x/dsh-aimy](https://github.com/Sheep1x/dsh-aimy) — dsh-Aimy — DeepSeek Harness 插件：用 Aimy 中转站的模型并真实切换分组（兼容 new-api / sub2api） · ⭐0
 - [shenj13/dsh-book-library](https://github.com/shenj13/dsh-book-library) — (no description) · ⭐0
 - [sherconan/dsh-entity-dd](https://github.com/sherconan/dsh-entity-dd) — 出海交易对手尽调 · DeepSeek Harness 插件：先确认你在跟哪个法人签约，再判断这份登记资料能不能作为决策依据。免费官方数据源，无需密钥。 · ⭐0
-- [sherconan/dsh-task-mascot](https://github.com/sherconan/dsh-task-mascot) — 真跟着 Agent 每一步工具调用在动 · DeepSeek Harness task mascot by metsh · ⭐0
 - [ShikangPang/jizuo-creator-video](https://github.com/ShikangPang/jizuo-creator-video) — DeepSeek Harness 视频创作插件：独立视频项目、跨小说章节改编与剪辑 · ⭐0
 - [ShikangPang/jizuo-creator-writing](https://github.com/ShikangPang/jizuo-creator-writing) — DeepSeek Harness 小说创作插件：独立小说项目、章节与修订 · ⭐0
 - [Shione0721/dafish-launcher](https://github.com/Shione0721/dafish-launcher) — 大肥鱼启动器 —— DeepSeek Harness 桌面版一键启动器，Windows 单文件 · 零依赖 · 免 UAC · ⭐0
@@ -289,7 +289,7 @@
 - [simikangtao/dsh-storyboard](https://github.com/simikangtao/dsh-storyboard) 💤 — Doubao-style end-of-chat storyboard card for DeepSeek Harness: lightweight, zero-dependency HTML/SVG visual summary at the end of substantiv · ⭐0
 - [sindo-s/dsh-qq-bot](https://github.com/sindo-s/dsh-qq-bot) 💤 — DeepSeek Harness plugin bridging QQ official Bot API to dsh agents (no third-party bot framework) · ⭐0
 - [SJCxuanyi/dsh-ai-assistant](https://github.com/SJCxuanyi/dsh-ai-assistant) — (no description) · ⭐0
-- [sky1ine139/dsh-plugin-screenshot-ask](https://github.com/sky1ine139/dsh-plugin-screenshot-ask) — DSH 截图提问插件：原生框选截图直接进输入框，全程不落盘（DeepSeek Harness plugin, Windows） · ⭐0
+- [sky1ine139/dsh-plugin-screenshot-ask](https://github.com/sky1ine139/dsh-plugin-screenshot-ask) 💤 — DSH 截图提问插件：原生框选截图直接进输入框，全程不落盘（DeepSeek Harness plugin, Windows） · ⭐0
 - [slinxiaosun-blip/ai-passport-dsh](https://github.com/slinxiaosun-blip/ai-passport-dsh) — DSH Passport：把 AI Passport 变成 DeepSeek Harness 的随身任务终端（固件端） · ⭐0
 - [SMOKTEA/dsh-chartlab](https://github.com/SMOKTEA/dsh-chartlab) 💤 — Let the agent turn your data into an interactive chart. | 一句话：让 Agent 帮你把数据变成一张可交互的图表。 · ⭐0
 - [sniperdown/dsh-host-fs](https://github.com/sniperdown/dsh-host-fs) — (no description) · ⭐0
@@ -341,7 +341,6 @@
 - [tinyfinddong/dsh-close-all-tabs](https://github.com/tinyfinddong/dsh-close-all-tabs) — (no description) · ⭐0
 - [tkliuxing/dsh-presets-hidden](https://github.com/tkliuxing/dsh-presets-hidden) — (no description) · ⭐0
 - [Tleon-H/dsh-next-prompt](https://github.com/Tleon-H/dsh-next-prompt) — DeepSeek Harness 插件：回答结束后在输入框预填一条灰色的下一句建议（Tab / → 采纳），输入框为空时按 ↑ 填入上一次发送的内容 · ⭐0
-- [tmeeli/dsh-auto-goal-resume](https://github.com/tmeeli/dsh-auto-goal-resume) 💤 — DeepSeek Harness 插件:重启后自动续跑有活跃目标(goal)的会话,无需人工说继续。 · ⭐0
 - [toddpan/dsh-feyagate](https://github.com/toddpan/dsh-feyagate) — 让 DeepSeek Harness AI 助手直接控制你家里的智能设备：米家（小米）、涂鸦、美的、易微联（Sonoff）、华为智慧生活。 · ⭐0
 - [topkie/dsh-lattice](https://github.com/topkie/dsh-lattice) — DeepSeek Harness 的本地记忆插件：把值得长期复用的知识写成带主题与关联的条目，之后按语义召回；数据存在本地 SQLite 库里，向量模型首次使用时下载，之后离线可用。 · ⭐0
 - [toustifer/dshplugin](https://github.com/toustifer/dshplugin) 💤 — (no description) · ⭐0

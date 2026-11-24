@@ -1,4 +1,4 @@
-# Memory & Knowledge — 952 entries (part 2/2)
+# Memory & Knowledge — 953 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -46,9 +46,10 @@
 - [yuyu520fish/dsh-fishtank](https://github.com/yuyu520fish/dsh-fishtank) — A small fish with memory, mood and quiet thoughts, for DeepSeek Harness. · ⭐0
 - [yzx4036/dsh-memory-snapshot](https://github.com/yzx4036/dsh-memory-snapshot) — 零依赖 DeepSeek Harness 插件：让本地 markdown 成为 dsh 的长期记忆 · ⭐0
 - [zhang-guo-wen/dsh-memory](https://github.com/zhang-guo-wen/dsh-memory) — Claude-compatible memory for DeepSeek Harness: a user-chosen memory directory with MEMORY.md index and topic files, the memory tool, and a s · ⭐0
-- [zhaoguoqiang-hub/dsh-soul-engine](https://github.com/zhaoguoqiang-hub/dsh-soul-engine) — 可审计的明文 Markdown 记忆账本插件（DSH / DeepSeek Harness）：14 个 soul_* 工具 + 轮首账本注入 + 零 token 自维护 + 心跳唤醒 · ⭐0
+- [zhaoguoqiang-hub/dsh-soul-engine](https://github.com/zhaoguoqiang-hub/dsh-soul-engine) 💤 — 可审计的明文 Markdown 记忆账本插件（DSH / DeepSeek Harness）：14 个 soul_* 工具 + 轮首账本注入 + 零 token 自维护 + 心跳唤醒 · ⭐0
 - [ZhaoZiyangShaanxi/dsh-server-monitor](https://github.com/ZhaoZiyangShaanxi/dsh-server-monitor) — In-DSH server monitor: memory, load, disk and per-container usage, cache purge and container restarts, plus an embedded noVNC QQ client for  · ⭐0
 - [zhengjy01/dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq) — Knowledge Planet (zsxq) integration for DeepSeek Harness · ⭐0
+- [zirscard/dsh-ocr](https://github.com/zirscard/dsh-ocr) — General-purpose document scanner for DeepSeek Harness (domain-agnostic): one doc_ocr tool turns PDFs/images into structured content — per-pa · ⭐0
 - [zirscard/dsh-principles-audit](https://github.com/zirscard/dsh-principles-audit) — Principle-library auditor for DeepSeek Harness: one principles_audit tool that checks a principle library for principle_id collisions, legac · ⭐0
 - [zirscard/dsh-taskboard-epic](https://github.com/zirscard/dsh-taskboard-epic) — Epic panel for DeepSeek Harness: a client-side plugin that stacks the epic cards of a dsh-taskboard project in their epic:children order and · ⭐0
 - [Zok66/dsh-facts](https://github.com/Zok66/dsh-facts) — dsh 时间感知记忆：用 SQLite 存带时间戳的事实，set 自动失效旧值，按时间过滤查询，注册为工具供 agent 主动读写，并把当前有效事实注入未来会话上下文 · ⭐0

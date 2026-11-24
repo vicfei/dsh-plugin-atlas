@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-algorithm-filing](https://github.com/feely0208/dsh-algorithm-filing) — 算法备案与告知：查算法推荐服务有没有关闭选项、告知、备案。 · ⭐0
 - [feely0208/dsh-ci-guard](https://github.com/feely0208/dsh-ci-guard) — 扫 GitHub Actions 工作流，找出可被利用的配置 —— 供应链攻击的主要入口 · ⭐0
 - [feely0208/dsh-cn-data-export](https://github.com/feely0208/dsh-cn-data-export) — 数据出境检查：查代码与配置里的境外数据出口、个人信息外发、缺安全评估说明。 · ⭐0
 - [feely0208/dsh-cn-filing](https://github.com/feely0208/dsh-cn-filing) — 备案公示检查：查应用里有没有 ICP/APP 备案号、隐私政策入口、运营者信息。 · ⭐0
@@ -39,7 +40,6 @@
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) 💤 — Post-compaction premise-drift guard plugin for DeepSeek Harness: after a compaction summary drops a critical literal anchor it injects a one · ⭐0
 - [ice5kysl/dsh-plugin-health](https://github.com/ice5kysl/dsh-plugin-health) 💤 — Zero-dependency health-check CLI for DeepSeek Harness (dsh) plugins: manifest/npm/repo/docs checks + read-only-surface security scan. 零依赖的 d · ⭐0
 - [IDKURLOVE/dsh-reset-button](https://github.com/IDKURLOVE/dsh-reset-button) — One-click Restart button for DSH (DeepSeek Harness): relaunch from the composer toolbar, right beside the permission control - no more closi · ⭐0
-- [IFIAnder/dsh-loose-review](https://github.com/IFIAnder/dsh-loose-review) — DSH 插件：「自动审查（宽松）」权限预设 —— 破坏性命令执行前做窄模型审查，执行中检测到大量删除会熔断 · ⭐0
 - [intsig-textin/dsh-plugin-xparse](https://github.com/intsig-textin/dsh-plugin-xparse) — TextIn xParse document parsing tool and skill for DeepSeek Harness, with multi-document tasks, OAuth/AppKey authentication, and paid-operati · ⭐0
 - [iStarryDust/dsh-skill-suite](https://github.com/iStarryDust/dsh-skill-suite) — Skill management for the DeepSeek Harness: the Skills page (browse, toggle, edit, create, delete) over the user skill root, the save_skill a · ⭐0
 - [Jacobinwwey/dsh-NotEMD](https://github.com/Jacobinwwey/dsh-NotEMD) — Portable NoteMD workflow bundle for DeepSeek Harness: approval-gated markdown automation, knowledge indexing, diagrams, SVG previews, and Sl · ⭐0

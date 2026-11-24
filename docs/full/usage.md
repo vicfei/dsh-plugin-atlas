@@ -13,7 +13,7 @@
 - [TencentCloud/cloudq-for-dsh](https://github.com/TencentCloud/cloudq-for-dsh) — CloudQ integration for DeepSeek Harness, providing multi-cloud architecture governance, AIOps, risk inspection, usage, artifacts, and archit · ⭐7
 - [Yinxe/deepseek-harness-plugins](https://github.com/Yinxe/deepseek-harness-plugins) — DeepSeek Harness (DSH) plugins monorepo (pnpm + TypeScript) · ⭐7
 - [fancr-code/dsh-plugin-usage-meter](https://github.com/fancr-code/dsh-plugin-usage-meter) — DeepSeek Harness 网页插件：API 用量/费用/余额仪表 — 当日/近7天按模型堆叠柱状图、预算提醒、跨会话账本。 · ⭐6
-- [mike-lee0120/dsh-cost-dashboard](https://github.com/mike-lee0120/dsh-cost-dashboard) — (no description) · ⭐5
+- [mike-lee0120/dsh-cost-dashboard](https://github.com/mike-lee0120/dsh-cost-dashboard) 💤 — (no description) · ⭐5
 - [Sev7een/ds-api-usage](https://github.com/Sev7een/ds-api-usage) 💤 — (no description) · ⭐5
 - [wawo77/dsh-opencode-go-usage](https://github.com/wawo77/dsh-opencode-go-usage) 💤 — dsh的桌宠插件，爱吃白饭的可爱大肥鱼 · ⭐5
 - [AppliedYuu/dsh-WallpaperAndCost](https://github.com/AppliedYuu/dsh-WallpaperAndCost) — a plugin for dsh to check cost and change backgroud · ⭐4

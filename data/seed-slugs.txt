@@ -1721,6 +1721,7 @@ FeatherHunter/dsh-prompt
 FeatherHunter/ilife
 FeatureAgents/AgentsGitFlowController
 Fectivnfy112357/github-explore
+Fei-Craft/DS-Bot
 Fei2411/DS-Bot
 Fei2411/DeepSeek-Bot
 FeiZhuLulu/DeepSeek-Bot
@@ -3574,6 +3575,7 @@ NightPainters/DSH-Ling
 NightsVesa/dsh-input-history
 Nihao7-L/dsh-prompt-chain
 Nikolors/dsh-voice-ru
+Nimbus318/dsh-niuma-broker
 NimuStudio/NimuQDock-dsh
 NingTiAn-byte/dsh-intelligent-ui
 NingTiAn-byte/dsh-linked-workspaces
@@ -10311,6 +10313,7 @@ omdsh-plugins/omdsh-editor
 omdsh-plugins/omdsh-shortcuts
 omicverse/dsh-omicos
 omni-/containerize-dsh
+omnimux-ai/omnimux-client
 omoinoki/dsh-sekaisync-connect
 onchainyaotoshi/dsh-plugins
 onclaw-dev/dsh-workflow-designer
@@ -12623,6 +12626,7 @@ xiincs/deepseek-harness-desktop
 xikan0/dsh-outerwilds-theme
 xilec/deepseek-peaks
 ximengxiaolan/dsh-vision-bridge
+ximizhou/convenient_window_free
 xinchen03/minta
 xinchun2018/dsh-origin-thesis
 xindady/dsh-prompt-enhancer

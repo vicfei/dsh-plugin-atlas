@@ -1,4 +1,4 @@
-# Models & Providers — 1825 entries (part 3/3)
+# Models & Providers — 1824 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -12,7 +12,6 @@
 - [ZhouXuan-Yu/dsh-model-rotation](https://github.com/ZhouXuan-Yu/dsh-model-rotation) — Multi-source model rotation plugin for DeepSeek Harness — group models by source, order them (manual/auto), preset model + reasoning effort, · ⭐0
 - [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
-- [zlwzk/dsh-friends](https://github.com/zlwzk/dsh-friends) — DSH whale friends: see whether your fellow DeepSeek Harness users are online and whether their model is running a task. Signatures, mood, po · ⭐0
 - [Zn-Dk/dsh-zhipu-toolkit](https://github.com/Zn-Dk/dsh-zhipu-toolkit) — Zhipu BigModel/GLM provider toolkit for DeepSeek Harness: dual-endpoint model catalog (Coding Plan + ordinary API), verified thinking-level  · ⭐0
 - [ZnonEn/dsh-mcp-manager](https://github.com/ZnonEn/dsh-mcp-manager) — DeepSeek Harness (DSH) 插件：在桌面端设置页里管理 MCP 服务器 —— 新增/编辑/删除/启停 + 运行状态，直接读写 profile 的 cordis.patch.yml，零依赖。 · ⭐0
 - [zongyanbai/dsh-context-continuum](https://github.com/zongyanbai/dsh-context-continuum) — 把 DeepSeek Harness 的上下文压缩从「滚动重写的叙事摘要」改成「只追加的会话索引」；三条实测缺陷已取证，征集社区修复。 · ⭐0

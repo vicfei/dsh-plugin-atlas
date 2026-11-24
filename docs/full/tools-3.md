@@ -1,4 +1,4 @@
-# Tools & Integrations — 2329 entries (part 3/3)
+# Tools & Integrations — 2327 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -79,7 +79,7 @@
 - [leetom314/dsh-delivery-ledger](https://github.com/leetom314/dsh-delivery-ledger) 💤 — (no description) · ⭐0
 - [leetom314/dsh-risk-gate](https://github.com/leetom314/dsh-risk-gate) 💤 — (no description) · ⭐0
 - [L-eleven-1/dsh-wallpapers](https://github.com/L-eleven-1/dsh-wallpapers) — (no description) · ⭐0
-- [leogottadothebest/dsh-settings-beautify](https://github.com/leogottadothebest/dsh-settings-beautify) — One design language for the DSH settings surface: unified typography, cards, controls, focus and motion across every settings page, includin · ⭐0
+- [leogottadothebest/dsh-settings-beautify](https://github.com/leogottadothebest/dsh-settings-beautify) 💤 — One design language for the DSH settings surface: unified typography, cards, controls, focus and motion across every settings page, includin · ⭐0
 - [leolee9086/dsh-better-retry](https://github.com/leolee9086/dsh-better-retry) 💤 — Smarter exponential retry rules for DeepSeek Harness · ⭐0
 - [leoyoul/dsh-onekey-update](https://github.com/leoyoul/dsh-onekey-update) — DSH plugin: check enabled plugins for new versions at startup and upgrade them all with one click. Cross-platform. · ⭐0
 - [lernicks0/dsh-tacz-duel](https://github.com/lernicks0/dsh-tacz-duel) — Experimental DeepSeek Harness skill and native Forge client bridge for TACZ gun learning and Minecraft 1.20.1 duels. · ⭐0
@@ -276,7 +276,6 @@
 - [senyayume/dsh-edit-diff](https://github.com/senyayume/dsh-edit-diff) — DSH 插件：在文件变更工具卡片上重绘行级 diff（相同行只渲染一次 + 行内字符高亮），覆盖 run_code(PTC) 与 str_replace_editor，轮末给出改动汇总卡，并可在资源管理器中定位或复制路径。 · ⭐0
 - [seoeaa/dsh-locale-ru](https://github.com/seoeaa/dsh-locale-ru) — Русский интерфейс (локаль ru) для DeepSeek Harness — custom locale plugin. 42 namespace, 1257 строк, dsh 0.1.5+ / Russian locale plugin for  · ⭐0
 - [Shang-ZZ/dsh-computer-use](https://github.com/Shang-ZZ/dsh-computer-use) — dsh-computer-use 为 DeepSeek Harness 带来 computer use 能力：通过 js 与 js_reset 两个工具，让智能体读取窗口、点击、输入文字并截屏，操控 macOS 上的任意桌面应用。它直接复用本机已安装的 ChatGPT 桌面应用自 · ⭐0
-- [Shang-ZZ/dsh-diagram-design](https://github.com/Shang-ZZ/dsh-diagram-design) — diagram-design（v2.6，作者 Cathryn Lavery，MIT）的DSH插件版本——一个"教 agent 画图"的技能：把图表画成单文件 HTML + 内联 SVG，用一套 editorial 设计系统（1 个强调色、1px 细线、无阴影、4px 网格、密度  · ⭐0
 - [Shark00I/dsh-audit](https://github.com/Shark00I/dsh-audit) — (no description) · ⭐0
 - [Sheep1x/dsh-aimy](https://github.com/Sheep1x/dsh-aimy) — dsh-Aimy — DeepSeek Harness 插件：用 Aimy 中转站的模型并真实切换分组（兼容 new-api / sub2api） · ⭐0
 - [shenj13/dsh-book-library](https://github.com/shenj13/dsh-book-library) — (no description) · ⭐0
@@ -339,7 +338,6 @@
 - [Tinnikx/dsh-operation-improve](https://github.com/Tinnikx/dsh-operation-improve) — DeepSeek Harness 客户端增强插件：侧边栏多选与右键菜单、对话起点导航列、逐行开始时间戳、活跃标记配色、选区右键菜单、思考区限高、设置页 Harness 高级配置面板。仅占一个 slot，不发布。 · ⭐0
 - [tinyblckc0000al/dsh-deepworker](https://github.com/tinyblckc0000al/dsh-deepworker) — DeepWorker — 把 DSH 变成更便捷、更沉浸的工作台。基于dsh底层功能针对日常需求集成多个“一键触达”。会话操作 （任意轮次：重试、编辑、引用、模式新建、分支）/ 笔记 / 摘要 / 查找 / 会话专注锁 / 工作区命令执行按钮。 · ⭐0
 - [tinyfinddong/dsh-close-all-tabs](https://github.com/tinyfinddong/dsh-close-all-tabs) — (no description) · ⭐0
-- [tkliuxing/dsh-presets-hidden](https://github.com/tkliuxing/dsh-presets-hidden) — (no description) · ⭐0
 - [Tleon-H/dsh-next-prompt](https://github.com/Tleon-H/dsh-next-prompt) — DeepSeek Harness 插件：回答结束后在输入框预填一条灰色的下一句建议（Tab / → 采纳），输入框为空时按 ↑ 填入上一次发送的内容 · ⭐0
 - [toddpan/dsh-feyagate](https://github.com/toddpan/dsh-feyagate) — 让 DeepSeek Harness AI 助手直接控制你家里的智能设备：米家（小米）、涂鸦、美的、易微联（Sonoff）、华为智慧生活。 · ⭐0
 - [topkie/dsh-lattice](https://github.com/topkie/dsh-lattice) — DeepSeek Harness 的本地记忆插件：把值得长期复用的知识写成带主题与关联的条目，之后按语义召回；数据存在本地 SQLite 库里，向量模型首次使用时下载，之后离线可用。 · ⭐0

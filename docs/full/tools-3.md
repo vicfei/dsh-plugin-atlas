@@ -1,10 +1,7 @@
-# Tools & Integrations — 2327 entries (part 3/3)
+# Tools & Integrations — 2323 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Huang-zhishi/dsh-plugin-call-trace](https://github.com/Huang-zhishi/dsh-plugin-call-trace) 💤 — (no description) · ⭐0
-- [huanleyabo/dsh-selection-translate](https://github.com/huanleyabo/dsh-selection-translate) — dsh插件，用于直接对客户端内或网页内的文字划线翻译 · ⭐0
-- [hunyu-feng/dsh-video-digest](https://github.com/hunyu-feng/dsh-video-digest) — DSH plugin: turn a video link (Bilibili / YouTube / any page) into a transcript-backed summary, and say plainly what evidence it used. · ⭐0
 - [HYClub/dsh-ufo](https://github.com/HYClub/dsh-ufo) — 美国空军蓝皮书（1947–1969，12,618 起）、法国 GEIPAN 的三千余宗案卷、英国国防部 DEFE 24、巴西国家档案馆，以及 NUFORC 的十六万条民间目击——一个入口都调得到。 · ⭐0
 - [hyyhf/mindgarden](https://github.com/hyyhf/mindgarden) 💤 — a deepseek harness plugin · ⭐0
 - [hzys7/dsh-prompt-expander](https://github.com/hzys7/dsh-prompt-expander) — (no description) · ⭐0
@@ -262,7 +259,7 @@
 - [rxh1999/dsh-jingle](https://github.com/rxh1999/dsh-jingle) 💤 — (no description) · ⭐0
 - [RyanShen3/dsh-toutiao-reader](https://github.com/RyanShen3/dsh-toutiao-reader) 💤 — 读网页/头条文章全文的 DSH 插件：webfetch 工具 + toutiao-reader 经验技能 · ⭐0
 - [ryukeilee/dsh-evolution](https://github.com/ryukeilee/dsh-evolution) — DeepSeek DSH 的独立 Evolution bundle 预发布；promotion 的 host 代码不是安全沙箱。 · ⭐0
-- [S2P2/dsh-lab](https://github.com/S2P2/dsh-lab) — Personal DeepSeek Harness extension lab — plugins, Agent presets, and supporting research. · ⭐0
+- [S2P2/dsh-lab](https://github.com/S2P2/dsh-lab) 💤 — Personal DeepSeek Harness extension lab — plugins, Agent presets, and supporting research. · ⭐0
 - [sakka6868/dsh-prompt-optimize-plugin](https://github.com/sakka6868/dsh-prompt-optimize-plugin) 💤 — (no description) · ⭐0
 - [Samge0/dsh-plugin-nexterm](https://github.com/Samge0/dsh-plugin-nexterm) 💤 — 使用Nexterm进行批量运维的DeepSeek Harness插件 · ⭐0
 - [samsam560/chat-share-card](https://github.com/samsam560/chat-share-card) — 对话截图美化器（分享卡片）：一键把 AI 对话生成精美的分享卡片，支持自定义背景/字体/配色/圆角，导出 PNG · ⭐0
@@ -305,7 +302,7 @@
 - [SOVLOOKUP/dsh-mise](https://github.com/SOVLOOKUP/dsh-mise) — Toolchain manager for DeepSeek Harness (backed by mise): a settings page for installed and available versions, .mise.toml-driven install / u · ⭐0
 - [spechenxin/jimu](https://github.com/spechenxin/jimu) 💤 — 积木 · DSH 分域执行插件：domain_plan 分域确认 + 按域编排子代理与自动审计 · ⭐0
 - [spidu-lee/dsh-refresh](https://github.com/spidu-lee/dsh-refresh) — (no description) · ⭐0
-- [sssueason/dsh-pwsh-progress](https://github.com/sssueason/dsh-pwsh-progress) — (no description) · ⭐0
+- [sssueason/dsh-pwsh-progress](https://github.com/sssueason/dsh-pwsh-progress) 💤 — (no description) · ⭐0
 - [starkingcn/dsh-story](https://github.com/starkingcn/dsh-story) — (no description) · ⭐0
 - [StarPivotNet/dsh-plugins-public](https://github.com/StarPivotNet/dsh-plugins-public) 💤 — Installable DeepSeek Harness plugin marketplace (Settings → Plugins) · ⭐0
 - [StefanIsMe/dsh-updater-plugin](https://github.com/StefanIsMe/dsh-updater-plugin) 💤 — Never lose a draft. Stay up to date in one click — draft-safe self-updater for DeepSeek Harness · ⭐0
@@ -344,7 +341,7 @@
 - [toustifer/dshplugin](https://github.com/toustifer/dshplugin) 💤 — (no description) · ⭐0
 - [tula-liuxin/dsh-conversation-companion](https://github.com/tula-liuxin/dsh-conversation-companion) — 给 DeepSeek Harness 加上下一句 Tab 补全与通俗摘要浮窗。Concise next-message suggestions and editable summaries. MIT. · ⭐0
 - [twinsant/qqbot-clawbot](https://github.com/twinsant/qqbot-clawbot) — QQ bot bridge plugin for DeepSeek Harness (QQ Open Platform WebSocket gateway) · ⭐0
-- [Typhoon-line/film-scan_epson](https://github.com/Typhoon-line/film-scan_epson) — Epson 胶片扫描 · 片夹垫高/对焦调校的 WorkBuddy skill 集合 · ⭐0
+- [Typhoon-line/film-scan_epson](https://github.com/Typhoon-line/film-scan_epson) — 爱普生扫描仪 · 胶片扫描 · skill · 图文教程 · ⭐0
 - [uAcharGG/dsh-manager](https://github.com/uAcharGG/dsh-manager) 💤 — (no description) · ⭐0
 - [uckkk/dsh-api-contract](https://github.com/uckkk/dsh-api-contract) 💤 — 接口契约助手：解析 OpenAPI 3.x，生成 TypeScript/Python 类型化客户端并检测破坏性变更 · ⭐0
 - [uckkk/dsh-future-quantum-computing](https://github.com/uckkk/dsh-future-quantum-computing) 💤 — 量子计算 · ⭐0
@@ -508,10 +505,9 @@
 - [zhengqiuyang/dsh-prompt-drift](https://github.com/zhengqiuyang/dsh-prompt-drift) — System-prompt surface drift gate for DeepSeek Harness — sections any plugin contributes are hashed and baselined; silent rewrites fail loud · ⭐0
 - [zhenyu-24/dsh-workspace-manager](https://github.com/zhenyu-24/dsh-workspace-manager) — DSH 工作区管理：会话树、多源文件夹、批量归档与系统目录打开 · ⭐0
 - [zhiheng-zhang-Mera/dsh-restart](https://github.com/zhiheng-zhang-Mera/dsh-restart) 💤 — DSH plugin: safe restart execution for DeepSeek Harness — request validation, checkpoint gating, restart locking, graceful shutdown, crash-l · ⭐0
-- [zhijun-dai/dsh-Fonts](https://github.com/zhijun-dai/dsh-Fonts) — (no description) · ⭐0
+- [zhijun-dai/dsh-Fonts](https://github.com/zhijun-dai/dsh-Fonts) 💤 — (no description) · ⭐0
 - [zhongyichang1998/dsh-open-meadow](https://github.com/zhongyichang1998/dsh-open-meadow) — 海风与草甸：适用于官方 macOS DeepSeek Harness 0.2.0-rc.2 的动态海边主题，提供云层、局部海浪、前景花草摆动和中文设置。 · ⭐0
 - [zhouxin121/project-cross-migration](https://github.com/zhouxin121/project-cross-migration) — Agent 项目资料跨框架迁移：五层备份还原（对话/记忆/人格/工具/环境），Claude Code·Codex·pi·OpenClaw 实测 1418 条零丢失，纯 Python 标准库，MIT · ⭐0
-- [Zhucy123/source-code-mgmt](https://github.com/Zhucy123/source-code-mgmt) — (no description) · ⭐0
 - [zhuziddl/my](https://github.com/zhuziddl/my) — (no description) · ⭐0
 - [zi7tian/dsh-keep-awake](https://github.com/zi7tian/dsh-keep-awake) — Keep the DeepSeek Harness host awake during active tasks with native power assertions. · ⭐0
 - [Zimeng-Luo/dsh-source-fold](https://github.com/Zimeng-Luo/dsh-source-fold) — 列表模型按照来源进行折叠，便于多个接入的时候切换不同来源的模型 · ⭐0

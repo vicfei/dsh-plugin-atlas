@@ -1,7 +1,8 @@
-# Memory & Knowledge — 953 entries (part 2/2)
+# Memory & Knowledge — 954 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [vv5v5/dsh-anima-rag](https://github.com/vv5v5/dsh-anima-rag) — DSH-side port of the Anima-Memory-System retrieval core (vector + BM25, echo, rerank) for DeepSeek Harness RP sessions. Ported from Ellina's · ⭐0
 - [vv5v5/dsh-memory-archive](https://github.com/vv5v5/dsh-memory-archive) — Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually se · ⭐0
 - [wafernm-crypto/dsh-memory-library](https://github.com/wafernm-crypto/dsh-memory-library) — (no description) · ⭐0
 - [WANGJINSHAN-11/memory_mcp](https://github.com/WANGJINSHAN-11/memory_mcp) — 一个通用的全局记忆的mcp插件 · ⭐0

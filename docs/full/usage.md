@@ -2,7 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — MCP-серверы и сравнение цен без API-ключей для 12 площадок РФ и Китая (Wildberries / WB, Ozon, Яндекс Маркет, Авито, AliExpress, Taobao, DNS · ⭐205
+- [Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp) — MCP-серверы и сравнение цен без API-ключей для 12 площадок РФ и Китая (Wildberries / WB, Ozon, Яндекс Маркет, Авито, AliExpress, Taobao, DNS · ⭐206
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — 一个能帮你省钱的插件！缓存其实比你想象的贵！换窗口可以省缓存钱，但换窗口有顾虑，或许你懒得重新描述项目和规则，或者你还需要那个上下文。所以这个插件，就是为了告诉你，当前轮，纯粹上下文缓存的部分，到底花了你多少钱。这样你才心里有个底，判断什么时候该换窗口。 在dsh-plugin标 · ⭐49
 - [Cassius0924/dsh-usage-dashboard](https://github.com/Cassius0924/dsh-usage-dashboard) — DeepSeek 额度与用量仪表盘 — DSH (DeepSeek Harness) 动态 Cordis 插件 · ⭐13
 - [Xenia0922/dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) 💤 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) · ⭐12
@@ -87,6 +87,6 @@
 - [upcyan/dsh-mimo-extension](https://github.com/upcyan/dsh-mimo-extension) — MiMo (Xiaomi) quota ring and usage detail tab for DeepSeek Harness · ⭐0
 - [wjf1/dsh-plugin-usage-analytics](https://github.com/wjf1/dsh-plugin-usage-analytics) — DSH 插件用量与能力看板：本地采集会话事件、聚合为日表、面板/HTTP 查询，默认零出站 · Usage & capability dashboard for DSH plugins: local event capture, daily aggregation, zero o · ⭐0
 - [wwu328763-netizen/dsh-billing-compass](https://github.com/wwu328763-netizen/dsh-billing-compass) — DeepSeek Harness 计费罗盘:余额 / 官网用量与消费 / 按模型花费 / 实时费用估算 · ⭐0
-- [xiyi123465/dsh-usage-calendar](https://github.com/xiyi123465/dsh-usage-calendar) — DeepSeekAPI余额查询插件 · ⭐0
+- [xiyi123465/dsh-usage-calendar](https://github.com/xiyi123465/dsh-usage-calendar) 💤 — DeepSeekAPI余额查询插件 · ⭐0
 - [Yhx888/dsh-free-egg-credits](https://github.com/Yhx888/dsh-free-egg-credits) — Free Egg 积分：在 DSH 侧边栏看 WorkBuddy / Qoder 账号积分、今日额度、签到状态与每轮消耗，支持一键切换优先消耗平台；适合已装 WorkBuddy2API / qoder2api-hub 的用户。DSH plugin for WorkBuddy/Qo · ⭐0
 - [zy12342/usage-widget](https://github.com/zy12342/usage-widget) — (no description) · ⭐0

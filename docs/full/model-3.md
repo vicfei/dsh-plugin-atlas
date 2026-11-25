@@ -1,7 +1,8 @@
-# Models & Providers — 1824 entries (part 3/3)
+# Models & Providers — 1825 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [zc0982/dsh-gpt-provider](https://github.com/zc0982/dsh-gpt-provider) 💤 — GPT provider preset with full reasoning effort selection for DeepSeek Harness · ⭐0
 - [Zding89/dsh-model-presets](https://github.com/Zding89/dsh-model-presets) 💤 — Save and switch model and reasoning-effort presets in DeepSeek Harness · ⭐0
 - [ZelotsNullzwei/whale-pod](https://github.com/ZelotsNullzwei/whale-pod) — DSH 插件：给 QQ 群加个会看场合的聊天机器人（自备 OneBot v11 协议端，兼容 OpenAI 协议） · ⭐0
 - [zhangzhenwen1/dsh-task-effort](https://github.com/zhangzhenwen1/dsh-task-effort) — Auto-adjust model reasoning effort per task with DeepSeek peak-pricing-period capping: off/low/high/max classification, [effort=...] markers · ⭐0

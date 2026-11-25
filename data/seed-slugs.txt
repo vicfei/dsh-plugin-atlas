@@ -3458,6 +3458,7 @@ NEINC1/muche-dsh-plugin
 NEVSTOP-LAB/dsh-approval-mode
 NEVSTOP-LAB/dsh-import-vscode-ai-files
 NEVSTOP-LAB/dsh-version-inspector
+NEWJO123/dsh-douyin-scroll
 NEXTINDIE/DeepSeek-Harness-for-VS-Code
 NICEGSP/call-map
 NINKCH/dsh-infinite_canvas
@@ -12930,6 +12931,7 @@ yaqiangsun/dsh-plugin-search
 yauntyour/DSH-Encrypt
 yaways/dsh-subagent-claude-code-wrapper
 yayuqianhuang/dsh-video-to-knowledge
+yb-zhai/agent-memory
 ybl2020/dsh-upgrade
 yeastcloud/dsh-anchor
 yeerock/deepseek-harness-remote-control

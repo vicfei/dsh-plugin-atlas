@@ -1,7 +1,8 @@
-# Memory & Knowledge — 954 entries (part 2/2)
+# Memory & Knowledge — 955 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [vicfei/dsh-weknora-ops](https://github.com/vicfei/dsh-weknora-ops) **★** — DeepSeek Harness plugin: the WRITE path for WeKnora — document ingest, gated deletes, tag trees — under a three-layer safety model. Compleme · ⭐0
 - [vv5v5/dsh-anima-rag](https://github.com/vv5v5/dsh-anima-rag) — DSH-side port of the Anima-Memory-System retrieval core (vector + BM25, echo, rerank) for DeepSeek Harness RP sessions. Ported from Ellina's · ⭐0
 - [vv5v5/dsh-memory-archive](https://github.com/vv5v5/dsh-memory-archive) — Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually se · ⭐0
 - [wafernm-crypto/dsh-memory-library](https://github.com/wafernm-crypto/dsh-memory-library) — (no description) · ⭐0

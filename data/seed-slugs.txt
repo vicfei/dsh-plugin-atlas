@@ -32,6 +32,7 @@
 0mn1si2i5/dsh-handoff
 0nt-one/dsh-neo-skin
 0nt-one/dsh-voice-input
+0x2fovo/DeepSeek-Balance-Whale-Widget-Bowl
 0x5446/reins
 0x5446/rowel
 0x7A7A6572/dsh-forge-studio
@@ -1398,6 +1399,7 @@ Dantezcx/DeepSeek-Harness-Desktop
 Dantwz7/dsh-doc-router
 DaoCaoRenH/dsh-openai-responses-bridge
 Dariandai/dsh-starter-pack
+Darianliu23/dsh-stardew-blind-whale-farmer
 Darren-Tang/dsh-provenance
 David060323/dsh-phone-remote
 DavidRm1911/dsh-llm-subscription
@@ -1654,6 +1656,7 @@ Eveerme/deepseek-harness-desktop
 Eveneve-night/dsh-plugin-steward
 Eveneve-night/memory-bubble
 EventHorizonXT/dsh-model-navigator
+EverMind-AI/EverMe
 EverMind-AI/EverOS
 EverMind-AI/SkillCorpus
 Everglow28/dsh-glm-quota-dock
@@ -2507,6 +2510,7 @@ JochenYang/dsh-rewind-plugin
 Jockjrop/dsh-usage-stats
 Joe-0202/dsh-archive-manager
 JoeyTrribbiani/fly-buddy
+JoeyZzZzZz/treasure-map
 John-20260101/dsh-theme-atlas
 John4874314/dsh-steward
 JohnXu22786/adversarial-review
@@ -10087,6 +10091,7 @@ newbieYi/dsh-dify-builder
 newgacker/dsh-strata-ai-center
 nexpeakcore/deepseek-harness-pr-review
 nexu-io/open-design
+nexu-io/opengame
 nexu-io/openmotion
 nguyenduclong-ict/dsh-plugin-live-terminal
 nguyenduclong-ict/dsh-session-progress
@@ -11659,6 +11664,7 @@ thomasvvugt/dsh-kanban-flow
 thomasvvugt/dsh-wide-stats-footer
 thyeff/dsh-unity-mcp
 thynon/dsh-at-plugins
+tianacloud/dsh-tiana
 tianfangliu98-cpu/dsh-image-hub
 tianhanly/dsh-genshin-redirect
 tianhanly/dsh-official-port-nav
@@ -12635,6 +12641,7 @@ xine2009cn/dsh-branch-inbox-guard
 xing-he888/dsh-database-explorer
 xing-shuyin/ds-web-ui
 xing-shuyin/dsh-ui-tools
+xing-shuyin/keel
 xing-shuyin/pi-web-ui
 xing666173/dsh-vision-hub
 xinghaix/deepseek-harness-desktop
@@ -13156,6 +13163,7 @@ yupaoa/dsh-image-lite
 yupaoa/dsh-persona-switcher
 yuqiguang/dsh-nexus
 yuqingsh/dsh-image-subagent
+yushang657/DSH-YS-pojia
 yushenghai1106/dsh-memory-plugin
 yushi-xxh/dsh-homepage-skin
 yushui6666/dsh-learning-mode

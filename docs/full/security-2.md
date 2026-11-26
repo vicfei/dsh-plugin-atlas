@@ -1,7 +1,9 @@
-# Security & Permissions — 1169 entries (part 2/2)
+# Security & Permissions — 1171 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [feely0208/dsh-ai-output-trust](https://github.com/feely0208/dsh-ai-output-trust) — AI 输出信任边界：检查代码有没有直接执行 AI 输出（eval/shell/SQL/路径）。 · ⭐0
+- [feely0208/dsh-alert-relay](https://github.com/feely0208/dsh-alert-relay) — 告警外发：检查告警链路有没有告警、发到哪、有没有把敏感信息一起发出去。 · ⭐0
 - [feely0208/dsh-algorithm-filing](https://github.com/feely0208/dsh-algorithm-filing) — 算法备案与告知：查算法推荐服务有没有关闭选项、告知、备案。 · ⭐0
 - [feely0208/dsh-ci-guard](https://github.com/feely0208/dsh-ci-guard) — 扫 GitHub Actions 工作流，找出可被利用的配置 —— 供应链攻击的主要入口 · ⭐0
 - [feely0208/dsh-cn-data-export](https://github.com/feely0208/dsh-cn-data-export) — 数据出境检查：查代码与配置里的境外数据出口、个人信息外发、缺安全评估说明。 · ⭐0
@@ -171,7 +173,7 @@
 - [stadeummwt/dsh-supreme](https://github.com/stadeummwt/dsh-supreme) 💤 — (no description) · ⭐0
 - [striveh/dsh-plugin-extension-center](https://github.com/striveh/dsh-plugin-extension-center) — Community Extension Center for DeepSeek Harness: discover and manage Plugins, MCP connections, and Skills with signed catalogs, approvals, r · ⭐0
 - [stushansusu/dsh-delete-guard](https://github.com/stushansusu/dsh-delete-guard) — DSH plugin: meters AI deletions per session, terminates the call once the cumulative size passes a threshold, then asks the user with the li · ⭐0
-- [sviktor75/dsh-sound-notification](https://github.com/sviktor75/dsh-sound-notification) — DeepSeek Harness Web plugin: plays a chime when any session's response finishes (rising tone) or a question/approval is asked (falling tone) · ⭐0
+- [sviktor75/dsh-sound-notification](https://github.com/sviktor75/dsh-sound-notification) 💤 — DeepSeek Harness Web plugin: plays a chime when any session's response finishes (rising tone) or a question/approval is asked (falling tone) · ⭐0
 - [Tabbyaccessorial446/dsh-plugin-canvas](https://github.com/Tabbyaccessorial446/dsh-plugin-canvas) — Render HTML design prototypes directly in DeepSeek Harness with a canvas tab for visual review, annotation, and sandboxed previews. · ⭐0
 - [takasurazeem/gmail-dsh](https://github.com/takasurazeem/gmail-dsh) — (no description) · ⭐0
 - [takboo/dsh-session-bin](https://github.com/takboo/dsh-session-bin) — Native archived-session management for DeepSeek Harness with guarded permanent deletion and fixed batches. · ⭐0

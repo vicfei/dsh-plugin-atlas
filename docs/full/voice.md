@@ -6,12 +6,12 @@
 - [Fishsb/dsh-voice-prompt-enhancer](https://github.com/Fishsb/dsh-voice-prompt-enhancer) — DeepSeek-Harness (DSH) 插件：✨ 提示词一键增强（5 模式·模型链·记忆链）+ 💬 语音输入增强（热键·说完自动停·口水词清理·语音纠错） · ⭐135
 - [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图） · ⭐78
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) 💤 — DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续） · ⭐75
-- [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing. · ⭐65
+- [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing. · ⭐66
 - [beiyege-01/dsh-voice-ai-girlfriend-plugin](https://github.com/beiyege-01/dsh-voice-ai-girlfriend-plugin) — (no description) · ⭐61
-- [SAOS-3624/dsh-watch-together](https://github.com/SAOS-3624/dsh-watch-together) — 陪看：和智能体一起看视频 —— 跟着真实播放位置，每段结束前把分镜画面 + 带秒台词交过去；悬浮窗里能出声，也听得见房间。A DSH plugin that watches a video together, in sync with the real playback: a s · ⭐58
+- [SAOS-3624/dsh-watch-together](https://github.com/SAOS-3624/dsh-watch-together) — 陪看：和智能体一起看视频 —— 跟着真实播放位置，每段结束前把分镜画面 + 带秒台词交过去；悬浮窗里能出声，也听得见房间。A DSH plugin that watches a video together, in sync with the real playback: a s · ⭐60
 - [ALittleLov/dsh-soundcheck](https://github.com/ALittleLov/dsh-soundcheck) — 让文本模型读懂一首歌：本地音乐分析插件，把音频拆成能量、速度、调性、密度，音频不出本机。 · ⭐32
 - [WizisCool/dsh-ears](https://github.com/WizisCool/dsh-ears) — Voice input plugin for DeepSeek Harness (DSH) with text polishing. Supports local GPU Whisper and STT(ASR) API | 一款支持润色整理的 DeepSeek Harness  · ⭐30
-- [panqing0313/dsh-plugin-weixin](https://github.com/panqing0313/dsh-plugin-weixin) — 微信（iLink）通道插件：在微信里给 DSH Agent 发消息，在本机跑会话并把回复发回微信。Text, images, files and voice notes. · ⭐22
+- [panqing0313/dsh-plugin-weixin](https://github.com/panqing0313/dsh-plugin-weixin) — 微信（iLink）通道插件：在微信里给 DSH Agent 发消息，在本机跑会话并把回复发回微信。Text, images, files and voice notes. · ⭐23
 - [huliux/dsh-asr-plugin](https://github.com/huliux/dsh-asr-plugin) — Unofficial local meeting transcription for DeepSeek Harness on Apple Silicon macOS — dual-track recording, live transcripts, @-referenced su · ⭐21
 - [Alan2Z/dsh-speak](https://github.com/Alan2Z/dsh-speak) — 一种能让你的harness开口说话的方案/Make your AI harness speak — a verified voice-announcement solution · ⭐20
 - [YuMS/dsh-duet](https://github.com/YuMS/dsh-duet) — 二重奏：DSH 语音操控和语音播报 · ⭐17
@@ -69,7 +69,7 @@
 - [fishcg/dsh-airpod-control](https://github.com/fishcg/dsh-airpod-control) — Control DeepSeek Harness from AirPods head gestures (via HeadOrbit): nod = allow / confirm, shake = reject / next option — with a one-click  · ⭐0
 - [hzh5021/dsh-qq-voice](https://github.com/hzh5021/dsh-qq-voice) — Mounts a per-channel speaking-rules file into the QQ preset's system prompt only, so that channel answers in one or two lines while every ot · ⭐0
 - [jamesylj/dsh-talk](https://github.com/jamesylj/dsh-talk) — dsh-talk, tts for dsh, with minimax api + qwen tts mlx · ⭐0
-- [john-walks-slow/live2d-voice](https://github.com/john-walks-slow/live2d-voice) — One command to a standalone Live2D voice companion / 一行命令跑起独立的 Live2D 语音陪伴 · ⭐0
+- [john-walks-slow/live2d-voice](https://github.com/john-walks-slow/live2d-voice) 💤 — One command to a standalone Live2D voice companion / 一行命令跑起独立的 Live2D 语音陪伴 · ⭐0
 - [kittcat-lab/dsh-kitt-voice](https://github.com/kittcat-lab/dsh-kitt-voice) 💤 — Voice for the DeepSeek Harness: speak to the agent, hear it back, and see what it is doing from a floating window that stays on top of whate · ⭐0
 - [KotDath/dsh-voice](https://github.com/KotDath/dsh-voice) — DSH plugin for voice input · ⭐0
 - [lihua12345670-jpg/dsh-bili-audio](https://github.com/lihua12345670-jpg/dsh-bili-audio) — DSH 插件：B站音频悬浮播放条，宿主反向代理解决 CDN Referer 403，带队列/进度/倍速 · ⭐0

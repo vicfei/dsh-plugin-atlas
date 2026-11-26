@@ -2,6 +2,7 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [kevinchu1981/dsh-insurance-experts](https://github.com/kevinchu1981/dsh-insurance-experts) — Three insurance expert plugins for DeepSeek Harness (DSH) — ops analyst, company analyst, product analyst · ⭐2
 - [kingguuu8-svg/dsh-pi-compatible](https://github.com/kingguuu8-svg/dsh-pi-compatible) 💤 — 在 DeepSeek Harness 中复刻 Pi 工具组的 agent preset，提供 Pi 风格小写核心工具契约并保留 DSH-backed 扩展工具。 · ⭐2
 - [kkbsgg/dsh-balance](https://github.com/kkbsgg/dsh-balance) 💤 — (no description) · ⭐2
 - [kobenfang/ListForm](https://github.com/kobenfang/ListForm) 💤 — openclaw - skills : List · 智能表单（万能信息记录·智能记事本·智能账单）- Smart Form & Notes · ⭐2
@@ -188,7 +189,6 @@
 - [173787247/dsh-wsl-winshot](https://github.com/173787247/dsh-wsl-winshot) — Capture a specific Windows window to a WSL file, by process id or the foreground window. · ⭐1
 - [173787247/dsh-wsl-workspace](https://github.com/173787247/dsh-wsl-workspace) — List WSL distros and validate a Linux workspace path for DSH. · ⭐1
 - [1741505640/capmap-skills](https://github.com/1741505640/capmap-skills) — (no description) · ⭐1
-- [1834395550/dsh-chat-search](https://github.com/1834395550/dsh-chat-search) — Ctrl+F search inside the open conversation for DeepSeek Harness: in-text highlights, previous/next, a match list, a live count, no block ope · ⭐1
 - [2034126171/dsh-boot-animation-sound](https://github.com/2034126171/dsh-boot-animation-sound) — DSH 开机动画：声音不需要全屏。触发时机（启动应用/页面刷新/新对话/任意会话）与播放频率（每次/每天一次/只播一次/限播 N 次）可自选。 · ⭐1
 - [240xu/verdict-engine](https://github.com/240xu/verdict-engine) 💤 — Verdict Engine — machine-checkable engineering governance: prose skill for any agent + dsh-themis DSH plugin (read-only tools, fail-closed,  · ⭐1
 - [253071608/dsh-localnote](https://github.com/253071608/dsh-localnote) 💤 — 把"以后再说"的灵感，准时摆到你面前：随手记下，到点由 AI 自动替你把它想透、做透，回来只看结果。 · ⭐1
@@ -391,7 +391,7 @@
 - [keyboard-leo/dsh-reading-workbench](https://github.com/keyboard-leo/dsh-reading-workbench) — (no description) · ⭐1
 - [kiive357q/dsh-nekojishi-vn](https://github.com/kiive357q/dsh-nekojishi-vn) — Visual-novel workspace for DeepSeek Harness: responsive characters, task-state expressions, role skills, and music. 原创演示开箱即用，本机游戏资源可选导入。 · ⭐1
 - [kilo-s/dsh-rank-scan](https://github.com/kilo-s/dsh-rank-scan) — DSH 扫榜插件：多站小说榜单采集 + 本地变化分析 + 面板；零运行时依赖 · ⭐1
-- [King20260919/dsh-open-folder-visible](https://github.com/King20260919/dsh-open-folder-visible) — (no description) · ⭐1
+- [King20260919/dsh-open-folder-visible](https://github.com/King20260919/dsh-open-folder-visible) 💤 — (no description) · ⭐1
 - [kingselyjoe/xhs-chaijie-dsh](https://github.com/kingselyjoe/xhs-chaijie-dsh) 💤 — DSH 原生小红书账号与竞品深度拆解 Skill｜真实封面审计、爆款资产复用与可视化 HTML 报告 · ⭐1
 - [kobenfang/BigFish](https://github.com/kobenfang/BigFish) 💤 — 🎣 BigFish AI钓鱼助手 - 钓点分析·鱼情分析·钓点分享 | Fishing spot analysis, fish activity, bait & lure · ⭐1
 - [kobenfang/BigFood](https://github.com/kobenfang/BigFood) 💤 — 🍳 BigFood AI冰箱管家 - 食材识别→菜谱推荐 | Food recognition, recipe recommendation · ⭐1
@@ -709,7 +709,7 @@
 - [ArkFishingLab/dsh-agent-skill-manager](https://github.com/ArkFishingLab/dsh-agent-skill-manager) 💤 — (no description) · ⭐0
 - [asun-labs/dsh-plugin-agent-switch](https://github.com/asun-labs/dsh-plugin-agent-switch) — DeepSeek Harness plugin for interactive agent-switch terminals with tab and grid layouts. · ⭐0
 - [AtomerCore/dsh-qq-agent-mail](https://github.com/AtomerCore/dsh-qq-agent-mail) 💤 — A DeepSeek Harness plugin that integrates QQ Agent Mail. · ⭐0
-- [Au1314/dsh-style-hub](https://github.com/Au1314/dsh-style-hub) — deepseek harness主题插件 · ⭐0
+- [Au1314/dsh-style-hub](https://github.com/Au1314/dsh-style-hub) 💤 — deepseek harness主题插件 · ⭐0
 - [auwc/dsh-tarot](https://github.com/auwc/dsh-tarot) — Three-card tarot draws for DeepSeek Harness: choose from 78 face-down cards, reveal source-linked meanings, and refine the reading. · ⭐0
 - [AvigatorC/dsh-conversation-width](https://github.com/AvigatorC/dsh-conversation-width) — 固定DeepSeek Harness的对话框宽度：可以锁定为像素值，也可以按对话框比例随缩放变化。 · ⭐0
 - [AWL-MC2/DSH-Plugin_awl](https://github.com/AWL-MC2/DSH-Plugin_awl) — AWL's DSH Plugin · ⭐0

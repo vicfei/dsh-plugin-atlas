@@ -1,7 +1,10 @@
-# UI & Themes — 2425 entries (part 3/3)
+# UI & Themes — 2427 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [chen8923/dsh-task-progress](https://github.com/chen8923/dsh-task-progress) 💤 — Live progress for long-running DSH tasks: scripts report structured progress, the Web UI shows it in a floating overlay, a sidebar tab, and  · ⭐0
+- [chengoak/dsh-font-size](https://github.com/chengoak/dsh-font-size) 💤 — DSH Web GUI plugin: 'Conversation font size' slider (12-22 px) in Settings → General. · ⭐0
+- [ChengX0721/dsh-client-ui-skin-alice-greyrat](https://github.com/ChengX0721/dsh-client-ui-skin-alice-greyrat) — A Mushoku Tensei skin for the DeepSeek Harness web GUI — 艾莉丝 狂剑王 · ⭐0
 - [chengxiang-zhang/dsh-cove](https://github.com/chengxiang-zhang/dsh-cove) — dsh-cove: DSH Web GUI extension suite — one runtime entity (web-all) plus clients and fleet tooling · ⭐0
 - [chengzhao-dev/dsh-quarto-book](https://github.com/chengzhao-dev/dsh-quarto-book) — 把一份 Quarto Book 写成可读、可查、可发布的中文技术书：九步写作、结构/链接/图表检查、统一主题与渲染验收。 · ⭐0
 - [chiang21fcb/dsh-ppt-guider](https://github.com/chiang21fcb/dsh-ppt-guider) — 让 AI 做 PPT 的副驾驶，而不是自动驾驶。DSH 预设，六步专家工作流，支持双路径触发，SVG 中间态 + PPT-safe 约束。 · ⭐0
@@ -333,7 +336,6 @@
 - [newbieQQ/dsh-better-workspace-group](https://github.com/newbieQQ/dsh-better-workspace-group) — DeepSeek Harness web client plugin (fork of z-col/dsh-workspace-groups): grouped sidebar tree, science icon set, pinned default workspace ba · ⭐0
 - [NewDaNew/dsh-voice-input](https://github.com/NewDaNew/dsh-voice-input) 💤 — DeepSeek Harness 语音输入插件：在 Web GUI 输入框添加麦克风按钮，基于浏览器 Web Speech API 的语音转文字输入，支持可选自动发送。 · ⭐0
 - [nightosong/gord-dsh-saber-theme](https://github.com/nightosong/gord-dsh-saber-theme) — 这是一个 DeepSeek Harness（DSH）的 Saber（Fate）主题皮肤，支持 macOS 和 Windows。 · ⭐0
-- [ninepoin4/dsh-rich-cards](https://github.com/ninepoin4/dsh-rich-cards) — DSH plugin: turn answers into typographic cards (card / article layouts, 10 block types) · ⭐0
 - [NingTiAn-byte/dsh-intelligent-ui](https://github.com/NingTiAn-byte/dsh-intelligent-ui) — Interactive, replayable generative UI for DeepSeek Harness — charts, maps, images, templates and standalone MCP. · ⭐0
 - [Nishikinov/dsh-sidebar-settings-button](https://github.com/Nishikinov/dsh-sidebar-settings-button) — DSH plugin: puts a Settings row in the sidebar header, immediately before Plugins, and opens the native Settings panel in one click. · ⭐0
 - [Nkjv2/dsh-ui-pet](https://github.com/Nkjv2/dsh-ui-pet) 💤 — A canvas sprite-sheet pet plugin for the DeepSeek Harness web GUI. A dsh bundle + client plugin that renders a pointer-following mascot in t · ⭐0
@@ -534,7 +536,7 @@
 - [wxj783428795/dsh-plugins](https://github.com/wxj783428795/dsh-plugins) 💤 — DeepSeek Harness 多插件开发仓库 · ⭐0
 - [wysxxx/dsh-account-identity](https://github.com/wysxxx/dsh-account-identity) — Custom sidebar name and locally cropped avatar for DeepSeek Harness. · ⭐0
 - [x2802490130-prog/dsh-lan-pass](https://github.com/x2802490130-prog/dsh-lan-pass) 💤 — DSH 局域网密码门禁：手机/平板输密钥访问 Web UI，会话实时同步，内置 randomUUID polyfill。 · ⭐0
-- [xain/ui-beep](https://github.com/xain/ui-beep) — **dsh-beep** — an agent-heartbeat sonification plugin for the DeepSeek Harness Web surface. · ⭐0
+- [xain/ui-beep](https://github.com/xain/ui-beep) 💤 — **dsh-beep** — an agent-heartbeat sonification plugin for the DeepSeek Harness Web surface. · ⭐0
 - [xccElephant/deepseek-harness-desktop](https://github.com/xccElephant/deepseek-harness-desktop) — Unofficial desktop app for DeepSeek Harness (dsh): bundled Node runtime, supervised backend, native window. Zero prerequisites. · ⭐0
 - [xchannel1987/dsh-reverse-proxy-xc](https://github.com/xchannel1987/dsh-reverse-proxy-xc) — DSH LAN reverse proxy plugin for accessing Web GUI from mobile devices · ⭐0
 - [xdongHo/dsh-wechat-mobile-skin](https://github.com/xdongHo/dsh-wechat-mobile-skin) 💤 — WeChat-style mobile skin for the DeepSeek Harness Web GUI: mobile browsers get a WeChat chat list and chat page, desktop stays untouched. · ⭐0

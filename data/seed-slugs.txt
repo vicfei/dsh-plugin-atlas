@@ -2114,6 +2114,7 @@ Hariketsu/bilidude
 HarmlessFunny/dsh-background-by-model
 HarnessDesk/HarnessDesk
 HarnessDesk/dsh-acp
+HarnessRouter/SystemOneHarness
 HarnessRouter/harnessrouter
 HarryHeYu/dsh-sessionflow
 HarryHeYu/figcraft

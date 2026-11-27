@@ -1,7 +1,11 @@
-# Tools & Integrations — 2323 entries (part 3/3)
+# Tools & Integrations — 2327 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [hu568/dsh-plugin-cluster-preset](https://github.com/hu568/dsh-plugin-cluster-preset) — DSH「集群模式」agent preset：主控智能体自主编排 5 个具名专家子智能体，附「智能体寿命论」阶段提示器 · ⭐0
+- [Huang-zhishi/dsh-plugin-call-trace](https://github.com/Huang-zhishi/dsh-plugin-call-trace) 💤 — (no description) · ⭐0
+- [huanleyabo/dsh-selection-translate](https://github.com/huanleyabo/dsh-selection-translate) — dsh插件，用于直接对客户端内或网页内的文字划线翻译 · ⭐0
+- [hunyu-feng/dsh-video-digest](https://github.com/hunyu-feng/dsh-video-digest) — DSH plugin: turn a video link (Bilibili / YouTube / any page) into a transcript-backed summary, and say plainly what evidence it used. · ⭐0
 - [HYClub/dsh-ufo](https://github.com/HYClub/dsh-ufo) — 美国空军蓝皮书（1947–1969，12,618 起）、法国 GEIPAN 的三千余宗案卷、英国国防部 DEFE 24、巴西国家档案馆，以及 NUFORC 的十六万条民间目击——一个入口都调得到。 · ⭐0
 - [hyyhf/mindgarden](https://github.com/hyyhf/mindgarden) 💤 — a deepseek harness plugin · ⭐0
 - [hzys7/dsh-prompt-expander](https://github.com/hzys7/dsh-prompt-expander) — (no description) · ⭐0
@@ -83,7 +87,7 @@
 - [lerwa2025-a11y/dsh-plugin-groups](https://github.com/lerwa2025-a11y/dsh-plugin-groups) — DSH plugin groups view: group / tag / note / lock tab on the Installed plugins page · ⭐0
 - [Lessthinker66/dsh-open-native](https://github.com/Lessthinker66/dsh-open-native) — Open delivered-file cards with the system default app · ⭐0
 - [let-mi-think/agent-manager](https://github.com/let-mi-think/agent-manager) 💤 — (no description) · ⭐0
-- [liggest/dsh-alt-enter-newline](https://github.com/liggest/dsh-alt-enter-newline) — 在 dsh 中拯救 Alt+Enter 换行选手 · ⭐0
+- [liggest/dsh-alt-enter-newline](https://github.com/liggest/dsh-alt-enter-newline) 💤 — 在 dsh 中拯救 Alt+Enter 换行选手 · ⭐0
 - [Lightmaze/dsh-tick-loop](https://github.com/Lightmaze/dsh-tick-loop) 💤 — Give an agent another step without giving it another task — a bounded, auditable time-step primitive for DeepSeek Harness. · ⭐0
 - [lihaiyang616/dsh-local-song-studio](https://github.com/lihaiyang616/dsh-local-song-studio) — 本地、免百度网盘、可复现的 AI 翻唱/歌声合成/整曲生成环境：MSST + DDSP-SVC 6.2（Windows fairseq-free 补丁）+ DiffSinger + ACE-Step 1.5 · ⭐0
 - [lihuu/dsh-plugins](https://github.com/lihuu/dsh-plugins) 💤 — Personal DeepSeek Harness plugins monorepo: dsh-file-ref (@file workspace reference) + dsh-lazy-skill (submodule). · ⭐0
@@ -129,7 +133,7 @@
 - [ltl0312/my-dsh-plugins](https://github.com/ltl0312/my-dsh-plugins) — (no description) · ⭐0
 - [lubenweimeiyoukaig/dsh-file-upload-local](https://github.com/lubenweimeiyoukaig/dsh-file-upload-local) 💤 — (no description) · ⭐0
 - [LumiDesk/dsh-wallet-pill](https://github.com/LumiDesk/dsh-wallet-pill) — DeepSeek Harness 余额胶囊：输入框下方显示账户余额，点开查看峰谷价目与切换倒计时。 · ⭐0
-- [luoxunhao/dsh-quote](https://github.com/luoxunhao/dsh-quote) — (no description) · ⭐0
+- [luoxunhao/dsh-quote](https://github.com/luoxunhao/dsh-quote) 💤 — (no description) · ⭐0
 - [Lushdawn/dsh-effort-dial](https://github.com/Lushdawn/dsh-effort-dial) — Codex-style reasoning-effort dial for DeepSeek Harness · ⭐0
 - [LvDAO/dsh-exec-extension](https://github.com/LvDAO/dsh-exec-extension) — An exec extension for headless dsh runner allowing more flags etc. · ⭐0
 - [ly14278/dsh-prompt-brief](https://github.com/ly14278/dsh-prompt-brief) — 给 DeepSeek Harness 输入框加「优化」按钮：口语需求 → 结构化产品需求（定位 / 核心功能 / 视觉参考 / 设计规范） · ⭐0
@@ -302,6 +306,7 @@
 - [SOVLOOKUP/dsh-mise](https://github.com/SOVLOOKUP/dsh-mise) — Toolchain manager for DeepSeek Harness (backed by mise): a settings page for installed and available versions, .mise.toml-driven install / u · ⭐0
 - [spechenxin/jimu](https://github.com/spechenxin/jimu) 💤 — 积木 · DSH 分域执行插件：domain_plan 分域确认 + 按域编排子代理与自动审计 · ⭐0
 - [spidu-lee/dsh-refresh](https://github.com/spidu-lee/dsh-refresh) — (no description) · ⭐0
+- [sqxart/course-study-dsh](https://github.com/sqxart/course-study-dsh) — DeepSeek Harness 专用网课减负技能：证据优先地把学习通视频看完、弹题答对、章节测验先取证再按授权提交 · ⭐0
 - [sssueason/dsh-pwsh-progress](https://github.com/sssueason/dsh-pwsh-progress) 💤 — (no description) · ⭐0
 - [starkingcn/dsh-story](https://github.com/starkingcn/dsh-story) — (no description) · ⭐0
 - [StarPivotNet/dsh-plugins-public](https://github.com/StarPivotNet/dsh-plugins-public) 💤 — Installable DeepSeek Harness plugin marketplace (Settings → Plugins) · ⭐0
@@ -420,7 +425,7 @@
 - [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) 💤 — DSH命名子代理池：在设置中配置可重用的子代理（模型/推理/预设），并按名称调用它们 · ⭐0
 - [xiake-1/dsh-skill-toggles](https://github.com/xiake-1/dsh-skill-toggles) — DSH plugin: enable/disable skills by group (skill toggles manager) · ⭐0
 - [xianmua/dsh-apis-plugin](https://github.com/xianmua/dsh-apis-plugin) — dsh-apis-plugin · ⭐0
-- [XIAOZHAOXSXH/dsh-moyu-reader](https://github.com/XIAOZHAOXSXH/dsh-moyu-reader) — dsh-moyu-reader，dsh小说阅读器 · ⭐0
+- [XIAOZHAOXSXH/dsh-moyu-reader](https://github.com/XIAOZHAOXSXH/dsh-moyu-reader) 💤 — dsh-moyu-reader，dsh小说阅读器 · ⭐0
 - [xiez0324-rgb/dsh-dual-bridge](https://github.com/xiez0324-rgb/dsh-dual-bridge) — 分流对话 · Plugins of Conversation Departure — DSH 侧边栏项目上下文打包插件（纯本地，不联网） · ⭐0
 - [xindady/dsh-prompt-enhancer](https://github.com/xindady/dsh-prompt-enhancer) — One-click prompt enhancement plugin for DeepSeek Harness · ⭐0
 - [xinming-chenniang/dsh-longshot](https://github.com/xinming-chenniang/dsh-longshot) — DeepSeek Harness plugin: auto-split over-long screenshots into DSH-acceptable slices before prompt admission (no native deps, overlap betwee · ⭐0
@@ -440,7 +445,6 @@
 - [xushilianzhuren/dsh-task-order](https://github.com/xushilianzhuren/dsh-task-order) — 任务顺序闸：开场体检/先查后造防重造轮子/台账活性巡检/交接捡活，六件原生只读工具 · ⭐0
 - [xushilianzhuren/dsh-verify-kit](https://github.com/xushilianzhuren/dsh-verify-kit) — 交付验证闸：出口前三道纯本地闸（违令句扫/宣称拦截/发前三检），零依赖装上即用 · ⭐0
 - [xuy01/dsh-change-trace](https://github.com/xuy01/dsh-change-trace) 💤 — DeepSeek Harness 的**变更叙事与指令追溯**插件：每条人类指令的卡片展示文件改动、工具调用结果、思考节选，以及**子代理工作流树**（可点击钻入子代理自己的会话）。 · ⭐0
-- [xuzhunzhi/dsh-fix-attachments](https://github.com/xuzhunzhi/dsh-fix-attachments) — 修「附件对象被删 → 会话永远报 DeepSeek Messages transport failed」的 DSH 插件（进程内自愈）+ 离线 CLI · ⭐0
 - [xx529/dsh-shell-cmd](https://github.com/xx529/dsh-shell-cmd) — DeepSeek Harness 生态项目 dsh-shell-cmd · ⭐0
 - [Xxsttb/dsh-sillytavern-presets](https://github.com/Xxsttb/dsh-sillytavern-presets) — [AI 制作] 在 DeepSeek Harness 中导入、编辑、切换 SillyTavern AI 预设，支持 JSON 导入导出、提示词顺序编辑与归档/删除。 · ⭐0
 - [yang1604454533-netizen/dsh-ASD-100](https://github.com/yang1604454533-netizen/dsh-ASD-100) — Always-on ASD-STE100 Simplified Technical English output for DSH. Commands: /ste on, /ste off, /ste. · ⭐0

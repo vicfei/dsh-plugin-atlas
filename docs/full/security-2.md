@@ -1,7 +1,9 @@
-# Security & Permissions — 1171 entries (part 2/2)
+# Security & Permissions — 1172 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [fan56/dsh-vault](https://github.com/fan56/dsh-vault) — dsh-plugin: encrypted backup / restore / migration of the dsh home config through a private GitHub repo · ⭐0
+- [feely0208/dsh-agent-scope](https://github.com/feely0208/dsh-agent-scope) — Agent 权限边界：查 agent 的工具/文件/网络权限有没有声明、是不是过宽。 · ⭐0
 - [feely0208/dsh-ai-output-trust](https://github.com/feely0208/dsh-ai-output-trust) — AI 输出信任边界：检查代码有没有直接执行 AI 输出（eval/shell/SQL/路径）。 · ⭐0
 - [feely0208/dsh-alert-relay](https://github.com/feely0208/dsh-alert-relay) — 告警外发：检查告警链路有没有告警、发到哪、有没有把敏感信息一起发出去。 · ⭐0
 - [feely0208/dsh-algorithm-filing](https://github.com/feely0208/dsh-algorithm-filing) — 算法备案与告知：查算法推荐服务有没有关闭选项、告知、备案。 · ⭐0
@@ -271,5 +273,4 @@
 - [zhengqiuyang/dsh-read-guard](https://github.com/zhengqiuyang/dsh-read-guard) — Deterministic prompt-injection interception for DeepSeek Harness — scans what the agent READS before it enters model context; obfuscation-re · ⭐0
 - [zoushangkun-dev/dsh-startup-auth-cn](https://github.com/zoushangkun-dev/dsh-startup-auth-cn) — 给 DeepSeek Harness 手搓的开机门：六幕冷启动动画 + PIN / Windows Hello / 验证器动态码，纯本地、零依赖 · ⭐0
 - [zshqzcn/dsh-plugin-agent-bridge](https://github.com/zshqzcn/dsh-plugin-agent-bridge) — Two-way agent-to-agent bridge for DeepSeek Harness (DSH): two hosts talk over a PSK-authenticated TCP link, read-only tool posture by defaul · ⭐0
-- [zzstar101/dsh-sandbox-noop-escalation](https://github.com/zzstar101/dsh-sandbox-noop-escalation) — DSH plugin: drop sandbox_permissions that cannot widen the current sandbox mode, fixing 'not strictly wider' errors from GPT models · ⭐0
 - [zzzmmmnn/dsh-openkapsel](https://github.com/zzzmmmnn/dsh-openkapsel) — Remote-only OpenKapsel workspace bridge for the DeepSeek Harness: replaces host filesystem and shell tools with a fail-closed remote tool se · ⭐0

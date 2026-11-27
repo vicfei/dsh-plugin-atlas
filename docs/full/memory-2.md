@@ -1,7 +1,9 @@
-# Memory & Knowledge — 955 entries (part 2/2)
+# Memory & Knowledge — 957 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [vamyane/dsh-brain-viewer](https://github.com/vamyane/dsh-brain-viewer) — AI brain viewer for DeepSeek Harness: brain-shaped relationship graph in the sidebar + Markdown knowledge-base pipeline. · ⭐0
+- [VermilionPasvikin/dsh-coderag](https://github.com/VermilionPasvikin/dsh-coderag) — dsh-coderag 是一个以 MCP 服务器形态提供的代码库检索引擎：让 DeepSeek Harness（DSH）的 Agent 能按语义与结构找到代码，而不是靠猜关键词反复 grep。 · ⭐0
 - [vicfei/dsh-weknora-ops](https://github.com/vicfei/dsh-weknora-ops) **★** — DeepSeek Harness plugin: the WRITE path for WeKnora — document ingest, gated deletes, tag trees — under a three-layer safety model. Compleme · ⭐0
 - [vv5v5/dsh-anima-rag](https://github.com/vv5v5/dsh-anima-rag) — DSH-side port of the Anima-Memory-System retrieval core (vector + BM25, echo, rerank) for DeepSeek Harness RP sessions. Ported from Ellina's · ⭐0
 - [vv5v5/dsh-memory-archive](https://github.com/vv5v5/dsh-memory-archive) — Session memory archive + prompt viewer for DeepSeek Harness: read back what compaction folded away, inspect the prompt each turn actually se · ⭐0

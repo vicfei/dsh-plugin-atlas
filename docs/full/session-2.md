@@ -16,6 +16,7 @@
 - [windwhiterain/dsh-office](https://github.com/windwhiterain/dsh-office) — A persistent office of colleague agents for DeepSeek Harness: ordinary sessions with a roster, channels, direct messages, and delivery that  · ⭐1
 - [WJDdidi-1/ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) — Find the files your AI coding agent should not read before sending it your repo. · ⭐1
 - [wjingshan/dsh-cost-gauge](https://github.com/wjingshan/dsh-cost-gauge) — DeepSeek Harness cost gauge: floating widget showing DeepSeek API spend & balance, peak/off-peak rate pointer, flashing red alarm when balan · ⭐1
+- [wjingshan/dsh-sidebar-focus](https://github.com/wjingshan/dsh-sidebar-focus) — Order and disclosure for the DSH left sidebar driven by what is actually running: a workspace floats to the top when one of its sessions sta · ⭐1
 - [WODE25500/dsh-lan-share](https://github.com/WODE25500/dsh-lan-share) 💤 — DSH LAN file share: share the workspace over the local network - phones/tablets/other computers browse, download and upload files via browse · ⭐1
 - [WongYuYe/dsh-composer-recall](https://github.com/WongYuYe/dsh-composer-recall) 💤 — Arrow-key input history for the DSH web composer on 0.1.2-alpha.1 · ⭐1
 - [wuwaka/dsh-rehearsal](https://github.com/wuwaka/dsh-rehearsal) — Upgrade rehearsal CLI for DeepSeek Harness: static peer-graph pre-flight + keyless real-session migration & write-round drills in a throwawa · ⭐1
@@ -352,7 +353,7 @@
 - [MosesMuxiXie/dsh-ac-boot](https://github.com/MosesMuxiXie/dsh-ac-boot) — Cinematic tactical-briefing boot sequence for the DeepSeek Harness Web UI, with a live workspace/session theater map. · ⭐0
 - [Motues/dsh-session-curator](https://github.com/Motues/dsh-session-curator) — (no description) · ⭐0
 - [MoYu-CN/dsh-team-chat](https://github.com/MoYu-CN/dsh-team-chat) — Chat room for DSH agents: shared room timeline, member roster, and task dispatch across agent sessions. · ⭐0
-- [mpetruc/dsh-vcc](https://github.com/mpetruc/dsh-vcc) — Deterministic VCC compaction for DSH · ⭐0
+- [mpetruc/dsh-vcc](https://github.com/mpetruc/dsh-vcc) 💤 — Deterministic VCC compaction for DSH · ⭐0
 - [mrdhira/dsh-kanban](https://github.com/mrdhira/dsh-kanban) — A Kanban board for DSH: one SQLite board shared by a human and their agent sessions, in the desktop app's sidebar. Two gates (Definition of  · ⭐0
 - [MrTomTao/dsh-token-billing](https://github.com/MrTomTao/dsh-token-billing) — 给DeepSeek Harness Web GUI用的会话token计费插件：在会话标题栏显示本次会话的实时花费，点开可以看输入 / 缓存命中 / 缓存写入 / 输出 / 推理的分项、按模型的账单，以及当前用的是高峰还是空闲时段价。 · ⭐0
 - [msciu/dsh-prompt-enricher](https://github.com/msciu/dsh-prompt-enricher) — Prompt workbench for DeepSeek Harness: drafts, full-log sent history, and grill-based prompt elicitation. · ⭐0
@@ -373,7 +374,7 @@
 - [neufagents/dsh-healthcheck](https://github.com/neufagents/dsh-healthcheck) 💤 — Runtime health check for DeepSeek Harness: session-library scan + crash-tail inspection. Read-only. · ⭐0
 - [new-256/dsh-session-cleaner](https://github.com/new-256/dsh-session-cleaner) — DSH 会话清理宿主插件：侧边栏原生「移入回收站」+ 回收站管理页 + HTTP API（两级可恢复删除、同名防删错、活跃会话保护） · ⭐0
 - [NICEGSP/call-map](https://github.com/NICEGSP/call-map) — DSH plugin: a zoomable attribution map of the skills, MCP tools and subagents a session actually used. · ⭐0
-- [NickyWooden/dsh-halo](https://github.com/NickyWooden/dsh-halo) — deepseek harness plugin for halo blog,Publish session as a blog with one click · ⭐0
+- [NickyWooden/dsh-halo](https://github.com/NickyWooden/dsh-halo) 💤 — deepseek harness plugin for halo blog,Publish session as a blog with one click · ⭐0
 - [NightsVesa/dsh-input-history](https://github.com/NightsVesa/dsh-input-history) 💤 — Arrow-key input history for the DeepSeek Harness Web composer · ⭐0
 - [NingTiAn-byte/dsh-linked-workspaces](https://github.com/NingTiAn-byte/dsh-linked-workspaces) — Linked project directories for DeepSeek Harness, with project context-menu setup, scoped search and session snapshots. · ⭐0
 - [niushuanan/dsh-token-overview](https://github.com/niushuanan/dsh-token-overview) — See tokens, cache usage, calls, active periods, and estimated cost across AI clients on the whole computer. · ⭐0
@@ -524,7 +525,6 @@
 - [WindFromKadath/dsh-plugin-workspace-archive](https://github.com/WindFromKadath/dsh-plugin-workspace-archive) — DSH 插件：工作区文件夹被删/移走后自动归档其中的会话，文件夹放回来时带回该工作区 —— 含把成员挂回分组、把「无项目」里的孤会话归位；只走官方 API、零依赖。 · ⭐0
 - [WiseXin/dsh-session-intent-title](https://github.com/WiseXin/dsh-session-intent-title) — DeepSeek Harness 独立会话意图分类自动命名插件（⚡ 优化 / 🐛 修复 / ✨ 功能） · ⭐0
 - [wjf1/dsh-prompt-enhance](https://github.com/wjf1/dsh-prompt-enhance) — DeepSeek Harness 编辑器的 ✨ 提示词增强按钮：草稿改写为可执行提示词，多级撤销 + token 级前后对比 · Sparkle button in the DSH composer: rewrite drafts into executable prompts, · ⭐0
-- [wjingshan/dsh-sidebar-focus](https://github.com/wjingshan/dsh-sidebar-focus) — Order and disclosure for the DSH left sidebar driven by what is actually running: a workspace floats to the top when one of its sessions sta · ⭐0
 - [wjvalue/dsh-mac-keep-awake](https://github.com/wjvalue/dsh-mac-keep-awake) — Keep macOS awake (no idle system sleep) while a DeepSeek Harness session is running · 会话进行时不让 Mac 空闲休眠的 DSH 插件 · ⭐0
 - [WMXS-A/dsh-utility-plugins](https://github.com/WMXS-A/dsh-utility-plugins) 💤 — Utility plugins for DeepSeek Harness: skill cheatsheet panel and session boot healthcheck · ⭐0
 - [WODE25500/dsh-token-handoff](https://github.com/WODE25500/dsh-token-handoff) 💤 — Session context handoff — never re-paste history you already have. A DeepSeek Harness skill. · ⭐0

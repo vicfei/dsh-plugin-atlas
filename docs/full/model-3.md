@@ -1,7 +1,9 @@
-# Models & Providers — 1825 entries (part 3/3)
+# Models & Providers — 1827 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [zampie/request-frame-preview](https://github.com/zampie/request-frame-preview) 💤 — Preview and download the exact request frame (system prompt + tools_list + wire messages) that DeepSeek Harness sends to the model · ⭐0
+- [Z-Asset/ZA_analysis](https://github.com/Z-Asset/ZA_analysis) 💤 — ZA Research analysis stage — end-to-end model training and estimation for asset pricing + ML/DL research. · ⭐0
 - [zc0982/dsh-gpt-provider](https://github.com/zc0982/dsh-gpt-provider) 💤 — GPT provider preset with full reasoning effort selection for DeepSeek Harness · ⭐0
 - [Zding89/dsh-model-presets](https://github.com/Zding89/dsh-model-presets) 💤 — Save and switch model and reasoning-effort presets in DeepSeek Harness · ⭐0
 - [ZelotsNullzwei/whale-pod](https://github.com/ZelotsNullzwei/whale-pod) — DSH 插件：给 QQ 群加个会看场合的聊天机器人（自备 OneBot v11 协议端，兼容 OpenAI 协议） · ⭐0
@@ -11,7 +13,7 @@
 - [zhiwuli0228/dsh-image-router](https://github.com/zhiwuli0228/dsh-image-router) — DeepSeek Harness plugin: digest prompt images through a vision model and expose a describe_image tool — without ever changing the session's  · ⭐0
 - [zhonglike/dsh-bot](https://github.com/zhonglike/dsh-bot) — Multi-zone professional model routing plugin for DeepSeek Harness (Cordis) · ⭐0
 - [ZhouXuan-Yu/dsh-model-rotation](https://github.com/ZhouXuan-Yu/dsh-model-rotation) — Multi-source model rotation plugin for DeepSeek Harness — group models by source, order them (manual/auto), preset model + reasoning effort, · ⭐0
-- [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
+- [zhuchuovo/dsh-clinepass](https://github.com/zhuchuovo/dsh-clinepass) 💤 — ClinePass subscription gateway for DeepSeek Harness: registers the plan OpenAI-compatible models as a provider route, exposes a local OpenAI · ⭐0
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router) 💤 — (no description) · ⭐0
 - [Zn-Dk/dsh-zhipu-toolkit](https://github.com/Zn-Dk/dsh-zhipu-toolkit) — Zhipu BigModel/GLM provider toolkit for DeepSeek Harness: dual-endpoint model catalog (Coding Plan + ordinary API), verified thinking-level  · ⭐0
 - [ZnonEn/dsh-mcp-manager](https://github.com/ZnonEn/dsh-mcp-manager) — DeepSeek Harness (DSH) 插件：在桌面端设置页里管理 MCP 服务器 —— 新增/编辑/删除/启停 + 运行状态，直接读写 profile 的 cordis.patch.yml，零依赖。 · ⭐0

@@ -12,15 +12,16 @@
 - [std-microblock/orange-bot](https://github.com/std-microblock/orange-bot) — 橘波特 (Orange): a QQ group chat bot stack for DeepSeek Harness — the dsh plugin, the koishi bridge for the official QQ bot, and the crossgram  · ⭐8
 - [jing-hy/computer-user](https://github.com/jing-hy/computer-user) — DSH plugin: Codex-style computer use for Windows - read the screen, drive mouse & keyboard via SendInput; pairs with picturereader to close  · ⭐7
 - [liliuCourier/dsh-chat-outline](https://github.com/liliuCourier/dsh-chat-outline) 💤 — 对话栏左侧常驻大纲：快速定位每次 user 提问与最后 assistant 回复（DeepSeek Harness 插件） · ⭐7
+- [AusertDream/TravelPlanner](https://github.com/AusertDream/TravelPlanner) — 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 · ⭐6
 - [sunbigfly/dsh-multi-user-service](https://github.com/sunbigfly/dsh-multi-user-service) — 在一套 DSH 中提供统一服务账号登录、成员目录边界、权限、会话、文件及用量管理。 · ⭐6
 - [AomiRaku/dsh-accountDisplayName-edit](https://github.com/AomiRaku/dsh-accountDisplayName-edit) — (no description) · ⭐5
-- [AusertDream/TravelPlanner](https://github.com/AusertDream/TravelPlanner) — 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 · ⭐5
 - [bescriptkiddie/dsh-wechat-collector](https://github.com/bescriptkiddie/dsh-wechat-collector) 💤 — DSH-native WeChat Official Account collector and ContentStudio handoff. · ⭐5
 - [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) — DeepSeek Harness plugin that learns from coding agent retries and user corrections, then adds visible, editable directives to future convers · ⭐4
 - [ZihaoVistonWang/Stata-AI-Skill](https://github.com/ZihaoVistonWang/Stata-AI-Skill) 💤 — Stata AI Skill Native Service: Native localhost HTTP service that lets AI agents run Stata without VS Code, Node.js, or Python on the user s · ⭐4
 - [PandaBlessing/dsh-user-sync](https://github.com/PandaBlessing/dsh-user-sync) — DeepSeek Harness（DSH）的用户级配置同步插件 · ⭐2
 - [ShanHaiFish/sent-msg-locator](https://github.com/ShanHaiFish/sent-msg-locator) 💤 — DSH 插件：对话区左缘轮次图标列，点击定位到每轮用户输入文本。A DSH plugin: left-edge turn rail, click to locate each turn's user message. · ⭐2
 - [173787247/dsh-wsl-systemd](https://github.com/173787247/dsh-wsl-systemd) — Read-only systemd --user list / show / journal. · ⭐1
+- [azkbzxf/dsh-account-balance-pill](https://github.com/azkbzxf/dsh-account-balance-pill) — DSH plugin: shows the DeepSeek account's remaining balance in the composer bottom bar. · ⭐1
 - [JularDepick/dsh-system-monitor-plugin](https://github.com/JularDepick/dsh-system-monitor-plugin) — A plugin for dsh: monitor the resource utilization of dsh system processes and report the results to the user in the form of charts. · ⭐1
 - [ownduck/dsh-custom-env](https://github.com/ownduck/dsh-custom-env) — Manage $DSH_HOME/.env from Settings; sync Host and Windows/macOS user env · ⭐1
 - [RyensX/dsh-message-navigation](https://github.com/RyensX/dsh-message-navigation) 💤 — 为DeepSeek Harness提供Codex风格用户消息导航栏。/ Provides a Codex-style user message navigation bar for DeepSeek Harness · ⭐1
@@ -28,7 +29,6 @@
 - [wbushihenshuai-design/dsh-error-improvement](https://github.com/wbushihenshuai-design/dsh-error-improvement) — Standalone DSH plugin: user-confirmed anti-regression lessons for DeepSeek Harness · ⭐1
 - [AndyYang12345/dsh-dictation-hotkey](https://github.com/AndyYang12345/dsh-dictation-hotkey) — A hotkey binder plugin for dsh, allows user to bind specific keys to trigger dictation. · ⭐0
 - [artorias-zj/dsh-cc-switch-skills](https://github.com/artorias-zj/dsh-cc-switch-skills) — DSH plugin: load every skill from the current user's .cc-switch\skills into DeepSeek Harness at startup · ⭐0
-- [azkbzxf/dsh-account-balance-pill](https://github.com/azkbzxf/dsh-account-balance-pill) — DSH plugin: shows the DeepSeek account's remaining balance in the composer bottom bar. · ⭐0
 - [Bai-Ziyi/dsh-proxy-control](https://github.com/Bai-Ziyi/dsh-proxy-control) — Pre-launch and runtime HTTP proxy control for DeepSeek Harness: writes the user-level .env so the launcher and the first requests are proxie · ⭐0
 - [huang2005-hj/dsh-plugin-grill-me](https://github.com/huang2005-hj/dsh-plugin-grill-me) — Interview users one frontier at a time: a grill-me skill plugin for DeepSeek Harness (MIT, independent implementation of mattpocock/skills g · ⭐0
 - [huangmiuXyz/dsh-edit-retry](https://github.com/huangmiuXyz/dsh-edit-retry) — Right-click any user message to edit it and retry from that point — a client-side plugin for DeepSeek Harness (DSH). · 右键编辑任意一条用户消息并从那里重试。 · ⭐0

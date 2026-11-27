@@ -2,18 +2,18 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries. · ⭐479230
+- [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries. · ⭐480577
 - [xyTom/coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp) — Give any AI agent the ability to code · ⭐1228
-- [yyh-001/dsh-launcher](https://github.com/yyh-001/dsh-launcher) — DeepSeek Harness 启动器：启动项与多实例，版本、插件、整合包、MCP 和技能管理。A DeepSeek Harness launcher: launch entries, multiple instances, versions, plugins, modpack · ⭐788
-- [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) — DeepSeek Harness 启动器：启动项与多实例，版本、插件、整合包、MCP 和技能管理。A DeepSeek Harness launcher: launch entries, multiple instances, versions, plugins, modpack · ⭐788
-- [taxueseek/argo](https://github.com/taxueseek/argo) — Multi-engine search and deep research for AI agents across 300+ sources, 18 languages, and MCP / CLI. · ⭐285
+- [yyh-001/dsh-launcher](https://github.com/yyh-001/dsh-launcher) — DeepSeek Harness 启动器：启动项与多实例，版本、插件、整合包、MCP 和技能管理。A DeepSeek Harness launcher: launch entries, multiple instances, versions, plugins, modpack · ⭐790
+- [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) — DeepSeek Harness 启动器：启动项与多实例，版本、插件、整合包、MCP 和技能管理。A DeepSeek Harness launcher: launch entries, multiple instances, versions, plugins, modpack · ⭐790
+- [taxueseek/argo](https://github.com/taxueseek/argo) — Multi-engine search and deep research for AI agents across 300+ sources, 18 languages, and MCP / CLI. · ⭐286
 - [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) — 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. · ⭐160
 - [Yuuyuko-uu/dsh-bili-subagent](https://github.com/Yuuyuko-uu/dsh-bili-subagent) — DSH 插件：让你的 AI 伙伴派子代理去刷 B站 —— 子代理读字幕挑出值得的、把详细内容汇报回来，伙伴再用自己的口吻评论 @ 你 / 私信你 · ⭐121
 - [Duoasa/DSH-to-Figma](https://github.com/Duoasa/DSH-to-Figma) — 让 DSH 等 Agent 用自然语言读取、创建和编辑 Figma 设计，支持组件与变量、原生动效、截图与素材导出，并提供能力检测、文件重连和内置指南。本地模式不消耗官方 Figma MCP 调用额度。 原生支持 DSH ， 也可搭配 Codex / ClaudeCode 等其他 · ⭐115
 - [NEWJO123/dsh-douyin-scroll](https://github.com/NEWJO123/dsh-douyin-scroll) — (no description) · ⭐85
-- [SepineTam/cnki-mcp](https://github.com/SepineTam/cnki-mcp) — An MCP server, CLI and Skills for reach CNKI. CNKI (中国知网) 文献检索，期刊检索工具，支持 MCP，CLI，Agent Skill 等多种方式稳定使用。 · ⭐79
-- [taptap/instant-games-open-mcp](https://github.com/taptap/instant-games-open-mcp) — TapTap 小游戏开放能力 mcp · ⭐65
-- [fysh1010/mcp-server-fanqie](https://github.com/fysh1010/mcp-server-fanqie) — 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。 · ⭐58
+- [SepineTam/cnki-mcp](https://github.com/SepineTam/cnki-mcp) — An MCP server, CLI and Skills for reach CNKI. CNKI (中国知网) 文献检索，期刊检索工具，支持 MCP，CLI，Agent Skill 等多种方式稳定使用。 · ⭐80
+- [taptap/instant-games-open-mcp](https://github.com/taptap/instant-games-open-mcp) — TapTap 小游戏开放能力 mcp · ⭐66
+- [fysh1010/mcp-server-fanqie](https://github.com/fysh1010/mcp-server-fanqie) — 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。 · ⭐59
 - [Akunda123/SVIXAGENT](https://github.com/Akunda123/SVIXAGENT) — 用对话操作 Synthesizer V Studio / Instrument X 的 AI 助手（基于 DSH）：改音符、音高线、参数与织体 · ⭐33
 - [Kihara777/NixKits](https://github.com/Kihara777/NixKits) — 软件、补丁、NixOS 模块与 AI 编码助手的技能合集。 · ⭐30
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) — 用于 DeepSeek Harness 的 MCP 可视化管理插件：在「设置 → MCP」中查看已安装/启用的 MCP 服务器，支持增删、启用/停用，并实时查看连接状态。 · ⭐28
@@ -33,10 +33,10 @@
 - [hrygo/heluo-forge](https://github.com/hrygo/heluo-forge) — 河洛 (Heluo Forge)：基于 DeepSeek Harness，融合企业级智能研发平台与智能个人助理的方案与扩展工程。 · ⭐8
 - [leaforbook/dsh-mcp-lazy](https://github.com/leaforbook/dsh-mcp-lazy) 💤 — Lazy on-demand MCP bridge for DeepSeek Harness · ⭐8
 - [James-web11/dsh-matlab-mcp](https://github.com/James-web11/dsh-matlab-mcp) 💤 — (no description) · ⭐7
+- [lznnnnn1998/dsh-artcraft](https://github.com/lznnnnn1998/dsh-artcraft) — Every ArtCraft (storytold) crafting app as a DSH plugin — 12 Cordis plugins driving CADCraft, GridCraft, SoundCraft and 9 more headlessly, e · ⭐7
 - [angelky7/dsh-origin-bridge](https://github.com/angelky7/dsh-origin-bridge) — 在对话里驱动本机 Origin/OriginPro：导入 .dat/.csv/.txt 与工作站 .bin，绘图、拟合、改样式、导出图片并保存可编辑的 .opju。dsh 插件，27 个 MCP 工具。第三方工具，与 OriginLab 无关联。 · ⭐6
 - [Dogtiti/dsh-plugin-subagent-bridge](https://github.com/Dogtiti/dsh-plugin-subagent-bridge) — Subagent-shaped bridge between Codex and DeepSeek Harness: Codex spawns DSH workers over a loopback MCP endpoint and gets final answers back · ⭐6
 - [liuli-zsl/dsh-unreal-engine-skills](https://github.com/liuli-zsl/dsh-unreal-engine-skills) — (no description) · ⭐6
-- [lznnnnn1998/dsh-artcraft](https://github.com/lznnnnn1998/dsh-artcraft) — Every ArtCraft (storytold) crafting app as a DSH plugin — 12 Cordis plugins driving CADCraft, GridCraft, SoundCraft and 9 more headlessly, e · ⭐6
 - [MCviseron/dsh-eda-mcp](https://github.com/MCviseron/dsh-eda-mcp) — DeepSeek Harness (DSH) 连接到 嘉立创EDA专业版 / EasyEDA Pro，让 Agent 通过 MCP 工具画原理图。 · ⭐6
 - [Ri0n72Y/dsh-workspace-scope](https://github.com/Ri0n72Y/dsh-workspace-scope) — Per-workspace Skill and MCP enablement for DeepSeek Harness · ⭐6
 - [alex04130/dsh-forge](https://github.com/alex04130/dsh-forge) — DeepSeek Harness 扩展套件：运行时注入器、子代理派发与模型路由策略、插件市场/技能/插件管理面板、浏览器桥与 MCP 集成。 · ⭐5
@@ -44,8 +44,6 @@
 - [rentaoyan0628-collab/dsh-bili-danmaku-lite](https://github.com/rentaoyan0628-collab/dsh-bili-danmaku-lite) — DSH 轻量 B站直播弹幕插件：看弹幕/发弹幕/挂机听/可选自动陪聊与可选语音转写；进房与发弹幕都卡在人手里 · ⭐5
 - [toustifer/agentflow](https://github.com/toustifer/agentflow) — Lightweight task state machine engine with MCP stdio interface · ⭐5
 - [magian1127/deepseek-harness-zhipu_plan_tools](https://github.com/magian1127/deepseek-harness-zhipu_plan_tools) — Zhipu (GLM Coding Plan) MCP servers into DSH - 接入智谱的工具 · ⭐4
-- [Prokint/infinite-canvas-dsh](https://github.com/Prokint/infinite-canvas-dsh) — WhaleDraw：无限画布 AI 创作工作台，支持 DeepSeek Harness（DSH）插件。 · ⭐4
-- [Prokint/WhaleDraw](https://github.com/Prokint/WhaleDraw) — WhaleDraw：无限画布 AI 创作工作台，支持 DeepSeek Harness（DSH）插件。 · ⭐4
 - [shrekcg/dsh-im-channel](https://github.com/shrekcg/dsh-im-channel) 💤 — 将 DeepSeek Harness 接入飞书等即时通讯平台，提供持久会话、流式卡片与 40 个飞书 MCP 工具。 · ⭐4
 - [sky-unicorn/dsh-enhanced-plugins](https://github.com/sky-unicorn/dsh-enhanced-plugins) — DeepSeek Harness（DSH）一站式增强套件，基于公开插件扩展点构建，无需修改 DSH Core。提供 Windows Launcher、桌面通知与动态桌宠、Plugin Community、MCP Server Manager、模型输入类型配置、最后一条消息编辑与重 · ⭐4
 - [umbrella22/xuanling](https://github.com/umbrella22/xuanling) — (no description) · ⭐4
@@ -57,6 +55,8 @@
 - [Kaixxrua/dsh-aigc-radar](https://github.com/Kaixxrua/dsh-aigc-radar) — (no description) · ⭐3
 - [mastergo-design/dsh-canvas](https://github.com/mastergo-design/dsh-canvas) 💤 — MasterGo Canvas MCP plugin for DeepSeek Harness · ⭐3
 - [OtterMind/sqlx](https://github.com/OtterMind/sqlx) — A Rust database CLI for agents with encrypted datasources and on-demand native/JDBC workers · ⭐3
+- [Prokint/infinite-canvas-dsh](https://github.com/Prokint/infinite-canvas-dsh) — WhaleDraw：无限画布 AI 创作工作台，支持 DeepSeek Harness（DSH）插件。 · ⭐3
+- [Prokint/WhaleDraw](https://github.com/Prokint/WhaleDraw) — WhaleDraw：无限画布 AI 创作工作台，支持 DeepSeek Harness（DSH）插件。 · ⭐3
 - [sheilacraig/dsh-rea-mcp](https://github.com/sheilacraig/dsh-rea-mcp) — Config-only DeepSeek Harness bundle that mounts the in-box MCP client bridge against morluto/rea — reverse engineer anything with agents; no · ⭐3
 - [Storm-Starlight/dsh-mcp-skills-board](https://github.com/Storm-Starlight/dsh-mcp-skills-board) — DeepSeek Harness 的 MCP 服务器与技能管理面板。 · ⭐3
 - [SunQingyuan0/Kabutack](https://github.com/SunQingyuan0/Kabutack) 💤 — Kabutack 是一个面向 DSH 的插件，用于在一个界面里统一管理插件、Skill 和 MCP，并支持按“角色”一键动态装载、切换与恢复能力组合。 · ⭐3
@@ -121,7 +121,7 @@
 - [Jav1es/dsh-bridge](https://github.com/Jav1es/dsh-bridge) — 让腾讯 Marvis 调用本机 DeepSeek Harness：Skill + MCP 两种接入方式，Marvis 自主决定何时把任务交给 DSH · ⭐0
 - [jiayan-xu/dsh-nuphus-mcp](https://github.com/jiayan-xu/dsh-nuphus-mcp) 💤 — (no description) · ⭐0
 - [KB1SLN-Labs/dsh-linear](https://github.com/KB1SLN-Labs/dsh-linear) — Linear tools and hosted MCP bridge for DeepSeek Harness · ⭐0
-- [liaoyuqing/dsh_workspace_switch](https://github.com/liaoyuqing/dsh_workspace_switch) — deepseek-harness多工作区隔离管理，统一管控 Skill / MCP / 插件启停，全局配置兜底，工作区可单独开关 · ⭐0
+- [liaoyuqing/dsh_workspace_switch](https://github.com/liaoyuqing/dsh_workspace_switch) 💤 — deepseek-harness多工作区隔离管理，统一管控 Skill / MCP / 插件启停，全局配置兜底，工作区可单独开关 · ⭐0
 - [littlefallenstar/dsh-bili-scroll](https://github.com/littlefallenstar/dsh-bili-scroll) — DSH 插件：每天替你刷一轮 B 站 —— 读字幕原文判断、每条写结论、把这一轮的总结发邮件/写 Obsidian、推荐的进稍后再看。 · ⭐0
 - [LUMIAO9527/DSH-suggestions](https://github.com/LUMIAO9527/DSH-suggestions) — DSH 输入框后续建议与草稿优化插件，包含配套 MCP 服务 · ⭐0
 - [MikotoMyWife/dsh-mcp-loader](https://github.com/MikotoMyWife/dsh-mcp-loader) — Lazy-loading MCP tools for DeepSeek Harness (DSH): one loader tool per multi-tool MCP server, per-agent tool masking, description presets · ⭐0

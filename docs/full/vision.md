@@ -2,10 +2,10 @@
 
 > live data · full category export · [back to atlas](../../README.md)
 
-- [liustack/modlens](https://github.com/liustack/modlens) — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON ev · ⭐5091
-- [tong-io/tongflow](https://github.com/tong-io/tongflow) — Agent-Human-Friendly, Modality-First, Enterprise-Level GenAI Workflow Platform · ⭐1049
-- [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) — :zap:The ultimate image uploading engine. Both CLI & API supports. · ⭐997
-- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。 · ⭐190
+- [liustack/modlens](https://github.com/liustack/modlens) — The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON ev · ⭐5099
+- [tong-io/tongflow](https://github.com/tong-io/tongflow) — Agent-Human-Friendly, Modality-First, Enterprise-Level GenAI Workflow Platform · ⭐1047
+- [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) — :zap:The ultimate image uploading engine. Both CLI & API supports. · ⭐996
+- [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master) — dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。 · ⭐191
 - [THU-MAIC/dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) 💤 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching · ⭐137
 - [q253595422/dsh-imagegen-video](https://github.com/q253595422/dsh-imagegen-video) — DeepSeek Harness plugin: image + video generation studio with an infinite canvas. Fork of dickpy/dsh-imagegen with a complete video pipeline · ⭐124
 - [oil-oil/dsh-vision](https://github.com/oil-oil/dsh-vision) 💤 — Near-native image understanding for DeepSeek Harness · ⭐91
@@ -27,9 +27,9 @@
 - [FuzzySoul/dsh-free-vision](https://github.com/FuzzySoul/dsh-free-vision) 💤 — 为DSH（DeepSeek Harness）量身打造的视觉插件，现已支持agent调用图片显示/Vision plugin for DSH(DeepSeek Harness),support Proactive Image Display. · ⭐8
 - [wangyang10/image-vision](https://github.com/wangyang10/image-vision) 💤 — (no description) · ⭐8
 - [balcoz/dsh-ocr-local](https://github.com/balcoz/dsh-ocr-local) — DeepSeek Harness 本地 OCR 插件：粘贴图片，PP-OCRv5 + ONNX Runtime 识别文字，完全离线 | Local OCR plugin for DeepSeek Harness — paste an image, get its text via · ⭐6
+- [chenkezhen480/dsh-multimodal](https://github.com/chenkezhen480/dsh-multimodal) 💤 — 添加deepseek harness生图识图能力插件 · ⭐6
 - [grelvan/dsh-ocr-local](https://github.com/grelvan/dsh-ocr-local) — DeepSeek Harness 本地 OCR 插件：粘贴图片，PP-OCRv5 + ONNX Runtime 识别文字，完全离线 | Local OCR plugin for DeepSeek Harness — paste an image, get its text via · ⭐6
 - [3403473060/dsh-inline-images](https://github.com/3403473060/dsh-inline-images) 💤 — (no description) · ⭐5
-- [chenkezhen480/dsh-multimodal](https://github.com/chenkezhen480/dsh-multimodal) 💤 — 添加deepseek harness生图识图能力插件 · ⭐5
 - [DDDFXYqiming/Agent_Extensions](https://github.com/DDDFXYqiming/Agent_Extensions) — 跨框架 Agent Skills 合集：视频笔记生成、本地识图、Windows 桌面/浏览器自动化，外加 Hermes 语言路由插件。DSH 插件已拆分为独立仓库。 · ⭐5
 - [BYYY-eng/deepseek-harness-file-upload-ocr-plugin](https://github.com/BYYY-eng/deepseek-harness-file-upload-ocr-plugin) 💤 — DeepSeek Harness 文件上传与本地 OCR 插件 | File upload and local OCR plugin for PDF, Word, Excel, PowerPoint, images, and text files. · ⭐4
 - [niyongsheng/free-vision-skill](https://github.com/niyongsheng/free-vision-skill) 💤 — Local‑only vision skill for macOS 本地化识图技能dsh-plugin · ⭐4
@@ -98,7 +98,7 @@
 - [5101good/amoji](https://github.com/5101good/amoji) — AI 原生表情 · AI-native expressions for dsh: images for people, fixed text semantics for AI. · ⭐0
 - [ajia1206/dsh-restart](https://github.com/ajia1206/dsh-restart) — One-call restart for the running DSH process, with launchd-aware supervision detection, a detached-supervisor fallback, and a verifiable res · ⭐0
 - [Akashyc/dsh-moss-image](https://github.com/Akashyc/dsh-moss-image) — (no description) · ⭐0
-- [alaxrpg/dsh-vision-bridge](https://github.com/alaxrpg/dsh-vision-bridge) — DSH 插件：为纯文本模型提供视觉能力，支持任意 OpenAI 兼容多模态 API · ⭐0
+- [alaxrpg/dsh-vision-bridge](https://github.com/alaxrpg/dsh-vision-bridge) 💤 — DSH 插件：为纯文本模型提供视觉能力，支持任意 OpenAI 兼容多模态 API · ⭐0
 - [ankhishtar2-lang/dsh-wallpaper-position](https://github.com/ankhishtar2-lang/dsh-wallpaper-position) 💤 — dsh-dream-skin satellite: per-image wallpaper position (X/Y px) settings row. Vibe-coded. · ⭐0
 - [ankhishtar2-lang/dsh-whale-tools](https://github.com/ankhishtar2-lang/dsh-whale-tools) 💤 — dsh-whale-widget satellite: replace the whale mascot with any image (auto cutout) + restart button + heartbeat. Vibe-coded. · ⭐0
 - [ArimaKana-Akane/dsh-wallpaper-position](https://github.com/ArimaKana-Akane/dsh-wallpaper-position) 💤 — dsh-dream-skin satellite: per-image wallpaper position (X/Y px) settings row. Vibe-coded. · ⭐0

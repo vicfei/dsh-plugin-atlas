@@ -2959,6 +2959,7 @@ LittleBlackTong/dsh-plugin-cron
 LittleBlackTong/dsh-plugin-heartbeat
 LittleBlackTong/dsh-plugin-memory
 LittleBlackTong/dsh-plugin-superpowers
+LittleChenLiya/dsh-superagent
 Liu-Bot24/dsh-trace-insight
 Liu-Bot24/dsh-tunnel-client
 Liu-ZA-81/dsh-theme-firefly
@@ -5021,6 +5022,7 @@ Wangxiaolu0716/ctf-solve-teach
 Wanyi424/dsh-markdown-notes
 Wanyi424/dsh-performance
 Wanyi424/dsh-quick-translate
+Wasabi2575/dsh-workflow-canvas
 Water-Run/deepseek-harness-uncensored
 WaterFountain-Jack/dsh-study-note
 WaveSpeedAI/wavespeed-dsh-skill
@@ -7166,6 +7168,8 @@ du-u-uck/DSH-Transparent-UI-Plugin
 du-yuxuan/OneKey-Models
 duanyunlun/dsh-conversation-link
 duanyunlun/dsh-session-actions
+duduk233/dsh-plugin-miliastra-toolbox
+duduk233/miliastra-beyond-simulator
 dugujun3-cloud/dshos-dock
 duhu2000/dsh-data-cleaning-agent
 duhu2000/dsh-form-fill-agent
@@ -7670,6 +7674,7 @@ gityuanbao/DSH-Plugins
 gjj-star/dsh-conversation-navigator
 gloryxpnv/dsh-tool-vision
 gluztm/DSHGuard
+gluztm/dsh-chief
 gmen1057/dsh-arckep
 gniquil123/dsh-zcode-memory
 gnk478/dsh-client-ui-wallpaper
@@ -8774,6 +8779,7 @@ kiligzzz/dsh-agent-dispatch
 kiligzzz/dsh-session-archive
 kiligzzz/dsh-session-nav
 kiligzzz/dsh-ui-appearance
+killher1/dsh-claude-preset
 kilo-s/dsh-rank-scan
 kim1232aa/dsh-mxpage
 kimiya1010/dsh-plugin-market
@@ -9325,6 +9331,7 @@ liyixuan201211/dsh-rewind
 liyown/dshx
 liyu34/dsh-wsl-tray
 liyupi/dsh-kun-like-pet
+liyupi/memecub
 liyuxuan20111101/dsh-ui-stronger
 liyy996/dsh-theme-windowsxp
 lizhiyao/oh-my-knowledge
@@ -9616,6 +9623,7 @@ lzx-Bill/dsh-plugins
 lzxcs/lag-trace-pro
 lzy-like/dsh-acps-adapter
 lzyyzznl/dsh-prompt-tuner
+lzzzz666888/dsh-purge-optimized
 m-rui001/dsh-mate-companion
 m1452700576/dsh-app-updater
 m1khal3v/dsh-llm-key-rotation
@@ -12152,6 +12160,7 @@ weisofns/dsh-print3d
 weisofns/dsh-security-guard
 weiw0923/dsh-composer-balance
 weiweisudo/juzi-remote-shell
+weiwenhao/dudu
 weixshaw/dsh-plugin-task-runner
 weixshaw/dsh-rss
 welsione/dsh-mmx-bridge

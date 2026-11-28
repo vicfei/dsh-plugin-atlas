@@ -1,7 +1,9 @@
-# Models & Providers — 1827 entries (part 3/3)
+# Models & Providers — 1829 entries (part 3/3)
 
 > live data · full category export · [back to atlas](../../README.md)
 
+- [Yur0918/dsh-sidepanel](https://github.com/Yur0918/dsh-sidepanel) — DSH right side panel: session artifacts view + side chat with model picker (auto-loads with the web profile) · ⭐0
+- [yusufameri/dsh-t3-session-ui](https://github.com/yusufameri/dsh-t3-session-ui) 💤 — T3 Code's session-context UX for DeepSeek Harness: a session-row context block, provider chip, status pill, header context strip, and a cont · ⭐0
 - [zampie/request-frame-preview](https://github.com/zampie/request-frame-preview) 💤 — Preview and download the exact request frame (system prompt + tools_list + wire messages) that DeepSeek Harness sends to the model · ⭐0
 - [Z-Asset/ZA_analysis](https://github.com/Z-Asset/ZA_analysis) 💤 — ZA Research analysis stage — end-to-end model training and estimation for asset pricing + ML/DL research. · ⭐0
 - [zc0982/dsh-gpt-provider](https://github.com/zc0982/dsh-gpt-provider) 💤 — GPT provider preset with full reasoning effort selection for DeepSeek Harness · ⭐0

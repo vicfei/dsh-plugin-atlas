@@ -2768,6 +2768,7 @@ LJH-snow/dsh-tool-pagerduty
 LJH-snow/dsh-tool-redis
 LJH-snow/dsh-tool-sql
 LJH-snow/dsh-tool-zendesk
+LJL454/dsh-computer-use
 LJXDSG12/dsh-liuyao
 LJY4-bilibili/dsh-message-reminder
 LJninse/dsh-open-in-ide
@@ -5865,6 +5866,7 @@ andyfan1094/dsh-github
 andyfan1094/dsh-minimax-usage-pro
 andyfan1094/dsh-winrm
 ang-XWBWZ/Pwiki
+angel291592/dsh-submodel
 angelky7/dsh-browser-control
 angelky7/dsh-origin-bridge
 anht3889/dsh-mcp-management
@@ -10888,6 +10890,7 @@ rocker2018-droid/dsh-longtask-orchestrator
 roclee2692/dsh-model-groups
 rogerdigital/dsh-searxng
 rogerdigital/dsh-vet
+rohitg00/agentmemory
 romany-saad/dsh-plugins
 rongxingda/dsh-prompt-enhance
 rongyishuaige7/dsh-stats

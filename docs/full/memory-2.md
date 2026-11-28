@@ -1,4 +1,4 @@
-# Memory & Knowledge — 957 entries (part 2/2)
+# Memory & Knowledge — 958 entries (part 2/2)
 
 > live data · full category export · [back to atlas](../../README.md)
 
@@ -22,6 +22,7 @@
 - [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) — Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run steering, and citatio · ⭐0
 - [wycto/dsh-evolution](https://github.com/wycto/dsh-evolution) — Local-first self-evolution plugin for DSH: records your coding-agent sessions to a local ledger, reviews them across sessions with the model · ⭐0
 - [WYR-233/dsh-memory-lite](https://github.com/WYR-233/dsh-memory-lite) — Read-only enhancer for a file-based (markdown + git) long-term memory library in DeepSeek Harness: built-in zero-dependency search, one-clic · ⭐0
+- [x2it/dsh-memory-panel](https://github.com/x2it/dsh-memory-panel) — DeepSeek Harness 长期记忆面板：memory_save/recall/list 记忆工具 + 可视化记忆侧边栏 · Long-term memory for DeepSeek Harness with a sidebar panel · ⭐0
 - [xccpddym/dsh-bubble-nav](https://github.com/xccpddym/dsh-bubble-nav) 💤 — Bubble navigation for DSH (DeepSeek Harness): a draggable accelerator ball listing all of your questions (numbered + timed), plus a full con · ⭐0
 - [XEsx630/dsh-personal-settings](https://github.com/XEsx630/dsh-personal-settings) — One settings page for DeepSeek Harness: global instructions (~/.dsh/AGENTS.md) and long-term memory. · ⭐0
 - [XEsx630/dsh-screenshot](https://github.com/XEsx630/dsh-screenshot) — WeChat-style screenshot for the DeepSeek Harness composer: capture the screen (optionally hiding the DSH window), drag-select a region, and  · ⭐0
